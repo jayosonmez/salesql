@@ -24,6 +24,11 @@ jobs:
       - name: Write Gmail token
         run: echo '${{ secrets.GMAIL_TOKEN }}' > gmail_token.json
 
+      - name: Renew Gmail watch
+        run: python gmail_watch.py
+        env:
+          GMAIL_TOKEN_FILE: gmail_token.json
+
       - name: Process Gmail replies
         run: python process_replies.py --poll
         env:

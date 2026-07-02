@@ -4,12 +4,13 @@ Run once to activate — Gmail will push notifications to our Pub/Sub topic.
 Watch expires after 7 days; re-run weekly or add to cron.
 """
 
+import os
 import json
 from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 
-TOKEN_FILE  = "gmail_token.json"
+TOKEN_FILE  = os.environ.get("GMAIL_TOKEN_FILE", "gmail_token.json")
 PUBSUB_TOPIC = "projects/fundraising-425606/topics/gmail-replies"
 
 creds = Credentials.from_authorized_user_file(TOKEN_FILE)
