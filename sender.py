@@ -41,6 +41,9 @@ TEST_TO  = _to_arg
 # --advance  skips wait_days for test enrollments so follow-ups send immediately
 ADVANCE  = "--advance" in sys.argv
 
+# --reset  clears enrollment and sends for test emails so step 1 can be re-sent
+RESET    = "--reset" in sys.argv
+
 # Throttle: 0.5s between sends = ~2 emails/sec = 1,000 emails in ~8 min.
 # Set to 0 in dry-run so tests run fast.
 SEND_DELAY_SECS = 0.0 if DRY_RUN else 0.5
@@ -355,6 +358,13 @@ def record_send(conn, campaign_id, enrollment, step,
 
 def run_test(conn, ses, campaigns, test_emails):
     cur = conn.cursor()
+
+    # --reset: clear sends and enrollments for test emails so step 1 can be re-sent
+    if RESET:
+        cur.execute("DELETE FROM sends WHERE email = ANY(%s)", (test_emails,))
+        cur.execute("DELETE FROM campaign_enrollments WHERE email = ANY(%s)", (test_emails,))
+        conn.commit()
+        print(f"  [RESET] Cleared sends and enrollments for {test_emails}")
 
     for campaign in campaigns:
         cid        = campaign["id"]
