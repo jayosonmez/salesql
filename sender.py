@@ -28,7 +28,7 @@ from email.mime.text import MIMEText
 
 DATABASE_URL       = os.environ.get("DATABASE_URL") or open(".env").read().split("DATABASE_URL=")[1].strip()
 AWS_REGION         = os.environ.get("AWS_REGION", "us-east-2")
-UNSUBSCRIBE_BASE   = os.environ.get("UNSUBSCRIBE_BASE", "http://localhost:5000")
+UNSUBSCRIBE_BASE   = "https://metsulin-unsub.vercel.app"  # update after Vercel deploy
 UNSUBSCRIBE_SECRET = os.environ.get("UNSUBSCRIBE_SECRET", "metsulin-unsub-secret-2026")
 TEST_MODE    = "--test" in sys.argv
 DRY_RUN      = "--send" not in sys.argv and not TEST_MODE

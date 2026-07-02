@@ -449,32 +449,6 @@ def enroll(campaign_id):
 #  Unsubscribe                                                                  #
 # --------------------------------------------------------------------------- #
 
-UNSUBSCRIBE_SECRET = os.environ.get("UNSUBSCRIBE_SECRET", "metsulin-unsub-secret-2026")
-
-@app.route("/unsubscribe", methods=["GET", "POST"])
-def unsubscribe():
-    import hmac, hashlib
-    email = request.args.get("email", "").strip().lower()
-    token = request.args.get("token", "")
-    expected = hmac.new(UNSUBSCRIBE_SECRET.encode(), email.encode(), hashlib.sha256).hexdigest()
-    if not email or not hmac.compare_digest(token, expected):
-        return "Invalid unsubscribe link.", 400
-
-    conn = get_conn()
-    cur  = conn.cursor()
-    cur.execute("""
-        INSERT INTO ses_suppression (email, reason, suppressed_at, source)
-        VALUES (%s, 'UNSUBSCRIBE', NOW(), 'unsubscribe-link')
-        ON CONFLICT (email) DO UPDATE SET reason='UNSUBSCRIBE', suppressed_at=NOW(), source='unsubscribe-link'
-    """, (email,))
-    conn.commit()
-    conn.close()
-    return f"""
-    <html><body style="font-family:sans-serif;max-width:480px;margin:80px auto;text-align:center;">
-      <h2>You've been unsubscribed</h2>
-      <p>{email} has been removed from our mailing list.<br>You will not receive any further emails from us.</p>
-    </body></html>
-    """
 
 
 # --------------------------------------------------------------------------- #

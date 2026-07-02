@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/unsubscribe.py": {
+      "runtime": "python3.12"
+    }
+  },
+  "routes": [
+    { "src": "/unsubscribe", "dest": "/api/unsubscribe" }
+  ]
+}
