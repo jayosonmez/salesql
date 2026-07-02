@@ -19,7 +19,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install psycopg2-binary boto3
+        run: pip install psycopg2-binary boto3 google-auth google-auth-oauthlib google-api-python-client
 
       - name: Write Gmail token
         run: echo '${{ secrets.GMAIL_TOKEN }}' > gmail_token.json
