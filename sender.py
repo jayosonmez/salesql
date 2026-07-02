@@ -271,33 +271,35 @@ def build_quoted_block(prev_raw_email, from_addr, sent_at):
 
 def build_mime(to_email, subject, body_html, from_addr,
                reply_to=None, in_reply_to=None, references=None):
-    """Build a MIME message with a self-generated Message-ID for threading."""
-    mime_id = f"<{uuid.uuid4()}@metsulin.com>"
+    """Build a MIME message. SES will assign the final Message-ID on delivery."""
     msg = MIMEMultipart("alternative")
-    msg["Message-ID"] = mime_id
-    msg["Subject"]    = subject
-    msg["From"]       = from_addr
-    msg["To"]         = to_email
+    msg["Subject"] = subject
+    msg["From"]    = from_addr
+    msg["To"]      = to_email
     if reply_to:
         msg["Reply-To"]    = reply_to
     if in_reply_to:
         msg["In-Reply-To"] = in_reply_to
         msg["References"]  = references or in_reply_to
     msg.attach(MIMEText(body_html, "html"))
-    return msg, mime_id
+    return msg
 
 
 def send_via_ses(ses_client, to_email, subject, body_html, from_addr,
                  reply_to=None, in_reply_to=None, references=None):
-    msg, mime_id = build_mime(to_email, subject, body_html, from_addr,
-                               reply_to, in_reply_to, references)
+    msg = build_mime(to_email, subject, body_html, from_addr,
+                     reply_to, in_reply_to, references)
     resp = ses_client.send_raw_email(
         Source=from_addr,
         Destinations=[to_email],
         RawMessage={"Data": msg.as_string()},
         ConfigurationSetName="metsulin-sending",
     )
-    return resp["MessageId"], msg.as_string(), mime_id
+    ses_id = resp["MessageId"]
+    # SES overwrites any Message-ID we set. Reconstruct the actual delivered ID
+    # so follow-ups can reference it in In-Reply-To.
+    mime_id = f"<{ses_id}@us-east-2.amazonses.com>"
+    return ses_id, msg.as_string(), mime_id
 
 
 # --------------------------------------------------------------------------- #
@@ -435,6 +437,13 @@ def run_test(conn, ses, campaigns, test_emails):
             if existing:
                 print(f"  [TEST] {email} already enrolled — use --advance to trigger follow-up")
                 continue
+
+            # Ensure email exists in emails table (FK requirement)
+            cur.execute("""
+                INSERT INTO emails (email, quality)
+                VALUES (%s, 'good')
+                ON CONFLICT (email) DO NOTHING
+            """, (email,))
 
             # Enroll and send step 1
             cur.execute("""
@@ -605,12 +614,10 @@ def run():
                     print(f"    ERROR: {ex}")
                     continue
             else:
-                _, mime_id = build_mime(
-                    enrollment["email"], thread_subject, body, from_addr,
-                    reply_to, in_reply_to, in_reply_to,
-                )
+                dry_id  = f"dry-run-{uuid.uuid4()}"
+                mime_id = f"<{dry_id}@us-east-2.amazonses.com>"
                 record_send(conn, cid, enrollment, step,
-                            "dry-run-ses-id", "", mime_id)
+                            dry_id, "", mime_id)
 
             cam_followups    += 1
             cam_sent         += 1
@@ -650,11 +657,10 @@ def run():
                             print(f"    ERROR: {ex}")
                             continue
                     else:
-                        _, mime_id = build_mime(
-                            enrollment["email"], subject, body, from_addr, reply_to,
-                        )
+                        dry_id  = f"dry-run-{uuid.uuid4()}"
+                        mime_id = f"<{dry_id}@us-east-2.amazonses.com>"
                         record_send(conn, cid, enrollment, step,
-                                    "dry-run-ses-id", "", mime_id)
+                                    dry_id, "", mime_id)
 
                     cam_new          += 1
                     budget           -= 1
