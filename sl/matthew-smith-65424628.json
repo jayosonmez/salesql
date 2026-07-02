@@ -1,0 +1,28 @@
+{
+  "uuid": "db08aa13-7cbe-4f0e-9e9d-aa748a240d56",
+  "first_name": "Matthew",
+  "last_name": "Smith",
+  "full_name": "Matthew Smith",
+  "linkedin_url": "https://linkedin.com/in/matthew-smith-65424628",
+  "emails": [
+    {
+      "email": "matthew.smith@novartis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "drsmith7655@nc.rr.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-785-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Novartis"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "fc42514a-d8a2-4e4e-a193-6f35b8851d58",
+  "first_name": "MD George",
+  "last_name": "Weiss",
+  "full_name": "MD George Weiss",
+  "linkedin_url": "https://linkedin.com/in/md-george-weiss-29b87231",
+  "emails": [
+    {
+      "email": "gweiss@cenegenics.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 702-240-4200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cenegenics Medical Institute (USA)"
+}

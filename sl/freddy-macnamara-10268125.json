@@ -1,0 +1,21 @@
+{
+  "uuid": "22b9d59f-0de3-461d-a3bd-ea3ca6cf35bd",
+  "first_name": "Freddy",
+  "last_name": "Macnamara",
+  "full_name": "Freddy Macnamara",
+  "linkedin_url": "https://linkedin.com/in/freddy-macnamara-10268125",
+  "emails": [
+    {
+      "email": "fred@macnamara.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "freddy.macnamara@cuvva.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Cuvva"
+}

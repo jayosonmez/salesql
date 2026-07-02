@@ -1,0 +1,23 @@
+{
+  "uuid": "a3efff9a-479b-4385-b431-f4f9292d637b",
+  "first_name": "Kathrine",
+  "last_name": "McAulay",
+  "full_name": "Kathrine McAulay",
+  "linkedin_url": "https://linkedin.com/in/kathrine-mcaulay",
+  "emails": [
+    {
+      "email": "kathrine.mcaulay@pennmedicine.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-789-7366",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Penn Medicine, University of Pennsylvania Health System"
+}

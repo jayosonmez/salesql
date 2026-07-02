@@ -1,0 +1,16 @@
+{
+  "uuid": "a1781a50-d858-43ba-b293-a4cad7310b4f",
+  "first_name": "Kai",
+  "last_name": "Backman",
+  "full_name": "Kai Backman",
+  "linkedin_url": "https://linkedin.com/in/kai-backman",
+  "emails": [
+    {
+      "email": "kai@tinkercad.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Manifold Tech"
+}

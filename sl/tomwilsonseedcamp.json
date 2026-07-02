@@ -1,0 +1,21 @@
+{
+  "uuid": "64756be4-13f8-4415-95e6-36cea8486883",
+  "first_name": "Tom",
+  "last_name": "Wilson",
+  "full_name": "Tom Wilson",
+  "linkedin_url": "https://linkedin.com/in/tomwilsonseedcamp",
+  "emails": [
+    {
+      "email": "tom@seedcamp.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tom@ox.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Seedcamp"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c513013a-402d-440b-a695-21f6816b321d",
+  "first_name": "Takashi",
+  "last_name": "K.",
+  "full_name": "Takashi K.",
+  "linkedin_url": "https://linkedin.com/in/takashi-k-2719268",
+  "emails": [
+    {
+      "email": "king@withe.ne.jp",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "takashi@shinshu-u.ac.jp",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+81 263-37-2737",
+      "type": "Work",
+      "country_code": "JP",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Shinshu University"
+}

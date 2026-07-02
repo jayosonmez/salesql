@@ -1,0 +1,39 @@
+{
+  "uuid": "94aa61f1-d8b6-41f0-8768-ad0fc98e7fa1",
+  "first_name": "Marthin",
+  "last_name": "De Beer",
+  "full_name": "Marthin De Beer",
+  "linkedin_url": "https://linkedin.com/in/marthindebeer",
+  "emails": [
+    {
+      "email": "mdebeer@brightplan.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "m.de@plancorp.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mdebeer@cisco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-656-5171",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 408-933-6188",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BrightPlan"
+}

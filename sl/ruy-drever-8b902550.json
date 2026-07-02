@@ -1,0 +1,16 @@
+{
+  "uuid": "7c6c4d98-9df4-41e7-b713-9acd465c4f3e",
+  "first_name": "Ruy",
+  "last_name": "Drever",
+  "full_name": "Ruy Drever",
+  "linkedin_url": "https://linkedin.com/in/ruy-drever-8b902550",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+55 11 3759-0182",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

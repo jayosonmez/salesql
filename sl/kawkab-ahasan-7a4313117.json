@@ -1,0 +1,23 @@
+{
+  "uuid": "4a83ef03-2e91-40a2-bcf4-e37d27b6eff3",
+  "first_name": "Kawkab",
+  "last_name": "Ahasan",
+  "full_name": "Kawkab Ahasan",
+  "linkedin_url": "https://linkedin.com/in/kawkab-ahasan-7a4313117",
+  "emails": [
+    {
+      "email": "kawkab.ahasan@intel.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-765-8080",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Intel"
+}

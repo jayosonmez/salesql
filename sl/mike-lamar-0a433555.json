@@ -1,0 +1,23 @@
+{
+  "uuid": "a7a123d1-20b2-4cc2-8497-0c50705dbde2",
+  "first_name": "mike",
+  "last_name": "lamar",
+  "full_name": "mike lamar",
+  "linkedin_url": "https://linkedin.com/in/mike-lamar-0a433555",
+  "emails": [
+    {
+      "email": "mike.lamar@tananachiefs.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 907-452-8251",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tanana Chiefs Conference"
+}

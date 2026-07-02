@@ -1,0 +1,16 @@
+{
+  "uuid": "b6170e19-007e-4f7e-95c5-486f607f0e2b",
+  "first_name": "Raul",
+  "last_name": "Nicho",
+  "full_name": "Raul Nicho",
+  "linkedin_url": "https://linkedin.com/in/raul-nicho-54a48",
+  "emails": [
+    {
+      "email": "rcnicho@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hatchnetworks.com"
+}

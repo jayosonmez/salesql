@@ -1,0 +1,23 @@
+{
+  "uuid": "87dd8241-6a4e-4b2d-a685-a2cde5de94a8",
+  "first_name": "George",
+  "last_name": "Weiss",
+  "full_name": "George Weiss",
+  "linkedin_url": "https://linkedin.com/in/george-weiss",
+  "emails": [
+    {
+      "email": "gweiss@cenegenics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 866-901-3793",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cenegenics"
+}

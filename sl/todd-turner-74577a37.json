@@ -1,0 +1,23 @@
+{
+  "uuid": "b930b0d5-36c2-4ecf-bc1a-3ead9257060b",
+  "first_name": "Todd",
+  "last_name": "Turner",
+  "full_name": "Todd Turner",
+  "linkedin_url": "https://linkedin.com/in/todd-turner-74577a37",
+  "emails": [
+    {
+      "email": "tturner@bch.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-415-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Boulder Community Health"
+}

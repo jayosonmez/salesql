@@ -1,0 +1,17 @@
+{
+  "uuid": "13536856-f621-42f4-8fe3-9ad5a884954f",
+  "first_name": "Carolyn",
+  "last_name": "Wong",
+  "full_name": "Carolyn Wong",
+  "linkedin_url": "https://linkedin.com/in/carolyn-wong-276b4b89",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 305-774-0454",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Meta"
+}

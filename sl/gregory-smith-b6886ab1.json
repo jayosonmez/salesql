@@ -1,0 +1,17 @@
+{
+  "uuid": "a0070372-7f79-4246-9bfe-9f362dcaba9f",
+  "first_name": "Gregory",
+  "last_name": "Smith",
+  "full_name": "Gregory Smith",
+  "linkedin_url": "https://linkedin.com/in/gregory-smith-b6886ab1",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 317-887-3344",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Southpointe Pediatrics"
+}

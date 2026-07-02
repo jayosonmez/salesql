@@ -1,0 +1,33 @@
+{
+  "uuid": "188046f0-77c3-493c-9a59-f905259c1505",
+  "first_name": "Evan",
+  "last_name": "Hendrick",
+  "full_name": "Evan Hendrick",
+  "linkedin_url": "https://linkedin.com/in/evan-hendrick-34858a67",
+  "emails": [
+    {
+      "email": "evan@emergingallocatorsassociation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "evan@aaf.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "evan@arabangel.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 703-347-5925",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AAF Management Ltd."
+}

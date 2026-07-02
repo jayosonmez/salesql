@@ -1,0 +1,21 @@
+{
+  "uuid": "24b89ebf-8da6-4c23-a04a-288e9af96e2d",
+  "first_name": "Betty-Ann",
+  "last_name": "Svendsen MD",
+  "full_name": "Betty-Ann Svendsen MD",
+  "linkedin_url": "https://linkedin.com/in/betty-ann-svendsen-md-00545a120",
+  "emails": [
+    {
+      "email": "svendsen@bswhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "betty-ann@thelifecoachschool.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Svendsen Life Coaching"
+}

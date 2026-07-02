@@ -1,0 +1,59 @@
+{
+  "uuid": "a7f82a2a-2e51-498a-9e1e-7adb67012d4e",
+  "first_name": "Anshul Vikram",
+  "last_name": "Pandey, Ph.D.",
+  "full_name": "Anshul Vikram Pandey, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/anshulvikrampandey",
+  "emails": [
+    {
+      "email": "anshul@startupleadership.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "apandey@forbes.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anshul.vpandey@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anshul.bits@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anshul@panscience.xyz",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ansh.thebond@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anshul@accern.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 929-231-6784",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+91 95653 88000",
+      "type": "Work",
+      "country_code": "IN",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PanScience Innovations (PSI)"
+}

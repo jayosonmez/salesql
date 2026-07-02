@@ -1,0 +1,23 @@
+{
+  "uuid": "5c3f68e0-4423-4e62-b53c-894d45c32c45",
+  "first_name": "Katerina",
+  "last_name": "Rostova, PhD MBA ( )",
+  "full_name": "Katerina Rostova, PhD MBA ( )",
+  "linkedin_url": "https://linkedin.com/in/katerinarostova",
+  "emails": [
+    {
+      "email": "katerina.rostova@excellgene.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+41 24 471 96 60",
+      "type": "Work",
+      "country_code": "CH",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ExcellGene SA"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "ab3c3b8f-5e12-4231-b07c-9db504840747",
+  "first_name": "Patti",
+  "last_name": "Su",
+  "full_name": "Patti Su",
+  "linkedin_url": "https://linkedin.com/in/patti-su-6930bb163",
+  "emails": [
+    {
+      "email": "psu@angelcapitalassociation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 913-894-4700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Angel Capital Association"
+}

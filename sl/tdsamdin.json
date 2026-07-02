@@ -1,0 +1,17 @@
+{
+  "uuid": "b3f665ed-3294-414a-9de2-a866c74d171a",
+  "first_name": "Tuan",
+  "last_name": "Samdin",
+  "full_name": "Tuan Samdin",
+  "linkedin_url": "https://linkedin.com/in/tdsamdin",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 800-422-6237",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "National Cancer Institute (NCI)"
+}

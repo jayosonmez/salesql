@@ -1,0 +1,23 @@
+{
+  "uuid": "68198c12-d27f-4663-9a8f-d978648f79d4",
+  "first_name": "Gordon",
+  "last_name": "Haugan",
+  "full_name": "Gordon Haugan",
+  "linkedin_url": "https://linkedin.com/in/gordon-haugan-6246346a",
+  "emails": [
+    {
+      "email": "gordonh@prevea.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 920-496-4700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Prevea Health"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "e1535564-9522-4818-ba93-7ee2af40072d",
+  "first_name": "Hamed",
+  "last_name": "Zaribafzadeh",
+  "full_name": "Hamed Zaribafzadeh",
+  "linkedin_url": "https://linkedin.com/in/hzaribaf",
+  "emails": [
+    {
+      "email": "hamed.zaribafzadeh@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-381-7292",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 919-684-2813",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Duke University"
+}

@@ -1,0 +1,49 @@
+{
+  "uuid": "b138c0f9-a8d6-43b5-8977-2b180762566f",
+  "first_name": "Haywood Hall MD, FIFEM , FAAEM, FACEP, CHCQM",
+  "last_name": "Founder PACEMD Global Health, MedSpanish",
+  "full_name": "Haywood Hall MD, FIFEM , FAAEM, FACEP, CHCQM Founder PACEMD Global Health, MedSpanish",
+  "linkedin_url": "https://linkedin.com/in/haywoodhall",
+  "emails": [
+    {
+      "email": "haywood.hall@pace-medspanish.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "haywood.hall@centro-pace.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hfounder@acep.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hfounder@unc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hfounder@ashoka.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 505-239-0143",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+52 473 733 5191",
+      "type": "Work",
+      "country_code": "MX",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PACE.MD Global Health"
+}

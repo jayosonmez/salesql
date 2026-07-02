@@ -1,0 +1,59 @@
+{
+  "uuid": "0fa924a3-119f-4917-9a2a-af08ce39d62e",
+  "first_name": "Vic",
+  "last_name": "Koch",
+  "full_name": "Vic Koch",
+  "linkedin_url": "https://linkedin.com/in/vic-koch-b156168b",
+  "emails": [
+    {
+      "email": "vickoch@filevine.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vic@anysphere.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vkoch@kalshi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vkoch@ramp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "v.k@megvii.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vk@stickeroid.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ivictorkoch@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 424-248-9822",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 801-657-5228",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Filevine"
+}

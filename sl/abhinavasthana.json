@@ -1,0 +1,49 @@
+{
+  "uuid": "6ee34758-d200-4117-81f0-f77e02065a24",
+  "first_name": "Abhinav",
+  "last_name": "Asthana",
+  "full_name": "Abhinav Asthana",
+  "linkedin_url": "https://linkedin.com/in/abhinavasthana",
+  "emails": [
+    {
+      "email": "abhinav@postman.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "abhinav.asthana@getpostman.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rickyast@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "abhinav@getpostman.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "abhinav@bits360.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+91 77606 50203",
+      "type": "Personal",
+      "country_code": "IN",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 415-796-6470",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Postman"
+}

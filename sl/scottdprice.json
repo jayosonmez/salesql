@@ -1,0 +1,21 @@
+{
+  "uuid": "ff62c1c3-6f50-4c6d-b9e5-75f73004c684",
+  "first_name": "Scott",
+  "last_name": "Price",
+  "full_name": "Scott Price",
+  "linkedin_url": "https://linkedin.com/in/scottdprice",
+  "emails": [
+    {
+      "email": "scottdprice@earthlink.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "scott@springboard.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Springboard India"
+}

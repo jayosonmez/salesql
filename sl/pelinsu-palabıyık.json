@@ -1,0 +1,17 @@
+{
+  "uuid": "ac2036f1-89e7-46c9-8b2b-54e370ddbca4",
+  "first_name": "Pelinsu",
+  "last_name": "P.",
+  "full_name": "Pelinsu P.",
+  "linkedin_url": "https://linkedin.com/in/pelinsu-palabıyık",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+90 4443330",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BilgeAdam Teknoloji"
+}

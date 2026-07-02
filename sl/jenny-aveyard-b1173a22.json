@@ -1,0 +1,27 @@
+{
+  "uuid": "cee8edc6-a73b-40d3-8902-0ace292d3013",
+  "first_name": "Jenny",
+  "last_name": "Aveyard",
+  "full_name": "Jenny Aveyard",
+  "linkedin_url": "https://linkedin.com/in/jenny-aveyard-b1173a22",
+  "emails": [
+    {
+      "email": "jenny.aveyard@liverpool.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zippy78@liv.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 151 794 2000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Liverpool"
+}

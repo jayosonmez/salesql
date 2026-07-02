@@ -1,0 +1,22 @@
+{
+  "uuid": "bbc464cc-e72f-4270-9154-909b81e412cc",
+  "first_name": "Natalia",
+  "last_name": "Lindholm",
+  "full_name": "Natalia Lindholm",
+  "linkedin_url": "https://linkedin.com/in/natalia-lindholm-01b591157",
+  "emails": [
+    {
+      "email": "natalia.lindholm@bayer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+66 2 232 7000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bayer"
+}

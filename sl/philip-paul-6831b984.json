@@ -1,0 +1,28 @@
+{
+  "uuid": "d8b9f3ce-79f6-45f1-a691-4e8f2b311a7c",
+  "first_name": "Philip",
+  "last_name": "Paul",
+  "full_name": "Philip Paul",
+  "linkedin_url": "https://linkedin.com/in/philip-paul-6831b984",
+  "emails": [
+    {
+      "email": "ppaul@ttcp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ppaul@paulcap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-835-7500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Top Tier Capital Partners"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "0a04d9f7-66ed-43bb-a4e8-c360457d523d",
+  "first_name": "Mike",
+  "last_name": "Rowan",
+  "full_name": "Mike Rowan",
+  "linkedin_url": "https://linkedin.com/in/itsmikerowan",
+  "emails": [
+    {
+      "email": "mike@ratepoint.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mike@hivehatch.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mike@parambil.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mike.rowan@sendgrid.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mike@mikerowan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mike@mikerowan.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Rowan Perspective"
+}

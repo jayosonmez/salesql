@@ -1,0 +1,33 @@
+{
+  "uuid": "740e3da8-396a-4b09-bdcb-b29d17f8ca60",
+  "first_name": "Hans",
+  "last_name": "Miller",
+  "full_name": "Hans Miller",
+  "linkedin_url": "https://linkedin.com/in/hans-miller-2b6984b",
+  "emails": [
+    {
+      "email": "hmiller@hmicp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hans.miller@marktwainhouse.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hmiller@goldenseeds.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 860-247-0998",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Mark Twain House & Museum"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "2a990400-533e-43f3-a276-830068363de5",
+  "first_name": "Javier",
+  "last_name": "Fernandez Juarez",
+  "full_name": "Javier Fernandez Juarez",
+  "linkedin_url": "https://linkedin.com/in/javier-fernandez-juarez-727a52157",
+  "emails": [
+    {
+      "email": "fernandezj@stjohns.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 718-990-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "St. John's University"
+}

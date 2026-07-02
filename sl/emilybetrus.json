@@ -1,0 +1,17 @@
+{
+  "uuid": "5704473f-2f95-42c1-aa30-e829576b79f7",
+  "first_name": "Emily",
+  "last_name": "Betrus",
+  "full_name": "Emily Betrus",
+  "linkedin_url": "https://linkedin.com/in/emilybetrus",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 608-271-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Epic"
+}

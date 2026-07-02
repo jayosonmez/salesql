@@ -1,0 +1,28 @@
+{
+  "uuid": "b6c23ded-d7c4-4c2d-8cc5-ad757e67b1a9",
+  "first_name": "Pranav",
+  "last_name": "Singamsetty",
+  "full_name": "Pranav Singamsetty",
+  "linkedin_url": "https://linkedin.com/in/pranav-singamsetty-12817a229",
+  "emails": [
+    {
+      "email": "psingamsetty@ucla.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "singamsettyp@ornl.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 865-576-7658",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Oak Ridge National Laboratory"
+}

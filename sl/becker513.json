@@ -1,0 +1,48 @@
+{
+  "uuid": "51bc355b-dfb7-49d9-8590-4b6053467232",
+  "first_name": "Dan",
+  "last_name": "Becker",
+  "full_name": "Dan Becker",
+  "linkedin_url": "https://linkedin.com/in/becker513",
+  "emails": [
+    {
+      "email": "beckerdg@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dan.becker@mightyfund.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@sisudata.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@angel.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@array.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@designerfund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-829-4815",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Google"
+}

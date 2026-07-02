@@ -1,0 +1,23 @@
+{
+  "uuid": "fee0e056-eb10-4e2d-b7d8-9b582a085f05",
+  "first_name": "Edward",
+  "last_name": "Simon",
+  "full_name": "Edward Simon",
+  "linkedin_url": "https://linkedin.com/in/edward-simon-70244656",
+  "emails": [
+    {
+      "email": "edward.simon@healthcarepartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-354-4200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Health Care Partners Med Grp"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "6e2e7461-d04a-42fc-86d8-976d0bf3515b",
+  "first_name": "Naveed",
+  "last_name": "Siddiqi",
+  "full_name": "Naveed Siddiqi",
+  "linkedin_url": "https://linkedin.com/in/naveedsiddiqi",
+  "emails": [
+    {
+      "email": "naveed.siddiqi@uk.nomura.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "siddiqi.naveed@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "nsiddiqi@f2g.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "s-n@novoholdings.dk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "naveed.siddiqi@windwardbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "naveed.siddiqi@alentis.ch",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Windward Bio"
+}

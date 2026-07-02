@@ -1,0 +1,16 @@
+{
+  "uuid": "d89ffbe1-3cf2-4c64-a2c1-7caf38a8c0f9",
+  "first_name": "Patrick",
+  "last_name": "Bender, MD, MSHS, FCCM",
+  "full_name": "Patrick Bender, MD, MSHS, FCCM",
+  "linkedin_url": "https://linkedin.com/in/patrick-bender-md-mshs-fccm-718a2278",
+  "emails": [
+    {
+      "email": "patrick@uvmhealth.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "UVM Health - UVM Medical Center"
+}

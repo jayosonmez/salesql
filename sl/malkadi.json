@@ -1,0 +1,16 @@
+{
+  "uuid": "2a3d7dcb-29d9-4302-85c0-26383092de30",
+  "first_name": "Moe",
+  "last_name": "AlKadi",
+  "full_name": "Moe AlKadi",
+  "linkedin_url": "https://linkedin.com/in/malkadi",
+  "emails": [
+    {
+      "email": "moe@sibly.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sibly by Quarvis Health"
+}

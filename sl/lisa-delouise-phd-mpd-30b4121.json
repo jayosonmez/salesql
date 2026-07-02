@@ -1,0 +1,28 @@
+{
+  "uuid": "b86d96af-546b-4c9b-9dfc-1265059c2ea5",
+  "first_name": "Lisa",
+  "last_name": "DeLouise, PhD MPD",
+  "full_name": "Lisa DeLouise, PhD MPD",
+  "linkedin_url": "https://linkedin.com/in/lisa-delouise-phd-mpd-30b4121",
+  "emails": [
+    {
+      "email": "lisa.delouise@rochester.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lisa_delouise@urmc.rochester.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 585-455-0696",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Nidus MB Technologies"
+}

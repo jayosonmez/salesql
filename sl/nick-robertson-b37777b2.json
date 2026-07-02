@@ -1,0 +1,27 @@
+{
+  "uuid": "b243b7d3-70a2-4ac7-b8db-3776af5c0e2e",
+  "first_name": "Nick",
+  "last_name": "Robertson",
+  "full_name": "Nick Robertson",
+  "linkedin_url": "https://linkedin.com/in/nick-robertson-b37777b2",
+  "emails": [
+    {
+      "email": "n.robertson@asos.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nick.robertson@afcwimbledon.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 8547 3528",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AFC Wimbledon"
+}

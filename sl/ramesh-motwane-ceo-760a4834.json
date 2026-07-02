@@ -1,0 +1,23 @@
+{
+  "uuid": "91ae02d4-58c5-4561-88b6-2d767e22af27",
+  "first_name": "Ramesh",
+  "last_name": "Motwane, CEO",
+  "full_name": "Ramesh Motwane, CEO",
+  "linkedin_url": "https://linkedin.com/in/ramesh-motwane-ceo-760a4834",
+  "emails": [
+    {
+      "email": "motwaner@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 508-951-9800",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Motwane Foundation & Eastern Contractors"
+}

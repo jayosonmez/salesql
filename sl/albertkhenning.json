@@ -1,0 +1,21 @@
+{
+  "uuid": "f5f21016-f4a6-46d9-b74f-b6d502de3c82",
+  "first_name": "Albert",
+  "last_name": "Henning",
+  "full_name": "Albert Henning",
+  "linkedin_url": "https://linkedin.com/in/albertkhenning",
+  "emails": [
+    {
+      "email": "al.henning@alum.dartmouth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "henning@aquarianmicro.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Aquarian Microsystems"
+}

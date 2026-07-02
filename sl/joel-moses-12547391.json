@@ -1,0 +1,23 @@
+{
+  "uuid": "68f9dc2b-800d-4df6-beb6-3fbf45523639",
+  "first_name": "Joel",
+  "last_name": "Moses",
+  "full_name": "Joel Moses",
+  "linkedin_url": "https://linkedin.com/in/joel-moses-12547391",
+  "emails": [
+    {
+      "email": "joel.moses@sjhsyr.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 315-703-2200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "St. Joseph's Health"
+}

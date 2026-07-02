@@ -1,0 +1,16 @@
+{
+  "uuid": "3c4cb064-aea6-465d-820e-8534e7932cdf",
+  "first_name": "Benjamin",
+  "last_name": "Larsen",
+  "full_name": "Benjamin Larsen",
+  "linkedin_url": "https://linkedin.com/in/benjamin-larsen-12aa90146",
+  "emails": [
+    {
+      "email": "blarsen@signifyhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Larsen Medical Acupuncture LLC"
+}

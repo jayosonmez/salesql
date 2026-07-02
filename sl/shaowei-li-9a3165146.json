@@ -1,0 +1,23 @@
+{
+  "uuid": "0d8d6c5f-5adf-435a-b36e-fe5b20a518bd",
+  "first_name": "Shaowei",
+  "last_name": "Li",
+  "full_name": "Shaowei Li",
+  "linkedin_url": "https://linkedin.com/in/shaowei-li-9a3165146",
+  "emails": [
+    {
+      "email": "shaoweili@apstemtx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-573-0910",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "APstem Therapeutics"
+}

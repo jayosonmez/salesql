@@ -1,0 +1,23 @@
+{
+  "uuid": "53000673-5859-45d1-ae0c-dd8c6f031929",
+  "first_name": "zainab",
+  "last_name": "Aldarraji",
+  "full_name": "zainab Aldarraji",
+  "linkedin_url": "https://linkedin.com/in/zainab-aldarraji-409257146",
+  "emails": [
+    {
+      "email": "zainab.aldarraji@uspto.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 866-217-9197",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "USPTO"
+}

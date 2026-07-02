@@ -1,0 +1,31 @@
+{
+  "uuid": "249da9d0-fa63-4133-a6d5-daa8163de757",
+  "first_name": "Patrick",
+  "last_name": "O'Shaughnessy",
+  "full_name": "Patrick O'Shaughnessy",
+  "linkedin_url": "https://linkedin.com/in/patrick-o-shaughnessy-6721176",
+  "emails": [
+    {
+      "email": "patrick.oshaughnessy@osam.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "patrick@joincolossus.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "patricko@positivesumvc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "patrick@joincolossus.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Positive Sum"
+}

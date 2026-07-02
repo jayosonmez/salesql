@@ -1,0 +1,23 @@
+{
+  "uuid": "d5980820-af7e-4881-9408-e9ca11c94e45",
+  "first_name": "Alireza",
+  "last_name": "Bahadorkhan",
+  "full_name": "Alireza Bahadorkhan",
+  "linkedin_url": "https://linkedin.com/in/alireza-bahadorkhan-656230100",
+  "emails": [
+    {
+      "email": "alireza.bahadorkhan@ttuhsc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 806-743-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Texas Tech University Health Sciences Center"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "bfae4938-c2dc-4130-97c4-30ea01b995a1",
+  "first_name": "Daniel",
+  "last_name": "Wlodarczyk",
+  "full_name": "Daniel Wlodarczyk",
+  "linkedin_url": "https://linkedin.com/in/daniel-wlodarczyk-711a0a141",
+  "emails": [
+    {
+      "email": "wlodarczyk@neb.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 978-380-7464",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "New England Biolabs"
+}

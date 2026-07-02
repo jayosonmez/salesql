@@ -1,0 +1,21 @@
+{
+  "uuid": "1dce4db1-0718-4a50-a0e8-6e7a8d22914d",
+  "first_name": "Jonathan",
+  "last_name": "Lewis, MD, PhD",
+  "full_name": "Jonathan Lewis, MD, PhD",
+  "linkedin_url": "https://linkedin.com/in/jonathan-lewis-md-phd-485660111",
+  "emails": [
+    {
+      "email": "jlewis@syncromune.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@Dugri.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dugri, Inc."
+}

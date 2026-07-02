@@ -1,0 +1,23 @@
+{
+  "uuid": "b5219a57-644f-4902-9752-9dd3f1510ca6",
+  "first_name": "Sarah-Jane",
+  "last_name": "Richards",
+  "full_name": "Sarah-Jane Richards",
+  "linkedin_url": "https://linkedin.com/in/sarah-jane-richards-2051658b",
+  "emails": [
+    {
+      "email": "s.richards@warwick.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 24 7652 3523",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Warwick"
+}

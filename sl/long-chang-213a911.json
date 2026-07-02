@@ -1,0 +1,28 @@
+{
+  "uuid": "e53c1261-2c35-4158-a475-368751e46aaf",
+  "first_name": "Long",
+  "last_name": "Chang",
+  "full_name": "Long Chang",
+  "linkedin_url": "https://linkedin.com/in/long-chang-213a911",
+  "emails": [
+    {
+      "email": "reinchang@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "lchang@uh.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 713-743-4200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FemtoMag Inc"
+}

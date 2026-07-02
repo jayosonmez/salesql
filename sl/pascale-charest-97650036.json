@@ -1,0 +1,28 @@
+{
+  "uuid": "7b1fe817-6e70-4e09-bf89-796782c0b986",
+  "first_name": "Pascale",
+  "last_name": "Charest",
+  "full_name": "Pascale Charest",
+  "linkedin_url": "https://linkedin.com/in/pascale-charest-97650036",
+  "emails": [
+    {
+      "email": "pcharest@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pcharest@arizona.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 520-621-2211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Arizona"
+}

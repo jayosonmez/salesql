@@ -1,0 +1,23 @@
+{
+  "uuid": "d647d2c1-a437-4c18-b65b-9f42b459f542",
+  "first_name": "Ethan",
+  "last_name": "Davoudzadeh",
+  "full_name": "Ethan Davoudzadeh",
+  "linkedin_url": "https://linkedin.com/in/ethan-davoudzadeh-48a82b197",
+  "emails": [
+    {
+      "email": "davoudzadehe@mskcc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-672-1780",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Memorial Sloan Kettering Cancer Center"
+}

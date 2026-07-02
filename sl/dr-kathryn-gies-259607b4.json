@@ -1,0 +1,17 @@
+{
+  "uuid": "42a90e5f-590d-4770-83e0-a91ba6c08246",
+  "first_name": "Dr Kathryn",
+  "last_name": "Gies",
+  "full_name": "Dr Kathryn Gies",
+  "linkedin_url": "https://linkedin.com/in/dr-kathryn-gies-259607b4",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 312-585-8233",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Avant Wellness"
+}

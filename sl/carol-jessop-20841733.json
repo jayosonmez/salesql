@@ -1,0 +1,16 @@
+{
+  "uuid": "8ccd84fb-fba3-4efd-95df-9c7dda902232",
+  "first_name": "Carol",
+  "last_name": "Jessop",
+  "full_name": "Carol Jessop",
+  "linkedin_url": "https://linkedin.com/in/carol-jessop-20841733",
+  "emails": [
+    {
+      "email": "bogeymama@mindspring.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

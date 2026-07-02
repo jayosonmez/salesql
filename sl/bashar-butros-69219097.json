@@ -1,0 +1,23 @@
+{
+  "uuid": "51fc7545-9b4c-4621-b134-535df95cbe2f",
+  "first_name": "Bashar",
+  "last_name": "Butros",
+  "full_name": "Bashar Butros",
+  "linkedin_url": "https://linkedin.com/in/bashar-butros-69219097",
+  "emails": [
+    {
+      "email": "basharb@prismsurvey.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 619-283-3137",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PRISM GeoSystems."
+}

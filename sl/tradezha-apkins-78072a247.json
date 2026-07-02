@@ -1,0 +1,23 @@
+{
+  "uuid": "f5f3cf30-c75c-4fbe-a8db-6b1731117961",
+  "first_name": "Tradezha",
+  "last_name": "Apkins",
+  "full_name": "Tradezha Apkins",
+  "linkedin_url": "https://linkedin.com/in/tradezha-apkins-78072a247",
+  "emails": [
+    {
+      "email": "tradezha@interfaithdentalclinic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 615-329-4790",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Interfaith Dental"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "38de6372-947c-435c-905b-d626894d3e62",
+  "first_name": "Ellen",
+  "last_name": "Smith, MD FACEP",
+  "full_name": "Ellen Smith, MD FACEP",
+  "linkedin_url": "https://linkedin.com/in/ellen-smith-md-facep-45b1231b",
+  "emails": [
+    {
+      "email": "esmith@usf.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wildmedmd@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 941-359-4726",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of South Florida Sarasota-Manatee"
+}

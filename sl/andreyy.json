@@ -1,0 +1,21 @@
+{
+  "uuid": "033ca057-93b6-4f5f-ae37-835e4a998e76",
+  "first_name": "Andrey",
+  "last_name": "Yruski",
+  "full_name": "Andrey Yruski",
+  "linkedin_url": "https://linkedin.com/in/andreyy",
+  "emails": [
+    {
+      "email": "andrey@alchemistaccelerator.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andreyy@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Under The Radar Ventures"
+}

@@ -1,0 +1,48 @@
+{
+  "uuid": "c61db532-1e79-4387-808f-12f029b4e157",
+  "first_name": "Zachary",
+  "last_name": "Ginsburg",
+  "full_name": "Zachary Ginsburg",
+  "linkedin_url": "https://linkedin.com/in/zachary-ginsburg-74a03423",
+  "emails": [
+    {
+      "email": "zginsbur@usc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zginsburg1@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "zachary@calmvc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zachary@headline.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zachary@beehiiv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zachary@timelyai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "9933905117",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Stealth"
+}

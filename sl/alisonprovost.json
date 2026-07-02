@@ -1,0 +1,36 @@
+{
+  "uuid": "583025bb-14db-4d3e-b5d4-084d46cc0ff7",
+  "first_name": "Alison",
+  "last_name": "Provost",
+  "full_name": "Alison Provost",
+  "linkedin_url": "https://linkedin.com/in/alisonprovost",
+  "emails": [
+    {
+      "email": "aprovost@diginaryholdings.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aprovost@touchstorm.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aprovost@howdini.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aprovost@videoamigo.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aprovost@powerpact.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Diginary Holdings"
+}

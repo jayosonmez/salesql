@@ -1,0 +1,23 @@
+{
+  "uuid": "d8fef1dc-ac38-4be0-a349-5668bf49a29b",
+  "first_name": "Ken",
+  "last_name": "Hollis, MD, FACS",
+  "full_name": "Ken Hollis, MD, FACS",
+  "linkedin_url": "https://linkedin.com/in/ken-hollis-3016978b",
+  "emails": [
+    {
+      "email": "drhollis@baychoice.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 832-385-5548",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Various Healthcare Facilities, Universities, and Government Entities"
+}

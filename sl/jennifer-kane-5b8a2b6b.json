@@ -1,0 +1,22 @@
+{
+  "uuid": "2a31ce9d-53f7-45fb-b39a-25f248aacb76",
+  "first_name": "Jennifer",
+  "last_name": "Kane",
+  "full_name": "Jennifer Kane",
+  "linkedin_url": "https://linkedin.com/in/jennifer-kane-5b8a2b6b",
+  "emails": [
+    {
+      "email": "jennifer.kane@gsk.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 8047 5000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GSK"
+}

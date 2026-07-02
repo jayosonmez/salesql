@@ -1,0 +1,21 @@
+{
+  "uuid": "38a1ebef-8f95-460d-96af-8d948086b51b",
+  "first_name": "Biao",
+  "last_name": "Boey",
+  "full_name": "Biao Boey",
+  "linkedin_url": "https://linkedin.com/in/yanbiaoboey",
+  "emails": [
+    {
+      "email": "biao@freebiao.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "biao@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hustle Fund"
+}

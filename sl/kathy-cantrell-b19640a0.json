@@ -1,0 +1,28 @@
+{
+  "uuid": "a769de2b-dd59-4265-8274-9bed6cc07a4d",
+  "first_name": "Kathy",
+  "last_name": "Cantrell",
+  "full_name": "Kathy Cantrell",
+  "linkedin_url": "https://linkedin.com/in/kathy-cantrell-b19640a0",
+  "emails": [
+    {
+      "email": "kcantrell@intopsys.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cantrell_kathy@intopsys.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 424-263-6300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Intelligent Optical Systems, Inc."
+}

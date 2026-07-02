@@ -1,0 +1,23 @@
+{
+  "uuid": "d2a1d64b-73eb-4630-b664-e22c488aa466",
+  "first_name": "Mine",
+  "last_name": "Y.",
+  "full_name": "Mine Y.",
+  "linkedin_url": "https://linkedin.com/in/mine-y-15093a163",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+90 539 811 20 69",
+      "type": "Personal",
+      "country_code": "TR",
+      "is_valid": true
+    },
+    {
+      "phone": "+90 216 524 29 00",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Yıldız Holding"
+}

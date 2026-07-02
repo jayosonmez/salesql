@@ -1,0 +1,33 @@
+{
+  "uuid": "20d4a4a3-4c66-4d49-b0c1-53f308f961d9",
+  "first_name": "Janet",
+  "last_name": "Williams, MD",
+  "full_name": "Janet Williams, MD",
+  "linkedin_url": "https://linkedin.com/in/janet-williams-md",
+  "emails": [
+    {
+      "email": "info@goodgroove.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "janet@intimatewellnessshop.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "janet@goodgroove.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 323-695-5405",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Good Groove Co."
+}

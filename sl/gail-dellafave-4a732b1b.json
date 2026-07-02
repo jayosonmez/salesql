@@ -1,0 +1,23 @@
+{
+  "uuid": "18a18bf0-d2e4-4284-8cab-46a06335979f",
+  "first_name": "Gail",
+  "last_name": "DellaFave",
+  "full_name": "Gail DellaFave",
+  "linkedin_url": "https://linkedin.com/in/gail-dellafave-4a732b1b",
+  "emails": [
+    {
+      "email": "gailigirl@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 201-927-0456",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Tranquil Journey"
+}

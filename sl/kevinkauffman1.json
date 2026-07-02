@@ -1,0 +1,17 @@
+{
+  "uuid": "b4855d95-424c-4039-a056-80b19e08797a",
+  "first_name": "Kevin",
+  "last_name": "Kauffman",
+  "full_name": "Kevin Kauffman",
+  "linkedin_url": "https://linkedin.com/in/kevinkauffman1",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 800-473-3789",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Johnson & Johnson MedTech"
+}

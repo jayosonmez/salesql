@@ -1,0 +1,21 @@
+{
+  "uuid": "b06f4ccf-030b-43e6-805e-f4cc2e37082b",
+  "first_name": "Victor G.",
+  "last_name": "Freeman",
+  "full_name": "Victor G. Freeman",
+  "linkedin_url": "https://linkedin.com/in/victorgfreeman",
+  "emails": [
+    {
+      "email": "5diamond@earthlink.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "victor.freeman@redcross.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Maverick Commercial Investments, LLC"
+}

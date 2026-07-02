@@ -1,0 +1,23 @@
+{
+  "uuid": "7a383959-3f02-4905-ab6c-2f60193aab8c",
+  "first_name": "Daniel",
+  "last_name": "Estandian",
+  "full_name": "Daniel Estandian",
+  "linkedin_url": "https://linkedin.com/in/daniel-estandian-31492651",
+  "emails": [
+    {
+      "email": "daniel@mit.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 574-252-5662",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth Startup"
+}

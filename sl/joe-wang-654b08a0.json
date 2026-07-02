@@ -1,0 +1,23 @@
+{
+  "uuid": "b148de5a-989c-4ca3-a228-e09ef88279ec",
+  "first_name": "Joe",
+  "last_name": "Wang",
+  "full_name": "Joe Wang",
+  "linkedin_url": "https://linkedin.com/in/joe-wang-654b08a0",
+  "emails": [
+    {
+      "email": "josephwang@ucsd.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-246-0128",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UCSD"
+}

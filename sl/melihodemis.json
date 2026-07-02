@@ -1,0 +1,21 @@
+{
+  "uuid": "7a82a882-257d-4867-9a73-b5973b92c5be",
+  "first_name": "Melih",
+  "last_name": "Odemis",
+  "full_name": "Melih Odemis",
+  "linkedin_url": "https://linkedin.com/in/melihodemis",
+  "emails": [
+    {
+      "email": "melihodemis@yemeksepeti.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "melih@galatabusinessangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Galata Business Angels Official"
+}

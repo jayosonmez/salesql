@@ -1,0 +1,28 @@
+{
+  "uuid": "9c3dc567-c320-4e88-bf3e-a4dbbefde654",
+  "first_name": "Wolfgang",
+  "last_name": "Strasser",
+  "full_name": "Wolfgang Strasser",
+  "linkedin_url": "https://linkedin.com/in/wolfgangstrasser",
+  "emails": [
+    {
+      "email": "acc18@y89.eu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ws@y89.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-741-5099",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "WAEX"
+}

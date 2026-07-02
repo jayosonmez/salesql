@@ -1,0 +1,23 @@
+{
+  "uuid": "84caa160-9daf-4cd0-8782-812501284b04",
+  "first_name": "Patrick",
+  "last_name": "Dillon",
+  "full_name": "Patrick Dillon",
+  "linkedin_url": "https://linkedin.com/in/drpatrickdillon",
+  "emails": [
+    {
+      "email": "pdillon@pdbiotech.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 760-213-9570",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PD Biotech LLC"
+}

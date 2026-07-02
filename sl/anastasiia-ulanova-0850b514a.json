@@ -1,0 +1,21 @@
+{
+  "uuid": "1e4f5cbb-043c-4f3b-9549-270f5e0acb22",
+  "first_name": "Anastasiia",
+  "last_name": "Ulanova",
+  "full_name": "Anastasiia Ulanova",
+  "linkedin_url": "https://linkedin.com/in/anastasiia-ulanova-0850b514a",
+  "emails": [
+    {
+      "email": "anastasiia_ulanova@epam.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "a.ulanova@yadro.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "YADRO"
+}

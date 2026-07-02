@@ -1,0 +1,23 @@
+{
+  "uuid": "19a34aee-c633-4705-8d5e-925e7345b315",
+  "first_name": "Robert",
+  "last_name": "Krasnick, MD",
+  "full_name": "Robert Krasnick, MD",
+  "linkedin_url": "https://linkedin.com/in/robert-krasnick-md-35422436",
+  "emails": [
+    {
+      "email": "bkras@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 734-585-5653",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Krasnick Regenerative Medicine"
+}

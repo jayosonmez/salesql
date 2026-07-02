@@ -1,0 +1,23 @@
+{
+  "uuid": "f3e8acfd-284a-4041-8ae1-eb0194977b3a",
+  "first_name": "Itzhak",
+  "last_name": "Rachlewski",
+  "full_name": "Itzhak Rachlewski",
+  "linkedin_url": "https://linkedin.com/in/itzhak-rachlewski-b6164416",
+  "emails": [
+    {
+      "email": "itzikr@yaelsoft.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+972 9-763-9333",
+      "type": "Work",
+      "country_code": "IL",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Yael Group"
+}

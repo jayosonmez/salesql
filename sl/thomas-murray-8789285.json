@@ -1,0 +1,28 @@
+{
+  "uuid": "0d526d4f-1a24-4f99-815c-6726a6592f49",
+  "first_name": "Thomas",
+  "last_name": "Murray",
+  "full_name": "Thomas Murray",
+  "linkedin_url": "https://linkedin.com/in/thomas-murray-8789285",
+  "emails": [
+    {
+      "email": "tm@icl-group.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tjmurr@swbell.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+972 3-684-4400",
+      "type": "Work",
+      "country_code": "IL",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ICL Group"
+}

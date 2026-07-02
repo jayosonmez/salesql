@@ -1,0 +1,38 @@
+{
+  "uuid": "3339233a-aac7-48c8-b537-55d4ef6aff02",
+  "first_name": "Arka Prava",
+  "last_name": "D.",
+  "full_name": "Arka Prava D.",
+  "linkedin_url": "https://linkedin.com/in/arkapdhar",
+  "emails": [
+    {
+      "email": "arkadhar@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "arka.dhar@lift12.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "arka@zinier.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "arka@openai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-446-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "McKinsey & Company"
+}

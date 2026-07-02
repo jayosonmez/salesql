@@ -1,0 +1,38 @@
+{
+  "uuid": "9d5558af-8127-437d-baee-5957abb71a23",
+  "first_name": "G. Scott",
+  "last_name": "Gazelle",
+  "full_name": "G. Scott Gazelle",
+  "linkedin_url": "https://linkedin.com/in/g-scott-gazelle-2596a95",
+  "emails": [
+    {
+      "email": "ggazelle@greybirdventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "g_gazelle@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "g.gazelle@massgeneral.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "scott@mgh-ita.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-242-1100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts General Hospital"
+}

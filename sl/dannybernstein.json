@@ -1,0 +1,41 @@
+{
+  "uuid": "d82e0afb-e994-46dd-80c6-1179f1e203f1",
+  "first_name": "Danny",
+  "last_name": "Bernstein",
+  "full_name": "Danny Bernstein",
+  "linkedin_url": "https://linkedin.com/in/dannybernstein",
+  "emails": [
+    {
+      "email": "danny.bernstein@agrifulsoftware.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "danny.bernstein@terrablaster.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "danny.bernstein@bonsairobotics.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "danny@hawktower.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "danny@thersvr.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dbern48@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "RESERVOIR"
+}

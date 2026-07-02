@@ -1,0 +1,41 @@
+{
+  "uuid": "034bbccf-d812-4226-bd38-1f48a0acab75",
+  "first_name": "Kyrill",
+  "last_name": "Z.",
+  "full_name": "Kyrill Z.",
+  "linkedin_url": "https://linkedin.com/in/kirillzl",
+  "emails": [
+    {
+      "email": "cyrille.zlobenko@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kyrill@meetolaf.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kyrill.z@masterschool.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kyrill@onfy.de",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kyrill@uatalents.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kirillzl@rambler.ru",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Onfy"
+}

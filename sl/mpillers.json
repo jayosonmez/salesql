@@ -1,0 +1,23 @@
+{
+  "uuid": "25b314c6-d001-43c3-8d65-1096fce672a3",
+  "first_name": "Michelle A.",
+  "last_name": "Pillers, PhD",
+  "full_name": "Michelle A. Pillers, PhD",
+  "linkedin_url": "https://linkedin.com/in/mpillers",
+  "emails": [
+    {
+      "email": "michelle.pillers@slu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 314-977-2222",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Saint Louis University"
+}

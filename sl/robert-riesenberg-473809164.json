@@ -1,0 +1,17 @@
+{
+  "uuid": "ff487df0-95f1-46e4-b73b-7c998e5041ea",
+  "first_name": "Robert",
+  "last_name": "Riesenberg",
+  "full_name": "Robert Riesenberg",
+  "linkedin_url": "https://linkedin.com/in/robert-riesenberg-473809164",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 866-236-3935",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CenExel"
+}

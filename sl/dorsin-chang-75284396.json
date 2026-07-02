@@ -1,0 +1,28 @@
+{
+  "uuid": "b433fa8b-2bd0-4587-b940-cfe2689938bb",
+  "first_name": "Dorsin",
+  "last_name": "Chang",
+  "full_name": "Dorsin Chang",
+  "linkedin_url": "https://linkedin.com/in/dorsin-chang-75284396",
+  "emails": [
+    {
+      "email": "chang@osu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dorsin@igem.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 614-292-6446",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Ohio State University"
+}

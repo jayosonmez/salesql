@@ -1,0 +1,23 @@
+{
+  "uuid": "f466d0b6-4f09-41b6-8bd1-add297899ef0",
+  "first_name": "Nathan",
+  "last_name": "Wittenberg",
+  "full_name": "Nathan Wittenberg",
+  "linkedin_url": "https://linkedin.com/in/nathan-wittenberg-bbb552a0",
+  "emails": [
+    {
+      "email": "nathan.wittenberg@lehigh.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 610-758-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lehigh University"
+}

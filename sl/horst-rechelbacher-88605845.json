@@ -1,0 +1,21 @@
+{
+  "uuid": "740f4ea3-8b93-43b0-84e0-b4a626434728",
+  "first_name": "Horst",
+  "last_name": "Rechelbacher",
+  "full_name": "Horst Rechelbacher",
+  "linkedin_url": "https://linkedin.com/in/horst-rechelbacher-88605845",
+  "emails": [
+    {
+      "email": "horst-rechelbacher@intelligentnutrients.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hrechelbacher@aveda.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Intelligent Nutrients"
+}

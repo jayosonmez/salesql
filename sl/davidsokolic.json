@@ -1,0 +1,58 @@
+{
+  "uuid": "212c9d50-bb31-4d16-9dac-20bc08bb8b5a",
+  "first_name": "David",
+  "last_name": "Sokolic",
+  "full_name": "David Sokolic",
+  "linkedin_url": "https://linkedin.com/in/davidsokolic",
+  "emails": [
+    {
+      "email": "dsokolic@battery.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.sokolic@ourcrowd.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dsokolic@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "david.sokolic@brain.space",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@monogoto.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@toyota.ventures",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@artificial.agency",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@capow.energy",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-275-1538",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Toyota Ventures"
+}

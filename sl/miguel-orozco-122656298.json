@@ -1,0 +1,23 @@
+{
+  "uuid": "72036211-ce05-464d-9b8c-dd3744142a08",
+  "first_name": "Miguel",
+  "last_name": "Orozco",
+  "full_name": "Miguel Orozco",
+  "linkedin_url": "https://linkedin.com/in/miguel-orozco-122656298",
+  "emails": [
+    {
+      "email": "morozco@ucsb.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 805-893-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC Santa Barbara"
+}

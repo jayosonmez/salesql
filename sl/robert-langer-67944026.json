@@ -1,0 +1,16 @@
+{
+  "uuid": "b9d47295-503d-4b77-881d-4a5aec054583",
+  "first_name": "Robert",
+  "last_name": "Langer",
+  "full_name": "Robert Langer",
+  "linkedin_url": "https://linkedin.com/in/robert-langer-67944026",
+  "emails": [
+    {
+      "email": "rdlanger@jhcpm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Jackson Hole Center for Preventive Medicine"
+}

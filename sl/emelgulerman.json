@@ -1,0 +1,27 @@
+{
+  "uuid": "af0f381a-8494-4b77-959a-99b7ef9b7fc7",
+  "first_name": "Emel",
+  "last_name": "Gulerman",
+  "full_name": "Emel Gulerman",
+  "linkedin_url": "https://linkedin.com/in/emelgulerman",
+  "emails": [
+    {
+      "email": "emel.gulerman@kenexa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "v-emelg@microsoft.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+30 21 1120 6000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Microsoft"
+}

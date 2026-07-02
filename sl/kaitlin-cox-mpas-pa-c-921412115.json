@@ -1,0 +1,17 @@
+{
+  "uuid": "d2b85d43-7514-4bf1-9b47-13c3ea43de0e",
+  "first_name": "Kaitlin",
+  "last_name": "Cox, MPAS, PA-C",
+  "full_name": "Kaitlin Cox, MPAS, PA-C",
+  "linkedin_url": "https://linkedin.com/in/kaitlin-cox-mpas-pa-c-921412115",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 978-784-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Nashoba Valley Medical Center"
+}

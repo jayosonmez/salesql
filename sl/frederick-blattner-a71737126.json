@@ -1,0 +1,38 @@
+{
+  "uuid": "e303273a-49c5-4075-be75-e6dc5202eafb",
+  "first_name": "Frederick",
+  "last_name": "Blattner",
+  "full_name": "Frederick Blattner",
+  "linkedin_url": "https://linkedin.com/in/frederick-blattner-a71737126",
+  "emails": [
+    {
+      "email": "frederick@dnastar.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fblattner@wisc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fblattner@scarabgenomics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fblattner@nimblegen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-513-7075",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Scarab Genomics"
+}

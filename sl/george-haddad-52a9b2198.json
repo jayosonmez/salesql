@@ -1,0 +1,16 @@
+{
+  "uuid": "3af36205-ccfe-46a2-9fc5-74cf5f26da4f",
+  "first_name": "George",
+  "last_name": "Haddad",
+  "full_name": "George Haddad",
+  "linkedin_url": "https://linkedin.com/in/george-haddad-52a9b2198",
+  "emails": [
+    {
+      "email": "george@optispan.life",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Optispan"
+}

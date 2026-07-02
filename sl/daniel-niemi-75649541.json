@@ -1,0 +1,58 @@
+{
+  "uuid": "9d56b240-7f17-4af4-a945-57de207e9bfa",
+  "first_name": "Daniel",
+  "last_name": "Niemi",
+  "full_name": "Daniel Niemi",
+  "linkedin_url": "https://linkedin.com/in/daniel-niemi-75649541",
+  "emails": [
+    {
+      "email": "daniel@atlanticlabs.de",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel@neworbit.space",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel@atlanticlabs.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "danne.niemi@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel.niemi@circle.health",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "daniel@tozero.solutions",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "daniel@doctor.one",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dn@again.bio",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+358 40 1594141",
+      "type": "Personal",
+      "country_code": "FI",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Atlantic"
+}

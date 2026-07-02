@@ -1,0 +1,23 @@
+{
+  "uuid": "62ec4f06-6b8c-41fb-98e8-f20bdc50fe53",
+  "first_name": "John Dave",
+  "last_name": "Edmiston, M.D.",
+  "full_name": "John Dave Edmiston, M.D.",
+  "linkedin_url": "https://linkedin.com/in/drdaveedmiston",
+  "emails": [
+    {
+      "email": "dave@teamnuskin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 916-765-9261",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Self-Employed"
+}

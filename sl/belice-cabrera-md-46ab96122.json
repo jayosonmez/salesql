@@ -1,0 +1,21 @@
+{
+  "uuid": "2cbc0dff-cfb1-49f4-8ebe-3da65e041bc2",
+  "first_name": "Belice",
+  "last_name": "Cabrera, MD",
+  "full_name": "Belice Cabrera, MD",
+  "linkedin_url": "https://linkedin.com/in/belice-cabrera-md-46ab96122",
+  "emails": [
+    {
+      "email": "bcabrera@hospitalmedicine.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bcabrera@acponline.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Private Practice"
+}

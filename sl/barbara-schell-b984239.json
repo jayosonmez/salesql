@@ -1,0 +1,28 @@
+{
+  "uuid": "f5e278a3-da3a-4c27-bffd-c0b7dece810d",
+  "first_name": "Barbara",
+  "last_name": "Schell",
+  "full_name": "Barbara Schell",
+  "linkedin_url": "https://linkedin.com/in/barbara-schell-b984239",
+  "emails": [
+    {
+      "email": "b.schell@ageless.com.ua",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "barbara@agelessinseattle.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+380 44 239 5732",
+      "type": "Work",
+      "country_code": "UA",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AGELESS, LLC"
+}

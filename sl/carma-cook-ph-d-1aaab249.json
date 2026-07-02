@@ -1,0 +1,38 @@
+{
+  "uuid": "5c76044b-f664-4f26-974b-b40729908a79",
+  "first_name": "Carma",
+  "last_name": "Cook, Ph.D",
+  "full_name": "Carma Cook, Ph.D",
+  "linkedin_url": "https://linkedin.com/in/carma-cook-ph-d-1aaab249",
+  "emails": [
+    {
+      "email": "carma.cook@chattanoogastate.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "carma.cook@cccs.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ccook@wgu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ccook@warren-wilson.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 423-697-4400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Chattanooga State Community College"
+}

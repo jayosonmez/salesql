@@ -1,0 +1,23 @@
+{
+  "uuid": "0af8d198-1868-4971-8c47-f81ad07f13ee",
+  "first_name": "Stan",
+  "last_name": "Packard, MD",
+  "full_name": "Stan Packard, MD",
+  "linkedin_url": "https://linkedin.com/in/drstanpackard",
+  "emails": [
+    {
+      "email": "drpackard@pajardo.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 832-315-9901",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pajardo Inc"
+}

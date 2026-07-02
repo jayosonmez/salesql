@@ -1,0 +1,28 @@
+{
+  "uuid": "bcb8290b-6192-4d7e-b306-ed750b3b802c",
+  "first_name": "Nils",
+  "last_name": "Adey",
+  "full_name": "Nils Adey",
+  "linkedin_url": "https://linkedin.com/in/nils-adey-9425a27",
+  "emails": [
+    {
+      "email": "nba@biomicro.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nils@kimantech.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-972-2377",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "KimanTech, LLC"
+}

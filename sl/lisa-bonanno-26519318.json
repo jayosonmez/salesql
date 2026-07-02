@@ -1,0 +1,28 @@
+{
+  "uuid": "d15689d7-0657-4fe1-81a6-855e6ccb3f2b",
+  "first_name": "Lisa",
+  "last_name": "Bonanno",
+  "full_name": "Lisa Bonanno",
+  "linkedin_url": "https://linkedin.com/in/lisa-bonanno-26519318",
+  "emails": [
+    {
+      "email": "bonanno@bme.rochester.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lisa.bonanno@rochester.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 585-275-2121",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Rochester"
+}

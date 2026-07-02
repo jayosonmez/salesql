@@ -1,0 +1,17 @@
+{
+  "uuid": "52244f57-632c-491a-9568-23a90481147c",
+  "first_name": "Deborah",
+  "last_name": "Julius",
+  "full_name": "Deborah Julius",
+  "linkedin_url": "https://linkedin.com/in/deborah-julius-5baabb1b8",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 412-802-3275",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UPMC Children’s Express Care"
+}

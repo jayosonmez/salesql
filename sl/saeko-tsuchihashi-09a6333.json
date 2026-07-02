@@ -1,0 +1,36 @@
+{
+  "uuid": "a690a8f0-7d67-408c-a9fe-7f37361477d1",
+  "first_name": "Saeko",
+  "last_name": "Tsuchihashi",
+  "full_name": "Saeko Tsuchihashi",
+  "linkedin_url": "https://linkedin.com/in/saeko-tsuchihashi-09a6333",
+  "emails": [
+    {
+      "email": "saeko@keiretsuforum.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "saeko@activesages.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "saekot@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "saekotst@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "saeko@marketignition.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "AgeWell Innovators"
+}

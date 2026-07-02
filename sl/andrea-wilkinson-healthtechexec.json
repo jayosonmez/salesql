@@ -1,0 +1,42 @@
+{
+  "uuid": "e015dfdb-d990-47b8-a45b-e7fc88db32f1",
+  "first_name": "Andrea L.",
+  "last_name": "Wilkinson",
+  "full_name": "Andrea L. Wilkinson",
+  "linkedin_url": "https://linkedin.com/in/andrea-wilkinson-healthtechexec",
+  "emails": [
+    {
+      "email": "andrea.wilkinson@takeda.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "awilkinson@caremetx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wilkinsonal@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "andrea.wilkinson@ucb.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrea.wilkinson@pipelineangels.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+32 2 559 99 99",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UCB"
+}

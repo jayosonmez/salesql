@@ -1,0 +1,41 @@
+{
+  "uuid": "a6498ce3-eac8-49b0-978e-3e514a491e4d",
+  "first_name": "Tim",
+  "last_name": "Koogle",
+  "full_name": "Tim Koogle",
+  "linkedin_url": "https://linkedin.com/in/tim-koogle-9b42014",
+  "emails": [
+    {
+      "email": "koogle@cadenceotc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tim@truebotanicals.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tim@kasha.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tim@elbancomexico.com.mx",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tkoogle@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "tim@ripplefoods.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kasha Global, Inc."
+}

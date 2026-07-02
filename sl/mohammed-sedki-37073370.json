@@ -1,0 +1,23 @@
+{
+  "uuid": "c690f7d1-2a72-4e33-a3a5-cb5bb26672f6",
+  "first_name": "Mohammed",
+  "last_name": "Sedki",
+  "full_name": "Mohammed Sedki",
+  "linkedin_url": "https://linkedin.com/in/mohammed-sedki-37073370",
+  "emails": [
+    {
+      "email": "mohammed.sedki@intel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-765-8080",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Intel"
+}

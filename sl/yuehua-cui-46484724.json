@@ -1,0 +1,28 @@
+{
+  "uuid": "fdcc2400-1d57-47ec-8c47-382f02e1ab4e",
+  "first_name": "Yuehua",
+  "last_name": "Cui",
+  "full_name": "Yuehua Cui",
+  "linkedin_url": "https://linkedin.com/in/yuehua-cui-46484724",
+  "emails": [
+    {
+      "email": "ycui@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yhcui@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-253-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts Institute of Technology"
+}

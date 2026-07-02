@@ -1,0 +1,16 @@
+{
+  "uuid": "70b15f64-5bfb-47ac-b336-f87eb5eedcdc",
+  "first_name": "Lawrence",
+  "last_name": "Chan",
+  "full_name": "Lawrence Chan",
+  "linkedin_url": "https://linkedin.com/in/lawrence-chan-02742726b",
+  "emails": [
+    {
+      "email": "lchan@cchealth.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Bright Sun"
+}

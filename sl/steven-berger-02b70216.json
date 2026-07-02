@@ -1,0 +1,27 @@
+{
+  "uuid": "7a37dc62-528d-4a6b-ac85-ddd3c26d4a19",
+  "first_name": "Steven",
+  "last_name": "Berger",
+  "full_name": "Steven Berger",
+  "linkedin_url": "https://linkedin.com/in/steven-berger-02b70216",
+  "emails": [
+    {
+      "email": "berger@crystal-is.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "steven@aryballe.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+81 3-3296-3000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Asahi Kasei"
+}

@@ -1,0 +1,58 @@
+{
+  "uuid": "cee60050-09d9-479f-9f96-cdc197a6c816",
+  "first_name": "Kaushik",
+  "last_name": "Subramanian",
+  "full_name": "Kaushik Subramanian",
+  "linkedin_url": "https://linkedin.com/in/kaushikpsub",
+  "emails": [
+    {
+      "email": "87kaushik@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kaushikpsub@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kaushik@eqtventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "k_s@nativevoice.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "theharpooner@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kaushik@paid.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kaushik@stacks.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kaushik.subramanian@payrails.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+46 8 506 553 00",
+      "type": "Work",
+      "country_code": "SE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EQT Ventures & Growth"
+}

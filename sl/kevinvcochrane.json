@@ -1,0 +1,48 @@
+{
+  "uuid": "3c3f081c-ffbb-4082-ba6d-299d712fa2d3",
+  "first_name": "Kevin",
+  "last_name": "Cochrane",
+  "full_name": "Kevin Cochrane",
+  "linkedin_url": "https://linkedin.com/in/kevinvcochrane",
+  "emails": [
+    {
+      "email": "kevin@muventures.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kevinc2003@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kevinvcochrane@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kcochrane@vultr.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kevin@bloomreach.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kcochrane@constant.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-566-1268",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vultr"
+}

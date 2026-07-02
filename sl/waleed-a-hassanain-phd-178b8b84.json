@@ -1,0 +1,23 @@
+{
+  "uuid": "609777af-74dc-4448-aaca-afce5a0aee16",
+  "first_name": "Waleed",
+  "last_name": "A. Hassanain, PhD",
+  "full_name": "Waleed A. Hassanain, PhD",
+  "linkedin_url": "https://linkedin.com/in/waleed-a-hassanain-phd-178b8b84",
+  "emails": [
+    {
+      "email": "waleed.hassanain@strath.ac.uk",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 141 552 4400",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Strathclyde"
+}

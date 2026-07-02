@@ -1,0 +1,17 @@
+{
+  "uuid": "82bce4eb-baa9-4fa1-8021-8375f88378df",
+  "first_name": "Dimitris",
+  "last_name": "Bertsimas",
+  "full_name": "Dimitris Bertsimas",
+  "linkedin_url": "https://linkedin.com/in/dimitris-bertsimas-a03a04a1",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 925-625-4886",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MIT Professional Education en español"
+}

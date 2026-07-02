@@ -1,0 +1,36 @@
+{
+  "uuid": "40076ae1-31d9-4668-94b2-da979885f670",
+  "first_name": "Mano",
+  "last_name": "Kulasingam",
+  "full_name": "Mano Kulasingam",
+  "linkedin_url": "https://linkedin.com/in/manok",
+  "emails": [
+    {
+      "email": "mano.kulasingam@creativedestructionlab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mano@digiflare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "manok4@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mano.kulasingam@odessa.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mano@ookki.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Flair Ventures"
+}

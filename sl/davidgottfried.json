@@ -1,0 +1,33 @@
+{
+  "uuid": "fa2c3534-115c-4ac5-a18c-5c5314bc4742",
+  "first_name": "David",
+  "last_name": "Gottfried",
+  "full_name": "David Gottfried",
+  "linkedin_url": "https://linkedin.com/in/davidgottfried",
+  "emails": [
+    {
+      "email": "dsgottfried@gatech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.gottfried@nrc.gatech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.gottfried@gatech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-894-2600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Georgia Tech Institute for Electronics and Nanotechnology"
+}

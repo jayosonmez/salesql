@@ -1,0 +1,43 @@
+{
+  "uuid": "84c49295-c7fd-46d2-91f2-00588e16081c",
+  "first_name": "Ryo",
+  "last_name": "Ishizuka",
+  "full_name": "Ryo Ishizuka",
+  "linkedin_url": "https://linkedin.com/in/ryonations",
+  "emails": [
+    {
+      "email": "ryo.ishizuka@techstars.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryo@ventureoutstartups.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryo@grubstakes.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryo@allianceofangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryonations@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-562-6230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Techstars"
+}

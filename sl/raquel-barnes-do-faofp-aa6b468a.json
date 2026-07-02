@@ -1,0 +1,23 @@
+{
+  "uuid": "7777ddce-10cb-4ac6-839b-4e11e154514b",
+  "first_name": "Raquel",
+  "last_name": "Barnes DO, FAOFP",
+  "full_name": "Raquel Barnes DO, FAOFP",
+  "linkedin_url": "https://linkedin.com/in/raquel-barnes-do-faofp-aa6b468a",
+  "emails": [
+    {
+      "email": "rsmurphy3539@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 844-824-8963",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CITYMD"
+}

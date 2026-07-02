@@ -1,0 +1,17 @@
+{
+  "uuid": "bc739b9f-ead1-467a-9682-7adb708b685e",
+  "first_name": "Myra",
+  "last_name": "Romano",
+  "full_name": "Myra Romano",
+  "linkedin_url": "https://linkedin.com/in/myra-romano-5b8181154",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 631-501-9600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BDO USA"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "21bd49ff-7fbd-461e-b4ca-db0ca1c059e4",
+  "first_name": "Charles",
+  "last_name": "Turick",
+  "full_name": "Charles Turick",
+  "linkedin_url": "https://linkedin.com/in/charles-turick-electrobiodyne",
+  "emails": [
+    {
+      "email": "charles.turick@srnl.doe.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ElectroBioDyne, LLC"
+}

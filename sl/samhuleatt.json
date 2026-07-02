@@ -1,0 +1,36 @@
+{
+  "uuid": "0a73dd46-9a33-40e9-a619-8e88fd57d65d",
+  "first_name": "Sam",
+  "last_name": "Huleatt",
+  "full_name": "Sam Huleatt",
+  "linkedin_url": "https://linkedin.com/in/samhuleatt",
+  "emails": [
+    {
+      "email": "sam.huleatt@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sam@intangibleangel.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sam@intangiblevc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sam@thesideletter.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sam@nextgenvp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Side Letter"
+}

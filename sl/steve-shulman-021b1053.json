@@ -1,0 +1,51 @@
+{
+  "uuid": "26dc96b3-568a-4a56-84bb-944f1e3d199b",
+  "first_name": "Steve",
+  "last_name": "Shulman",
+  "full_name": "Steve Shulman",
+  "linkedin_url": "https://linkedin.com/in/steve-shulman-021b1053",
+  "emails": [
+    {
+      "email": "s_steve@invohealthcare.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sjshulman@magellanhealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "steve@carecentrix.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "s.steve@healthcarema.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "steve.shulman@pagerhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steve.shulman@longevityhealthplan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steve.shulman@healthmapsolutions.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sshulman@villagemd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "E3 Healthcare Management"
+}

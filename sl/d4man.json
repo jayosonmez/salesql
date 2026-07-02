@@ -1,0 +1,51 @@
+{
+  "uuid": "8a5b831d-c9ec-4956-9e64-6eabaa0c3dbc",
+  "first_name": "Daniel",
+  "last_name": "Fohrman",
+  "full_name": "Daniel Fohrman",
+  "linkedin_url": "https://linkedin.com/in/d4man",
+  "emails": [
+    {
+      "email": "daniel.fohrman@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel@congressavenue-ventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel.fohrman@athotel.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel@chicagoearly.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel@pointsyeah.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel@withbenji.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel@crunchfirm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "daniel@wander.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Benji"
+}

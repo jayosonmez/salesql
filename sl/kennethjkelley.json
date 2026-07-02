@@ -1,0 +1,36 @@
+{
+  "uuid": "7e584586-89d7-4dcd-977a-2eafbd0fccef",
+  "first_name": "Ken",
+  "last_name": "Kelley",
+  "full_name": "Ken Kelley",
+  "linkedin_url": "https://linkedin.com/in/kennethjkelley",
+  "emails": [
+    {
+      "email": "kkelley@selvarx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ken.kelley@seromyx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ken@xcmr.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kkelley@paxvax.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ken.kelley@sabin.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Appel Sauce Studios, LLC"
+}

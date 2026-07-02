@@ -1,0 +1,28 @@
+{
+  "uuid": "1e1fd667-6333-4be4-b4d0-c215a5df0799",
+  "first_name": "Doug",
+  "last_name": "Burgum",
+  "full_name": "Doug Burgum",
+  "linkedin_url": "https://linkedin.com/in/doug-burgum-03019111",
+  "emails": [
+    {
+      "email": "doug@tallgrasstrail.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "burgum@doi.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 202-208-3100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "U.S. Department of the Interior"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "aa365cc2-b5ce-483f-bb23-7e8743fcbda2",
+  "first_name": "Sumit",
+  "last_name": "Balani",
+  "full_name": "Sumit Balani",
+  "linkedin_url": "https://linkedin.com/in/sumitbalani",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 206-266-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Amazon"
+}

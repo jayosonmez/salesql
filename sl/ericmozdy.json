@@ -1,0 +1,16 @@
+{
+  "uuid": "296ebbcc-03ac-4891-89ff-4cac82d4e9bc",
+  "first_name": "Eric",
+  "last_name": "Mozdy",
+  "full_name": "Eric Mozdy",
+  "linkedin_url": "https://linkedin.com/in/ericmozdy",
+  "emails": [
+    {
+      "email": "mozdye@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

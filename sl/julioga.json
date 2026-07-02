@@ -1,0 +1,34 @@
+{
+  "uuid": "a9836455-59d2-407d-95e8-4b07375ff259",
+  "first_name": "Julio",
+  "last_name": "Gonzalez Arrivillaga",
+  "full_name": "Julio Gonzalez Arrivillaga",
+  "linkedin_url": "https://linkedin.com/in/julioga",
+  "emails": [
+    {
+      "email": "julio@peoplefund.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jarrivillaga@healthcare.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-851-5051",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 305-440-5300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PeopleFund"
+}

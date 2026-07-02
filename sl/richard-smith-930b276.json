@@ -1,0 +1,16 @@
+{
+  "uuid": "e0be5d02-a4f0-4647-ac6e-0da61d1e0b07",
+  "first_name": "Richard",
+  "last_name": "Smith",
+  "full_name": "Richard Smith",
+  "linkedin_url": "https://linkedin.com/in/richard-smith-930b276",
+  "emails": [
+    {
+      "email": "rsmith@threefoldsensors.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "No longer at Insight Institute of Neurosurgery and Neuroscience"
+}

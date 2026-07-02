@@ -1,0 +1,17 @@
+{
+  "uuid": "45007cf4-2777-46ce-97f6-a27ef1176eea",
+  "first_name": "Sophia",
+  "last_name": "Cipriano",
+  "full_name": "Sophia Cipriano",
+  "linkedin_url": "https://linkedin.com/in/sophiacipriano",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 610-431-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Penn Medicine Chester County Hospital"
+}

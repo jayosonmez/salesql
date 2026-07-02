@@ -1,0 +1,21 @@
+{
+  "uuid": "60ae7e8c-3145-44bf-acbf-3b8a34f009a1",
+  "first_name": "Ed",
+  "last_name": "Esber",
+  "full_name": "Ed Esber",
+  "linkedin_url": "https://linkedin.com/in/ed-esber-504a6",
+  "emails": [
+    {
+      "email": "edesber@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "eed@case.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Utah Technology Initiative Advisory Board"
+}

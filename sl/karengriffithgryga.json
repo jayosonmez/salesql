@@ -1,0 +1,31 @@
+{
+  "uuid": "0828ca35-38eb-4dbc-aee5-ae06768b612a",
+  "first_name": "Karen",
+  "last_name": "Griffith Gryga",
+  "full_name": "Karen Griffith Gryga",
+  "linkedin_url": "https://linkedin.com/in/karengriffithgryga",
+  "emails": [
+    {
+      "email": "kgriffithgryga@lipstickwisdom.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "karen_gryga@wpevc.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "karen@dreamitventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kgriffith@pleasetouchmuseum.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Biomeme, Inc. and One Health Laboratories, LLC"
+}

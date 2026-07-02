@@ -1,0 +1,16 @@
+{
+  "uuid": "5da61ef0-1e9c-4caa-8c37-6a03e5cc20f2",
+  "first_name": "Peter",
+  "last_name": "Hirth",
+  "full_name": "Peter Hirth",
+  "linkedin_url": "https://linkedin.com/in/peter-hirth-4272671",
+  "emails": [
+    {
+      "email": "kphirth@plexxikon.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "."
+}

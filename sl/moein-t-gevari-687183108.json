@@ -1,0 +1,17 @@
+{
+  "uuid": "0702b48b-b631-4ec5-94f9-1491c963dfac",
+  "first_name": "Moein",
+  "last_name": "T. Gevari",
+  "full_name": "Moein T. Gevari",
+  "linkedin_url": "https://linkedin.com/in/moein-t-gevari-687183108",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+46 18 471 00 00",
+      "type": "Work",
+      "country_code": "SE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Institutionen för elektroteknik"
+}

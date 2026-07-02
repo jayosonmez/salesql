@@ -1,0 +1,26 @@
+{
+  "uuid": "3588810b-e9fa-478f-9e62-3a3726a52327",
+  "first_name": "Jauher",
+  "last_name": "Zaidi",
+  "full_name": "Jauher Zaidi",
+  "linkedin_url": "https://linkedin.com/in/jauherzaidi",
+  "emails": [
+    {
+      "email": "jauher@palm13.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "idiaz@palmchip.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jz@palmchip.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Palm13"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "268a9af3-a205-4264-a608-731af6b71b2a",
+  "first_name": "Victor",
+  "last_name": "Rocha",
+  "full_name": "Victor Rocha",
+  "linkedin_url": "https://linkedin.com/in/victor-rocha-20b6b4193",
+  "emails": [
+    {
+      "email": "victor@biupsejamais.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 12 3512-2065",
+      "type": "Work",
+      "country_code": "BR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BiUP Educação"
+}

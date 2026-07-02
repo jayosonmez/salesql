@@ -1,0 +1,21 @@
+{
+  "uuid": "26bca003-33b5-49a8-8d23-601f352a2821",
+  "first_name": "Joseph C",
+  "last_name": "Russell, M.D.",
+  "full_name": "Joseph C Russell, M.D.",
+  "linkedin_url": "https://linkedin.com/in/joseph-c-russell-m-d-813a8547",
+  "emails": [
+    {
+      "email": "hbcjoe@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jrussell@mercy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Varicose Vein Centers of Greater Cincinnati"
+}

@@ -1,0 +1,37 @@
+{
+  "uuid": "11faf124-384d-4d86-8d78-2cc30fbe6c80",
+  "last_name": "Baruch Sadogursky",
+  "full_name": "Baruch Sadogursky",
+  "linkedin_url": "https://linkedin.com/in/jbaruch",
+  "emails": [
+    {
+      "email": "baruch@tessl.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jbaruch@sadogursky.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "baruchs@jfrog.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jbaruch@jfrog.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-890-9281",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tessl"
+}

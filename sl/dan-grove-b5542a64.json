@@ -1,0 +1,23 @@
+{
+  "uuid": "a618a469-d503-433b-b523-86430b3e5907",
+  "first_name": "Dan",
+  "last_name": "Grove",
+  "full_name": "Dan Grove",
+  "linkedin_url": "https://linkedin.com/in/dan-grove-b5542a64",
+  "emails": [
+    {
+      "email": "dan.grove@georgetown.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 202-806-4727",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Georgetown University School of Medicine"
+}

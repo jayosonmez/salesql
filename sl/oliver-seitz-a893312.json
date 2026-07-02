@@ -1,0 +1,28 @@
+{
+  "uuid": "42e20499-7a40-4c79-8d07-27ab8af0e1b0",
+  "first_name": "Oliver",
+  "last_name": "Seitz",
+  "full_name": "Oliver Seitz",
+  "linkedin_url": "https://linkedin.com/in/oliver-seitz-a893312",
+  "emails": [
+    {
+      "email": "seitzoli@yahoo.fr",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "oliver.seitz@metamaterial.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 902-482-5729",
+      "type": "Work",
+      "country_code": "CA",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Meta Materials Inc. (META®)"
+}

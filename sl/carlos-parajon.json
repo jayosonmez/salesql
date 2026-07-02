@@ -1,0 +1,48 @@
+{
+  "uuid": "fe5049d1-a879-4209-947c-82fd56db534b",
+  "first_name": "Carlos",
+  "last_name": "Parajon",
+  "full_name": "Carlos Parajon",
+  "linkedin_url": "https://linkedin.com/in/carlos-parajon",
+  "emails": [
+    {
+      "email": "p-c@wilmingtoninvestor.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cparajon@harborislandpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carlos@bostonharborangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carlos@parajon.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cparajon@harborislandpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "parajon@egretpointpartners.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 910-686-3266",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harbor Island Equity Partners"
+}

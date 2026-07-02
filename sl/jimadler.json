@@ -1,0 +1,51 @@
+{
+  "uuid": "2f1a43b9-31fd-43fc-86ff-bf5ba1a51842",
+  "first_name": "Jim",
+  "last_name": "Adler",
+  "full_name": "Jim Adler",
+  "linkedin_url": "https://linkedin.com/in/jimadler",
+  "emails": [
+    {
+      "email": "jim@moodify.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jim.adler@gorevel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jim@intuitionrobotics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jim.adler@jobyaviation.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jadler@intelius.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "linkedin@jimadler.me",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jim.adler@toyota-ai.ventures",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jim.adler@tri.global",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Toyota Ventures"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "6f20c0e3-d438-4846-bed9-548c56783265",
+  "first_name": "Scott",
+  "last_name": "Chalmers",
+  "full_name": "Scott Chalmers",
+  "linkedin_url": "https://linkedin.com/in/scott-chalmers-71a853240",
+  "emails": [
+    {
+      "email": "schalmers@gudens.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 562-921-0713",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Travel AI"
+}

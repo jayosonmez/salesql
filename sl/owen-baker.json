@@ -1,0 +1,17 @@
+{
+  "uuid": "d9823a5f-b8ae-4424-8b37-7e932e7b46bb",
+  "first_name": "Owen",
+  "last_name": "Baker",
+  "full_name": "Owen Baker",
+  "linkedin_url": "https://linkedin.com/in/owen-baker",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 410-955-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Johns Hopkins University School of Medicine"
+}

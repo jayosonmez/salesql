@@ -1,0 +1,28 @@
+{
+  "uuid": "b53ec14e-c522-4ff4-84fa-fc29b6f3c0a9",
+  "first_name": "Gary",
+  "last_name": "Hansen",
+  "full_name": "Gary Hansen",
+  "linkedin_url": "https://linkedin.com/in/gary-hansen-704b2240",
+  "emails": [
+    {
+      "email": "ghansen@arizant.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ghansen@respirtech.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-793-1261",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "RespirTech, a Philips company"
+}

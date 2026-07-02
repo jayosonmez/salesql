@@ -1,0 +1,16 @@
+{
+  "uuid": "f652d07f-563c-48be-b68b-0f7646e2c854",
+  "first_name": "Rande",
+  "last_name": "Gerber",
+  "full_name": "Rande Gerber",
+  "linkedin_url": "https://linkedin.com/in/randegerber",
+  "emails": [
+    {
+      "email": "rande@casamigos.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Casamigos Tequila"
+}

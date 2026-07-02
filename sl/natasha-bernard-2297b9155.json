@@ -1,0 +1,23 @@
+{
+  "uuid": "c9e0b259-c3b8-41e7-8c69-b2e53b4bbb25",
+  "first_name": "Natasha",
+  "last_name": "Bernard",
+  "full_name": "Natasha Bernard",
+  "linkedin_url": "https://linkedin.com/in/natasha-bernard-2297b9155",
+  "emails": [
+    {
+      "email": "nbernard@onemedical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-578-3100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "One Medical"
+}

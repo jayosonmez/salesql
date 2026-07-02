@@ -1,0 +1,28 @@
+{
+  "uuid": "4d9e9793-6584-40c3-a965-71db1248e515",
+  "first_name": "Gary",
+  "last_name": "Barrett",
+  "full_name": "Gary Barrett",
+  "linkedin_url": "https://linkedin.com/in/gary-barrett-170899",
+  "emails": [
+    {
+      "email": "gmabarrett@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gary.barrett@cookmedical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 118 952 8100",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Convatec"
+}

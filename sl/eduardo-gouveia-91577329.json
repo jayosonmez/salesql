@@ -1,0 +1,27 @@
+{
+  "uuid": "f4ce01b4-ea88-4553-a86a-bf8444f93087",
+  "first_name": "Eduardo",
+  "last_name": "Gouveia",
+  "full_name": "Eduardo Gouveia",
+  "linkedin_url": "https://linkedin.com/in/eduardo-gouveia-91577329",
+  "emails": [
+    {
+      "email": "egouveia@alelo.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eduardo.gouveia@multiplusfidelidade.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 4004-7733",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Alelo Brasil"
+}

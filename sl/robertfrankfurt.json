@@ -1,0 +1,48 @@
+{
+  "uuid": "7db6f9b0-7e95-4839-89f1-a874343bca0c",
+  "first_name": "Robert",
+  "last_name": "Frankfurt",
+  "full_name": "Robert Frankfurt",
+  "linkedin_url": "https://linkedin.com/in/robertfrankfurt",
+  "emails": [
+    {
+      "email": "rob@mycafund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rob@parsleyhealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "robertfrankfurt@pfsweb.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "robert.frankfurt@ouraring.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rfrankfurt@betterfly.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robert_f@living.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-887-6655",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Living Fund"
+}

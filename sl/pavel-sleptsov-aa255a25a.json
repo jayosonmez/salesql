@@ -1,0 +1,33 @@
+{
+  "uuid": "61b4eecc-7239-4712-9ebc-30425d983e40",
+  "first_name": "Pavel",
+  "last_name": "Sleptsov",
+  "full_name": "Pavel Sleptsov",
+  "linkedin_url": "https://linkedin.com/in/pavel-sleptsov-aa255a25a",
+  "emails": [
+    {
+      "email": "pavel_sleptsov@epam.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pavelsleptsov@upwork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yaugenii.sinkov@rambler.ru",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-316-7500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Upwork"
+}

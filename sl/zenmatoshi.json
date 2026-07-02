@@ -1,0 +1,28 @@
+{
+  "uuid": "d50c0741-f5da-40d7-81b4-793aaf3743bb",
+  "first_name": "Zen",
+  "last_name": "Matoshi",
+  "full_name": "Zen Matoshi",
+  "linkedin_url": "https://linkedin.com/in/zenmatoshi",
+  "emails": [
+    {
+      "email": "zen.matoshi@hyperlooptt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "matoshi@fordham.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 424-276-7616",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth Mode"
+}

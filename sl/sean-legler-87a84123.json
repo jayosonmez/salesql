@@ -1,0 +1,28 @@
+{
+  "uuid": "955338e6-f2c4-437a-8d6f-258a7836b56e",
+  "first_name": "Sean",
+  "last_name": "Legler",
+  "full_name": "Sean Legler",
+  "linkedin_url": "https://linkedin.com/in/sean-legler-87a84123",
+  "emails": [
+    {
+      "email": "leglers@stolaf.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "slegler@mayoclinic.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 507-266-4688",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mayo Clinic"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "72065e35-bf66-4d8f-99e9-4b42ecd0998f",
+  "first_name": "Jacqueline",
+  "last_name": "Hodges",
+  "full_name": "Jacqueline Hodges",
+  "linkedin_url": "https://linkedin.com/in/jacqueline-hodges-72bb9b92",
+  "emails": [
+    {
+      "email": "jhodges@dukehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-684-8111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Duke University Health System"
+}

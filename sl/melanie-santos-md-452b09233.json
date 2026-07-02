@@ -1,0 +1,33 @@
+{
+  "uuid": "22738f26-474e-43df-a38e-e8c6d3a0c8a5",
+  "first_name": "Melanie",
+  "last_name": "Santos, MD",
+  "full_name": "Melanie Santos, MD",
+  "linkedin_url": "https://linkedin.com/in/melanie-santos-md-452b09233",
+  "emails": [
+    {
+      "email": "melanie.santos@stjoe.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "melanie.santos@providence.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "melanie.santos@providence.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 907-835-2249",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Providence"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "f19bfc02-5af0-4cb5-906f-897a4d7af9eb",
+  "first_name": "Anne-Marie",
+  "last_name": "Slaughter",
+  "full_name": "Anne-Marie Slaughter",
+  "linkedin_url": "https://linkedin.com/in/anne-marie-slaughter-24687348",
+  "emails": [
+    {
+      "email": "slaughtr@princeton.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "slaughter@newamerica.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anne-marie.slaughter@wikistrat.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 202-986-2700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "New America"
+}

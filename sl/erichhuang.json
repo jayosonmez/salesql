@@ -1,0 +1,58 @@
+{
+  "uuid": "62c55944-24f0-4578-a447-aa7d49d16314",
+  "first_name": "Erich S.",
+  "last_name": "Huang, MD, PhD",
+  "full_name": "Erich S. Huang, MD, PhD",
+  "linkedin_url": "https://linkedin.com/in/erichhuang",
+  "emails": [
+    {
+      "email": "erich@post.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "erich@kelahealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "erich.huang@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "erich.huang@stratusmedicine.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "erichhuang@verily.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "erich.huang@tuftsmedicine.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ehuang@dukehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "e.huang@usafencing.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-894-5438",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Verily Health"
+}

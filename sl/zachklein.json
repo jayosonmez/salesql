@@ -1,0 +1,48 @@
+{
+  "uuid": "e7d9a0ed-e1eb-49f9-bcb6-027b7568c787",
+  "first_name": "Zach",
+  "last_name": "Klein",
+  "full_name": "Zach Klein",
+  "linkedin_url": "https://linkedin.com/in/zachklein",
+  "emails": [
+    {
+      "email": "zklein@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "zach@jam.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "zach@legacybox.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "zach@kickstarter.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "zach@wildgrowth.fund",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zach@diy.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-797-8210",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Legacybox"
+}

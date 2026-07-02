@@ -1,0 +1,16 @@
+{
+  "uuid": "12656fda-1c88-4088-a272-91c8588d62b4",
+  "first_name": "Rafał",
+  "last_name": "Brzoska",
+  "full_name": "Rafał Brzoska",
+  "linkedin_url": "https://linkedin.com/in/rafał-brzoska-6a360334",
+  "emails": [
+    {
+      "email": "rbrzoska@inpost.pl",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Integer.pl/Inpost Group"
+}

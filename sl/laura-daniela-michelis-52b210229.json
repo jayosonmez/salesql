@@ -1,0 +1,28 @@
+{
+  "uuid": "6b616d51-3b97-4edc-8902-9568a908f984",
+  "first_name": "Laura Daniela",
+  "last_name": "Michelis",
+  "full_name": "Laura Daniela Michelis",
+  "linkedin_url": "https://linkedin.com/in/laura-daniela-michelis-52b210229",
+  "emails": [
+    {
+      "email": "laura_michelis@atriushealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "laura.michelis@tufts.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-329-1400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Atrius Health"
+}

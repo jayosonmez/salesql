@@ -1,0 +1,23 @@
+{
+  "uuid": "6aee4971-29da-45d1-8612-a2db2880b0d8",
+  "first_name": "Mark",
+  "last_name": "Morse",
+  "full_name": "Mark Morse",
+  "linkedin_url": "https://linkedin.com/in/marklmorse",
+  "emails": [
+    {
+      "email": "mmorse@humana.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 502-580-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Humana"
+}

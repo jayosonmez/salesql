@@ -1,0 +1,23 @@
+{
+  "uuid": "ac113e88-b709-41f0-913d-bebfcd5910d4",
+  "first_name": "Jin-Hee",
+  "last_name": "Han",
+  "full_name": "Jin-Hee Han",
+  "linkedin_url": "https://linkedin.com/in/jinheehan77",
+  "emails": [
+    {
+      "email": "heehan@ucdavis.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 908-740-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Merck"
+}

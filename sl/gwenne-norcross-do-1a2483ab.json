@@ -1,0 +1,23 @@
+{
+  "uuid": "ec161480-3314-4a35-8d03-c6b938d500cf",
+  "first_name": "Gwenne",
+  "last_name": "Norcross, DO",
+  "full_name": "Gwenne Norcross, DO",
+  "linkedin_url": "https://linkedin.com/in/gwenne-norcross-do-1a2483ab",
+  "emails": [
+    {
+      "email": "drgwenne@pvdoctors.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-541-8919",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Norcross Family Medicine"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "639c55d6-97d5-4276-a815-3d66fb3c3ad5",
+  "first_name": "Samantha",
+  "last_name": "San",
+  "full_name": "Samantha San",
+  "linkedin_url": "https://linkedin.com/in/samanthasan585",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 908-740-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Merck"
+}

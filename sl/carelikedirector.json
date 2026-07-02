@@ -1,0 +1,33 @@
+{
+  "uuid": "ef387418-8cc4-487c-bf6e-48a7f6495648",
+  "first_name": "Charlie",
+  "last_name": "Calvert",
+  "full_name": "Charlie Calvert",
+  "linkedin_url": "https://linkedin.com/in/carelikedirector",
+  "emails": [
+    {
+      "email": "ccalvert@carelike.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ccalvert@carelike.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ccalvert@healthlinkdimensions.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-250-8370",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Carelike, LLC (Now HealthLink Dimensions)"
+}

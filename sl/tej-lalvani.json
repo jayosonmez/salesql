@@ -1,0 +1,42 @@
+{
+  "uuid": "c5811f5a-e1e8-48df-be1e-2d6fa363c291",
+  "first_name": "Tej",
+  "last_name": "Lalvani",
+  "full_name": "Tej Lalvani",
+  "linkedin_url": "https://linkedin.com/in/tej-lalvani",
+  "emails": [
+    {
+      "email": "tej@asystem.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tej@splento.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tej@matchstickmonkey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tejlalvani@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "tlalvani@vitabiotics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 8955 2600",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vitabiotics Ltd"
+}

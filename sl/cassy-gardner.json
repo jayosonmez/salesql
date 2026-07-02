@@ -1,0 +1,23 @@
+{
+  "uuid": "4837e5d4-e4f1-4c29-8232-13db9ff993ff",
+  "first_name": "Cassy",
+  "last_name": "Gardner, PMP, MBA",
+  "full_name": "Cassy Gardner, PMP, MBA",
+  "linkedin_url": "https://linkedin.com/in/cassy-gardner",
+  "emails": [
+    {
+      "email": "cassy@etechgroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 513-771-7271",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "E Tech Group"
+}

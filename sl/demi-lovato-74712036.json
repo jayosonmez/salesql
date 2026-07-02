@@ -1,0 +1,28 @@
+{
+  "uuid": "bd284fb3-2128-47ed-bd27-61b0cf31e001",
+  "first_name": "Demi",
+  "last_name": "Lovato",
+  "full_name": "Demi Lovato",
+  "linkedin_url": "https://linkedin.com/in/demi-lovato-74712036",
+  "emails": [
+    {
+      "email": "d.lovato80@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "demi.lovato@hollywood.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 561-998-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hollywood.com, LLC"
+}

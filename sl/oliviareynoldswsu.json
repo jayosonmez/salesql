@@ -1,0 +1,23 @@
+{
+  "uuid": "6103ca5e-2ccc-42a8-afbe-fd357039108e",
+  "first_name": "Olivia",
+  "last_name": "Reynolds",
+  "full_name": "Olivia Reynolds",
+  "linkedin_url": "https://linkedin.com/in/oliviareynoldswsu",
+  "emails": [
+    {
+      "email": "olivia.reynolds@wsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 509-335-3564",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Washington State University"
+}

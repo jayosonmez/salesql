@@ -1,0 +1,16 @@
+{
+  "uuid": "747071aa-fb62-4b7e-8711-0c4a555f7634",
+  "first_name": "Mafalda",
+  "last_name": "Costa",
+  "full_name": "Mafalda Costa",
+  "linkedin_url": "https://linkedin.com/in/mafaldancosta",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+34 981 18 54 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Inditex"
+}

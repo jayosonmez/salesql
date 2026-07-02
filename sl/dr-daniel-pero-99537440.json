@@ -1,0 +1,36 @@
+{
+  "uuid": "f745e747-7fc6-4d3e-8ac4-84454715960b",
+  "first_name": "Dr. Daniel",
+  "last_name": "Pero",
+  "full_name": "Dr. Daniel Pero",
+  "linkedin_url": "https://linkedin.com/in/dr-daniel-pero-99537440",
+  "emails": [
+    {
+      "email": "dr@empiremedicaltraining.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr@mivip.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "drdanpero@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "nifaglobal12@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "33417www.specialtysurgeonspb.comwww.palmbeachveins.comwww.integrativefoot.comifaglobal12@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Integrative Foot and Ankle"
+}

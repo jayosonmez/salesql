@@ -1,0 +1,16 @@
+{
+  "uuid": "fa2d192d-4b34-4d98-b528-f979dfde8b43",
+  "first_name": "James",
+  "last_name": "Monsees",
+  "full_name": "James Monsees",
+  "linkedin_url": "https://linkedin.com/in/jamesmonsees",
+  "emails": [
+    {
+      "email": "j@jamesmonsees.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

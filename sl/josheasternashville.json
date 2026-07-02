@@ -1,0 +1,23 @@
+{
+  "uuid": "27e50411-b003-434f-baa3-2726d86762b7",
+  "first_name": "Josh",
+  "last_name": "Easter",
+  "full_name": "Josh Easter",
+  "linkedin_url": "https://linkedin.com/in/josheasternashville",
+  "emails": [
+    {
+      "email": "josh.easter@hcahealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 804-483-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HCA Healthcare"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "10a16c9f-8056-445f-af5b-18b88b30e960",
+  "first_name": "Inessa",
+  "last_name": "Obenhuber",
+  "full_name": "Inessa Obenhuber",
+  "linkedin_url": "https://linkedin.com/in/iobenhuber",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 415-857-2367",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

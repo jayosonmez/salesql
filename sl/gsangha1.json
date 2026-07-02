@@ -1,0 +1,28 @@
+{
+  "uuid": "44cf656d-b8a5-46a9-ac0a-b402ba622d6e",
+  "first_name": "Gurneet",
+  "last_name": "Sangha",
+  "full_name": "Gurneet Sangha",
+  "linkedin_url": "https://linkedin.com/in/gsangha1",
+  "emails": [
+    {
+      "email": "gsangha@eden.rutgers.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gurneets@uci.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-824-9196",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Irvine - Department of Biomedical Engineering (BME)"
+}

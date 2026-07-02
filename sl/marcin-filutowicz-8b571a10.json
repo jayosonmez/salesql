@@ -1,0 +1,33 @@
+{
+  "uuid": "99dc6021-3218-4cf6-a54c-4b7e230bf3ef",
+  "first_name": "Marcin",
+  "last_name": "Filutowicz",
+  "full_name": "Marcin Filutowicz",
+  "linkedin_url": "https://linkedin.com/in/marcin-filutowicz-8b571a10",
+  "emails": [
+    {
+      "email": "msfiluto@wisc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "marcin.filutowicz@wisc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mfilutowicz@wisc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 608-262-1234",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AmebaGone, Inc."
+}

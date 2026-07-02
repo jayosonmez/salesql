@@ -1,0 +1,23 @@
+{
+  "uuid": "6695fb41-1bde-44bc-9409-d434085468d5",
+  "first_name": "Colin",
+  "last_name": "Rutner",
+  "full_name": "Colin Rutner",
+  "linkedin_url": "https://linkedin.com/in/colin-rutner-69b12886",
+  "emails": [
+    {
+      "email": "crutner@lsuhsc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 501-376-0313",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "LSU Health Sciences Center New Orleans"
+}

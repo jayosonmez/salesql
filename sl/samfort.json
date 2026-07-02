@@ -1,0 +1,43 @@
+{
+  "uuid": "02e97ba8-5a06-4f75-bb0f-fe6022a6bab7",
+  "first_name": "Sam",
+  "last_name": "Fort",
+  "full_name": "Sam Fort",
+  "linkedin_url": "https://linkedin.com/in/samfort",
+  "emails": [
+    {
+      "email": "sam.fort@morganstanley.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sfort@tpg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sam.o.fort@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sfort@dfj.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sfort@dfjgrowth.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-233-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DFJ Growth"
+}

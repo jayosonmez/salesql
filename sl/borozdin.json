@@ -1,0 +1,38 @@
+{
+  "uuid": "f887d0c9-e8b8-4479-95c1-d3f451a9b58a",
+  "first_name": "Mike",
+  "last_name": "Borozdin",
+  "full_name": "Mike Borozdin",
+  "linkedin_url": "https://linkedin.com/in/borozdin",
+  "emails": [
+    {
+      "email": "mikeborozdin@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mike@doctorhazel.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mborozdin@ethoslending.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mike@tempoautomation.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-829-4815",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Google"
+}

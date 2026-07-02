@@ -1,0 +1,48 @@
+{
+  "uuid": "c7b5a664-a07d-4f4b-8086-c549a9061c49",
+  "first_name": "Rebecca",
+  "last_name": "Mitchem, CFA",
+  "full_name": "Rebecca Mitchem, CFA",
+  "linkedin_url": "https://linkedin.com/in/rebecca-mitchem-cfa-79231aa",
+  "emails": [
+    {
+      "email": "ram373@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rebecca.mitchem@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rebecca.mitchem@thetalake.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rebecca@auquan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rmitchem@moichor.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rebecca_mitchem@lineaje.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 786-505-4888",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Neotribe Ventures"
+}

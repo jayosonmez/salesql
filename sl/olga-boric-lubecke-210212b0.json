@@ -1,0 +1,28 @@
+{
+  "uuid": "2b7d1061-75b6-4ae4-878c-1608379805a9",
+  "first_name": "Olga",
+  "last_name": "Boric-Lubecke",
+  "full_name": "Olga Boric-Lubecke",
+  "linkedin_url": "https://linkedin.com/in/olga-boric-lubecke-210212b0",
+  "emails": [
+    {
+      "email": "olga@adnoviv.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "oboric-lubecke@hawaii.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 808-783-8080",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Adnoviv, Inc."
+}

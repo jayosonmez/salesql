@@ -1,0 +1,23 @@
+{
+  "uuid": "4ab239fb-8864-43f6-8aed-5a21c1705cf2",
+  "first_name": "Kristin",
+  "last_name": "Higgins, MD",
+  "full_name": "Kristin Higgins, MD",
+  "linkedin_url": "https://linkedin.com/in/drkristinhiggins",
+  "emails": [
+    {
+      "email": "khiggins@cityofhope.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-826-4673",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "City of Hope"
+}

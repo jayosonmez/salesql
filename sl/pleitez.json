@@ -1,0 +1,36 @@
+{
+  "uuid": "31691f2b-0875-4a67-ae3e-e95ef552c99a",
+  "first_name": "Emanuel",
+  "last_name": "Pleitez",
+  "full_name": "Emanuel Pleitez",
+  "linkedin_url": "https://linkedin.com/in/pleitez",
+  "emails": [
+    {
+      "email": "emanuel.pleitez@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "emanuel.pleitez@pleitezgroup.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "epleitez@eastloscap.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "emanuel@captablecoalition.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "emanuel.pleitez@ioconnectservices.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Cap Table Coalition"
+}

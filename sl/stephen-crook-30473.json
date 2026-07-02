@@ -1,0 +1,34 @@
+{
+  "uuid": "6c4c4df8-4677-42ee-8abd-607910f193d1",
+  "first_name": "Stephen",
+  "last_name": "Crook",
+  "full_name": "Stephen Crook",
+  "linkedin_url": "https://linkedin.com/in/stephen-crook-30473",
+  "emails": [
+    {
+      "email": "srcrook@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sc1@delmorganco.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 708-280-8531",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 310-319-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DelMorgan & Co."
+}

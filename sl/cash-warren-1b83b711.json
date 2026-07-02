@@ -1,0 +1,33 @@
+{
+  "uuid": "b7e5969a-21be-4f46-a636-d9a405e56dd6",
+  "first_name": "Cash",
+  "last_name": "Warren",
+  "full_name": "Cash Warren",
+  "linkedin_url": "https://linkedin.com/in/cash-warren-1b83b711",
+  "emails": [
+    {
+      "email": "cw@cashwarren.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cashwarren@pairofthieves.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cash@versoentertainment.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-240-5298",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pair of Thieves"
+}

@@ -1,0 +1,36 @@
+{
+  "uuid": "27c5071e-d898-47a1-a495-6bd373ad60b5",
+  "first_name": "David",
+  "last_name": "Benzaquen",
+  "full_name": "David Benzaquen",
+  "linkedin_url": "https://linkedin.com/in/davidbenzaquen",
+  "emails": [
+    {
+      "email": "david@plantbasedsolutions.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vegandb@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "david@missionplant.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david@plantbelly.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david.benzaquen@armoredfresh.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Armored Fresh"
+}

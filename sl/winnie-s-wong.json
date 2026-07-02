@@ -1,0 +1,28 @@
+{
+  "uuid": "e1ae5c01-9897-465c-abd3-4b0a5ed1aae0",
+  "first_name": "Winnie S",
+  "last_name": "Wong",
+  "full_name": "Winnie S Wong",
+  "linkedin_url": "https://linkedin.com/in/winnie-s-wong",
+  "emails": [
+    {
+      "email": "winnie.wongxx@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "winnie.wong@lexicalintelligence.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 202-643-3188",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lexical Intelligence"
+}

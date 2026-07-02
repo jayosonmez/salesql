@@ -1,0 +1,21 @@
+{
+  "uuid": "0d6e6b80-7c44-436f-8fad-300ed44ca5ed",
+  "first_name": "Stanley Freeman",
+  "last_name": "Druckenmiller",
+  "full_name": "Stanley Freeman Druckenmiller",
+  "linkedin_url": "https://linkedin.com/in/stanley-freeman-druckenmiller-63236634",
+  "emails": [
+    {
+      "email": "aloshy-a-85@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stanley.druckenmiller@quantumfund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Quantum Fund"
+}

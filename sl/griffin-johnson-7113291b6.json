@@ -1,0 +1,36 @@
+{
+  "uuid": "1c348bba-dd8b-48f9-acd4-522da89eb9f8",
+  "first_name": "Griffin",
+  "last_name": "Johnson",
+  "full_name": "Griffin Johnson",
+  "linkedin_url": "https://linkedin.com/in/griffin-johnson-7113291b6",
+  "emails": [
+    {
+      "email": "jg@rektglobal.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "griffj1333@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "griffin@animalcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "griffin.johnson@drinkpoppi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "griffin@colossal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Colossal Biosciences"
+}

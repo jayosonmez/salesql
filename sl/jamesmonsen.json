@@ -1,0 +1,38 @@
+{
+  "uuid": "1040be0d-9400-4a0d-91b5-4727d9c2ca12",
+  "first_name": "James",
+  "last_name": "Monsen",
+  "full_name": "James Monsen",
+  "linkedin_url": "https://linkedin.com/in/jamesmonsen",
+  "emails": [
+    {
+      "email": "james.monsen@airin.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jamesm@kannact.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james@monsenengineering.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james@monsen.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-808-6854",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Monsen Ventures"
+}

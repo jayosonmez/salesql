@@ -1,0 +1,23 @@
+{
+  "uuid": "315350f3-92ed-4064-a7c6-855de404e4c5",
+  "first_name": "Mark",
+  "last_name": "Gillespie",
+  "full_name": "Mark Gillespie",
+  "linkedin_url": "https://linkedin.com/in/mark--gillespie",
+  "emails": [
+    {
+      "email": "gillespie@threesixzero.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 424-360-0720",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Three Six Zero"
+}

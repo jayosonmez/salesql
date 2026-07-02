@@ -1,0 +1,48 @@
+{
+  "uuid": "b96232f5-202d-4010-84a1-d8624b95108d",
+  "first_name": "Susan Hunt",
+  "last_name": "Stevens",
+  "full_name": "Susan Hunt Stevens",
+  "linkedin_url": "https://linkedin.com/in/huntstevens",
+  "emails": [
+    {
+      "email": "susan@earthshot.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "susanstevens@sustainround.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "susan@entrepreneursforimpact.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "susan@wespire.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "susan@tessi.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "susanhuntstevens@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-549-5090",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tessi"
+}

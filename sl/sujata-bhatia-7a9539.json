@@ -1,0 +1,32 @@
+{
+  "uuid": "0ffc34aa-dfc9-40d3-830d-928386db890e",
+  "first_name": "Sujata",
+  "last_name": "Bhatia",
+  "full_name": "Sujata Bhatia",
+  "linkedin_url": "https://linkedin.com/in/sujata-bhatia-7a9539",
+  "emails": [
+    {
+      "email": "sujatabhatia@monzo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sbhatia@nationaltheatre.org.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "snbhatia@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 800 802 1456",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Monzo Bank"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "b0ddd151-b1ff-4688-ab3e-cf05e0c23ede",
+  "first_name": "Josh",
+  "last_name": "Allen",
+  "full_name": "Josh Allen",
+  "linkedin_url": "https://linkedin.com/in/josh-allen-63a904201",
+  "emails": [
+    {
+      "email": "ajosh@buffalobills.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-228-4257",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Buffalo Bills"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "5ad5fd8d-ea68-4752-a111-3a04eb69d108",
+  "first_name": "Gordon",
+  "last_name": "Segal",
+  "full_name": "Gordon Segal",
+  "linkedin_url": "https://linkedin.com/in/gordon-segal-24a90b3a",
+  "emails": [
+    {
+      "email": "nklaiber@prairiemgt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Prairie Management Group"
+}

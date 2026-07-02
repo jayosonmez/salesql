@@ -1,0 +1,23 @@
+{
+  "uuid": "77e7347c-1a0a-4cbe-810c-f9e8858b2751",
+  "first_name": "Stuart",
+  "last_name": "Schreiber",
+  "full_name": "Stuart Schreiber",
+  "linkedin_url": "https://linkedin.com/in/stuart-schreiber-6793ab18a",
+  "emails": [
+    {
+      "email": "stuart_schreiber@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-495-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard University"
+}

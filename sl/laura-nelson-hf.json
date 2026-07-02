@@ -1,0 +1,31 @@
+{
+  "uuid": "31acc35d-929d-4905-9022-a1115963f089",
+  "first_name": "Laura",
+  "last_name": "Nelson",
+  "full_name": "Laura Nelson",
+  "linkedin_url": "https://linkedin.com/in/laura-nelson-hf",
+  "emails": [
+    {
+      "email": "laura@hackersandfounders.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "laura@hf.cx",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "laura_nelson@santanderx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "laura@globaleir.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "HF.Capital"
+}

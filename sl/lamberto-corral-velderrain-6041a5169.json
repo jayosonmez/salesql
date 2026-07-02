@@ -1,0 +1,27 @@
+{
+  "uuid": "eab87953-dc27-4b36-a5c4-90d3e12493a4",
+  "first_name": "Lamberto",
+  "last_name": "Corral Velderrain",
+  "full_name": "Lamberto Corral Velderrain",
+  "linkedin_url": "https://linkedin.com/in/lamberto-corral-velderrain-6041a5169",
+  "emails": [
+    {
+      "email": "lamberto_velderrain@asofom.mx",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lambertocorral@cualli.mx",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+52 55 8117 1700",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Financiera Cualli"
+}

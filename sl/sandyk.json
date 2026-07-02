@@ -1,0 +1,21 @@
+{
+  "uuid": "f6b29671-cfea-4633-95aa-c2219db4dcc8",
+  "first_name": "Sandy",
+  "last_name": "Khaund",
+  "full_name": "Sandy Khaund",
+  "linkedin_url": "https://linkedin.com/in/sandyk",
+  "emails": [
+    {
+      "email": "sandy_wg01@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sandy@mindspring.capital",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Credenza"
+}

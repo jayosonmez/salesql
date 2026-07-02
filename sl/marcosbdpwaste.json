@@ -1,0 +1,31 @@
+{
+  "uuid": "d9dbb177-2e69-4311-91d1-10a992de1d1f",
+  "first_name": "Marcos",
+  "last_name": "Carvalho",
+  "full_name": "Marcos Carvalho",
+  "linkedin_url": "https://linkedin.com/in/marcosbdpwaste",
+  "emails": [
+    {
+      "email": "marcos@criabiz.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "marcos.carvalho@membran-i.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mcarvalho@linkedin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "marcos.carvalho@solar21.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Cw Polímeros"
+}

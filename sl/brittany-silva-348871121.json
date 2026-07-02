@@ -1,0 +1,34 @@
+{
+  "uuid": "d87b0840-bdca-4ea7-9447-1a127cb70447",
+  "first_name": "Brittany",
+  "last_name": "Silva",
+  "full_name": "Brittany Silva",
+  "linkedin_url": "https://linkedin.com/in/brittany-silva-348871121",
+  "emails": [
+    {
+      "email": "bsilva6@fau.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "brittany.silva@questdiagnostics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 407-451-5367",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 973-520-2700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Quest Diagnostics"
+}

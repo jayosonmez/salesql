@@ -1,0 +1,21 @@
+{
+  "uuid": "573eaad2-ebe2-4d34-8b33-346669f6e4a7",
+  "first_name": "Michel",
+  "last_name": "Meyer",
+  "full_name": "Michel Meyer",
+  "linkedin_url": "https://linkedin.com/in/michelmeyer",
+  "emails": [
+    {
+      "email": "michelmeyer@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "michel.meyer@kewego.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "NEWTECHWORLD, LLC"
+}

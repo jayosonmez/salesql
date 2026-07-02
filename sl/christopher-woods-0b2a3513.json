@@ -1,0 +1,33 @@
+{
+  "uuid": "6876bec2-30e4-4d50-a9a9-c990c5a6d2cc",
+  "first_name": "Christopher",
+  "last_name": "Woods",
+  "full_name": "Christopher Woods",
+  "linkedin_url": "https://linkedin.com/in/christopher-woods-0b2a3513",
+  "emails": [
+    {
+      "email": "cwoods@dukehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christopher.woods@biomeme.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "woods004@mc.duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 267-930-7707",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Biomeme, Inc."
+}

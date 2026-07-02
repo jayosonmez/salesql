@@ -1,0 +1,21 @@
+{
+  "uuid": "d307e73c-d2f0-422b-b999-c95b8b29697a",
+  "first_name": "Bradley",
+  "last_name": "Harris",
+  "full_name": "Bradley Harris",
+  "linkedin_url": "https://linkedin.com/in/bradley-harris",
+  "emails": [
+    {
+      "email": "bradley@tinyhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bradley@ucsd.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Mirth"
+}

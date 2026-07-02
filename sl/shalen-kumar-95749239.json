@@ -1,0 +1,21 @@
+{
+  "uuid": "9f049f94-ce12-4d07-9a31-b68dc7844235",
+  "first_name": "Shalen",
+  "last_name": "Kumar",
+  "full_name": "Shalen Kumar",
+  "linkedin_url": "https://linkedin.com/in/shalen-kumar-95749239",
+  "emails": [
+    {
+      "email": "shalen.kumar@vuw.ac.nz",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "shalen.kumar@ra-biotech.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Ra Biotech Ltd"
+}

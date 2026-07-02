@@ -1,0 +1,28 @@
+{
+  "uuid": "c8bb417f-93fd-4eb0-baad-d19af2eb16c3",
+  "first_name": "Greg",
+  "last_name": "King",
+  "full_name": "Greg King",
+  "linkedin_url": "https://linkedin.com/in/greg-king-29b6a",
+  "emails": [
+    {
+      "email": "gdking@pacbell.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "gking@fibralignbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-489-2199",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fibralign Corporation"
+}

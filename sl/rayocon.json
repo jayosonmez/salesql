@@ -1,0 +1,38 @@
+{
+  "uuid": "7bd26796-cbf4-4455-915e-1b4200ce9065",
+  "first_name": "Ray",
+  "last_name": "Hollywood",
+  "full_name": "Ray Hollywood",
+  "linkedin_url": "https://linkedin.com/in/rayocon",
+  "emails": [
+    {
+      "email": "ray.ocon@thehush.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ray@unicorns.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ray@rayocon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ray@unicorns.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-921-0166",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vanilla Capital"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "a3a22afb-2030-4166-9746-21d104453438",
+  "first_name": "Sarah",
+  "last_name": "Chittle",
+  "full_name": "Sarah Chittle",
+  "linkedin_url": "https://linkedin.com/in/sarah-chittle",
+  "emails": [
+    {
+      "email": "schittle@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Basilard BioTech, Inc."
+}

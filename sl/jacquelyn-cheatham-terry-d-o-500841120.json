@@ -1,0 +1,23 @@
+{
+  "uuid": "02c30609-4580-46e0-b62f-ac6afebb8d3a",
+  "first_name": "Jacquelyn",
+  "last_name": "Cheatham-Terry D.O.",
+  "full_name": "Jacquelyn Cheatham-Terry D.O.",
+  "linkedin_url": "https://linkedin.com/in/jacquelyn-cheatham-terry-d-o-500841120",
+  "emails": [
+    {
+      "email": "jacquelyn.cheatham-terry@wellstar.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 470-644-0100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wellstar Health System"
+}

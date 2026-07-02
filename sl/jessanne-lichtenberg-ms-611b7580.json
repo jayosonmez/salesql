@@ -1,0 +1,23 @@
+{
+  "uuid": "b3682f37-c45e-4ad0-98d7-abb527cb0a5f",
+  "first_name": "Jessanne",
+  "last_name": "Lichtenberg, MS",
+  "full_name": "Jessanne Lichtenberg, MS",
+  "linkedin_url": "https://linkedin.com/in/jessanne-lichtenberg-ms-611b7580",
+  "emails": [
+    {
+      "email": "jlichtenberg@vcu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 804-828-0100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Virginia Commonwealth University"
+}

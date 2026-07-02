@@ -1,0 +1,23 @@
+{
+  "uuid": "764c5ece-50f3-4bb9-aa65-f3b02f99d17e",
+  "first_name": "Jianping",
+  "last_name": "Xu",
+  "full_name": "Jianping Xu",
+  "linkedin_url": "https://linkedin.com/in/jianping-xu-05965b260",
+  "emails": [
+    {
+      "email": "jxu@genotixbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-900-8276",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Genotix Biotechnologies"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "84d4e736-348d-48a5-98ba-e48a30366a54",
+  "first_name": "Michael",
+  "last_name": "N.",
+  "full_name": "Michael N.",
+  "linkedin_url": "https://linkedin.com/in/michael-neff23",
+  "emails": [
+    {
+      "email": "mike@ramsayinnovations.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "michael@kerosene.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "michael@youtube.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael@illoominus.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael@getballoon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 11 3371-9137",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lockton"
+}

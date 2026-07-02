@@ -1,0 +1,46 @@
+{
+  "uuid": "31aa9e87-de4b-4c6e-aef1-ac53e24d908e",
+  "first_name": "Nanxi",
+  "last_name": "Liu",
+  "full_name": "Nanxi Liu",
+  "linkedin_url": "https://linkedin.com/in/nanxi",
+  "emails": [
+    {
+      "email": "nanxi@nanoly.info",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nanxi.liu@proeza.com.mx",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "l.nanxi@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "nanxi@enplug.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "liu_n@kindredbio.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "l-nanxi@carparts.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "nanxi.liu@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Blaze.tech"
+}

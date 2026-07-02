@@ -1,0 +1,39 @@
+{
+  "uuid": "593fd854-5ac9-4d43-81d5-0a1952623e8a",
+  "first_name": "Utku",
+  "last_name": "Erol - AI, PMP, PSM",
+  "full_name": "Utku Erol - AI, PMP, PSM",
+  "linkedin_url": "https://linkedin.com/in/utkuerol",
+  "emails": [
+    {
+      "email": "utku@wordego.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "utku@utkuerol.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "utku.erol@legal.one",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 162 2695314",
+      "type": "Personal",
+      "country_code": "DE",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-600-0899",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sortext"
+}

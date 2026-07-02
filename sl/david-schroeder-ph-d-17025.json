@@ -1,0 +1,28 @@
+{
+  "uuid": "8a14bd64-870b-4a5e-aafd-9e942981d763",
+  "first_name": "David",
+  "last_name": "Schroeder, Ph.D.",
+  "full_name": "David Schroeder, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/david-schroeder-ph-d-17025",
+  "emails": [
+    {
+      "email": "dlschroe@purdue.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "david.schroeder@kraftheinzcompany.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-646-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kraft Heinz"
+}

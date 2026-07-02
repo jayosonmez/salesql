@@ -1,0 +1,28 @@
+{
+  "uuid": "b4610e00-4752-4dd6-867c-d682e06111a5",
+  "first_name": "Philip",
+  "last_name": "Hotchkiss",
+  "full_name": "Philip Hotchkiss",
+  "linkedin_url": "https://linkedin.com/in/philip-hotchkiss-ba4b7b20",
+  "emails": [
+    {
+      "email": "philhotchpa@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "photchkiss@unitsstorage.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 925-454-8648",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UNITS® Moving and Portable Storage, Inc."
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "7c73c352-0337-4d78-a48e-6bd6cadec2b7",
+  "first_name": "Brian",
+  "last_name": "Lieber",
+  "full_name": "Brian Lieber",
+  "linkedin_url": "https://linkedin.com/in/brian-lieber-798511",
+  "emails": [
+    {
+      "email": "blieber@battery.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "blieber@cgps.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-749-6200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Columbia Grammar and Preparatory School"
+}

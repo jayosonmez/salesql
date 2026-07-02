@@ -1,0 +1,33 @@
+{
+  "uuid": "51cc62af-73cd-43e3-a070-8d03c7d84ec0",
+  "first_name": "Benjamin",
+  "last_name": "Kocar",
+  "full_name": "Benjamin Kocar",
+  "linkedin_url": "https://linkedin.com/in/benjamin-kocar-9b384022",
+  "emails": [
+    {
+      "email": "kocar@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bkocar@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bkocar@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-253-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts Institute of Technology"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "022b1538-3deb-4bfc-addf-34ae73b55ca6",
+  "first_name": "Nathalie",
+  "last_name": "Molina Niño",
+  "full_name": "Nathalie Molina Niño",
+  "linkedin_url": "https://linkedin.com/in/globalmisfit",
+  "emails": [
+    {
+      "email": "nmolina@barnard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-373-4965",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

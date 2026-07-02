@@ -1,0 +1,38 @@
+{
+  "uuid": "73500f00-e22b-498e-9221-1e8d0cf9d568",
+  "first_name": "Timothy",
+  "last_name": "Springer",
+  "full_name": "Timothy Springer",
+  "linkedin_url": "https://linkedin.com/in/timothy-springer",
+  "emails": [
+    {
+      "email": "springer@idi.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "timothy.springer@proteininnovation.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "timothy.springer@childrenshospital.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "timothy_springer@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-433-7005",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Institute for Protein Innovation"
+}

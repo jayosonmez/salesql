@@ -1,0 +1,26 @@
+{
+  "uuid": "b329a5bb-9f56-4f40-bfc8-ec34166903b5",
+  "first_name": "Jan",
+  "last_name": "Slootweg",
+  "full_name": "Jan Slootweg",
+  "linkedin_url": "https://linkedin.com/in/jan-slootweg-a1a0857",
+  "emails": [
+    {
+      "email": "jan.slootweg@xs4all.nl",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jan@phycom.eu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jan@chicoa.fish",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Via Fosso"
+}

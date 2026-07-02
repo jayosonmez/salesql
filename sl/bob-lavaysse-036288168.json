@@ -1,0 +1,23 @@
+{
+  "uuid": "4f4b87e7-963b-42de-a8f4-1300fd85de79",
+  "first_name": "Bob",
+  "last_name": "Lavaysse",
+  "full_name": "Bob Lavaysse",
+  "linkedin_url": "https://linkedin.com/in/bob-lavaysse-036288168",
+  "emails": [
+    {
+      "email": "bob.lavaysse@kp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-972-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Permanente Medical Group, Inc."
+}

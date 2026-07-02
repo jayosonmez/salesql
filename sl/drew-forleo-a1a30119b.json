@@ -1,0 +1,23 @@
+{
+  "uuid": "ed3f27c1-ba74-4edb-9940-afb7c33bda87",
+  "first_name": "Drew",
+  "last_name": "Forleo",
+  "full_name": "Drew Forleo",
+  "linkedin_url": "https://linkedin.com/in/drew-forleo-a1a30119b",
+  "emails": [
+    {
+      "email": "dforleo@mfs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-954-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MFS Investment Management"
+}

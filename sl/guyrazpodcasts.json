@@ -1,0 +1,26 @@
+{
+  "uuid": "4be59f24-51ec-4de2-bcd6-d7b40739b582",
+  "first_name": "Guy",
+  "last_name": "Raz",
+  "full_name": "Guy Raz",
+  "linkedin_url": "https://linkedin.com/in/guyrazpodcasts",
+  "emails": [
+    {
+      "email": "guy@wondery.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "guy@tinkercast.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "guy@luminarypodcasts.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Built-It Productions"
+}

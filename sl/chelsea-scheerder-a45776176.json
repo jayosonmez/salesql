@@ -1,0 +1,22 @@
+{
+  "uuid": "212db432-a02c-4967-b356-83fd97caea71",
+  "first_name": "Chelsea",
+  "last_name": "Scheerder",
+  "full_name": "Chelsea Scheerder",
+  "linkedin_url": "https://linkedin.com/in/chelsea-scheerder-a45776176",
+  "emails": [
+    {
+      "email": "chelsea.scheerder@rabobank.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+31 45 561 9000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rabobank"
+}

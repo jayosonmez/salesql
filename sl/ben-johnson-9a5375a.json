@@ -1,0 +1,28 @@
+{
+  "uuid": "d6b6b2ea-956b-493e-87ad-f5d1d6cc2bd1",
+  "first_name": "Ben",
+  "last_name": "Johnson",
+  "full_name": "Ben Johnson",
+  "linkedin_url": "https://linkedin.com/in/ben-johnson-9a5375a",
+  "emails": [
+    {
+      "email": "drbenjohnson@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "johnson.b@cancerfoundationofnega.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 706-353-4354",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Dr. Ben Johnson Services, LLC"
+}

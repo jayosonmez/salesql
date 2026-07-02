@@ -1,0 +1,34 @@
+{
+  "uuid": "f5017b9f-2859-40bd-be66-0f12cdb26693",
+  "first_name": "Nathaniel Paul",
+  "last_name": "Clark",
+  "full_name": "Nathaniel Paul Clark",
+  "linkedin_url": "https://linkedin.com/in/nathaniel-paul-clark-3853245",
+  "emails": [
+    {
+      "email": "packerswin@hrtc.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nathaniel.clark@sigmaaldrich.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-249-5793",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 718-545-7700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MilliporeSigma"
+}

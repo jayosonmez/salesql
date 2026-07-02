@@ -1,0 +1,27 @@
+{
+  "uuid": "c2b09c4a-6701-4b21-b71e-789367c82500",
+  "first_name": "Kenneth",
+  "last_name": "Lien",
+  "full_name": "Kenneth Lien",
+  "linkedin_url": "https://linkedin.com/in/kennethlien",
+  "emails": [
+    {
+      "email": "kenneth@wixsite.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kennethlien@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 1535 667605",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Collective Human Spirit"
+}

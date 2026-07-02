@@ -1,0 +1,51 @@
+{
+  "uuid": "f0c25adc-3ceb-4869-be31-ac430fac0de6",
+  "first_name": "Anand V",
+  "last_name": "Lalwani",
+  "full_name": "Anand V Lalwani",
+  "linkedin_url": "https://linkedin.com/in/anandlalwani",
+  "emails": [
+    {
+      "email": "anand@trykintsugi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anand@wisprflow.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anand.lalwani@talosmgt.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lalwani@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anandl@cardinalrobot.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anandl@stanford.edu",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alalwani@dormroomfund.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anand.v.lalwani@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Cardinal Robotics"
+}

@@ -1,0 +1,59 @@
+{
+  "uuid": "a3585924-7b38-4e31-9e2d-c1be37f5000e",
+  "first_name": "Mark",
+  "last_name": "Lotke",
+  "full_name": "Mark Lotke",
+  "linkedin_url": "https://linkedin.com/in/mark-lotke-979b503",
+  "emails": [
+    {
+      "email": "mark@lotke.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark.lotke@uipath.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "m.lotke@harmonyvp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark.lotke@klaviyo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark.lotke@arcticwolf.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark@orca.security",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark.lotke@axonius.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-428-8559",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 212-940-9670",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harmony Partners"
+}

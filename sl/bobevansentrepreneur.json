@@ -1,0 +1,21 @@
+{
+  "uuid": "ca7127f2-a7e8-46f6-b3c7-8d18edf82919",
+  "first_name": "Bob",
+  "last_name": "Evans",
+  "full_name": "Bob Evans",
+  "linkedin_url": "https://linkedin.com/in/bobevansentrepreneur",
+  "emails": [
+    {
+      "email": "bob@fiberinternetcenter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bob@inventxr.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "InventXR LLC"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "2c856501-5ad9-4b57-9c2f-121ba0bc307c",
+  "first_name": "Doug",
+  "last_name": "L.",
+  "full_name": "Doug L.",
+  "linkedin_url": "https://linkedin.com/in/dolucas",
+  "emails": [
+    {
+      "email": "dlucas@google.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-829-4815",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Google"
+}

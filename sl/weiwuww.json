@@ -1,0 +1,53 @@
+{
+  "uuid": "ff79fa06-5d94-48a4-ae31-bff67c4f90fa",
+  "first_name": "Wei",
+  "last_name": "Wu, PhD",
+  "full_name": "Wei Wu, PhD",
+  "linkedin_url": "https://linkedin.com/in/weiwuww",
+  "emails": [
+    {
+      "email": "elanorbiogirl@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "weiwu@berkeley.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "wwu@epibiologics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wu_wei@kaken.co.jp",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wu@prazertx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wei.wu@ronovosurgical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wei.wu@jnj.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-524-0400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Johnson & Johnson"
+}

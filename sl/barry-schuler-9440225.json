@@ -1,0 +1,48 @@
+{
+  "uuid": "21ac7451-4f31-468c-bfbf-4014eaa1019a",
+  "first_name": "Barry",
+  "last_name": "Schuler",
+  "full_name": "Barry Schuler",
+  "linkedin_url": "https://linkedin.com/in/barry-schuler-9440225",
+  "emails": [
+    {
+      "email": "bschuler@dfj.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "barry@meteorvineyard.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "barry@dfj.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sb@newtechnetwork.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "barry@dfjgrowth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "barry@aol.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-233-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DFJ Growth"
+}

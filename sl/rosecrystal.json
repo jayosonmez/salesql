@@ -1,0 +1,21 @@
+{
+  "uuid": "7cb2dcfd-dd6e-41e5-a482-81d51e1faa2a",
+  "first_name": "Crystal",
+  "last_name": "Rose",
+  "full_name": "Crystal Rose",
+  "linkedin_url": "https://linkedin.com/in/rosecrystal",
+  "emails": [
+    {
+      "email": "crystal@sensay.it",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "crystal@integrofoundation.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lighthouse NFT Gallery"
+}

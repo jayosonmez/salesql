@@ -1,0 +1,46 @@
+{
+  "uuid": "877a4f54-8db6-4153-8f53-5c9963a6f63c",
+  "first_name": "Itali",
+  "last_name": "Pedroni Collini",
+  "full_name": "Itali Pedroni Collini",
+  "linkedin_url": "https://linkedin.com/in/italicollini",
+  "emails": [
+    {
+      "email": "itali.collini@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "itali@wishe.com.br",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "itali.collini@500.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "itali.pedroni@fiesp.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "itali@somosfeel.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "itali@kultua.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "italipedroni@amyi.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Potencia Ventures"
+}

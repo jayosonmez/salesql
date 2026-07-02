@@ -1,0 +1,16 @@
+{
+  "uuid": "6ef16feb-4de7-4adf-b5e3-b028415b37a1",
+  "first_name": "Sinan",
+  "last_name": "Reis",
+  "full_name": "Sinan Reis",
+  "linkedin_url": "https://linkedin.com/in/sinan-reis-8981b39b",
+  "emails": [
+    {
+      "email": "sinan.reis@adidas.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "TalentWay Consultancy"
+}

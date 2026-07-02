@@ -1,0 +1,21 @@
+{
+  "uuid": "61b325c5-ce0a-4dc7-b218-b9a16805427b",
+  "first_name": "Marcella",
+  "last_name": "McColl",
+  "full_name": "Marcella McColl",
+  "linkedin_url": "https://linkedin.com/in/marcellamccoll",
+  "emails": [
+    {
+      "email": "marcella@howwomeninvest.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mdr_cpa@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

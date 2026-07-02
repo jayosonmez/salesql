@@ -1,0 +1,23 @@
+{
+  "uuid": "f29dd57a-3413-4fa0-be10-8060e58f8574",
+  "first_name": "Robert",
+  "last_name": "Glasgold",
+  "full_name": "Robert Glasgold",
+  "linkedin_url": "https://linkedin.com/in/robert-glasgold-68bbb7119",
+  "emails": [
+    {
+      "email": "drrobert@glasgoldgroup.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-846-6540",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Glasgold Group Plastic Surgery"
+}

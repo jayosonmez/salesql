@@ -1,0 +1,23 @@
+{
+  "uuid": "aa9804e4-a1fc-4cae-917b-40a09a7973b6",
+  "first_name": "Yanli",
+  "last_name": "Jia",
+  "full_name": "Yanli Jia",
+  "linkedin_url": "https://linkedin.com/in/yanlijia305a93265",
+  "emails": [
+    {
+      "email": "yanlijia@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-642-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Berkeley"
+}

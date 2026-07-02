@@ -1,0 +1,28 @@
+{
+  "uuid": "cc198ee4-f9d5-4bf4-a8a8-b6e7b4034777",
+  "first_name": "McKenzie",
+  "last_name": "Smith",
+  "full_name": "McKenzie Smith",
+  "linkedin_url": "https://linkedin.com/in/mckenzie-smith-274747115",
+  "emails": [
+    {
+      "email": "msmith@fertilizercanada.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mckenzie@climateactionreserve.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 213-891-1444",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Climate Action Reserve"
+}

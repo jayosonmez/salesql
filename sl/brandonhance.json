@@ -1,0 +1,31 @@
+{
+  "uuid": "addfcdd9-ae14-4418-982b-b2e0c5cbeb39",
+  "first_name": "Brandon",
+  "last_name": "Hance",
+  "full_name": "Brandon Hance",
+  "linkedin_url": "https://linkedin.com/in/brandonhance",
+  "emails": [
+    {
+      "email": "brandon@inhancedesignbuild.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brandon@alder.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brandon.hance@inhance.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bhance@avenuehomes.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Angeleno"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "8d8b1e8a-7e35-46a5-ac7f-2ee967ea604a",
+  "first_name": "Pamela",
+  "last_name": "Weinberger, PA-C",
+  "full_name": "Pamela Weinberger, PA-C",
+  "linkedin_url": "https://linkedin.com/in/pamela-weinberger-pa-c-321714b0",
+  "emails": [
+    {
+      "email": "pamela@jeunemiami.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-501-0212",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Jeune Aesthetics"
+}

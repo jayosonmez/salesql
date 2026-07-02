@@ -1,0 +1,23 @@
+{
+  "uuid": "39b98b56-4396-4026-81f2-2772564760d9",
+  "first_name": "Jennifer J.",
+  "last_name": "Walker-Kinde D.O",
+  "full_name": "Jennifer J. Walker-Kinde D.O",
+  "linkedin_url": "https://linkedin.com/in/jennifer-j-walker-kinde-d-o-8920b075",
+  "emails": [
+    {
+      "email": "jenniferw@permanente.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-271-6847",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northwest Permanente"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "d23d7521-2d48-480d-bf27-b65d5ca6dcd6",
+  "first_name": "Jon",
+  "last_name": "M.",
+  "full_name": "Jon M.",
+  "linkedin_url": "https://linkedin.com/in/jmarinas",
+  "emails": [
+    {
+      "email": "jon.marinas@jmmmgt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-350-6807",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 847-868-3333",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SoCo Management Group"
+}

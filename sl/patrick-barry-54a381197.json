@@ -1,0 +1,28 @@
+{
+  "uuid": "e8066445-3687-4f35-be90-66f7c1676e62",
+  "first_name": "Patrick",
+  "last_name": "Barry",
+  "full_name": "Patrick Barry",
+  "linkedin_url": "https://linkedin.com/in/patrick-barry-54a381197",
+  "emails": [
+    {
+      "email": "pbarry@sjm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pbarry@vitalconnect.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-963-4600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VitalConnect"
+}

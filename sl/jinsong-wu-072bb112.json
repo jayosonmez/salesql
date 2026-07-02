@@ -1,0 +1,28 @@
+{
+  "uuid": "54c69c2d-bfcf-49f4-99e8-718c32fc9db1",
+  "first_name": "Jinsong",
+  "last_name": "Wu",
+  "full_name": "Jinsong Wu",
+  "linkedin_url": "https://linkedin.com/in/jinsong-wu-072bb112",
+  "emails": [
+    {
+      "email": "jinsong.wu@northwestern.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jinsong-wu@northwestern.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-491-3741",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northwestern University"
+}

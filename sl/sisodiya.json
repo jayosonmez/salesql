@@ -1,0 +1,23 @@
+{
+  "uuid": "66629149-c5fc-4491-bf2e-4abdb1a5df5f",
+  "first_name": "Vikram",
+  "last_name": "S.",
+  "full_name": "Vikram S.",
+  "linkedin_url": "https://linkedin.com/in/sisodiya",
+  "emails": [
+    {
+      "email": "sisodiya@gene.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-866-8548",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Denali Therapeutics"
+}

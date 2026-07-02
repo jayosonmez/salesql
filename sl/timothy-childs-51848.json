@@ -1,0 +1,28 @@
+{
+  "uuid": "8a2659ce-755b-404b-ac8e-ce56673922ba",
+  "first_name": "Timothy",
+  "last_name": "Childs",
+  "full_name": "Timothy Childs",
+  "linkedin_url": "https://linkedin.com/in/timothy-childs-51848",
+  "emails": [
+    {
+      "email": "timothy@whqti.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "timothyc@treasure8.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-291-9192",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Nutri8"
+}

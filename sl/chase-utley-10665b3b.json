@@ -1,0 +1,21 @@
+{
+  "uuid": "9e94f2c5-bd40-4645-81c1-07c9c69aa79b",
+  "first_name": "Chase",
+  "last_name": "Utley",
+  "full_name": "Chase Utley",
+  "linkedin_url": "https://linkedin.com/in/chase-utley-10665b3b",
+  "emails": [
+    {
+      "email": "dilmax100@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "cutley@phillies.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Philadelphia Phillies"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "9e28cbd5-e2b1-4ea8-b85d-97cbf27c8e0b",
+  "first_name": "Greg",
+  "last_name": "Coleman",
+  "full_name": "Greg Coleman",
+  "linkedin_url": "https://linkedin.com/in/grcoleman",
+  "emails": [
+    {
+      "email": "gregcoleman54@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "greg.coleman@nyu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Greg Coleman Ventures"
+}

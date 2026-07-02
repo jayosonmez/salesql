@@ -1,0 +1,17 @@
+{
+  "uuid": "61d251b5-d3e7-4822-a6cb-e16280fa6ae7",
+  "first_name": "M. Astrid",
+  "last_name": "Walter",
+  "full_name": "M. Astrid Walter",
+  "linkedin_url": "https://linkedin.com/in/m-astrid-walter-7b016690",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+49 30 81040",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bundesanstalt für Materialforschung und -prüfung"
+}

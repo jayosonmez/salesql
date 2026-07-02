@@ -1,0 +1,28 @@
+{
+  "uuid": "7c25659d-ca80-486e-81f2-4ecd1e4f2e14",
+  "first_name": "Ebru",
+  "last_name": "Gökçek Kesoğlu",
+  "full_name": "Ebru Gökçek Kesoğlu",
+  "linkedin_url": "https://linkedin.com/in/ebru-gökçek-kesoğlu-4739065",
+  "emails": [
+    {
+      "email": "ebrugo@garanti.com.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ebrug@garantibbva.com.tr",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 212 318 18 18",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Garanti BBVA"
+}

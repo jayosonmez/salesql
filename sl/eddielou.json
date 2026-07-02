@@ -1,0 +1,54 @@
+{
+  "uuid": "5ec251a0-06bd-4894-9796-63370430f9fb",
+  "first_name": "Eddie",
+  "last_name": "Lou",
+  "full_name": "Eddie Lou",
+  "linkedin_url": "https://linkedin.com/in/eddielou",
+  "emails": [
+    {
+      "email": "eddieplou@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "elou@codapet.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eddielou@shiftgig.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "elou@reloshare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eddie@glassboxmedia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eddie.lou@mspbots.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-608-8000",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 833-263-2738",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CodaPet At Home Pet Euthanasia"
+}

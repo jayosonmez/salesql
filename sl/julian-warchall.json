@@ -1,0 +1,23 @@
+{
+  "uuid": "64308d5f-f32d-424b-9ef5-caee33dae14e",
+  "first_name": "Julian",
+  "last_name": "Warchall, Ph.D.",
+  "full_name": "Julian Warchall, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/julian-warchall",
+  "emails": [
+    {
+      "email": "julian.warchall@ibm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-499-1900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IBM"
+}

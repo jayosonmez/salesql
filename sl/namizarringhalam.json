@@ -1,0 +1,29 @@
+{
+  "uuid": "aa5d869c-1dad-43f8-aea9-208c535dc603",
+  "first_name": "Nami",
+  "last_name": "Zarringhalam",
+  "full_name": "Nami Zarringhalam",
+  "linkedin_url": "https://linkedin.com/in/namizarringhalam",
+  "emails": [
+    {
+      "email": "nami.zarringhalam@truecaller.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+46 73 669 39 89",
+      "type": "Personal",
+      "country_code": "SE",
+      "is_valid": true
+    },
+    {
+      "phone": "+46 70 450 62 10",
+      "type": "Work",
+      "country_code": "SE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Truecaller"
+}

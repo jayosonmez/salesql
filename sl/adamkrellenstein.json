@@ -1,0 +1,16 @@
+{
+  "uuid": "e0a2c568-b29a-467a-ae5f-25e998974f7f",
+  "first_name": "Adam",
+  "last_name": "Krellenstein",
+  "full_name": "Adam Krellenstein",
+  "linkedin_url": "https://linkedin.com/in/adamkrellenstein",
+  "emails": [
+    {
+      "email": "adam@krellenstein.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Unspendable Labs"
+}

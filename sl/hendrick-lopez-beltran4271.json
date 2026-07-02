@@ -1,0 +1,17 @@
+{
+  "uuid": "f9b51416-0cff-45c0-b53d-ef3577e7f1fc",
+  "first_name": "Hendrick",
+  "last_name": "Lopez-Beltran",
+  "full_name": "Hendrick Lopez-Beltran",
+  "linkedin_url": "https://linkedin.com/in/hendrick-lopez-beltran4271",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 720-305-0400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CLP Engineering, LLC"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "42273f8e-4b91-4cb1-8558-06a1df17c310",
+  "first_name": "Peter",
+  "last_name": "Mage",
+  "full_name": "Peter Mage",
+  "linkedin_url": "https://linkedin.com/in/petermage",
+  "emails": [
+    {
+      "email": "peter_mage@waters.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 508-478-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Waters Corporation"
+}

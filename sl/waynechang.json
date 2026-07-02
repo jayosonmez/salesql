@@ -1,0 +1,41 @@
+{
+  "uuid": "eb71dd5d-2870-4bbf-992f-cf1adba5b23e",
+  "first_name": "Wayne",
+  "last_name": "Chang",
+  "full_name": "Wayne Chang",
+  "linkedin_url": "https://linkedin.com/in/waynechang",
+  "emails": [
+    {
+      "email": "wayne@waynechang.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "email@waynechang.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "linkedin@wayne.net",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "waynechang@crashlytics.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "wayne@patented.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "wayne@soi.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Reasoner"
+}

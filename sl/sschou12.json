@@ -1,0 +1,53 @@
+{
+  "uuid": "5b91e888-1695-45dd-abaa-04ad7b215ce3",
+  "first_name": "Stephen",
+  "last_name": "Chou",
+  "full_name": "Stephen Chou",
+  "linkedin_url": "https://linkedin.com/in/sschou12",
+  "emails": [
+    {
+      "email": "s1chou@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "schou@translinkcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "s.c@coolerscreens.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cs@gamevice.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sschou12@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "stephen.chou@credit-suisse.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "schou@cisco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-526-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cisco"
+}

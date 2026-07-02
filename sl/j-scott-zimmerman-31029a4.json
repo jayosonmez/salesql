@@ -1,0 +1,17 @@
+{
+  "uuid": "87f27a2e-c944-4a5e-8a47-1d509aabad47",
+  "first_name": "J. Scott",
+  "last_name": "Zimmerman",
+  "full_name": "J. Scott Zimmerman",
+  "linkedin_url": "https://linkedin.com/in/j-scott-zimmerman-31029a4",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 713-255-8366",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

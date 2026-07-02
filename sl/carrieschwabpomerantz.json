@@ -1,0 +1,23 @@
+{
+  "uuid": "506bb6e3-0458-45ba-b04e-290023a22a67",
+  "first_name": "Carrie",
+  "last_name": "Schwab-Pomerantz",
+  "full_name": "Carrie Schwab-Pomerantz",
+  "linkedin_url": "https://linkedin.com/in/carrieschwabpomerantz",
+  "emails": [
+    {
+      "email": "carrie.schwab-pomerantz@schwab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-519-1403",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Charles Schwab"
+}

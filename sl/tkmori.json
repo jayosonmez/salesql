@@ -1,0 +1,48 @@
+{
+  "uuid": "db5d326c-b861-417d-92d4-d4bd59a4b9cc",
+  "first_name": "TK (Takeshi)",
+  "last_name": "Mori",
+  "full_name": "TK (Takeshi) Mori",
+  "linkedin_url": "https://linkedin.com/in/tkmori",
+  "emails": [
+    {
+      "email": "tkmori@zenshincp.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "takeshi_mori@joincake.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "takeshi_mori@bigleaf.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tk@goaheadvc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tk@corvus-robotics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tk@hackerrank.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-275-2465",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GoAhead Ventures"
+}

@@ -1,0 +1,48 @@
+{
+  "uuid": "fe7d2346-f738-4f75-a7f9-b2f31d39bf63",
+  "first_name": "Eliot",
+  "last_name": "Durbin",
+  "full_name": "Eliot Durbin",
+  "linkedin_url": "https://linkedin.com/in/eliotdurbin",
+  "emails": [
+    {
+      "email": "eliotdurbin@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "eliot@boldstart.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eliot@kustomer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eliotd@reco.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eliot.durbin@clay.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eliot@crewai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-450-1941",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "boldstart ventures"
+}

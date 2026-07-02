@@ -1,0 +1,36 @@
+{
+  "uuid": "cd577223-35dc-4bf6-9b91-4fd159f896e3",
+  "first_name": "Nkechi",
+  "last_name": "Iregbulem",
+  "full_name": "Nkechi Iregbulem",
+  "linkedin_url": "https://linkedin.com/in/nkechiiregbulem",
+  "emails": [
+    {
+      "email": "niregbulem@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "nkechi@coframe.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ni@aeonindustrial.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nkechi@neros.tech",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nkechi@odindynamics.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Neros Technologies"
+}

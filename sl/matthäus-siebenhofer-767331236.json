@@ -1,0 +1,23 @@
+{
+  "uuid": "af658727-2f77-4e42-b02d-fd8c814172fa",
+  "first_name": "Matthäus",
+  "last_name": "Siebenhofer",
+  "full_name": "Matthäus Siebenhofer",
+  "linkedin_url": "https://linkedin.com/in/matthäus-siebenhofer-767331236",
+  "emails": [
+    {
+      "email": "msiebenhofer@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-253-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts Institute of Technology"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "9f88d5c7-a939-4af8-b269-83edf78964fb",
+  "first_name": "Patrick",
+  "last_name": "Suel",
+  "full_name": "Patrick Suel",
+  "linkedin_url": "https://linkedin.com/in/patrick-suel-160a3",
+  "emails": [
+    {
+      "email": "pgsuel@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "psuel@acimaterials.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "patrick@iaterion.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Capital K"
+}

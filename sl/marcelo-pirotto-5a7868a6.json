@@ -1,0 +1,22 @@
+{
+  "uuid": "eac5f318-2171-48ee-9510-c20b96fba0fb",
+  "first_name": "Marcelo",
+  "last_name": "Pirotto",
+  "full_name": "Marcelo Pirotto",
+  "linkedin_url": "https://linkedin.com/in/marcelo-pirotto-5a7868a6",
+  "emails": [
+    {
+      "email": "marcelo@ventiur.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 51 99150-2429",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VENTIUR"
+}

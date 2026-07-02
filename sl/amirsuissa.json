@@ -1,0 +1,43 @@
+{
+  "uuid": "d995f667-6c00-458c-a0a7-afe78f1c805b",
+  "first_name": "Amir",
+  "last_name": "Suissa",
+  "full_name": "Amir Suissa",
+  "linkedin_url": "https://linkedin.com/in/amirsuissa",
+  "emails": [
+    {
+      "email": "as@brainforest.global",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amir.suissa@poinz.ch",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amir.suissa@cnc24.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amir.suissa@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "amir.suissa@wefox.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+41 79 466 44 68",
+      "type": "Personal",
+      "country_code": "CH",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Brainforest"
+}

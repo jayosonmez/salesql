@@ -1,0 +1,23 @@
+{
+  "uuid": "3093b3d9-796a-421b-acdc-75ea58fee6dd",
+  "first_name": "Hussein",
+  "last_name": "Abed",
+  "full_name": "Hussein Abed",
+  "linkedin_url": "https://linkedin.com/in/h-labed",
+  "emails": [
+    {
+      "email": "habed@beckmancoulter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-877-6242",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Beckman Coulter Diagnostics"
+}

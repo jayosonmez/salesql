@@ -1,0 +1,23 @@
+{
+  "uuid": "541c76f0-a5fb-4711-a23a-0d12330ab514",
+  "first_name": "YANI",
+  "last_name": "GUAN",
+  "full_name": "YANI GUAN",
+  "linkedin_url": "https://linkedin.com/in/yani-guan-38917b251",
+  "emails": [
+    {
+      "email": "yguan@ucla.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-825-4321",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UCLA"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "1447ad23-a2c7-4cc1-8b43-23efde587c18",
+  "first_name": "Carrie",
+  "last_name": "Rose",
+  "full_name": "Carrie Rose",
+  "linkedin_url": "https://linkedin.com/in/carrie-rose-868609b5",
+  "emails": [
+    {
+      "email": "mdcrose@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "carrierose@wellnesslab.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Wellness Lab"
+}

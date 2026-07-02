@@ -1,0 +1,28 @@
+{
+  "uuid": "a54aed09-ffba-4667-9ee3-7cb3b868517b",
+  "first_name": "James",
+  "last_name": "Koshigoe",
+  "full_name": "James Koshigoe",
+  "linkedin_url": "https://linkedin.com/in/jameskosh",
+  "emails": [
+    {
+      "email": "james@jameskoshigoe.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james@retoldrecycling.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 720-255-1230",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Render Better"
+}

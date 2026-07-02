@@ -1,0 +1,26 @@
+{
+  "uuid": "ce29021d-f329-4faf-88a8-2a60125cab2f",
+  "first_name": "Charles",
+  "last_name": "Vernau",
+  "full_name": "Charles Vernau",
+  "linkedin_url": "https://linkedin.com/in/charlesvernau",
+  "emails": [
+    {
+      "email": "cvernau@live.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "charles-vernau@natilus.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "charles@inceptionfund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Inception Fund"
+}

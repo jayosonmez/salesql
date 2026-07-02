@@ -1,0 +1,21 @@
+{
+  "uuid": "fa15f77a-5533-45f5-912d-b84ffc9af2ab",
+  "first_name": "Dennis",
+  "last_name": "Chan",
+  "full_name": "Dennis Chan",
+  "linkedin_url": "https://linkedin.com/in/dennis-chan-3976051",
+  "emails": [
+    {
+      "email": "dennischan50@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dennis@astia.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stanford Angels and Entrepreneurs"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "87fea06c-69cf-49cf-988f-71d5e3fb3346",
+  "first_name": "Kevin",
+  "last_name": "Weil",
+  "full_name": "Kevin Weil",
+  "linkedin_url": "https://linkedin.com/in/kevinweil",
+  "emails": [
+    {
+      "email": "kevin@openai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kweil@nature.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "k.weil@army.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kweil@cfr.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kweil@cisco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kevinweil@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "OpenAI"
+}

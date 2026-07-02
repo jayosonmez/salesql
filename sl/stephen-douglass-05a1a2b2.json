@@ -1,0 +1,23 @@
+{
+  "uuid": "3ea8d859-a618-46f2-8e2e-6882bc9bf6f3",
+  "first_name": "Stephen",
+  "last_name": "Douglass",
+  "full_name": "Stephen Douglass",
+  "linkedin_url": "https://linkedin.com/in/stephen-douglass-05a1a2b2",
+  "emails": [
+    {
+      "email": "sdouglass@incyte.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 302-498-6700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Incyte"
+}

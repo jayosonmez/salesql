@@ -1,0 +1,21 @@
+{
+  "uuid": "97d2a240-00f4-4c62-9614-f17bc378cb58",
+  "first_name": "Giselle",
+  "last_name": "Aerni, MD",
+  "full_name": "Giselle Aerni, MD",
+  "linkedin_url": "https://linkedin.com/in/giselle-aerni-md",
+  "emails": [
+    {
+      "email": "giselle.aerni@amwell.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "g.a@amwell.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Madam Athlete LLC"
+}

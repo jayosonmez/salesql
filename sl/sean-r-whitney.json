@@ -1,0 +1,36 @@
+{
+  "uuid": "f391fb59-0287-4efd-ac42-c8b372689e38",
+  "first_name": "Sean",
+  "last_name": "Whitney",
+  "full_name": "Sean Whitney",
+  "linkedin_url": "https://linkedin.com/in/sean-r-whitney",
+  "emails": [
+    {
+      "email": "srw85@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "seanwhitney@craftventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "srwhitney19@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sean.whitney@enjoy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "swhitney@copleyequity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Craft Ventures"
+}

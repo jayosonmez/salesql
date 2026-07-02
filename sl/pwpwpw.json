@@ -1,0 +1,64 @@
+{
+  "uuid": "29db0aee-7a3a-4da4-8048-6fea78b3190f",
+  "first_name": "Peter",
+  "last_name": "Wycisk",
+  "full_name": "Peter Wycisk",
+  "linkedin_url": "https://linkedin.com/in/pwpwpw",
+  "emails": [
+    {
+      "email": "peter@numenventures.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "pjw15@cwru.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pjw15@case.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter@fenoxvc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "peter.wycisk@hithium.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter.wycisk@cradleinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter@newcourseventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter.wycisk@affectiva.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 216-256-8338",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+86 592 605 0365",
+      "type": "Work",
+      "country_code": "CN",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HiTHIUM Energy Storage"
+}

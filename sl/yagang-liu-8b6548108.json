@@ -1,0 +1,23 @@
+{
+  "uuid": "907f2942-fc59-4a03-ad9b-5791e7bf9fcd",
+  "first_name": "Yagang",
+  "last_name": "Liu",
+  "full_name": "Yagang Liu",
+  "linkedin_url": "https://linkedin.com/in/yagang-liu-8b6548108",
+  "emails": [
+    {
+      "email": "yagang.liu@sciex.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 508-383-7700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SCIEX"
+}

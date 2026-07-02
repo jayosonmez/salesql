@@ -1,0 +1,21 @@
+{
+  "uuid": "77848b68-48d9-4f2e-9092-bb877723fc05",
+  "first_name": "Giovanni",
+  "last_name": "Colella, MD, MBA",
+  "full_name": "Giovanni Colella, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/giocolella",
+  "emails": [
+    {
+      "email": "gio.colella@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "giovanni.colella@vanna.health",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "SanLuca"
+}

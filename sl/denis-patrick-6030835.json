@@ -1,0 +1,43 @@
+{
+  "uuid": "682b2d4b-d38c-49fa-a6ef-4418d819d209",
+  "first_name": "Denis",
+  "last_name": "Patrick",
+  "full_name": "Denis Patrick",
+  "linkedin_url": "https://linkedin.com/in/denis-patrick-6030835",
+  "emails": [
+    {
+      "email": "denispatrick100@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "patrick-d@missiontherapeutics.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "denis.patrick@pfizer.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dp@effector.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "denis.patrick@evolveimmune.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 203-203-6584",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EvolveImmune Therapeutics"
+}

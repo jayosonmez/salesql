@@ -1,0 +1,46 @@
+{
+  "uuid": "07a45910-edf6-4c6e-8bac-facf0967ad61",
+  "first_name": "Danielle Brewin",
+  "last_name": "Graham",
+  "full_name": "Danielle Brewin Graham",
+  "linkedin_url": "https://linkedin.com/in/daniellebrewingraham",
+  "emails": [
+    {
+      "email": "daniellebrewingraham@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dgraham@venturelab.ca",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "daniellegraham16@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "danielle@archangelnetwork.ca",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "danielle@firehood.net",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "danielle@equivesto.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "danielle.graham@torontomu.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Firehood"
+}

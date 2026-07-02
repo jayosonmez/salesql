@@ -1,0 +1,28 @@
+{
+  "uuid": "27c67ace-190d-4077-9189-7aaedbf19802",
+  "first_name": "Marimar",
+  "last_name": "Benitez",
+  "full_name": "Marimar Benitez",
+  "linkedin_url": "https://linkedin.com/in/marimar-benitez-04bb3555",
+  "emails": [
+    {
+      "email": "benitezm@mskcc.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "benitezm@mskcc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-672-1780",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Memorial Sloan Kettering Cancer Center"
+}

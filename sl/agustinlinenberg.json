@@ -1,0 +1,48 @@
+{
+  "uuid": "555dec48-a950-4484-b1b5-993feec950d8",
+  "first_name": "Agustin",
+  "last_name": "Linenberg",
+  "full_name": "Agustin Linenberg",
+  "linkedin_url": "https://linkedin.com/in/agustinlinenberg",
+  "emails": [
+    {
+      "email": "agustin.linenberg@aerolab.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "agustin@blinktrip.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alinenberg@linkedin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "agustin@genloyal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "agustin@maslow.hr",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "agustin.linenberg@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+54 11 4703-4400",
+      "type": "Work",
+      "country_code": "AR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Aerolab"
+}

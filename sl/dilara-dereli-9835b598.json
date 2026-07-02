@@ -1,0 +1,34 @@
+{
+  "uuid": "559dd77e-f998-4f06-ac8d-8bf79d237760",
+  "first_name": "Dilara",
+  "last_name": "Dereli",
+  "full_name": "Dilara Dereli",
+  "linkedin_url": "https://linkedin.com/in/dilara-dereli-9835b598",
+  "emails": [
+    {
+      "email": "dilara.dereli@windowslive.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dilarad@koc.com.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 505 318 05 94",
+      "type": "Personal",
+      "country_code": "TR",
+      "is_valid": true
+    },
+    {
+      "phone": "+90 216 531 00 00",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Koç Holding"
+}

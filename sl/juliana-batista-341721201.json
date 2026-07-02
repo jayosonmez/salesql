@@ -1,0 +1,23 @@
+{
+  "uuid": "d5c4f1fb-8c88-4b83-9674-eba72a022424",
+  "first_name": "Juliana",
+  "last_name": "Batista",
+  "full_name": "Juliana Batista",
+  "linkedin_url": "https://linkedin.com/in/juliana-batista-341721201",
+  "emails": [
+    {
+      "email": "juliana.batista@childrenshospital.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-355-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Boston Children's Hospital"
+}

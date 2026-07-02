@@ -1,0 +1,36 @@
+{
+  "uuid": "ab1c5d4a-39d3-4934-bbc7-223cce6f9372",
+  "first_name": "Darrell",
+  "last_name": "Cavens",
+  "full_name": "Darrell Cavens",
+  "linkedin_url": "https://linkedin.com/in/darrellcavens",
+  "emails": [
+    {
+      "email": "dcavens@tapestry.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darrell.cavens@vouched.id",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darrell@mtch.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darrell.cavens@brooksrunning.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dcavens@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Match Group"
+}

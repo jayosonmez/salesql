@@ -1,0 +1,33 @@
+{
+  "uuid": "a45fb013-8ca9-430d-b363-2b08f5808524",
+  "first_name": "Bernhard",
+  "last_name": "Palsson",
+  "full_name": "Bernhard Palsson",
+  "linkedin_url": "https://linkedin.com/in/bernhard-palsson-40b5489",
+  "emails": [
+    {
+      "email": "bpalsson@ucsd.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bpalsson@bioeng.ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bpalsson@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-534-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC San Diego"
+}

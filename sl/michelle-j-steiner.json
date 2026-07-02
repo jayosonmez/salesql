@@ -1,0 +1,28 @@
+{
+  "uuid": "e8953f10-fc0a-490e-b449-b04822a3f9a6",
+  "first_name": "Michelle",
+  "last_name": "Steiner",
+  "full_name": "Michelle Steiner",
+  "linkedin_url": "https://linkedin.com/in/michelle-j-steiner",
+  "emails": [
+    {
+      "email": "michstein1@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "msteiner@compass.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-913-9058",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Compass"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "86c7c9c7-9e02-47a6-a826-1636f29ddd40",
+  "first_name": "Mario",
+  "last_name": "Martinez II",
+  "full_name": "Mario Martinez II",
+  "linkedin_url": "https://linkedin.com/in/mrtnzofficial",
+  "emails": [
+    {
+      "email": "mario@socialleverage.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "m@mrtnz.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mario@startupaz.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "MRTNZ Ventures"
+}

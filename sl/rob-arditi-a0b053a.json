@@ -1,0 +1,53 @@
+{
+  "uuid": "1dc655fc-af9a-41cf-98d5-eeb19e0d07f2",
+  "first_name": "Rob",
+  "last_name": "Arditi",
+  "full_name": "Rob Arditi",
+  "linkedin_url": "https://linkedin.com/in/rob-arditi-a0b053a",
+  "emails": [
+    {
+      "email": "rarditi@technicaltoolboxes.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rob@withvector.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rob.arditi@mortgageautomator.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rarditi@parsec-corp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rarditi@actionagainsthunger.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robert.arditi@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rarditi@nvp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 713-630-0505",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Technical Toolboxes"
+}

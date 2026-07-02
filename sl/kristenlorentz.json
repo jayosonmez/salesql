@@ -1,0 +1,28 @@
+{
+  "uuid": "220d08eb-b82f-4751-8484-847f164845d0",
+  "first_name": "Kristen",
+  "last_name": "Lorentz",
+  "full_name": "Kristen Lorentz",
+  "linkedin_url": "https://linkedin.com/in/kristenlorentz",
+  "emails": [
+    {
+      "email": "kristen@westorg.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kristen@deciduoustx.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 857-600-2598",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "WEST - Women in the Enterprise of Science and Technology"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "4c5a2f57-c66e-4649-962c-030f191b5671",
+  "first_name": "PAUL",
+  "last_name": "DAVIS",
+  "full_name": "PAUL DAVIS",
+  "linkedin_url": "https://linkedin.com/in/paul-davis-115b0a128",
+  "emails": [
+    {
+      "email": "paul@capstone.md",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "CapstoneMD"
+}

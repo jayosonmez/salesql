@@ -1,0 +1,23 @@
+{
+  "uuid": "27cb03a1-6279-4084-8e94-a88ae2dfd9a3",
+  "first_name": "Jessica",
+  "last_name": "Alba",
+  "full_name": "Jessica Alba",
+  "linkedin_url": "https://linkedin.com/in/jessica-alba",
+  "emails": [
+    {
+      "email": "jessica.alba@honest.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-862-8818",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Honest Company"
+}

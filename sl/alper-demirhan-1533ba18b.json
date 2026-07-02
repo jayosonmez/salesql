@@ -1,0 +1,23 @@
+{
+  "uuid": "242ee8ba-ed78-4113-ad71-84f122df53e4",
+  "first_name": "Alper",
+  "last_name": "Demirhan",
+  "full_name": "Alper Demirhan",
+  "linkedin_url": "https://linkedin.com/in/alper-demirhan-1533ba18b",
+  "emails": [
+    {
+      "email": "alper.demirhan@cranfield.ac.uk",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 1234 750111",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cranfield University"
+}

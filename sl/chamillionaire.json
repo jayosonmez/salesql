@@ -1,0 +1,23 @@
+{
+  "uuid": "d535716b-2586-4d01-8ee0-8b909934f623",
+  "first_name": "Chamillionaire",
+  "last_name": "-",
+  "full_name": "Chamillionaire -",
+  "linkedin_url": "https://linkedin.com/in/chamillionaire",
+  "emails": [
+    {
+      "email": "chamillionaire@convoz.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 213-807-6403",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Convoz"
+}

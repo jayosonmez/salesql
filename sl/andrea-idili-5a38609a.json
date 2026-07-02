@@ -1,0 +1,23 @@
+{
+  "uuid": "47482a3d-8633-489d-bcb1-cefb10b27c15",
+  "first_name": "Andrea",
+  "last_name": "Idili",
+  "full_name": "Andrea Idili",
+  "linkedin_url": "https://linkedin.com/in/andrea-idili-5a38609a",
+  "emails": [
+    {
+      "email": "andrea.idili@uniroma2.it",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+39 06 7259 3099",
+      "type": "Work",
+      "country_code": "IT",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Rome Tor Vergata"
+}

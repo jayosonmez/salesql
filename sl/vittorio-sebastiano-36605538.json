@@ -1,0 +1,54 @@
+{
+  "uuid": "a93e9e32-6eda-47f8-ad71-ab9311175e25",
+  "first_name": "Vittorio",
+  "last_name": "Sebastiano",
+  "full_name": "Vittorio Sebastiano",
+  "linkedin_url": "https://linkedin.com/in/vittorio-sebastiano-36605538",
+  "emails": [
+    {
+      "email": "vsebastiano@uci.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vittorio@phaedon.institute",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vittorio.sebastiano@agingconsortium.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vittorio@dior.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vsebast@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "vittorio.sebastiano@turn.bio",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-724-8084",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 949-824-5011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC Irvine"
+}

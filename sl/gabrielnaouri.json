@@ -1,0 +1,21 @@
+{
+  "uuid": "f78b1940-a0e2-41ab-8356-5f0cc2419cc8",
+  "first_name": "Gabriel",
+  "last_name": "Naouri",
+  "full_name": "Gabriel Naouri",
+  "linkedin_url": "https://linkedin.com/in/gabrielnaouri",
+  "emails": [
+    {
+      "email": "gabriel@majorelleinvestments.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "gabriel.naouri@weforum.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "LVB Capital"
+}

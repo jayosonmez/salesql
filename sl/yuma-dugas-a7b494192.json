@@ -1,0 +1,23 @@
+{
+  "uuid": "abad3ccb-8319-4a93-b312-0f076bde2224",
+  "first_name": "Yuma",
+  "last_name": "Dugas",
+  "full_name": "Yuma Dugas",
+  "linkedin_url": "https://linkedin.com/in/yuma-dugas-a7b494192",
+  "emails": [
+    {
+      "email": "ydugas@ucsd.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-534-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC San Diego"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c51a6d3b-f462-47a5-8d01-5c1683322507",
+  "first_name": "Eric",
+  "last_name": "Hall",
+  "full_name": "Eric Hall",
+  "linkedin_url": "https://linkedin.com/in/eric-hall-484102140",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 612-354-2779",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "So Good So You"
+}

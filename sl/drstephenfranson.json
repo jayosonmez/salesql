@@ -1,0 +1,26 @@
+{
+  "uuid": "0c884a2f-2e03-4ddd-9f22-8fd3369f933d",
+  "first_name": "Stephen",
+  "last_name": "Franson",
+  "full_name": "Stephen Franson",
+  "linkedin_url": "https://linkedin.com/in/drstephenfranson",
+  "emails": [
+    {
+      "email": "stephen@chiromatchmakers.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephen@theremarkablepractice.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "drstephen@fransonchiropractic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Remarkable Practice"
+}

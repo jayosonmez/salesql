@@ -1,0 +1,26 @@
+{
+  "uuid": "dc24f1e7-c39b-4128-b501-3274709dedcf",
+  "first_name": "Rebecca",
+  "last_name": "Barrett",
+  "full_name": "Rebecca Barrett",
+  "linkedin_url": "https://linkedin.com/in/rebeccablima",
+  "emails": [
+    {
+      "email": "rebecca@thelieu.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rebecca@thelieu.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rebecca@badassery-hq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Lieu"
+}

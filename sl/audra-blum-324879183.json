@@ -1,0 +1,28 @@
+{
+  "uuid": "5650ebe2-7b88-4c8e-8eef-bbf882f431f4",
+  "first_name": "Audra",
+  "last_name": "Blum",
+  "full_name": "Audra Blum",
+  "linkedin_url": "https://linkedin.com/in/audra-blum-324879183",
+  "emails": [
+    {
+      "email": "ablum@vaxcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "audra.blum@comphealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-829-8550",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VaxCare"
+}

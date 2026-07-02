@@ -1,0 +1,16 @@
+{
+  "uuid": "299c90fe-cb89-4138-b1c9-f1314e44f822",
+  "first_name": "Walter",
+  "last_name": "Dressick",
+  "full_name": "Walter Dressick",
+  "linkedin_url": "https://linkedin.com/in/walter-dressick-b9b1a32a",
+  "emails": [
+    {
+      "email": "walter.dressick@nrl.navy.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

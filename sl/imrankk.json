@@ -1,0 +1,48 @@
+{
+  "uuid": "52dee31d-b5f3-4353-b29f-3a810c2aea96",
+  "first_name": "Imran",
+  "last_name": "Khoja",
+  "full_name": "Imran Khoja",
+  "linkedin_url": "https://linkedin.com/in/imrankk",
+  "emails": [
+    {
+      "email": "imran@dormroomfund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "imran@yec.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ik2@williams.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "imrankhoja1@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "imran@dormroomfund.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "imran@justappraised.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-652-5573",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Just Appraised"
+}

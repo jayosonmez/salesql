@@ -1,0 +1,21 @@
+{
+  "uuid": "0d905bf3-7eb0-4e3d-9e30-856540196723",
+  "first_name": "Courtney",
+  "last_name": "Koshar MD",
+  "full_name": "Courtney Koshar MD",
+  "linkedin_url": "https://linkedin.com/in/courtney-koshar-md-53379312",
+  "emails": [
+    {
+      "email": "billirubin@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ckoshar@nphllc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "1912 Capital"
+}

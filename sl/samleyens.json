@@ -1,0 +1,23 @@
+{
+  "uuid": "d5516f10-230c-4e71-8721-f58c27b8d350",
+  "first_name": "Sam",
+  "last_name": "Leyens",
+  "full_name": "Sam Leyens",
+  "linkedin_url": "https://linkedin.com/in/samleyens",
+  "emails": [
+    {
+      "email": "sam.leyens@abbvie.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-454-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AbbVie"
+}

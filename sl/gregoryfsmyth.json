@@ -1,0 +1,21 @@
+{
+  "uuid": "24444eef-c87d-48b8-a239-fdf778774d06",
+  "first_name": "Greg",
+  "last_name": "Smyth",
+  "full_name": "Greg Smyth",
+  "linkedin_url": "https://linkedin.com/in/gregoryfsmyth",
+  "emails": [
+    {
+      "email": "greg@gregfsmyth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "gregsmyth@colabsoftware.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Diagon"
+}

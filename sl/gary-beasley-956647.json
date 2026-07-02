@@ -1,0 +1,28 @@
+{
+  "uuid": "eea712fa-034a-4860-acc0-7eca93f00f55",
+  "first_name": "Gary",
+  "last_name": "Beasley",
+  "full_name": "Gary Beasley",
+  "linkedin_url": "https://linkedin.com/in/gary-beasley-956647",
+  "emails": [
+    {
+      "email": "gary@beas.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "gary@roofstock.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-466-4116",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Roofstock"
+}

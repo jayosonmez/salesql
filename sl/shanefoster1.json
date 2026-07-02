@@ -1,0 +1,33 @@
+{
+  "uuid": "e67bf214-b800-4ec9-bb2a-0d5d6db15475",
+  "first_name": "Shane",
+  "last_name": "Foster",
+  "full_name": "Shane Foster",
+  "linkedin_url": "https://linkedin.com/in/shanefoster1",
+  "emails": [
+    {
+      "email": "sfoster@wefightboredom.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sfoster@coveredcare.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "shane@tsfcompany.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-589-5444",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Covered"
+}

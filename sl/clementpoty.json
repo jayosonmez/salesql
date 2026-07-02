@@ -1,0 +1,33 @@
+{
+  "uuid": "0f32ffd7-c1ce-41bd-a131-1d370db34c44",
+  "first_name": "Clément",
+  "last_name": "Poty",
+  "full_name": "Clément Poty",
+  "linkedin_url": "https://linkedin.com/in/clementpoty",
+  "emails": [
+    {
+      "email": "cpoty@audencia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clement@getpublica.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "clement@teampact.ventures",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-561-6908",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Publica by IAS"
+}

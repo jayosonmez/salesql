@@ -1,0 +1,23 @@
+{
+  "uuid": "e134d06f-aeb6-4283-b43a-09b2e6706f00",
+  "first_name": "Gregory",
+  "last_name": "Wesner",
+  "full_name": "Gregory Wesner",
+  "linkedin_url": "https://linkedin.com/in/gregory-wesner-20aa263",
+  "emails": [
+    {
+      "email": "gwesner@receptorlife.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-223-7272",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Spoke Sciences, Inc."
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "622a7f14-f29c-4b03-9d73-367a382e4ce6",
+  "first_name": "Michael",
+  "last_name": "Taylor",
+  "full_name": "Michael Taylor",
+  "linkedin_url": "https://linkedin.com/in/michael-taylor-81807529",
+  "emails": [
+    {
+      "email": "mikentricia@earthlink.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

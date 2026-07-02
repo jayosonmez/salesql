@@ -1,0 +1,33 @@
+{
+  "uuid": "d6b8cd76-dd36-4591-b37f-cff7f8532951",
+  "first_name": "Astor",
+  "last_name": "Birri",
+  "full_name": "Astor Birri",
+  "linkedin_url": "https://linkedin.com/in/birri",
+  "emails": [
+    {
+      "email": "info@birri.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "birri@tranette.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "astorbirri@fortodo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-367-8636",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "For; to (do)"
+}

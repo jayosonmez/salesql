@@ -1,0 +1,17 @@
+{
+  "uuid": "02af422e-7061-420a-a76e-fb056ca704cc",
+  "first_name": "Gizem Didem",
+  "last_name": "Seçgin",
+  "full_name": "Gizem Didem Seçgin",
+  "linkedin_url": "https://linkedin.com/in/gizem-didem-seçgin-b4506658",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+90 312 213 88 66",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "RE/MAX BRAVO"
+}

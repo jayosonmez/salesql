@@ -1,0 +1,16 @@
+{
+  "uuid": "f2b1afb3-8d46-4e44-a2af-33d6fd7ff191",
+  "first_name": "Benjamin",
+  "last_name": "Wiley",
+  "full_name": "Benjamin Wiley",
+  "linkedin_url": "https://linkedin.com/in/benjamin-wiley-36149633",
+  "emails": [
+    {
+      "email": "bjw24@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sparta Biomedical"
+}

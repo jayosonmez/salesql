@@ -1,0 +1,28 @@
+{
+  "uuid": "b7d9eb76-3dc6-4004-89e8-045dbb76f8bc",
+  "first_name": "Miray",
+  "last_name": "Yilmaz",
+  "full_name": "Miray Yilmaz",
+  "linkedin_url": "https://linkedin.com/in/miray-yilmaz-54815a9b",
+  "emails": [
+    {
+      "email": "miray@uplift-people.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mirayyilmaz@uplift-people.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+372 712 0896",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Uplift People Consulting"
+}

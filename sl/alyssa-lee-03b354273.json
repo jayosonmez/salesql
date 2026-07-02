@@ -1,0 +1,17 @@
+{
+  "uuid": "e48f6e5d-ca8b-4cdc-a785-4a6a09c48394",
+  "first_name": "Alyssa",
+  "last_name": "Lee",
+  "full_name": "Alyssa Lee",
+  "linkedin_url": "https://linkedin.com/in/alyssa-lee-03b354273",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 404-676-2121",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Coca-Cola Company"
+}

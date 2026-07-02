@@ -1,0 +1,23 @@
+{
+  "uuid": "f1475dbe-054c-4b51-8bca-08665be2a292",
+  "first_name": "Carmel",
+  "last_name": "Chan, Ph.D.",
+  "full_name": "Carmel Chan, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/carmel-chan-ph-d-7889312",
+  "emails": [
+    {
+      "email": "cchan@endrainc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 734-335-0468",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ENDRA Life Sciences (Nasdaq: NDRA)"
+}

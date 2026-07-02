@@ -1,0 +1,16 @@
+{
+  "uuid": "7e1d0f45-139a-4a17-a6d4-980f96eae889",
+  "first_name": "Alexander",
+  "last_name": "Chan",
+  "full_name": "Alexander Chan",
+  "linkedin_url": "https://linkedin.com/in/alexander-m-chan",
+  "emails": [
+    {
+      "email": "amchan@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Beacon Biosignals"
+}

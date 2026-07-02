@@ -1,0 +1,23 @@
+{
+  "uuid": "6545b809-ce16-4fe1-babd-72c0f88ba957",
+  "first_name": "Leon",
+  "last_name": "Liebman",
+  "full_name": "Leon Liebman",
+  "linkedin_url": "https://linkedin.com/in/leonliebman",
+  "emails": [
+    {
+      "email": "vcinvestor@msn.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 203-258-5214",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Frontier Angels Fund II"
+}

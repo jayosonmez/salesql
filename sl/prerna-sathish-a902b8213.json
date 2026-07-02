@@ -1,0 +1,28 @@
+{
+  "uuid": "41c675f2-2971-4cfb-886c-ef766bbcedd3",
+  "first_name": "Prerna",
+  "last_name": "Sathish",
+  "full_name": "Prerna Sathish",
+  "linkedin_url": "https://linkedin.com/in/prerna-sathish-a902b8213",
+  "emails": [
+    {
+      "email": "prerna_sathish@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sathish@sastra.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-524-1718",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard Medical School"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "b3e2f6c7-6f96-4cec-b57c-0e2b22d83364",
+  "first_name": "Scotty",
+  "last_name": "McNutt",
+  "full_name": "Scotty McNutt",
+  "linkedin_url": "https://linkedin.com/in/scotty-mcnutt-61437",
+  "emails": [
+    {
+      "email": "scotty@austin.rr.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Howard Mac Holdings LLC"
+}

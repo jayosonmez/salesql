@@ -1,0 +1,33 @@
+{
+  "uuid": "4f6e6d9f-1e53-4c6a-86ec-701a2fab04f1",
+  "first_name": "Matthew",
+  "last_name": "M.",
+  "full_name": "Matthew M.",
+  "linkedin_url": "https://linkedin.com/in/matthewmcateer0",
+  "emails": [
+    {
+      "email": "matthewm@oreilly.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mmcateer@tribeai.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "matthew_mcateer@brown.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-774-0454",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Meta"
+}

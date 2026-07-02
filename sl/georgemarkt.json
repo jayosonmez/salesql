@@ -1,0 +1,29 @@
+{
+  "uuid": "2aaedf41-3050-4df5-9350-4284a08e8bff",
+  "first_name": "George",
+  "last_name": "Markt",
+  "full_name": "George Markt",
+  "linkedin_url": "https://linkedin.com/in/georgemarkt",
+  "emails": [
+    {
+      "email": "george@integralbiosystems.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 845-248-6116",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 781-258-4039",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Integral Biosystems"
+}

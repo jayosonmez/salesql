@@ -1,0 +1,26 @@
+{
+  "uuid": "984ab7ec-dd86-4606-8afc-e197c08d84b8",
+  "first_name": "Denver",
+  "last_name": "Williams",
+  "full_name": "Denver Williams",
+  "linkedin_url": "https://linkedin.com/in/denver-williams-7b85762",
+  "emails": [
+    {
+      "email": "denver-williams@cfl.rr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "denver.williams@riptidesoftware.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "denver@disneycareers.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Walt Disney Company"
+}

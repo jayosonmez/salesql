@@ -1,0 +1,54 @@
+{
+  "uuid": "8be74eb2-1bf2-4666-a9b0-6cccf541602a",
+  "first_name": "Ian",
+  "last_name": "Cox Moya",
+  "full_name": "Ian Cox Moya",
+  "linkedin_url": "https://linkedin.com/in/iancoxmoya",
+  "emails": [
+    {
+      "email": "ian.a.cox@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ian.cox@ume.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "icox@paypal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ian@olelife.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ian.cox@creditgenie.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ian.cox@mendel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-967-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-714-0678",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PayPal"
+}

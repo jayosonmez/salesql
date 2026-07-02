@@ -1,0 +1,33 @@
+{
+  "uuid": "0acb6c96-4c32-467d-86de-81eaecca777e",
+  "first_name": "Catharina",
+  "last_name": "Armstrong",
+  "full_name": "Catharina Armstrong",
+  "linkedin_url": "https://linkedin.com/in/catharina-armstrong-9b3ba7140",
+  "emails": [
+    {
+      "email": "catharina.armstrong@nwh.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "catharina@windsormountain.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carmstrong@partners.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-243-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Newton-Wellesley Hospital"
+}

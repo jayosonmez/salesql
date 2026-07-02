@@ -1,0 +1,27 @@
+{
+  "uuid": "e5bf9d42-c221-4874-ba23-ae0a19c0ed32",
+  "first_name": "Thérèse",
+  "last_name": "Leblois",
+  "full_name": "Thérèse Leblois",
+  "linkedin_url": "https://linkedin.com/in/thérèse-leblois-11858950",
+  "emails": [
+    {
+      "email": "therese.leblois@univ-fcomte.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "therese.leblois@femto-st.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 3 63 08 24 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FEMTO-ST Institute"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9fbfb9b7-3c95-4b87-8e7e-0e640fa71859",
+  "first_name": "Rafael",
+  "last_name": "Forzza Madeira",
+  "full_name": "Rafael Forzza Madeira",
+  "linkedin_url": "https://linkedin.com/in/rafael-forzza-madeira-5123b9118",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 404-676-2121",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Coca-Cola Company"
+}

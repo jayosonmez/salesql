@@ -1,0 +1,17 @@
+{
+  "uuid": "27675598-ce1a-44a7-a4a4-26c696a3ab52",
+  "first_name": "Kavya",
+  "last_name": "M.",
+  "full_name": "Kavya M.",
+  "linkedin_url": "https://linkedin.com/in/kavyasmenon",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 617-524-1718",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wyss Institute at Harvard University"
+}

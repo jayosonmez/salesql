@@ -1,0 +1,17 @@
+{
+  "uuid": "6c77cd31-0df8-4fc4-b662-ca49da08d04d",
+  "first_name": "Zhen",
+  "last_name": "Xiong",
+  "full_name": "Zhen Xiong",
+  "linkedin_url": "https://linkedin.com/in/-zxiong",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 408-727-5555",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Applied Materials"
+}

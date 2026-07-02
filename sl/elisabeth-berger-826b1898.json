@@ -1,0 +1,16 @@
+{
+  "uuid": "eab457d8-b1e2-4944-9fc3-42c74a4d0ec9",
+  "first_name": "Elisabeth",
+  "last_name": "Berger",
+  "full_name": "Elisabeth Berger",
+  "linkedin_url": "https://linkedin.com/in/elisabeth-berger-826b1898",
+  "emails": [
+    {
+      "email": "eberger@tapestryhealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Tapestry"
+}

@@ -1,0 +1,58 @@
+{
+  "uuid": "e2b5aa60-fe32-44eb-9cec-ab297551c96a",
+  "first_name": "Lydia",
+  "last_name": "Jett",
+  "full_name": "Lydia Jett",
+  "linkedin_url": "https://linkedin.com/in/lydiajett",
+  "emails": [
+    {
+      "email": "lydia.jett@vimeo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ljett@laurenceschool.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lydia.jett@flipkart.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lydia.jett@fanaticsinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lydia.jett@shipveho.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lydia.jett@visionfund.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lydiaj@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "lydiajett@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-314-7300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vimeo"
+}

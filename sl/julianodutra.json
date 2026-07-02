@@ -1,0 +1,71 @@
+{
+  "uuid": "e5b9ae76-55ea-4a9b-a9d7-79bbbf6dd54b",
+  "first_name": "Juliano",
+  "last_name": "Dutra",
+  "full_name": "Juliano Dutra",
+  "linkedin_url": "https://linkedin.com/in/julianodutra",
+  "emails": [
+    {
+      "email": "juliano@2scale.com.br",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "juliano@wemeventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "juliano@gringo.com.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "juliano.dutra@brainweb.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juliano.dutra@guide121.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juliano@glim.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juliano.dutra@uniangels.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juliano.dutra@kovver.app",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juliano.dutra@linkme.bio",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juliano.dutra@botcity.dev",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juliano@vesti.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juliano@getbud.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Gringo"
+}

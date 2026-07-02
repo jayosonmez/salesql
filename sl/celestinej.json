@@ -1,0 +1,36 @@
+{
+  "uuid": "ac2eac8b-7100-4813-a8b8-e53fd56c4a99",
+  "first_name": "Celestine “Cee Cee”",
+  "last_name": "Schnugg",
+  "full_name": "Celestine “Cee Cee” Schnugg",
+  "linkedin_url": "https://linkedin.com/in/celestinej",
+  "emails": [
+    {
+      "email": "celestines@mammoth.bio",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "celestine.schnugg@spacex.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cschnugg@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "celestine@goldhirshfoundation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "celestinejohnson@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Boom Capital"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "fb7195ac-31eb-4780-baf2-b048a7d04ab9",
+  "first_name": "Daniel",
+  "last_name": "Reiss",
+  "full_name": "Daniel Reiss",
+  "linkedin_url": "https://linkedin.com/in/daniel-reiss-7816b085",
+  "emails": [
+    {
+      "email": "dreiss@ucsfhealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-476-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Univeristy of Michigan"
+}

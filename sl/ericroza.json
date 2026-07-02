@@ -1,0 +1,73 @@
+{
+  "uuid": "648abf36-4a13-43ca-820a-142505b8a2b6",
+  "first_name": "Eric",
+  "last_name": "Roza",
+  "full_name": "Eric Roza",
+  "linkedin_url": "https://linkedin.com/in/ericroza",
+  "emails": [
+    {
+      "email": "eric.roza@mindbodyonline.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric.roza@oneadvanced.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric.roza@pipedrive.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eroza@vistaequitypartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eroza@gainsight.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric_r@crestonecapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eric@crossfitsanitas.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eric@crossfit.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eric.roza@colorado.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "boulderroza@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "eric.roza@datalogix.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-622-4947",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Gainsight"
+}

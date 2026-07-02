@@ -1,0 +1,31 @@
+{
+  "uuid": "2bef774a-3d27-4614-b5a4-aa65d9dfcf65",
+  "first_name": "John",
+  "last_name": "Chi",
+  "full_name": "John Chi",
+  "linkedin_url": "https://linkedin.com/in/johnwchi",
+  "emails": [
+    {
+      "email": "jchi@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john@empiric.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chi@mrserious.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jchi@synovalife.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Synova Life Sciences"
+}

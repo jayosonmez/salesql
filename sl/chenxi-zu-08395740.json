@@ -1,0 +1,23 @@
+{
+  "uuid": "36c02f15-0944-4eec-9207-9ec57eff6d82",
+  "first_name": "Chenxi",
+  "last_name": "Zu",
+  "full_name": "Chenxi Zu",
+  "linkedin_url": "https://linkedin.com/in/chenxi-zu-08395740",
+  "emails": [
+    {
+      "email": "czu@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-723-2300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stanford University"
+}

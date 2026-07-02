@@ -1,0 +1,17 @@
+{
+  "uuid": "12919347-8350-4b89-afe5-ab65ac239917",
+  "first_name": "Scheffer",
+  "last_name": "Tseng",
+  "full_name": "Scheffer Tseng",
+  "linkedin_url": "https://linkedin.com/in/scheffer-tseng-7128bb160",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 786-817-6690",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BioTissue"
+}

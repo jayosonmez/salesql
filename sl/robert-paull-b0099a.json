@@ -1,0 +1,36 @@
+{
+  "uuid": "bfb5002c-60e4-4f63-b1be-e8990df2f622",
+  "first_name": "Robert",
+  "last_name": "Paull",
+  "full_name": "Robert Paull",
+  "linkedin_url": "https://linkedin.com/in/robert-paull-b0099a",
+  "emails": [
+    {
+      "email": "robert@zelda.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pr@ceruleanrx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rob@luxcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "paull.robert@kereos.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rpaull@luxcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Zelda Ventures"
+}

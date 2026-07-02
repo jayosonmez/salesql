@@ -1,0 +1,16 @@
+{
+  "uuid": "a6427894-4836-4378-8679-041b5d73dc69",
+  "first_name": "James",
+  "last_name": "Cupello",
+  "full_name": "James Cupello",
+  "linkedin_url": "https://linkedin.com/in/cupello",
+  "emails": [
+    {
+      "email": "jamescupello@live.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Worldwide Integrated Technology Solutions"
+}

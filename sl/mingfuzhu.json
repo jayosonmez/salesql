@@ -1,0 +1,16 @@
+{
+  "uuid": "cf3e69e8-4def-40b0-a5a5-8b8998e7d2d7",
+  "first_name": "Mingfu",
+  "last_name": "Zhu",
+  "full_name": "Mingfu Zhu",
+  "linkedin_url": "https://linkedin.com/in/mingfuzhu",
+  "emails": [
+    {
+      "email": "mingfu.zhu@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "20n Bio"
+}

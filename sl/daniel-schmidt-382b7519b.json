@@ -1,0 +1,23 @@
+{
+  "uuid": "e9f81475-2fe3-4e6c-9bb8-fda12f165d88",
+  "first_name": "Daniel",
+  "last_name": "Schmidt",
+  "full_name": "Daniel Schmidt",
+  "linkedin_url": "https://linkedin.com/in/daniel-schmidt-382b7519b",
+  "emails": [
+    {
+      "email": "daniel.schmidt@capitalfirst.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+91 22 4042 3400",
+      "type": "Work",
+      "country_code": "IN",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Capital First Limited"
+}

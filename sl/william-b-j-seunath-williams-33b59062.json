@@ -1,0 +1,28 @@
+{
+  "uuid": "68739026-0577-4bd0-ad57-9ec7b49b879a",
+  "first_name": "William (B.J.)",
+  "last_name": "Seunath-Williams",
+  "full_name": "William (B.J.) Seunath-Williams",
+  "linkedin_url": "https://linkedin.com/in/william-b-j-seunath-williams-33b59062",
+  "emails": [
+    {
+      "email": "william.seunath-williams@evicore.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "william.seunath-williams@whg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-918-8924",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EviCore by Evernorth"
+}

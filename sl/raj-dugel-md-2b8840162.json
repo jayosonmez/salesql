@@ -1,0 +1,16 @@
+{
+  "uuid": "1fb9280a-6cd3-4eae-89d5-9a08cc835573",
+  "first_name": "Raj",
+  "last_name": "Dugel, MD",
+  "full_name": "Raj Dugel, MD",
+  "linkedin_url": "https://linkedin.com/in/raj-dugel-md-2b8840162",
+  "emails": [
+    {
+      "email": "raj.dugel@providence.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Providence Medical Associates"
+}

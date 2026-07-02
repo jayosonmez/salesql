@@ -1,0 +1,17 @@
+{
+  "uuid": "d917a4bf-0759-4c9b-9f8b-b030556724cd",
+  "first_name": "Sanaz",
+  "last_name": "Habibi, Ph.D. ",
+  "full_name": "Sanaz Habibi, Ph.D. ",
+  "linkedin_url": "https://linkedin.com/in/s-habibi",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 734-936-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Michigan College of Engineering"
+}

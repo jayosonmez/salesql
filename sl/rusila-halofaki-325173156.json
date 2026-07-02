@@ -1,0 +1,27 @@
+{
+  "uuid": "4aa59abe-1b2c-4e21-80fe-273e9b342841",
+  "first_name": "Rusila",
+  "last_name": "Halofaki",
+  "full_name": "Rusila Halofaki",
+  "linkedin_url": "https://linkedin.com/in/rusila-halofaki-325173156",
+  "emails": [
+    {
+      "email": "rusila.halofaki@alexmann.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "r.halofaki@recruitforspouses.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 333 202 0996",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Recruit for Spouses"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "0de87855-7e5d-4c32-a035-c8d5923ee36d",
+  "first_name": "Richard",
+  "last_name": "Fiedotin",
+  "full_name": "Richard Fiedotin",
+  "linkedin_url": "https://linkedin.com/in/rfiedotin",
+  "emails": [
+    {
+      "email": "richard.fiedotin@trchealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "richard_fiedotin@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "richard_f@trchealthcare.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 209-472-2240",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fiedotin Advisory Services"
+}

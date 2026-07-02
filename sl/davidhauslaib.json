@@ -1,0 +1,21 @@
+{
+  "uuid": "0393f841-9522-4632-9a1e-8bad86d2024f",
+  "first_name": "David",
+  "last_name": "Hauslaib",
+  "full_name": "David Hauslaib",
+  "linkedin_url": "https://linkedin.com/in/davidhauslaib",
+  "emails": [
+    {
+      "email": "david@hauslaib.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david@greystonerelocation.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "angel investor"
+}

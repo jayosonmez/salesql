@@ -1,0 +1,49 @@
+{
+  "uuid": "a0b0f405-cc6f-40dc-bf94-f47b317dc134",
+  "first_name": "Jordan",
+  "last_name": "Curnes",
+  "full_name": "Jordan Curnes",
+  "linkedin_url": "https://linkedin.com/in/jordancurnes",
+  "emails": [
+    {
+      "email": "jordan@irishangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jcurnes@themobilegeneration.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jordan@rentlikeachampion.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jordan@microtransponder.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jordan@rentlikeachampion.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 214-770-0935",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 214-280-9677",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mobia Medical"
+}

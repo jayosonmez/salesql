@@ -1,0 +1,21 @@
+{
+  "uuid": "e5c285fc-384b-4860-84a7-4db31b6888f7",
+  "first_name": "Merve",
+  "last_name": "Baran Erdoğan",
+  "full_name": "Merve Baran Erdoğan",
+  "linkedin_url": "https://linkedin.com/in/mervebaranerdogan",
+  "emails": [
+    {
+      "email": "merve-baran@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "merve.baran@arcelik-lg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Arçelik-LG"
+}

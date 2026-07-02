@@ -1,0 +1,28 @@
+{
+  "uuid": "a86ea595-c1a3-4c0e-afaf-6a382956a39a",
+  "first_name": "Andrew",
+  "last_name": "Sather",
+  "full_name": "Andrew Sather",
+  "linkedin_url": "https://linkedin.com/in/andrewsather",
+  "emails": [
+    {
+      "email": "andrew@sather.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sather@initialized.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-377-7659",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Initialized Capital"
+}

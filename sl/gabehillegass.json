@@ -1,0 +1,16 @@
+{
+  "uuid": "3e6f878f-f7c6-4595-87e6-988516aab2ad",
+  "first_name": "M. Gabriel",
+  "last_name": "Hillegass, III",
+  "full_name": "M. Gabriel Hillegass, III",
+  "linkedin_url": "https://linkedin.com/in/gabehillegass",
+  "emails": [
+    {
+      "email": "gi@musc.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Solverein, Inc."
+}

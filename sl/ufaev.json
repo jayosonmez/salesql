@@ -1,0 +1,38 @@
+{
+  "uuid": "c1028aa1-01a4-42ae-b0b0-8e9a2b033744",
+  "first_name": "Dmitry",
+  "last_name": "Ufaev, MBA",
+  "full_name": "Dmitry Ufaev, MBA",
+  "linkedin_url": "https://linkedin.com/in/ufaev",
+  "emails": [
+    {
+      "email": "d@xelari.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dmitry@ufaev.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ufaev@lucky.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dmitry@xelari.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 727-273-7777",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Xelari Inc."
+}

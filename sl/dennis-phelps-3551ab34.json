@@ -1,0 +1,16 @@
+{
+  "uuid": "3c8dc50a-11b9-4705-820a-b912a7bc6e8b",
+  "first_name": "Dennis",
+  "last_name": "Phelps",
+  "full_name": "Dennis Phelps",
+  "linkedin_url": "https://linkedin.com/in/dennis-phelps-3551ab34",
+  "emails": [
+    {
+      "email": "phelpse@phelpse.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

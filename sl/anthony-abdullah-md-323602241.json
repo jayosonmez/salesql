@@ -1,0 +1,23 @@
+{
+  "uuid": "15cce954-f94f-40b6-b764-e69b326ea61a",
+  "first_name": "Anthony",
+  "last_name": "Abdullah MD",
+  "full_name": "Anthony Abdullah MD",
+  "linkedin_url": "https://linkedin.com/in/anthony-abdullah-md-323602241",
+  "emails": [
+    {
+      "email": "aabdullah@addus.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 513-508-8494",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Blue Beacon Investing"
+}

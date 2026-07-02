@@ -1,0 +1,21 @@
+{
+  "uuid": "bbf56e87-fb83-4995-bc8d-67c8d9f6cfc2",
+  "first_name": "Andrea",
+  "last_name": "Tobias, PhD",
+  "full_name": "Andrea Tobias, PhD",
+  "linkedin_url": "https://linkedin.com/in/andrea-tobias-phd-4a159314",
+  "emails": [
+    {
+      "email": "andrea@aquilaconsultinggroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrea@aquilaconsultinggroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Aquila Consulting Group LLC"
+}

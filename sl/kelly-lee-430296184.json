@@ -1,0 +1,38 @@
+{
+  "uuid": "5de437ec-2086-4632-9e4e-34355e1484ab",
+  "first_name": "Kelly",
+  "last_name": "Lee",
+  "full_name": "Kelly Lee",
+  "linkedin_url": "https://linkedin.com/in/kelly-lee-430296184",
+  "emails": [
+    {
+      "email": "kelly.lee@ibm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kelly@authentikstudios.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leekelly@ibeehub.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kelly.lee@laprairiegroup.ch",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 267-687-9220",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Authentik Studios"
+}

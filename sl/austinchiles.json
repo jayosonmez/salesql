@@ -1,0 +1,17 @@
+{
+  "uuid": "1cce0cdf-ca46-4f73-94bf-801dedcd26a5",
+  "first_name": "Austin",
+  "last_name": "Chiles",
+  "full_name": "Austin Chiles",
+  "linkedin_url": "https://linkedin.com/in/austinchiles",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 800-422-6237",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "National Cancer Institute (NCI)"
+}

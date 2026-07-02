@@ -1,0 +1,26 @@
+{
+  "uuid": "824acd61-702a-4b2f-9756-7f66d0064444",
+  "first_name": "David",
+  "last_name": "Benham",
+  "full_name": "David Benham",
+  "linkedin_url": "https://linkedin.com/in/davidbenham",
+  "emails": [
+    {
+      "email": "dabenham@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dabenham@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dbenham@cleantechopen.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "E8 Angels"
+}

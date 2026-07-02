@@ -1,0 +1,21 @@
+{
+  "uuid": "9a106b7e-9d1f-4820-8d03-e99270a36019",
+  "first_name": "James",
+  "last_name": "Hong",
+  "full_name": "James Hong",
+  "linkedin_url": "https://linkedin.com/in/thehonger",
+  "emails": [
+    {
+      "email": "linkedin@jhong.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james@jameshonggolf.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "James Hong"
+}

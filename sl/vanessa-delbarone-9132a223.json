@@ -1,0 +1,28 @@
+{
+  "uuid": "a9bd55cd-7cb7-4bce-ae10-bdc9dc951b82",
+  "first_name": "Vanessa",
+  "last_name": "DelBarone",
+  "full_name": "Vanessa DelBarone",
+  "linkedin_url": "https://linkedin.com/in/vanessa-delbarone-9132a223",
+  "emails": [
+    {
+      "email": "vallore1@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "vanessa.delbarone@carr.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-999-5247",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CARR"
+}

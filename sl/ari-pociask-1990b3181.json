@@ -1,0 +1,23 @@
+{
+  "uuid": "e57abe1d-e7a3-4b87-a776-e8dfcc220482",
+  "first_name": "Ari",
+  "last_name": "Pociask",
+  "full_name": "Ari Pociask",
+  "linkedin_url": "https://linkedin.com/in/ari-pociask-1990b3181",
+  "emails": [
+    {
+      "email": "ari.pociask@pwc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 347-967-3168",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f99f180b-9fe8-4de7-b2d9-6be40fa5bbb4",
+  "first_name": "Haixiang",
+  "last_name": "Yu",
+  "full_name": "Haixiang Yu",
+  "linkedin_url": "https://linkedin.com/in/haixiang-yu-614a2675",
+  "emails": [
+    {
+      "email": "haixiang.yu@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yuh@bms.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-684-3913",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Duke University School of Medicine"
+}

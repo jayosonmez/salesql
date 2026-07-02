@@ -1,0 +1,53 @@
+{
+  "uuid": "541ea5e6-52f6-4a5d-b161-0a94e9384789",
+  "first_name": "Robsom",
+  "last_name": "Alvarenga, MSc, CFA",
+  "full_name": "Robsom Alvarenga, MSc, CFA",
+  "linkedin_url": "https://linkedin.com/in/robsom-alvarenga-msc-cfa-73ab534",
+  "emails": [
+    {
+      "email": "robsom@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "r.a@turn2c.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "robsomime@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robsom@pitchyes.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robsom.alvarenga@noh.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robsom@safefy.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robsom@coalize.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 11 99971-4611",
+      "type": "Personal",
+      "country_code": "BR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Plain"
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "3c20a7fa-a2ca-4a7c-9c98-76737c678bcc",
+  "first_name": "Jeffrey",
+  "last_name": "Fry",
+  "full_name": "Jeffrey Fry",
+  "linkedin_url": "https://linkedin.com/in/jeffreyfry",
+  "emails": [
+    {
+      "email": "profitprophet@austin.rr.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jxf@wellbeyondcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-632-3080",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 844-453-2773",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Keep Safe Care"
+}

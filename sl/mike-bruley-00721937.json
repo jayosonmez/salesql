@@ -1,0 +1,16 @@
+{
+  "uuid": "c3144956-1107-4ea6-aeb0-8d4104408a4b",
+  "first_name": "Mike",
+  "last_name": "Bruley",
+  "full_name": "Mike Bruley",
+  "linkedin_url": "https://linkedin.com/in/mike-bruley-00721937",
+  "emails": [
+    {
+      "email": "mjbruley@cox.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "www.clearlydriven.net"
+}

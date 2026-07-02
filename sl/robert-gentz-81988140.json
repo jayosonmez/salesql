@@ -1,0 +1,21 @@
+{
+  "uuid": "a5d8b9cb-b801-405c-8c09-8f7441cfbad6",
+  "first_name": "Robert",
+  "last_name": "Gentz",
+  "full_name": "Robert Gentz",
+  "linkedin_url": "https://linkedin.com/in/robert-gentz-81988140",
+  "emails": [
+    {
+      "email": "r.gentz@zalando.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robert.gentz@zalando.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Zalando"
+}

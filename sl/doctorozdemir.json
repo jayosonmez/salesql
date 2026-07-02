@@ -1,0 +1,33 @@
+{
+  "uuid": "71a35110-abe2-4a8b-9a08-d8abd36b5a64",
+  "first_name": "Aylin",
+  "last_name": "Ozdemir, MD, FAAP, ABIHM",
+  "full_name": "Aylin Ozdemir, MD, FAAP, ABIHM",
+  "linkedin_url": "https://linkedin.com/in/doctorozdemir",
+  "emails": [
+    {
+      "email": "ayaramanoglu@pol.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aozdemir@drocare.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aylin.ozdemir@fbmcdallas.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 904-287-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Obtain Health"
+}

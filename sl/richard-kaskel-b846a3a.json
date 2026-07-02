@@ -1,0 +1,31 @@
+{
+  "uuid": "1f66a406-a639-4948-b8ce-29199fa122f0",
+  "first_name": "Richard",
+  "last_name": "Kaskel",
+  "full_name": "Richard Kaskel",
+  "linkedin_url": "https://linkedin.com/in/richard-kaskel-b846a3a",
+  "emails": [
+    {
+      "email": "rkaskel@katonpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rkaskel@adfirehealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "richard@katondirect.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rkaskel@katondirect.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Rave Health"
+}

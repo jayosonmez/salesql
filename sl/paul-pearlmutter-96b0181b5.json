@@ -1,0 +1,23 @@
+{
+  "uuid": "f335632e-c56c-411f-9cbc-188e5a766003",
+  "first_name": "Paul",
+  "last_name": "Pearlmutter",
+  "full_name": "Paul Pearlmutter",
+  "linkedin_url": "https://linkedin.com/in/paul-pearlmutter-96b0181b5",
+  "emails": [
+    {
+      "email": "ppearlmutter@lancasterlabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 717-656-2300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Eurofins Lancaster Laboratories"
+}

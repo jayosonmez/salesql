@@ -1,0 +1,33 @@
+{
+  "uuid": "31faf720-a7f9-462d-9e87-47414dcbd486",
+  "first_name": "Matthew",
+  "last_name": "Enright, A.P., D.O.M.",
+  "full_name": "Matthew Enright, A.P., D.O.M.",
+  "linkedin_url": "https://linkedin.com/in/matthewenright",
+  "emails": [
+    {
+      "email": "menright4164@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "menright@nova.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "menright@miami.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 954-895-3276",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Acupuncture Health Network"
+}

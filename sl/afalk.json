@@ -1,0 +1,28 @@
+{
+  "uuid": "ac081c3f-b684-4f7b-b217-347f02ec1be8",
+  "first_name": "Alexander",
+  "last_name": "Falk",
+  "full_name": "Alexander Falk",
+  "linkedin_url": "https://linkedin.com/in/afalk",
+  "emails": [
+    {
+      "email": "al@us.altova.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "al@altova.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 978-816-1600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Altova"
+}

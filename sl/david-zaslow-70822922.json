@@ -1,0 +1,16 @@
+{
+  "uuid": "a0ab60f7-7d08-4add-ba41-eebe18cc55d3",
+  "first_name": "David",
+  "last_name": "Zaslow",
+  "full_name": "David Zaslow",
+  "linkedin_url": "https://linkedin.com/in/david-zaslow-70822922",
+  "emails": [
+    {
+      "email": "drzaz@bellsouth.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Coinzies"
+}

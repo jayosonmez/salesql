@@ -1,0 +1,36 @@
+{
+  "uuid": "a37fc61b-8bec-4f93-a14a-c3b68a0b1e54",
+  "first_name": "David Currant",
+  "last_name": "Tolioupov",
+  "full_name": "David Currant Tolioupov",
+  "linkedin_url": "https://linkedin.com/in/currant",
+  "emails": [
+    {
+      "email": "david.tolioupov@zensoft.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@mxpilot.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mail2vip@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@lobstercap.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david@aermetric.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "MXPilot AI"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "965680e6-47d0-41f6-8a54-40b0c360b1fd",
+  "first_name": "thuc",
+  "last_name": "huynh, md",
+  "full_name": "thuc huynh, md",
+  "linkedin_url": "https://linkedin.com/in/thuchuynh",
+  "emails": [
+    {
+      "email": "thuc.huynh@lynhealth.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "thucster@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "thuynh@agnohealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "thuc.huynh@evicore.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "thuc.huynh@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-918-8924",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EviCore by Evernorth"
+}

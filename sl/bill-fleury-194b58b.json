@@ -1,0 +1,16 @@
+{
+  "uuid": "2d6d6417-ea9a-413b-9a0a-341d68eae623",
+  "first_name": "Bill",
+  "last_name": "Fleury",
+  "full_name": "Bill Fleury",
+  "linkedin_url": "https://linkedin.com/in/bill-fleury-194b58b",
+  "emails": [
+    {
+      "email": "billfleury@cox.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "SCPMG"
+}

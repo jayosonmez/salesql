@@ -1,0 +1,16 @@
+{
+  "uuid": "c5a2bbec-0bb4-4581-b4f7-1bd8d08f9992",
+  "first_name": "Sato",
+  "last_name": "Ozawa",
+  "full_name": "Sato Ozawa",
+  "linkedin_url": "https://linkedin.com/in/satoruozawa",
+  "emails": [
+    {
+      "email": "sato@radicalxchange.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Unvoiced"
+}

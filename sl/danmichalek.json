@@ -1,0 +1,38 @@
+{
+  "uuid": "ea5bfd4e-8714-4582-87fc-7b869130c94e",
+  "first_name": "Dan",
+  "last_name": "Michalek",
+  "full_name": "Dan Michalek",
+  "linkedin_url": "https://linkedin.com/in/danmichalek",
+  "emails": [
+    {
+      "email": "danm@syndifi.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@livegevity.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "danm@finexchange.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dmichalek@openmarketshealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-831-7772",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Gevity"
+}

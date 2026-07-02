@@ -1,0 +1,23 @@
+{
+  "uuid": "2c64367f-a551-4c30-9713-7e552d2c6fe2",
+  "first_name": "Zak",
+  "last_name": "Cole",
+  "full_name": "Zak Cole",
+  "linkedin_url": "https://linkedin.com/in/zak-cole",
+  "emails": [
+    {
+      "email": "zak@0xbow.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 213-935-8532",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NUMBER GROUP"
+}

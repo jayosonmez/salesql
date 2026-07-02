@@ -1,0 +1,23 @@
+{
+  "uuid": "1f7a24be-872e-4476-86fd-d1d72216c546",
+  "first_name": "Clinton",
+  "last_name": "Leiby",
+  "full_name": "Clinton Leiby",
+  "linkedin_url": "https://linkedin.com/in/clinton-leiby-5764a063",
+  "emails": [
+    {
+      "email": "clinton.leiby@FSNS.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 210-308-0675",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pa Department of Health Bureau of Laboratories"
+}

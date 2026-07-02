@@ -1,0 +1,28 @@
+{
+  "uuid": "ed57e975-ba56-4839-9e67-7b2495471366",
+  "first_name": "Vladimir A",
+  "last_name": "Pozdin",
+  "full_name": "Vladimir A Pozdin",
+  "linkedin_url": "https://linkedin.com/in/vladimirpozdin",
+  "emails": [
+    {
+      "email": "vladimir.pozdin@fiu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vap26@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-348-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Florida International University"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "3f37d2d0-96c3-4620-b24b-cd4ee5290739",
+  "first_name": "Rich",
+  "last_name": "McIver",
+  "full_name": "Rich McIver",
+  "linkedin_url": "https://linkedin.com/in/rich-mciver-b29b474",
+  "emails": [
+    {
+      "email": "jrichmciver@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rmciver@altrupay.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rich@cornerstonecreholdings.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-225-9405",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AltruPay"
+}

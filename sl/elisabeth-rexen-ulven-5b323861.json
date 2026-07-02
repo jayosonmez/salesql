@@ -1,0 +1,27 @@
+{
+  "uuid": "cb96b4ae-b5d5-4e96-bbd5-f4ba5631a543",
+  "first_name": "Elisabeth",
+  "last_name": "Rexen Ulven",
+  "full_name": "Elisabeth Rexen Ulven",
+  "linkedin_url": "https://linkedin.com/in/elisabeth-rexen-ulven-5b323861",
+  "emails": [
+    {
+      "email": "rexen@ku.dk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "elisabeth@ku.dk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+45 35 32 14 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Dept. of Drug Design and Pharmacology (ILF), University of Copenhagen"
+}

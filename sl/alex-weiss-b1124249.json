@@ -1,0 +1,21 @@
+{
+  "uuid": "2b987697-d334-4362-a9b9-3bf9131d48f5",
+  "first_name": "Alex",
+  "last_name": "Weiss",
+  "full_name": "Alex Weiss",
+  "linkedin_url": "https://linkedin.com/in/alex-weiss-b1124249",
+  "emails": [
+    {
+      "email": "alex_weiss@msn.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alex.weiss@transitchicago.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ClearSky Security"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "83d55802-b8ea-46cd-917a-6db6e8111178",
+  "first_name": "Cindy",
+  "last_name": "Barrett",
+  "full_name": "Cindy Barrett",
+  "linkedin_url": "https://linkedin.com/in/cindy-barrett-5b92a6a",
+  "emails": [
+    {
+      "email": "cbbarrett19@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "cbbarrett@charter.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "cbarrett@werfen.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-955-9525",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Werfen North America"
+}

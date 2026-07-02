@@ -1,0 +1,28 @@
+{
+  "uuid": "9439258b-08c2-42bd-bb0d-1963f59f7027",
+  "first_name": "Alison",
+  "last_name": "Holloway",
+  "full_name": "Alison Holloway",
+  "linkedin_url": "https://linkedin.com/in/alison-holloway-00439214",
+  "emails": [
+    {
+      "email": "alsnhllwy@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "holloway@va.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 413-584-4040",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Union Wellness Center Rosemont"
+}

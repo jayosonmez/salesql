@@ -1,0 +1,21 @@
+{
+  "uuid": "6450ee22-bc14-4561-9705-49eae81bac29",
+  "first_name": "David",
+  "last_name": "S.",
+  "full_name": "David S.",
+  "linkedin_url": "https://linkedin.com/in/davidstrelzykherzog",
+  "emails": [
+    {
+      "email": "dstrelzykherzog@whitecase.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@europa.eu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "937190b4-1ed1-4c6c-9d2f-f1dd4af1b6fe",
+  "first_name": "Philippe",
+  "last_name": "Guelton",
+  "full_name": "Philippe Guelton",
+  "linkedin_url": "https://linkedin.com/in/philippeguelton",
+  "emails": [
+    {
+      "email": "philippeguelton@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "philippe_guelton@crackle.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "philippe@ninenorth.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philippe@canelamedia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-268-3063",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Canela Media"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "eadd5ce5-dc33-40a4-b156-1b5f7f950f91",
+  "first_name": "Nicole",
+  "last_name": "Dasch",
+  "full_name": "Nicole Dasch",
+  "linkedin_url": "https://linkedin.com/in/nicole-dasch-a14170b0",
+  "emails": [
+    {
+      "email": "ndasch@mmqci.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nicole-dasch@idexx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nicole.dasch@abbott.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-556-0300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IDEXX"
+}

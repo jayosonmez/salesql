@@ -1,0 +1,23 @@
+{
+  "uuid": "b60c9848-d2d0-4152-a11b-33587756fa9c",
+  "first_name": "Yu-Ping",
+  "last_name": "Yang",
+  "full_name": "Yu-Ping Yang",
+  "linkedin_url": "https://linkedin.com/in/yu-ping-yang-b7a488104",
+  "emails": [
+    {
+      "email": "yyang@miami.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-284-2211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Miami"
+}

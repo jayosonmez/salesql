@@ -1,0 +1,26 @@
+{
+  "uuid": "26573311-2be3-447e-ba3e-5b584e08a329",
+  "first_name": "Jared",
+  "last_name": "Heyman",
+  "full_name": "Jared Heyman",
+  "linkedin_url": "https://linkedin.com/in/jaredheyman",
+  "emails": [
+    {
+      "email": "jared.heyman@infosurv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jared@pioneerfund.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jared.heyman@rebelfund.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Rebel Fund"
+}

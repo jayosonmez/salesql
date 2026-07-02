@@ -1,0 +1,23 @@
+{
+  "uuid": "edbf64ac-da66-4364-9a9e-aeb5b5ab64c8",
+  "first_name": "William",
+  "last_name": "Owen",
+  "full_name": "William Owen",
+  "linkedin_url": "https://linkedin.com/in/william-owen-74132231",
+  "emails": [
+    {
+      "email": "bill@owenmed.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-861-2400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "William F. Owen, Jr., M.D."
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "7c2abc3d-1cc0-4d55-8912-f33ee9c787a6",
+  "first_name": "Dani",
+  "last_name": "Gaillard-Campbell",
+  "full_name": "Dani Gaillard-Campbell",
+  "linkedin_url": "https://linkedin.com/in/dani-gaillard-campbell-04859878",
+  "emails": [
+    {
+      "email": "dani.gaillard-campbell@midlandsortho.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 803-256-4107",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Midlands Orthopaedics PA"
+}

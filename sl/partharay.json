@@ -1,0 +1,36 @@
+{
+  "uuid": "540ed3dc-4b09-40e9-90df-a35273da74c7",
+  "first_name": "Partha",
+  "last_name": "Ray",
+  "full_name": "Partha Ray",
+  "linkedin_url": "https://linkedin.com/in/partharay",
+  "emails": [
+    {
+      "email": "pray@reflexion.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "partha.ray@ucsf.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "partha.ray@dexcom.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ppray.global@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "partha@kalyanoaks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Empo Health"
+}

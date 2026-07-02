@@ -1,0 +1,31 @@
+{
+  "uuid": "2de433df-90c9-464d-b290-ae38aa8a67e3",
+  "first_name": "Brian Andrés",
+  "last_name": "Helmick",
+  "full_name": "Brian Andrés Helmick",
+  "linkedin_url": "https://linkedin.com/in/bhelmick",
+  "emails": [
+    {
+      "email": "bhelmick@algentis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brian@grid202partners.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "brian.helmick@hubinternational.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brian@sfdeltas.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Brian Helmick"
+}

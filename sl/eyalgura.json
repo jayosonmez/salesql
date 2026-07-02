@@ -1,0 +1,36 @@
+{
+  "uuid": "fffe2fa3-0cb6-4e5f-a28b-c004464ba896",
+  "first_name": "Eyal",
+  "last_name": "Gura",
+  "full_name": "Eyal Gura",
+  "linkedin_url": "https://linkedin.com/in/eyalgura",
+  "emails": [
+    {
+      "email": "gura.eyal@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "eyal.gura@zebra-med.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eyal@picscout.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eyal@imagene-ai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eyal.gura@weforum.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "echoWisdom"
+}

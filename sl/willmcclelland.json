@@ -1,0 +1,36 @@
+{
+  "uuid": "5ed17794-a344-4f66-8bdb-4455d7326bcb",
+  "first_name": "William",
+  "last_name": "McClelland",
+  "full_name": "William McClelland",
+  "linkedin_url": "https://linkedin.com/in/willmcclelland",
+  "emails": [
+    {
+      "email": "william@ironwoodpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "william@bambike.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "william@elizabethstreet.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "willmcclelland@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "m_w@highcourt.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Elizabeth Street Ventures"
+}

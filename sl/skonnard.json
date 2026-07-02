@@ -1,0 +1,43 @@
+{
+  "uuid": "ed8e7dcd-694c-4e21-bc75-0cc1673baa24",
+  "first_name": "Aaron",
+  "last_name": "Skonnard",
+  "full_name": "Aaron Skonnard",
+  "linkedin_url": "https://linkedin.com/in/skonnard",
+  "emails": [
+    {
+      "email": "aaron@skonnard.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "askonnard@pluralsight.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aaron-skonnard@pluralsight.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aaron@mindsmith.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aaron@kadence.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-390-4562",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Skonnard Investments"
+}

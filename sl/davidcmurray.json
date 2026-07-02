@@ -1,0 +1,55 @@
+{
+  "uuid": "49f6c936-fd54-48fc-b842-0688ea5c600e",
+  "first_name": "David",
+  "last_name": "Murray",
+  "full_name": "David Murray",
+  "linkedin_url": "https://linkedin.com/in/davidcmurray",
+  "emails": [
+    {
+      "email": "david.murray@solarix-ventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@signd.id",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david@argentovp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.murray@argentopartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@angelinvestmentnetwork.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+34 603 75 51 86",
+      "type": "Personal",
+      "country_code": "ES",
+      "is_valid": true
+    },
+    {
+      "phone": "+34 652 90 86 54",
+      "type": "Personal",
+      "country_code": "ES",
+      "is_valid": true
+    },
+    {
+      "phone": "+353 87 333 6618",
+      "type": "Personal",
+      "country_code": "IE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Argento Venture Partners"
+}

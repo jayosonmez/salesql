@@ -1,0 +1,29 @@
+{
+  "uuid": "43fbca45-8fe6-4133-8e02-bd2e22daed78",
+  "first_name": "Dr. Nancy B.",
+  "last_name": "Sobel",
+  "full_name": "Dr. Nancy B. Sobel",
+  "linkedin_url": "https://linkedin.com/in/dr-nancy-b-sobel-531b372",
+  "emails": [
+    {
+      "email": "n.sobel@att.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-680-6476",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 617-680-6476",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hepburn Homes, LLC"
+}

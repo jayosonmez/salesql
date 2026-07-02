@@ -1,0 +1,23 @@
+{
+  "uuid": "3dae4bc8-38d8-45fb-b761-ce8b3f6279c0",
+  "first_name": "Brian",
+  "last_name": "Emmert, M.D.",
+  "full_name": "Brian Emmert, M.D.",
+  "linkedin_url": "https://linkedin.com/in/brian-emmert-m-d-71972a74",
+  "emails": [
+    {
+      "email": "brian.emmert@columbia.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-305-2862",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Columbia University Vagelos College of Physicians and Surgeons"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "8476bd40-0396-474b-8c50-c838a97693ec",
+  "first_name": "Burak",
+  "last_name": "ŞEN",
+  "full_name": "Burak ŞEN",
+  "linkedin_url": "https://linkedin.com/in/burak-şen-96a05544",
+  "emails": [
+    {
+      "email": "burak@poltio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "burak@userguiding.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "burak.sen@getwebee.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "burak@yeniben.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "benburaksen@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 212 275 90 61",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ArtıMobil"
+}

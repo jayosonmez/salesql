@@ -1,0 +1,23 @@
+{
+  "uuid": "f769c9f3-ccf1-4f2c-8b4a-ff41662440ac",
+  "first_name": "Gwyneth",
+  "last_name": "Fournie, PHR, SHRM-CP",
+  "full_name": "Gwyneth Fournie, PHR, SHRM-CP",
+  "linkedin_url": "https://linkedin.com/in/gwyneth-fournie-phr-0bb40010",
+  "emails": [
+    {
+      "email": "wyndiz@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 772-794-4699",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Gwyneth Fournie,PHR, SHRM-CP"
+}

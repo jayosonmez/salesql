@@ -1,0 +1,23 @@
+{
+  "uuid": "d5c17e62-885f-4387-a216-bf00ae7fcd96",
+  "first_name": "Amirali",
+  "last_name": "Nilchian",
+  "full_name": "Amirali Nilchian",
+  "linkedin_url": "https://linkedin.com/in/amirali-nilchian",
+  "emails": [
+    {
+      "email": "anilchian@deerfield-beach.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 954-480-4200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "City of Deerfield Beach"
+}

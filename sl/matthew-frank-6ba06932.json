@@ -1,0 +1,16 @@
+{
+  "uuid": "0a6acbdb-d9d1-4685-a98d-6a8810bf8628",
+  "first_name": "Matthew",
+  "last_name": "Frank",
+  "full_name": "Matthew Frank",
+  "linkedin_url": "https://linkedin.com/in/matthew-frank-6ba06932",
+  "emails": [
+    {
+      "email": "tippettvc@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "VISBY Medical and GPN Vaccines"
+}

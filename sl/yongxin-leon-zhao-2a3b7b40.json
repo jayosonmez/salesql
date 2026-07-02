@@ -1,0 +1,28 @@
+{
+  "uuid": "fb3864f4-a16f-4e26-8d6b-01f8bf522770",
+  "first_name": "Yongxin (Leon)",
+  "last_name": "Zhao",
+  "full_name": "Yongxin (Leon) Zhao",
+  "linkedin_url": "https://linkedin.com/in/yongxin-leon-zhao-2a3b7b40",
+  "emails": [
+    {
+      "email": "yongxin@cmu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yongxin2@ualberta.ca",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 412-268-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Carnegie Mellon University"
+}

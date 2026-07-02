@@ -1,0 +1,23 @@
+{
+  "uuid": "e7c52c45-30c3-4d5e-b1b1-02ee34689af3",
+  "first_name": "Bahar",
+  "last_name": "Amin, Ph.D.",
+  "full_name": "Bahar Amin, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/baharamin",
+  "emails": [
+    {
+      "email": "bahar@graphwear.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 215-317-4699",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GraphWear Technologies Inc."
+}

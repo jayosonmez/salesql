@@ -1,0 +1,23 @@
+{
+  "uuid": "31cb14b6-9082-4179-844a-fd233d3e010d",
+  "first_name": "Noureen",
+  "last_name": "Idrees-Asad MD, FAAP",
+  "full_name": "Noureen Idrees-Asad MD, FAAP",
+  "linkedin_url": "https://linkedin.com/in/noureen-idrees-asad-md-faap-258b54139",
+  "emails": [
+    {
+      "email": "noureen.idrees-asad@americanwell.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-204-3500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Amwell Medical Group"
+}

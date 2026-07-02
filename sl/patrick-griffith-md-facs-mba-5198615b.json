@@ -1,0 +1,58 @@
+{
+  "uuid": "9219b8cc-2976-4278-9282-8ea0972f3290",
+  "first_name": "Patrick",
+  "last_name": "Griffith, MD, FACS, MBA",
+  "full_name": "Patrick Griffith, MD, FACS, MBA",
+  "linkedin_url": "https://linkedin.com/in/patrick-griffith-md-facs-mba-5198615b",
+  "emails": [
+    {
+      "email": "patrick.griffith@sacangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "patrick@rtvmed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pgriffith@secondheartinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pgriffith@nacdonline.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "patrick@outstandingfoods.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pgriffith@uci.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pgriffith@uci.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "patrick.griffith@hoag.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-764-4624",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hoag Health System"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "aa612043-8fd4-4746-9720-29266e58a91c",
+  "first_name": "Andy",
+  "last_name": "Fong",
+  "full_name": "Andy Fong",
+  "linkedin_url": "https://linkedin.com/in/andy-fong",
+  "emails": [
+    {
+      "email": "afong@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-253-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts Institute of Technology"
+}

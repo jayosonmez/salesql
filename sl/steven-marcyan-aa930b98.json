@@ -1,0 +1,23 @@
+{
+  "uuid": "8b568de8-a518-4796-925a-cec577d5b7df",
+  "first_name": "Steven",
+  "last_name": "Marcyan",
+  "full_name": "Steven Marcyan",
+  "linkedin_url": "https://linkedin.com/in/steven-marcyan-aa930b98",
+  "emails": [
+    {
+      "email": "steven_marcyan@homedepot.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-466-3337",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Home Depot"
+}

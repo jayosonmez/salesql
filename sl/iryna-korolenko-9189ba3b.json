@@ -1,0 +1,16 @@
+{
+  "uuid": "058f29f1-67b6-4fcd-b2a9-280cd11a7043",
+  "first_name": "Iryna",
+  "last_name": "Korolenko",
+  "full_name": "Iryna Korolenko",
+  "linkedin_url": "https://linkedin.com/in/iryna-korolenko-9189ba3b",
+  "emails": [
+    {
+      "email": "info@isalonapp.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ISALON Beauty App"
+}

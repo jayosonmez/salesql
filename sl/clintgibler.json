@@ -1,0 +1,21 @@
+{
+  "uuid": "c836351f-dafe-43e7-8216-a561826dcc9d",
+  "first_name": "Clint",
+  "last_name": "Gibler",
+  "full_name": "Clint Gibler",
+  "linkedin_url": "https://linkedin.com/in/clintgibler",
+  "emails": [
+    {
+      "email": "cdgibler@ucdavis.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clintgibler@tldrsec.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "tl;dr sec"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "ab4fafcb-0c91-4875-8a31-8d9dc13d3ce0",
+  "first_name": "Lisa",
+  "last_name": "Delong",
+  "full_name": "Lisa Delong",
+  "linkedin_url": "https://linkedin.com/in/lisa-delong-aa123043",
+  "emails": [
+    {
+      "email": "tl_ldelong@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

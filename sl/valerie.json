@@ -1,0 +1,33 @@
+{
+  "uuid": "3cc9b178-8bf9-4421-8328-e24b79f93d98",
+  "first_name": "Valerie",
+  "last_name": "Orsoni",
+  "full_name": "Valerie Orsoni",
+  "linkedin_url": "https://linkedin.com/in/valerie",
+  "emails": [
+    {
+      "email": "vorsoni@speron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vorsoni@coachinglabs.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "valerie@lebootcamp.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-522-0309",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ValBiohacker"
+}

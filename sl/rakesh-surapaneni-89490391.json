@@ -1,0 +1,16 @@
+{
+  "uuid": "5c9f6b3c-b1c4-43c6-bd4b-24379f839702",
+  "first_name": "Rakesh",
+  "last_name": "Surapaneni",
+  "full_name": "Rakesh Surapaneni",
+  "linkedin_url": "https://linkedin.com/in/rakesh-surapaneni-89490391",
+  "emails": [
+    {
+      "email": "rsurapaneni@sw.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Scott & White Healthcare"
+}

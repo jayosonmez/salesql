@@ -1,0 +1,23 @@
+{
+  "uuid": "645cd6c4-7329-42f1-ba21-f67ca8af47d3",
+  "first_name": "Jamarius",
+  "last_name": "Collins, CEO, CMA, CPT, IBCLC",
+  "full_name": "Jamarius Collins, CEO, CMA, CPT, IBCLC",
+  "linkedin_url": "https://linkedin.com/in/jamarius-collins-ceo-cma-cpt-ibclc-bb4531b2",
+  "emails": [
+    {
+      "email": "jcollins@prismahealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 803-434-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Feed Your Seed "
+}

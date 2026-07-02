@@ -1,0 +1,28 @@
+{
+  "uuid": "92eb44d1-922d-406e-b958-56e4f2cad4f0",
+  "first_name": "Richard",
+  "last_name": "Beach",
+  "full_name": "Richard Beach",
+  "linkedin_url": "https://linkedin.com/in/richard-beach-99904823",
+  "emails": [
+    {
+      "email": "richard.beach@wne.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rbeach@wnec.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 413-782-3111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Western New England University"
+}

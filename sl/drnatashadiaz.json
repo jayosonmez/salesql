@@ -1,0 +1,23 @@
+{
+  "uuid": "ba282eeb-db9b-451d-9934-4791f568fdcb",
+  "first_name": "Natasha",
+  "last_name": "Diaz, MD, Entrepreneur",
+  "full_name": "Natasha Diaz, MD, Entrepreneur",
+  "linkedin_url": "https://linkedin.com/in/drnatashadiaz",
+  "emails": [
+    {
+      "email": "drnatashadiaz@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 708-613-7916",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Roots Health DPC"
+}

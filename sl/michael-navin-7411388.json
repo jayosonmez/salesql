@@ -1,0 +1,31 @@
+{
+  "uuid": "2d78e522-36d3-48fe-b1f5-405f3cedb733",
+  "first_name": "Michael",
+  "last_name": "Navin",
+  "full_name": "Michael Navin",
+  "linkedin_url": "https://linkedin.com/in/michael-navin-7411388",
+  "emails": [
+    {
+      "email": "mnavin@emgcom.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mnavin@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "michael.navin@stageroadventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mnavin@lumina-marketing.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Peek"
+}

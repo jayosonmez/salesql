@@ -1,0 +1,16 @@
+{
+  "uuid": "2c7d342d-9e63-452a-8ef2-c7d4e2a8b55f",
+  "first_name": "Dr. Dennis",
+  "last_name": "Spiller",
+  "full_name": "Dr. Dennis Spiller",
+  "linkedin_url": "https://linkedin.com/in/dr-dennis-spiller-a6b8a541",
+  "emails": [
+    {
+      "email": "dspiller@mitral.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Healthworx"
+}

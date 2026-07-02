@@ -1,0 +1,26 @@
+{
+  "uuid": "f98ac655-b246-4342-895b-96766209129f",
+  "first_name": "Kelechi",
+  "last_name": "Olejeme",
+  "full_name": "Kelechi Olejeme",
+  "linkedin_url": "https://linkedin.com/in/kelechi-olejeme-3b1b98a4",
+  "emails": [
+    {
+      "email": "kolejeme@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kolejeme@echolocum.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kolejeme@methodisthospitals.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self Published Author of \"Positive Words, Positive Thoughts\"​ under pseudonym of Kelly Anderson"
+}

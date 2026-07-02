@@ -1,0 +1,28 @@
+{
+  "uuid": "5b3f1588-5677-4718-84f8-60bfcc09b622",
+  "first_name": "Brett",
+  "last_name": "Levitt",
+  "full_name": "Brett Levitt",
+  "linkedin_url": "https://linkedin.com/in/brett-levitt-113a39140",
+  "emails": [
+    {
+      "email": "brettl@baptisthealth.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brett_levitt@peritourology.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-444-2920",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Perito Urology"
+}

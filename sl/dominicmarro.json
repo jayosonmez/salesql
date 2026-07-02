@@ -1,0 +1,28 @@
+{
+  "uuid": "420d2f97-48b9-4fcc-93f9-789c68c7514a",
+  "first_name": "Dominic",
+  "last_name": "Marro",
+  "full_name": "Dominic Marro",
+  "linkedin_url": "https://linkedin.com/in/dominicmarro",
+  "emails": [
+    {
+      "email": "dominicmarro@cox.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dmarro@masimo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-297-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Masimo"
+}

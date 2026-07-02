@@ -1,0 +1,41 @@
+{
+  "uuid": "a8fa3558-d415-4d1a-b013-78768cdbaf42",
+  "first_name": "Dilpesh",
+  "last_name": "Parmar",
+  "full_name": "Dilpesh Parmar",
+  "linkedin_url": "https://linkedin.com/in/dilpesh-parmar",
+  "emails": [
+    {
+      "email": "sparmar82@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dilpesh@tryclassify.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dilpesh@headgym.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dilpesh@zoe-studios.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dilpesh@cloudx.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dilpesh@playvault.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "CloudX"
+}

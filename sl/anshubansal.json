@@ -1,0 +1,31 @@
+{
+  "uuid": "e5060877-d4ff-4df4-b227-9f585c937c7d",
+  "first_name": "Anshu",
+  "last_name": "Bansal",
+  "full_name": "Anshu Bansal",
+  "linkedin_url": "https://linkedin.com/in/anshubansal",
+  "emails": [
+    {
+      "email": "anshu@tie.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anshu.bansal@forbestechcouncil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anshubansal2000@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ceo@clouddefense.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "CloudDefense.AI"
+}

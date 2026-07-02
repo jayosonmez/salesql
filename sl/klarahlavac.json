@@ -1,0 +1,33 @@
+{
+  "uuid": "42c62173-916f-4b1d-8f48-c94b4ceadaea",
+  "first_name": "Klara",
+  "last_name": "Hlavac",
+  "full_name": "Klara Hlavac",
+  "linkedin_url": "https://linkedin.com/in/klarahlavac",
+  "emails": [
+    {
+      "email": "k.hlavacova@talentgrator.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "k.hlavac@talentgrator.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "420725774609",
+      "type": "Personal",
+      "is_valid": false
+    },
+    {
+      "phone": "+420 725 441 231",
+      "type": "Work",
+      "country_code": "CZ",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Talentgrator"
+}

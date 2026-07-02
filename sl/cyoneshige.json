@@ -1,0 +1,26 @@
+{
+  "uuid": "16eb452b-b021-442b-9877-dbbb6ed3a85d",
+  "first_name": "Christina",
+  "last_name": "Yoneshige, MD",
+  "full_name": "Christina Yoneshige, MD",
+  "linkedin_url": "https://linkedin.com/in/cyoneshige",
+  "emails": [
+    {
+      "email": "cyoneshige@queens.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cyoneshige@hawaii.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christina@healthygamer.gg",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Healthy Gamer"
+}

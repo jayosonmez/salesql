@@ -1,0 +1,33 @@
+{
+  "uuid": "e926723e-966b-4101-bce8-c82fd72ed448",
+  "first_name": "Martin",
+  "last_name": "Migoya",
+  "full_name": "Martin Migoya",
+  "linkedin_url": "https://linkedin.com/in/migoya",
+  "emails": [
+    {
+      "email": "martin.migoya@endeavor.org.ar",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mm@tallion.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "martin.migoya@globant.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+54 11 5272-3100",
+      "type": "Work",
+      "country_code": "AR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Endeavor Argentina"
+}

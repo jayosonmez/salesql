@@ -1,0 +1,23 @@
+{
+  "uuid": "771752fc-ecd1-49d1-80f9-b15e5eb3ed1b",
+  "first_name": "Claudel",
+  "last_name": "Gratia",
+  "full_name": "Claudel Gratia",
+  "linkedin_url": "https://linkedin.com/in/claudel-gratia-882526252",
+  "emails": [
+    {
+      "email": "claudel.gratia@lvhn.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-402-5846",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Axiom Solutions, inc."
+}

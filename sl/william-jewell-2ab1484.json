@@ -1,0 +1,23 @@
+{
+  "uuid": "706f42da-1086-45ab-a710-fab1b48b3c16",
+  "first_name": "William",
+  "last_name": "Jewell",
+  "full_name": "William Jewell",
+  "linkedin_url": "https://linkedin.com/in/william-jewell-2ab1484",
+  "emails": [
+    {
+      "email": "wtjewell@ucdavis.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 530-752-1011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Davis"
+}

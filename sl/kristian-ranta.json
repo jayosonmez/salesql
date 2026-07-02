@@ -1,0 +1,36 @@
+{
+  "uuid": "033f4c38-5ddf-4f32-a9ac-2a480208ec8a",
+  "first_name": "Kristian",
+  "last_name": "Ranta",
+  "full_name": "Kristian Ranta",
+  "linkedin_url": "https://linkedin.com/in/kristian-ranta",
+  "emails": [
+    {
+      "email": "kristian@siltahouse.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kristian@meruhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kranta@forbes.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kristian.ranta@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kristian.ranta@mendor.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Meru Health"
+}

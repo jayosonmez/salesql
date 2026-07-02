@@ -1,0 +1,16 @@
+{
+  "uuid": "2aa1d460-2bac-437a-80df-c8d107ad4c7f",
+  "first_name": "Michael",
+  "last_name": "Ullmann",
+  "full_name": "Michael Ullmann",
+  "linkedin_url": "https://linkedin.com/in/michael-ullmann-7a395b54",
+  "emails": [
+    {
+      "email": "michael@salaryo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Salaryo"
+}

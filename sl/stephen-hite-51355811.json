@@ -1,0 +1,28 @@
+{
+  "uuid": "e21b9cab-e84d-41ec-a100-1a38cffb3266",
+  "first_name": "Stephen",
+  "last_name": "Hite",
+  "full_name": "Stephen Hite",
+  "linkedin_url": "https://linkedin.com/in/stephen-hite-51355811",
+  "emails": [
+    {
+      "email": "hitex001@tc.umn.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "stephen@MediBid.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-855-6334",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MediBid Inc"
+}

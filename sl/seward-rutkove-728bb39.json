@@ -1,0 +1,28 @@
+{
+  "uuid": "49da8fb6-299a-4099-a669-d878ac4cc30d",
+  "first_name": "Seward",
+  "last_name": "Rutkove",
+  "full_name": "Seward Rutkove",
+  "linkedin_url": "https://linkedin.com/in/seward-rutkove-728bb39",
+  "emails": [
+    {
+      "email": "srutkove@bidmc.harvard.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "srutkove@skulpt.me",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-667-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Beth Israel Deaconess Medical Center"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "12616e0b-25ac-4a34-955c-fdb4599fc0c1",
+  "first_name": "Toby",
+  "last_name": "Coppel",
+  "full_name": "Toby Coppel",
+  "linkedin_url": "https://linkedin.com/in/tcoppel",
+  "emails": [
+    {
+      "email": "toby@mosaicventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "toby.coppel@virgingreenfund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "toby.coppel@coram.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "toby@auterion.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "toby@blockchain.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 3745 6426",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mosaic Ventures"
+}

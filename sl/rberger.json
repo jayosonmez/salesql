@@ -1,0 +1,44 @@
+{
+  "uuid": "de74aa0e-61c9-4572-a30a-e17adcfe9bee",
+  "first_name": "Robert",
+  "last_name": "Berger",
+  "full_name": "Robert Berger",
+  "linkedin_url": "https://linkedin.com/in/rberger",
+  "emails": [
+    {
+      "email": "robert.berger@informediq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robert.berger@netenrich.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rberger@ibd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rberger@opscale.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-805-4234",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 877-868-9282",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Informed.IQ"
+}

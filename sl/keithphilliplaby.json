@@ -1,0 +1,16 @@
+{
+  "uuid": "06960edb-0240-4793-834d-3714a6a9c073",
+  "first_name": "Phillip",
+  "last_name": "Laby",
+  "full_name": "Phillip Laby",
+  "linkedin_url": "https://linkedin.com/in/keithphilliplaby",
+  "emails": [
+    {
+      "email": "phillip@labyrobotics.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Moray Medical"
+}

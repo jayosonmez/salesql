@@ -1,0 +1,17 @@
+{
+  "uuid": "f2d4ba76-f6a0-4791-85b9-226f01a0f5b6",
+  "first_name": "Werner",
+  "last_name": "Hoffmann",
+  "full_name": "Werner Hoffmann",
+  "linkedin_url": "https://linkedin.com/in/werner-hoffmann-8b1267209",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+41 44 782 88 88",
+      "type": "Personal",
+      "country_code": "CH",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Schweizer Luftwaffe, Kommando Pilotenschule"
+}

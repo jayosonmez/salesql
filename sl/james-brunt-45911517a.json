@@ -1,0 +1,16 @@
+{
+  "uuid": "2813e920-1392-46ad-acc1-9dad9495beaf",
+  "first_name": "James",
+  "last_name": "Brunt",
+  "full_name": "James Brunt",
+  "linkedin_url": "https://linkedin.com/in/james-brunt-45911517a",
+  "emails": [
+    {
+      "email": "james@tron.network",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "TRON DAO"
+}

@@ -1,0 +1,66 @@
+{
+  "uuid": "d64cb5f7-d883-4ab9-b0b3-9ce524320fb7",
+  "first_name": "Jas",
+  "last_name": "Purewal",
+  "full_name": "Jas Purewal",
+  "linkedin_url": "https://linkedin.com/in/jpurewal",
+  "emails": [
+    {
+      "email": "jas.purewal@Talewind.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jas.purewal@justabout.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jas.purewal@playmint.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jas@treespleasegames.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jas@nomorerobots.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jas@netspeakgames.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jas@alter.xyz",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jas@discord.gg",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jas@purewalandpartners.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jas.purewal@wiggin.co.uk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jasbirpurewal@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Slow living"
+}

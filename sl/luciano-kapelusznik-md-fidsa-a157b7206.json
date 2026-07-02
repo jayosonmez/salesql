@@ -1,0 +1,17 @@
+{
+  "uuid": "203ae9a8-a550-435b-ae99-e2fa33cd4fa4",
+  "first_name": "Luciano",
+  "last_name": "Kapelusznik, MD, FIDSA",
+  "full_name": "Luciano Kapelusznik, MD, FIDSA",
+  "linkedin_url": "https://linkedin.com/in/luciano-kapelusznik-md-fidsa-a157b7206",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 610-527-3800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Condor Bioscience"
+}

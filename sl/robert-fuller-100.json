@@ -1,0 +1,28 @@
+{
+  "uuid": "a02d4160-38fd-44b5-b363-8330f1e50b05",
+  "first_name": "Robert",
+  "last_name": "Fuller",
+  "full_name": "Robert Fuller",
+  "linkedin_url": "https://linkedin.com/in/robert-fuller-100",
+  "emails": [
+    {
+      "email": "rfulle01@villanova.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robert.fuller@northropgrumman.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 703-280-2900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northrop Grumman"
+}

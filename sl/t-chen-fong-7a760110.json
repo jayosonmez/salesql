@@ -1,0 +1,21 @@
+{
+  "uuid": "94278861-63d3-4629-acc1-9cc944bdfa49",
+  "first_name": "T. Chen",
+  "last_name": "Fong",
+  "full_name": "T. Chen Fong",
+  "linkedin_url": "https://linkedin.com/in/t-chen-fong-7a760110",
+  "emails": [
+    {
+      "email": "chen.fong@albertahealthservices.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chen.fong@calgaryhealthregion.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Calgary Scientific Inc, Analytics For Life"
+}

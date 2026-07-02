@@ -1,0 +1,41 @@
+{
+  "uuid": "1338fc0e-3ebd-40f7-a1c6-93432b3792f4",
+  "first_name": "James",
+  "last_name": "Nahirny",
+  "full_name": "James Nahirny",
+  "linkedin_url": "https://linkedin.com/in/jamesnahirny",
+  "emails": [
+    {
+      "email": "jnahirny@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jnahirny@baincapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james@forceofnatureclean.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jnahirny@tenure.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jnahirny@biocircuit.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jnahirny@valerahealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Alsora Capital LLC"
+}

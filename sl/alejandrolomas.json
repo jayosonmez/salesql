@@ -1,0 +1,44 @@
+{
+  "uuid": "26cac0fc-3911-4f03-9c05-adf1ebe19621",
+  "first_name": "Alejandro",
+  "last_name": "Lomas",
+  "full_name": "Alejandro Lomas",
+  "linkedin_url": "https://linkedin.com/in/alejandrolomas",
+  "emails": [
+    {
+      "email": "alejandro@caffeine.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alejandro@lomas.mx",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alejandro@lomaspublicidad.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alejandro@startcups.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+52 449 913 1429",
+      "type": "Personal",
+      "country_code": "MX",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-374-7978",
+      "type": "Work",
+      "country_code": "MX",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "STARTCUPS"
+}

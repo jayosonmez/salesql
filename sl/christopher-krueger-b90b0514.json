@@ -1,0 +1,21 @@
+{
+  "uuid": "fd4fdc7d-3746-4aba-9927-0c0b656ff275",
+  "first_name": "Christopher",
+  "last_name": "Krueger",
+  "full_name": "Christopher Krueger",
+  "linkedin_url": "https://linkedin.com/in/christopher-krueger-b90b0514",
+  "emails": [
+    {
+      "email": "ckrueger@ardeabio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ckrueger@ardeabio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Ardea Biosciences"
+}

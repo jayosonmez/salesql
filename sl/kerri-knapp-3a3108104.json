@@ -1,0 +1,23 @@
+{
+  "uuid": "bc9403ab-7c82-4b4e-841a-246a70c64094",
+  "first_name": "Kerri",
+  "last_name": "Knapp",
+  "full_name": "Kerri Knapp",
+  "linkedin_url": "https://linkedin.com/in/kerri-knapp-3a3108104",
+  "emails": [
+    {
+      "email": "kknapp@aflac.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 920-339-8085",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Aflac"
+}

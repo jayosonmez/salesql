@@ -1,0 +1,34 @@
+{
+  "uuid": "a1f6ae74-f024-441f-b016-4d75aef6c4cb",
+  "first_name": "Rich",
+  "last_name": "Stagliano, MD",
+  "full_name": "Rich Stagliano, MD",
+  "linkedin_url": "https://linkedin.com/in/richstaglianomd",
+  "emails": [
+    {
+      "email": "rich@richstaglianomd.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dr.rich@livefitmedicine.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-745-3305",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 415-745-3305",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rich Stagliano, MD"
+}

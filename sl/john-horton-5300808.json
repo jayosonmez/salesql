@@ -1,0 +1,16 @@
+{
+  "uuid": "8b63aefb-56a7-41c7-814f-8e193eec437e",
+  "first_name": "John",
+  "last_name": "Horton",
+  "full_name": "John Horton",
+  "linkedin_url": "https://linkedin.com/in/john-horton-5300808",
+  "emails": [
+    {
+      "email": "jhmd@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "IGOS"
+}

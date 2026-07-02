@@ -1,0 +1,28 @@
+{
+  "uuid": "b8bb0c73-d070-4761-a406-df063539ae94",
+  "first_name": "Dennis",
+  "last_name": "Koper, M.D.",
+  "full_name": "Dennis Koper, M.D.",
+  "linkedin_url": "https://linkedin.com/in/dennis-koper-m-d-6634b019",
+  "emails": [
+    {
+      "email": "dkoper2@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dkoper@signifyhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-984-5121",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Signify Health"
+}

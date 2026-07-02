@@ -1,0 +1,23 @@
+{
+  "uuid": "0d373fb7-c932-40c5-907d-09a04ceb28f1",
+  "first_name": "Michael",
+  "last_name": "Ducey",
+  "full_name": "Michael Ducey",
+  "linkedin_url": "https://linkedin.com/in/michael-ducey-19742183",
+  "emails": [
+    {
+      "email": "ducey@missouriwestern.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 816-271-4200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Missouri Western State University"
+}

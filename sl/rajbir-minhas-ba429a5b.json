@@ -1,0 +1,23 @@
+{
+  "uuid": "f5a5df38-2372-47c1-a88f-a370fb881dcc",
+  "first_name": "Rajbir",
+  "last_name": "Minhas",
+  "full_name": "Rajbir Minhas",
+  "linkedin_url": "https://linkedin.com/in/rajbir-minhas-ba429a5b",
+  "emails": [
+    {
+      "email": "rminhas@mercy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 937-523-9940",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mercy Health"
+}

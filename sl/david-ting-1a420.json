@@ -1,0 +1,21 @@
+{
+  "uuid": "aee73606-67ea-4d5b-b22c-ebc2cdb3ef85",
+  "first_name": "David",
+  "last_name": "Ting",
+  "full_name": "David Ting",
+  "linkedin_url": "https://linkedin.com/in/david-ting-1a420",
+  "emails": [
+    {
+      "email": "dting@imprivata.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.ting@tausight.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Tausight"
+}

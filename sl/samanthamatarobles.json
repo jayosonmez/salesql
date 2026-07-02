@@ -1,0 +1,28 @@
+{
+  "uuid": "f389ac39-a797-4600-ade7-3873c69b25e3",
+  "first_name": "Samantha",
+  "last_name": "Mata Robles",
+  "full_name": "Samantha Mata Robles",
+  "linkedin_url": "https://linkedin.com/in/samanthamatarobles",
+  "emails": [
+    {
+      "email": "srobles@purdue.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "samanthamata@email.arizona.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 765-494-4600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Purdue University"
+}

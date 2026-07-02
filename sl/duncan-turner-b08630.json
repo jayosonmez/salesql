@@ -1,0 +1,48 @@
+{
+  "uuid": "342612c2-e0de-4d32-a218-e276e9d3693d",
+  "first_name": "Duncan",
+  "last_name": "Turner",
+  "full_name": "Duncan Turner",
+  "linkedin_url": "https://linkedin.com/in/duncan-turner-b08630",
+  "emails": [
+    {
+      "email": "dajturner@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "duncan@cliqlimited.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "duncan@hax.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "duncan@unspun.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "duncan@seppure.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "duncan.turner@sosv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-698-9600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SOSV"
+}

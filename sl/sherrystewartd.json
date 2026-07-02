@@ -1,0 +1,33 @@
+{
+  "uuid": "a768e3cc-827e-4444-88a0-921f62f689c2",
+  "first_name": "Sherry",
+  "last_name": "Deutschmann",
+  "full_name": "Sherry Deutschmann",
+  "linkedin_url": "https://linkedin.com/in/sherrystewartd",
+  "emails": [
+    {
+      "email": "sherrys@letterlogic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sherryd@ourbraintrust.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sherry@sherrydeutschmann.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 615-783-0070",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BrainTrust"
+}

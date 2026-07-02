@@ -1,0 +1,26 @@
+{
+  "uuid": "4c992205-8d10-452b-bde1-dc7f48ff54d4",
+  "first_name": "Anil",
+  "last_name": "Diwan",
+  "full_name": "Anil Diwan",
+  "linkedin_url": "https://linkedin.com/in/anildiwan",
+  "emails": [
+    {
+      "email": "anil.diwan@bms.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adiwan@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "adiwan@nanoviricides.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "NanoViricides, Inc."
+}

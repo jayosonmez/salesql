@@ -1,0 +1,22 @@
+{
+  "uuid": "aad75cb4-2a0b-42dd-b2ff-8e309bc3f65e",
+  "first_name": "Qingling",
+  "last_name": "Yang",
+  "full_name": "Qingling Yang",
+  "linkedin_url": "https://linkedin.com/in/qingling-yang-985720105",
+  "emails": [
+    {
+      "email": "qingling.yang@medtronic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+421 2/682 069 11",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Medtronic"
+}

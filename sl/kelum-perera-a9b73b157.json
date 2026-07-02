@@ -1,0 +1,23 @@
+{
+  "uuid": "263ee8bb-7d41-4101-8599-d4f54b056932",
+  "first_name": " Kelum",
+  "last_name": "Perera",
+  "full_name": " Kelum Perera",
+  "linkedin_url": "https://linkedin.com/in/kelum-perera-a9b73b157",
+  "emails": [
+    {
+      "email": "kperera@kent.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 330-672-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kent State University"
+}

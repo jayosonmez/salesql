@@ -1,0 +1,39 @@
+{
+  "uuid": "a59b2691-77e3-4a28-a388-7585071d90b5",
+  "first_name": "Dusan",
+  "last_name": "Miletich",
+  "full_name": "Dusan Miletich",
+  "linkedin_url": "https://linkedin.com/in/dusanmiletich",
+  "emails": [
+    {
+      "email": "linkedin@arencap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "miletich@usc.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dusan@arendacapital.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-614-3622",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 310-370-9811",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Arenda Capital Management"
+}

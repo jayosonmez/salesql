@@ -1,0 +1,21 @@
+{
+  "uuid": "95be2508-ca47-4b59-846f-62082a960b4a",
+  "first_name": "Spencer",
+  "last_name": "Nadolsky, DO",
+  "full_name": "Spencer Nadolsky, DO",
+  "linkedin_url": "https://linkedin.com/in/spencer-nadolsky-do-784b019",
+  "emails": [
+    {
+      "email": "snadolsky@vcom.vt.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "spencer@joinvineyard.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Vineyard | Comprehensive GLP-1 and Obesity Care"
+}

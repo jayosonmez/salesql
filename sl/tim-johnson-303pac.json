@@ -1,0 +1,23 @@
+{
+  "uuid": "27d19919-dce2-4c28-9d32-51667e61e114",
+  "first_name": "Tim",
+  "last_name": "Johnson MS, PA-C",
+  "full_name": "Tim Johnson MS, PA-C",
+  "linkedin_url": "https://linkedin.com/in/tim-johnson-303pac",
+  "emails": [
+    {
+      "email": "tim@afirstchoicehealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 954-434-7246",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "A First Choice Healthcare"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "08a3a0e5-3b8a-4d18-8973-ba6fec47ef10",
+  "first_name": "Tom",
+  "last_name": "Golisano",
+  "full_name": "Tom Golisano",
+  "linkedin_url": "https://linkedin.com/in/tom-golisano-94937919a",
+  "emails": [
+    {
+      "email": "tomg@golisanofoundation.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tgolisano@paychex.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 585-385-6666",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Paychex"
+}

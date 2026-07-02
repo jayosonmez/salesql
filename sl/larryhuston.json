@@ -1,0 +1,26 @@
+{
+  "uuid": "1db37d2c-df94-4475-b71f-c38d5d2436f4",
+  "first_name": "Larry",
+  "last_name": "Huston",
+  "full_name": "Larry Huston",
+  "linkedin_url": "https://linkedin.com/in/larryhuston",
+  "emails": [
+    {
+      "email": "lhuston@upenn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "larry@hustonemail.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@4inno.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "4iNNO"
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "79aa9569-a3c7-4225-bb10-198ac4888c4d",
+  "first_name": "Gary",
+  "last_name": "Gerlacher, MD, MBA",
+  "full_name": "Gary Gerlacher, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/garygerlacher",
+  "emails": [
+    {
+      "email": "garygerlacher@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "gary.gerlacher@ikshealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gary.gerlacher@pulsara.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 214-629-5300",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 323-417-6565",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IKS Health"
+}

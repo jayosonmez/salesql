@@ -1,0 +1,23 @@
+{
+  "uuid": "20df71c0-dc4b-45fa-843b-f85bc4bbdf6b",
+  "first_name": "John",
+  "last_name": "Meisel",
+  "full_name": "John Meisel",
+  "linkedin_url": "https://linkedin.com/in/john-meisel-04b565b8",
+  "emails": [
+    {
+      "email": "john.meisel@kp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-987-3118",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hawaii permanente medical group"
+}

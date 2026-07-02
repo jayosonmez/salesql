@@ -1,0 +1,43 @@
+{
+  "uuid": "aaafe42d-6f3b-4590-b2a9-ea3551de4171",
+  "first_name": "Finn Age",
+  "last_name": "Hänsel",
+  "full_name": "Finn Age Hänsel",
+  "linkedin_url": "https://linkedin.com/in/finnhaensel",
+  "emails": [
+    {
+      "email": "finn@movinga.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hansel_finn@ceubusiness.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "finn@berlinerberg.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "finn.hansel@sanitygroup.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "finn.hansel@techstars.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 179 9097399",
+      "type": "Personal",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sanity Group"
+}

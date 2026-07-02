@@ -1,0 +1,23 @@
+{
+  "uuid": "584c163d-ae6b-483b-979d-9a600cd0229f",
+  "first_name": "Vaishalee",
+  "last_name": "Patil",
+  "full_name": "Vaishalee Patil",
+  "linkedin_url": "https://linkedin.com/in/vaishalee-patil-a879205b",
+  "emails": [
+    {
+      "email": "vpatil@austinhp.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-328-2266",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Austin Health Partners"
+}

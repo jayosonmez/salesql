@@ -1,0 +1,31 @@
+{
+  "uuid": "eb5a6e98-3046-470a-99a5-db548ef7bbd5",
+  "first_name": "Axel",
+  "last_name": "Toupane",
+  "full_name": "Axel Toupane",
+  "linkedin_url": "https://linkedin.com/in/axeltoupane",
+  "emails": [
+    {
+      "email": "axel@deimos-capital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "axel@heex.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "contact@axeltoupane.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "axel@intuition.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "babylon"
+}

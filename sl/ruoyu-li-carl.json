@@ -1,0 +1,23 @@
+{
+  "uuid": "eab932af-8b05-4cc5-a240-c80f06b37f77",
+  "first_name": "Ruoyu",
+  "last_name": "Li",
+  "full_name": "Ruoyu Li",
+  "linkedin_url": "https://linkedin.com/in/ruoyu-li-carl",
+  "emails": [
+    {
+      "email": "ruoyu.li@gatech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-894-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Georgia Institute of Technology"
+}

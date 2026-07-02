@@ -1,0 +1,16 @@
+{
+  "uuid": "00343bba-8a24-4486-930d-c97023e7cbc8",
+  "first_name": "Richard",
+  "last_name": "Lee, MD, RPh, FACP, FACG",
+  "full_name": "Richard Lee, MD, RPh, FACP, FACG",
+  "linkedin_url": "https://linkedin.com/in/richard-s-lee-md",
+  "emails": [
+    {
+      "email": "richard.lee@navy.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Neuse Gastroenterology"
+}

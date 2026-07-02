@@ -1,0 +1,43 @@
+{
+  "uuid": "7f5422d4-8c45-46bf-a237-1e248a5efb6e",
+  "first_name": "Masoumeh",
+  "last_name": "Ghaffari, MD",
+  "full_name": "Masoumeh Ghaffari, MD",
+  "linkedin_url": "https://linkedin.com/in/masoumeh-ghaffari-md-b26b3651",
+  "emails": [
+    {
+      "email": "masoumeh.ghaffari@ucr.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mghaffari@augusta.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mghaffari@mag.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "masoumeh.ghaffari@hcahealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mghaffari@acponline.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 951-827-1012",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Riverside"
+}

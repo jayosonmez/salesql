@@ -1,0 +1,62 @@
+{
+  "uuid": "7fad48b1-dfef-4b8d-895a-61515c20d43c",
+  "first_name": "Misael",
+  "last_name": "A.",
+  "full_name": "Misael A.",
+  "linkedin_url": "https://linkedin.com/in/misaelaydiko",
+  "emails": [
+    {
+      "email": "misaelayde@icloud.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "misael@iconstaffingfirm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maydiko@denverwork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maydiko@iconstaffing.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-376-6362",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 406-371-3222",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 303-955-2107",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 720-731-3976",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 828-581-0475",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Symmetry Financial Group"
+}

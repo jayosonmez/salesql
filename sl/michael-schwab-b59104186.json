@@ -1,0 +1,17 @@
+{
+  "uuid": "3e98826a-0c06-435f-ad0f-3e3bede99e1d",
+  "first_name": "Michael",
+  "last_name": "Schwab",
+  "full_name": "Michael Schwab",
+  "linkedin_url": "https://linkedin.com/in/michael-schwab-b59104186",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 612-379-8854",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bio-Techne"
+}

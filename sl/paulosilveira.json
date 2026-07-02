@@ -1,0 +1,21 @@
+{
+  "uuid": "5321cb64-6810-4575-b370-529571943095",
+  "first_name": "Paulo",
+  "last_name": "Silveira",
+  "full_name": "Paulo Silveira",
+  "linkedin_url": "https://linkedin.com/in/paulosilveira",
+  "emails": [
+    {
+      "email": "paulo@paulo.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "paulo@alura.com.br",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Alura"
+}

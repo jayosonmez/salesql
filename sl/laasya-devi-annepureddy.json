@@ -1,0 +1,23 @@
+{
+  "uuid": "f3b986e0-b785-48bb-9c14-b8959b8c62e5",
+  "first_name": "Laasya Devi",
+  "last_name": "Annepureddy",
+  "full_name": "Laasya Devi Annepureddy",
+  "linkedin_url": "https://linkedin.com/in/laasya-devi-annepureddy",
+  "emails": [
+    {
+      "email": "laasya.annepureddy@dartmouth.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 603-646-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Thayer School of Engineering at Dartmouth"
+}

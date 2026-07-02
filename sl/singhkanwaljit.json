@@ -1,0 +1,47 @@
+{
+  "uuid": "85d74d17-a5dd-45ed-90cd-78c6fd019752",
+  "first_name": "Kanwaljit",
+  "last_name": "Singh",
+  "full_name": "Kanwaljit Singh",
+  "linkedin_url": "https://linkedin.com/in/singhkanwaljit",
+  "emails": [
+    {
+      "email": "sk@unilever.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kanwal.linkedin@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kanwal@singh.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kanwaljit.singh@carlyle.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kanwaljit@firesideventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kanwaljit.singh@intel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+91 80 6193 6868",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fireside Ventures"
+}

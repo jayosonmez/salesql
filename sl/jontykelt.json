@@ -1,0 +1,41 @@
+{
+  "uuid": "a91f7c2d-66f9-49f5-8d86-31c96d9c6338",
+  "first_name": "Jonty",
+  "last_name": "Kelt",
+  "full_name": "Jonty Kelt",
+  "linkedin_url": "https://linkedin.com/in/jontykelt",
+  "emails": [
+    {
+      "email": "jonty@starboardintelligence.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonty@kingriver.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "j.kelt@kingscollege.school.nz",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonty.kelt@getcaruso.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonty@chilldigital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonty@fantailventures.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Fantail Ventures"
+}

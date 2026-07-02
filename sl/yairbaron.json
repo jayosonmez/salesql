@@ -1,0 +1,31 @@
+{
+  "uuid": "f6317fea-bf21-4ff4-b5fc-bd1001f1e076",
+  "first_name": "Yair",
+  "last_name": "Bar-On",
+  "full_name": "Yair Bar-On",
+  "linkedin_url": "https://linkedin.com/in/yairbaron",
+  "emails": [
+    {
+      "email": "yair@golioth.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yair.b@qodo.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yair@google.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yair@bar-on.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Golioth"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "73f22f5f-d54c-4f9c-ba2a-a038b4b06923",
+  "first_name": "Kenneth",
+  "last_name": "Madsen",
+  "full_name": "Kenneth Madsen",
+  "linkedin_url": "https://linkedin.com/in/kenneth-madsen-31aa8a215",
+  "emails": [
+    {
+      "email": "kenneth.madsen@northwestern.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-491-3741",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northwestern University"
+}

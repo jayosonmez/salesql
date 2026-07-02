@@ -1,0 +1,22 @@
+{
+  "uuid": "bbca9118-d65e-4362-ab0d-568f61d60f03",
+  "first_name": "İrem",
+  "last_name": "Arslan",
+  "full_name": "İrem Arslan",
+  "linkedin_url": "https://linkedin.com/in/irem-arslan-625340220",
+  "emails": [
+    {
+      "email": "iremarslanlinkedin@neyasis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 212 335 25 61",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Neyasis Technology"
+}

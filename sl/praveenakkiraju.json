@@ -1,0 +1,43 @@
+{
+  "uuid": "7d75d07a-ae58-48cd-bf72-55f66914559c",
+  "first_name": "Praveen",
+  "last_name": "Akkiraju",
+  "full_name": "Praveen Akkiraju",
+  "linkedin_url": "https://linkedin.com/in/praveenakkiraju",
+  "emails": [
+    {
+      "email": "pakkiraju@cisco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "praveen.akkiraju@vce.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pakkiraju@insightpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pakkiraju@gmp4.hbs.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "praveen@akkiraju.us.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-230-9200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Insight Partners"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "54301c35-1f7b-482b-b510-8de20f8bf239",
+  "first_name": "Marc",
+  "last_name": "Lasry",
+  "full_name": "Marc Lasry",
+  "linkedin_url": "https://linkedin.com/in/marclasry",
+  "emails": [
+    {
+      "email": "mlasry@avenuecapital.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-856-2600",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 212-878-3500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Avenue Capital Group"
+}

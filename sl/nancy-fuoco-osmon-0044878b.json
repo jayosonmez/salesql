@@ -1,0 +1,23 @@
+{
+  "uuid": "dd62c047-6206-47c9-a08e-57fa8e3087fc",
+  "first_name": "Nancy",
+  "last_name": "Fuoco Osmon",
+  "full_name": "Nancy Fuoco Osmon",
+  "linkedin_url": "https://linkedin.com/in/nancy-fuoco-osmon-0044878b",
+  "emails": [
+    {
+      "email": "nancy.fuoco@baycare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 813-554-8500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BayCare Health System"
+}

@@ -1,0 +1,48 @@
+{
+  "uuid": "c365eb76-b68f-4a0d-b04f-bdfeead57f7e",
+  "first_name": "Lisa",
+  "last_name": "Andrew",
+  "full_name": "Lisa Andrew",
+  "linkedin_url": "https://linkedin.com/in/lisa-andrew-88696015",
+  "emails": [
+    {
+      "email": "lisa.andrew@gecapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lisaandrew@levistrauss.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "landrew@gapinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lisaandrew@alumni.wfu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lisa.kobylarz@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "lisa@hearfulhub.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-513-7912",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wolfpack Investor Network"
+}

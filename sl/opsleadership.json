@@ -1,0 +1,16 @@
+{
+  "uuid": "b02f8293-b26a-4c78-8b9d-57989b563d8a",
+  "first_name": "Monica",
+  "last_name": "Middleton",
+  "full_name": "Monica Middleton",
+  "linkedin_url": "https://linkedin.com/in/opsleadership",
+  "emails": [
+    {
+      "email": "monica@withinfiniti.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "With Infiniti"
+}

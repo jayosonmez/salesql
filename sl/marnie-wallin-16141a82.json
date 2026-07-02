@@ -1,0 +1,23 @@
+{
+  "uuid": "0641f772-b28d-4120-917d-8758680f9c34",
+  "first_name": "Marnie",
+  "last_name": "Wallin",
+  "full_name": "Marnie Wallin",
+  "linkedin_url": "https://linkedin.com/in/marnie-wallin-16141a82",
+  "emails": [
+    {
+      "email": "mwallin@beckmancoulter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-877-6242",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Beckman Coulter Diagnostics"
+}

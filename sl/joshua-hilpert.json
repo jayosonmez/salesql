@@ -1,0 +1,28 @@
+{
+  "uuid": "7929c3fc-bb90-462e-b2e7-7eef0641b0b5",
+  "first_name": "Joshua",
+  "last_name": "Hilpert",
+  "full_name": "Joshua Hilpert",
+  "linkedin_url": "https://linkedin.com/in/joshua-hilpert",
+  "emails": [
+    {
+      "email": "jhilpert@costco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jhilpert@calbaptist.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-228-3615",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "California Baptist University"
+}

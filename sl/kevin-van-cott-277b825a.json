@@ -1,0 +1,23 @@
+{
+  "uuid": "2746f195-7bb3-4ada-89c0-dd1d13a4c008",
+  "first_name": "Kevin",
+  "last_name": "Van Cott",
+  "full_name": "Kevin Van Cott",
+  "linkedin_url": "https://linkedin.com/in/kevin-van-cott-277b825a",
+  "emails": [
+    {
+      "email": "kvan@nebraska.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 916-747-6205",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BEBPA"
+}

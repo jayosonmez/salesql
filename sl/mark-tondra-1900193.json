@@ -1,0 +1,16 @@
+{
+  "uuid": "38877a30-c262-47d4-b985-27487ccb22db",
+  "first_name": "Mark",
+  "last_name": "Tondra",
+  "full_name": "Mark Tondra",
+  "linkedin_url": "https://linkedin.com/in/mark-tondra-1900193",
+  "emails": [
+    {
+      "email": "mark@diagnosticbiosensors.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Diagnostic Biosensors, LLC"
+}

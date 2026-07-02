@@ -1,0 +1,23 @@
+{
+  "uuid": "765a96b5-0dc4-4e0b-8d69-c4febbf9ae99",
+  "first_name": "David",
+  "last_name": "Armitage",
+  "full_name": "David Armitage",
+  "linkedin_url": "https://linkedin.com/in/dlarmitage",
+  "emails": [
+    {
+      "email": "darmitage@cartasite.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 720-432-9767",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AskAlice"
+}

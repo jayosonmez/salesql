@@ -1,0 +1,23 @@
+{
+  "uuid": "77f577d8-c982-404a-9af6-46153046b842",
+  "first_name": "Yen",
+  "last_name": "Lu",
+  "full_name": "Yen Lu",
+  "linkedin_url": "https://linkedin.com/in/yen-lu-270a305a",
+  "emails": [
+    {
+      "email": "ylu@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-534-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC San Diego Health"
+}

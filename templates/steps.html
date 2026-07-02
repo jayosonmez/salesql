@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+{% block title %}Steps – {{ campaign.name }}{% endblock %}
+{% block content %}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+  <div>
+    <a href="/campaigns" class="text-muted text-decoration-none small">Campaigns</a>
+    <span class="text-muted small"> / </span>
+    <a href="/campaigns/{{ campaign.id }}" class="text-muted text-decoration-none small">{{ campaign.name }}</a>
+    <span class="text-muted small"> / </span>
+    <span class="small">Steps</span>
+  </div>
+</div>
+
+<div class="row g-4">
+  <!-- Existing steps -->
+  <div class="col-lg-7">
+    <div class="card shadow-sm">
+      <div class="card-header"><strong>Sequence Steps</strong></div>
+      <div class="card-body p-0">
+        {% if steps %}
+        <table class="table table-hover mb-0">
+          <thead class="table-light">
+            <tr>
+              <th>#</th>
+              <th>Subject</th>
+              <th class="text-end">Wait (days)</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for s in steps %}
+            <tr>
+              <td><span class="badge bg-secondary">{{ s.step_num }}</span></td>
+              <td>{{ s.subject }}</td>
+              <td class="text-end text-muted">
+                {% if s.step_num == 1 %}Send immediately{% else %}+{{ s.wait_days }}d{% endif %}
+              </td>
+              <td class="text-end">
+                <a href="/campaigns/{{ campaign.id }}/steps/{{ s.id }}/edit" class="btn btn-sm btn-outline-secondary">Edit</a>
+                <form method="post" action="/campaigns/{{ campaign.id }}/steps/{{ s.id }}/delete"
+                      class="d-inline" onsubmit="return confirm('Delete step {{ s.step_num }}?')">
+                  <button class="btn btn-sm btn-outline-danger">Del</button>
+                </form>
+              </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+        {% else %}
+        <div class="text-center text-muted py-4">No steps yet. Add your first email below.</div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <!-- Add / edit step form -->
+  <div class="col-lg-5">
+    <div class="card shadow-sm">
+      <div class="card-header">
+        <strong>{{ "Edit Step " ~ edit_step.step_num if edit_step else "Add Step" }}</strong>
+      </div>
+      <div class="card-body">
+        <form method="post" action="{{ '/campaigns/' ~ campaign.id ~ '/steps/' ~ edit_step.id ~ '/edit' if edit_step else '/campaigns/' ~ campaign.id ~ '/steps/add' }}">
+          <div class="mb-3">
+            <label class="form-label">Subject</label>
+            <input type="text" name="subject" class="form-control"
+                   value="{{ edit_step.subject if edit_step else '' }}"
+                   placeholder="e.g. Quick question about {% raw %}{{company}}{% endraw %}" required>
+            <div class="form-text">Variables: {% raw %}{{first_name}}, {{last_name}}, {{company}}, {{full_name}}{% endraw %}</div>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Body (HTML)</label>
+            <textarea name="body_template" class="form-control" rows="8"
+                      placeholder="Hi {% raw %}{{first_name}}{% endraw %},..." required>{{ edit_step.body_template if edit_step else '' }}</textarea>
+          </div>
+          {% if not edit_step or edit_step.step_num > 1 %}
+          <div class="mb-3">
+            <label class="form-label">Wait days after previous step</label>
+            <input type="number" name="wait_days" class="form-control" min="1" max="30"
+                   value="{{ edit_step.wait_days if edit_step else 3 }}">
+            <div class="form-text">Step 1 always sends immediately (ignored).</div>
+          </div>
+          {% endif %}
+          <div class="d-flex gap-2">
+            <button type="submit" class="btn btn-primary btn-sm">
+              {{ "Save Changes" if edit_step else "Add Step" }}
+            </button>
+            {% if edit_step %}
+            <a href="/campaigns/{{ campaign.id }}/steps" class="btn btn-sm btn-outline-secondary">Cancel</a>
+            {% endif %}
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

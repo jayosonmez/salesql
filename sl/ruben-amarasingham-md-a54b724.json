@@ -1,0 +1,26 @@
+{
+  "uuid": "ee7d6bb2-5be9-4e4e-bb3e-a1b064709d10",
+  "first_name": "Ruben",
+  "last_name": "Amarasingham, MD",
+  "full_name": "Ruben Amarasingham, MD",
+  "linkedin_url": "https://linkedin.com/in/ruben-amarasingham-md-a54b724",
+  "emails": [
+    {
+      "email": "r_amarasingham@smartertech.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ruben@anthropic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ramara@parknet.pmh.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Smarter Technologies"
+}

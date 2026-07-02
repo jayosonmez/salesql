@@ -1,0 +1,26 @@
+{
+  "uuid": "1603b5bf-3874-4c4a-904b-f327a7bdafdf",
+  "first_name": "Kristine L.",
+  "last_name": "Gedroic, M.D.",
+  "full_name": "Kristine L. Gedroic, M.D.",
+  "linkedin_url": "https://linkedin.com/in/kristine-l-gedroic-m-d-2bb331162",
+  "emails": [
+    {
+      "email": "md@linkedin.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kgedroic@aafp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kristine.gedroic@ama-assn.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Gedroic Medical Institute"
+}

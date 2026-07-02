@@ -1,0 +1,43 @@
+{
+  "uuid": "1d7d0a93-674e-41d5-809c-ca972cff547d",
+  "first_name": "Miles",
+  "last_name": "Mulcare",
+  "full_name": "Miles Mulcare",
+  "linkedin_url": "https://linkedin.com/in/milesmulcare",
+  "emails": [
+    {
+      "email": "mmulcare@guardsmen.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "milesmulcare@earthlink.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "milesmulcare@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "miles@sourcegraph.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "miles@coderabbit.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-215-4129",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CodeRabbit"
+}

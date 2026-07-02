@@ -1,0 +1,46 @@
+{
+  "uuid": "1cedd8b7-ce64-446e-9979-b4d3e15b3bfd",
+  "first_name": "Mark",
+  "last_name": "Jaffe",
+  "full_name": "Mark Jaffe",
+  "linkedin_url": "https://linkedin.com/in/mrjaffe",
+  "emails": [
+    {
+      "email": "mark@readysetfood.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mjaffe@attane-health.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark@everytable.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark_jaffe@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mark@brownangelgroup.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mark.jaffe@dexterexperts.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mark.jaffe.2003@anderson.ucla.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dexter Expert Network"
+}

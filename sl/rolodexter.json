@@ -1,0 +1,43 @@
+{
+  "uuid": "0e7e79f8-3013-4e79-9b7e-76fa26f58c14",
+  "first_name": "Joe",
+  "last_name": "Maristela",
+  "full_name": "Joe Maristela",
+  "linkedin_url": "https://linkedin.com/in/rolodexter",
+  "emails": [
+    {
+      "email": "j.maristela@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jmaristela@katalyst.ph",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joem@americanassociation.org.ph",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jmaristela@pinetree.ph",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joe@rivalz.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-918-6796",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rivalz Network"
+}

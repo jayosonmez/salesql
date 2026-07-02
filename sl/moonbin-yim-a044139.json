@@ -1,0 +1,28 @@
+{
+  "uuid": "37ceaabb-6c27-488b-bb7a-330edf98e617",
+  "first_name": "Moonbin",
+  "last_name": "Yim",
+  "full_name": "Moonbin Yim",
+  "linkedin_url": "https://linkedin.com/in/moonbin-yim-a044139",
+  "emails": [
+    {
+      "email": "moonbiny@yahoo.co.kr",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "yim@musc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 843-792-3281",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Medical University of South Carolina"
+}

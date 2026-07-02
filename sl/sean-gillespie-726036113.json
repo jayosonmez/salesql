@@ -1,0 +1,21 @@
+{
+  "uuid": "94409666-e362-4552-87bc-f40d63d3544f",
+  "first_name": "Sean",
+  "last_name": "Gillespie",
+  "full_name": "Sean Gillespie",
+  "linkedin_url": "https://linkedin.com/in/sean-gillespie-726036113",
+  "emails": [
+    {
+      "email": "sean.gillespie@smithsdetection.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sean@pocdoc.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "PocDoc"
+}

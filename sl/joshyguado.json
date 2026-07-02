@@ -1,0 +1,28 @@
+{
+  "uuid": "83592d73-17b9-4454-b8d3-6fc946260e33",
+  "first_name": "Joshua",
+  "last_name": "Yguado",
+  "full_name": "Joshua Yguado",
+  "linkedin_url": "https://linkedin.com/in/joshyguado",
+  "emails": [
+    {
+      "email": "joshua.yguado@viacom.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "josh@mindjolt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-205-4800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Jam City"
+}

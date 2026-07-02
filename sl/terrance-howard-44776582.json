@@ -1,0 +1,16 @@
+{
+  "uuid": "1f329ca3-eb8a-4b25-8a00-02935f626efe",
+  "first_name": "Terrance",
+  "last_name": "Howard",
+  "full_name": "Terrance Howard",
+  "linkedin_url": "https://linkedin.com/in/terrance-howard-44776582",
+  "emails": [
+    {
+      "email": "terrancehoward804@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Angel Investors LP"
+}

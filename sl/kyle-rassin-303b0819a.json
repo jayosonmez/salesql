@@ -1,0 +1,23 @@
+{
+  "uuid": "d015045a-bc1b-48f2-b299-e010dae92567",
+  "first_name": "Kyle",
+  "last_name": "Rassin",
+  "full_name": "Kyle Rassin",
+  "linkedin_url": "https://linkedin.com/in/kyle-rassin-303b0819a",
+  "emails": [
+    {
+      "email": "kyle.rassin@voya.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-309-8200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Voya Investment Management"
+}

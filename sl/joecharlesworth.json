@@ -1,0 +1,38 @@
+{
+  "uuid": "753d57f8-bd1e-4e8e-9f46-b3cb37c36185",
+  "first_name": "Joe",
+  "last_name": "C.",
+  "full_name": "Joe C.",
+  "linkedin_url": "https://linkedin.com/in/joecharlesworth",
+  "emails": [
+    {
+      "email": "enquiries@faiaccountants.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joe@autonomyx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joe@playfaircapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joe@ai3.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 7545 961634",
+      "type": "Personal",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AI3 Business Builder"
+}

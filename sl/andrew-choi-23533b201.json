@@ -1,0 +1,23 @@
+{
+  "uuid": "9ba06819-7656-4ede-9a96-c768f1448abf",
+  "first_name": "Andrew",
+  "last_name": "Choi",
+  "full_name": "Andrew Choi",
+  "linkedin_url": "https://linkedin.com/in/andrew-choi-23533b201",
+  "emails": [
+    {
+      "email": "andrew.choi@memorialhermann.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 713-704-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MEMORIAL HERMANN MEDICAL GROUP"
+}

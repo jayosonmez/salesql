@@ -1,0 +1,21 @@
+{
+  "uuid": "22821cbe-b04c-48f5-8693-ace8b0532e9e",
+  "first_name": "Yao",
+  "last_name": "Li",
+  "full_name": "Yao Li",
+  "linkedin_url": "https://linkedin.com/in/yao-li-ca",
+  "emails": [
+    {
+      "email": "yaoli@fas.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yli@goodwatercap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Goodwater Capital"
+}

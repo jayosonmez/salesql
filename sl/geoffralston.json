@@ -1,0 +1,21 @@
+{
+  "uuid": "9d874272-1535-453a-b9c3-5a040502402e",
+  "first_name": "Geoff",
+  "last_name": "Ralston",
+  "full_name": "Geoff Ralston",
+  "linkedin_url": "https://linkedin.com/in/geoffralston",
+  "emails": [
+    {
+      "email": "geoff@saif.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "geoff@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "SAIF (Safe AI Fund)"
+}

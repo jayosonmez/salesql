@@ -1,0 +1,23 @@
+{
+  "uuid": "a1bc8ca6-6912-41ab-b29a-f0b94091b980",
+  "first_name": "Sarah",
+  "last_name": "Matthews, MD",
+  "full_name": "Sarah Matthews, MD",
+  "linkedin_url": "https://linkedin.com/in/sarah-matthews-md-12994364",
+  "emails": [
+    {
+      "email": "smatthews@christianacare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 302-733-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ChristianaCare"
+}

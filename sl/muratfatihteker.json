@@ -1,0 +1,28 @@
+{
+  "uuid": "8a029b4a-595c-4d8a-b552-7490b734d07f",
+  "first_name": "Murat",
+  "last_name": "Teker",
+  "full_name": "Murat Teker",
+  "linkedin_url": "https://linkedin.com/in/muratfatihteker",
+  "emails": [
+    {
+      "email": "muratfatihteker@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "murat@korrogo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 537 064 37 34",
+      "type": "Personal",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Korrogo IT Staffing"
+}

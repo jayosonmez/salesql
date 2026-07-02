@@ -1,0 +1,23 @@
+{
+  "uuid": "7069f6c2-715c-4159-95a0-267a4f216f4c",
+  "first_name": "James",
+  "last_name": "States MD",
+  "full_name": "James States MD",
+  "linkedin_url": "https://linkedin.com/in/james-states-md-86191223",
+  "emails": [
+    {
+      "email": "jstates@adolescentmedicine.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 360-545-3416",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Skokomish Tribal Clinic and Tuwaduq Family Services"
+}

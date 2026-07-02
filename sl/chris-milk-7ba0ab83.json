@@ -1,0 +1,31 @@
+{
+  "uuid": "98026981-bc0d-41a7-b072-b6f5e7b3ed67",
+  "first_name": "Chris",
+  "last_name": "Milk",
+  "full_name": "Chris Milk",
+  "linkedin_url": "https://linkedin.com/in/chris-milk-7ba0ab83",
+  "emails": [
+    {
+      "email": "cmilk@dga.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chrismilk@with.in",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "milk@radicalmedia.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "chris.milk@getsupernatural.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Supernatural"
+}

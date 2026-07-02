@@ -1,0 +1,38 @@
+{
+  "uuid": "5e48ee2a-b006-40d7-873a-a0a8ab799e04",
+  "first_name": "Serge",
+  "last_name": "Chiaramonte",
+  "full_name": "Serge Chiaramonte",
+  "linkedin_url": "https://linkedin.com/in/serge-chiaramonte-63151418",
+  "emails": [
+    {
+      "email": "serge@chiaramonte.co.uk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "serge.chiaramonte@credit-suisse.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cs@capdesk.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "serge@withplum.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 7949 525722",
+      "type": "Personal",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tech - Early Stage Investor"
+}

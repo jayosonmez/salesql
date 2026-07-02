@@ -1,0 +1,36 @@
+{
+  "uuid": "fb576228-9783-48b1-a18c-e80e6e3685d2",
+  "first_name": "Shiva",
+  "last_name": "Patibanda",
+  "full_name": "Shiva Patibanda",
+  "linkedin_url": "https://linkedin.com/in/shiva-patibanda-182a6a6",
+  "emails": [
+    {
+      "email": "shiva@locomizer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shiva.patibanda@peopleshores.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shiva@kavia.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shiva_p@vividlogic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shiva.patibanda@smiota.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "KAVIA AI"
+}

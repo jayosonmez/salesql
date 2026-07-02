@@ -1,0 +1,43 @@
+{
+  "uuid": "7d4fa739-9426-448d-894d-8e7180aa464d",
+  "first_name": "Sébastien",
+  "last_name": "Deguy",
+  "full_name": "Sébastien Deguy",
+  "linkedin_url": "https://linkedin.com/in/sebastiendeguy",
+  "emails": [
+    {
+      "email": "sebastien.deguy@nfinite.app",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sebastien@worldlabs.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sebastien@kinetix.tech",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sebastien@solaya.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "deguy@allegorithmic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 6 80 47 14 45",
+      "type": "Personal",
+      "country_code": "FR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sans Strings Studio"
+}

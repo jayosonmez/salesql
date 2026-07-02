@@ -1,0 +1,28 @@
+{
+  "uuid": "bb710066-90a5-483a-95c3-eab63a22e0bb",
+  "first_name": "Stephanie",
+  "last_name": "Costa MD",
+  "full_name": "Stephanie Costa MD",
+  "linkedin_url": "https://linkedin.com/in/stephanie-costa-md-896b5b203",
+  "emails": [
+    {
+      "email": "scosta@copcp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "scosta@avinawomenscare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 614-326-2672",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Central Ohio Primary Care"
+}

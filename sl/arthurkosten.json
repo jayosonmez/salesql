@@ -1,0 +1,21 @@
+{
+  "uuid": "ca86fea8-afff-42d6-9c35-8243708dd6ca",
+  "first_name": "Arthur",
+  "last_name": "K.",
+  "full_name": "Arthur K.",
+  "linkedin_url": "https://linkedin.com/in/arthurkosten",
+  "emails": [
+    {
+      "email": "ajkosten@xs4all.nl",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "arthur@getcarv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Carv"
+}

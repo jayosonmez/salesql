@@ -1,0 +1,21 @@
+{
+  "uuid": "e57b13c1-12ba-475d-8006-c09eb913e5f9",
+  "first_name": "Dr. Manju",
+  "last_name": "Sheth",
+  "full_name": "Dr. Manju Sheth",
+  "linkedin_url": "https://linkedin.com/in/dr-manju-sheth-863889180",
+  "emails": [
+    {
+      "email": "dr.sheth@bilh.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr@saheliboston.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Beth Israel Lahey Health"
+}

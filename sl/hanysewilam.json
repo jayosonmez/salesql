@@ -1,0 +1,64 @@
+{
+  "uuid": "23f58a1f-c7ee-4a45-8a1b-9088fdcefe98",
+  "first_name": "Hany",
+  "last_name": "Sewilam",
+  "full_name": "Hany Sewilam",
+  "linkedin_url": "https://linkedin.com/in/hanysewilam",
+  "emails": [
+    {
+      "email": "hany@orkanza.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sewilamhany@olympianmotors.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sewilam@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "hany@contractorplus.app",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hany@enki.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hany@melaninhaircare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hany.sewilam@floqsta.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hany@zette.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 832-640-7602",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 832-271-4771",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Enki"
+}

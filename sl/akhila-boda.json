@@ -1,0 +1,71 @@
+{
+  "uuid": "87a70140-081a-4115-a2c5-2e0df2477418",
+  "first_name": "Akhila",
+  "last_name": "Boda",
+  "full_name": "Akhila Boda",
+  "linkedin_url": "https://linkedin.com/in/akhila-boda",
+  "emails": [
+    {
+      "email": "akhila@thinksteam4girls.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "akhila.boda@nationwidechildrens.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "akhila.boda@nysf.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aboda@girlup.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "akhila@NewDegreePress.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "akhila@methodtestprep.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aboda@medcareambulance.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "akhila@methodlearning.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "akhila.boda@nationwidechildrens.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "boda.16@osu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "authorakhila@imedvocate.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aboda@medcareambulance.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "First-Generation Pre-Medical Student Association"
+}

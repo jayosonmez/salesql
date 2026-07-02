@@ -1,0 +1,23 @@
+{
+  "uuid": "4455d88a-037a-44e0-9fc8-e9889bf1cd52",
+  "first_name": "Rama Murthy",
+  "last_name": "Sakamuri",
+  "full_name": "Rama Murthy Sakamuri",
+  "linkedin_url": "https://linkedin.com/in/ramamurthysakamuri",
+  "emails": [
+    {
+      "email": "rama.sakamuri@abbott.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 714-247-8200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Abbott"
+}

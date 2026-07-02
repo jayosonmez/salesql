@@ -1,0 +1,16 @@
+{
+  "uuid": "e59f3296-a7ac-4040-8e35-1811ded6544a",
+  "first_name": "Jeff",
+  "last_name": "Smith",
+  "full_name": "Jeff Smith",
+  "linkedin_url": "https://linkedin.com/in/jeff-smith-155a36a5",
+  "emails": [
+    {
+      "email": "jeff.smith@precisionbiosciences.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Precision BioSciences"
+}

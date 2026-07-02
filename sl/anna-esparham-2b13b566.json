@@ -1,0 +1,17 @@
+{
+  "uuid": "eae21494-8128-44b0-8911-5ea525f5be59",
+  "first_name": "Anna",
+  "last_name": "Esparham",
+  "full_name": "Anna Esparham",
+  "linkedin_url": "https://linkedin.com/in/anna-esparham-2b13b566",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 816-234-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Children's Mercy"
+}

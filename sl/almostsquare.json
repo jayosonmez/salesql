@@ -1,0 +1,23 @@
+{
+  "uuid": "4d7f9cfe-6fb5-4162-8b14-97d4551f2b2f",
+  "first_name": "Adrian",
+  "last_name": "Wong",
+  "full_name": "Adrian Wong",
+  "linkedin_url": "https://linkedin.com/in/almostsquare",
+  "emails": [
+    {
+      "email": "adrian@almostsquare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-829-4815",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Google"
+}

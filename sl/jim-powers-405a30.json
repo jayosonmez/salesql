@@ -1,0 +1,16 @@
+{
+  "uuid": "9c4393b2-8e77-4ed9-86ef-7ea97539b786",
+  "first_name": "Jim",
+  "last_name": "Powers",
+  "full_name": "Jim Powers",
+  "linkedin_url": "https://linkedin.com/in/jim-powers-405a30",
+  "emails": [
+    {
+      "email": "jlpowers@earthlink.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "JL Powers & Company"
+}

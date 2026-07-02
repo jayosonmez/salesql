@@ -1,0 +1,23 @@
+{
+  "uuid": "8edafcf1-157f-4b76-a8b3-660ac69a828d",
+  "first_name": "Sarah",
+  "last_name": "Mughal",
+  "full_name": "Sarah Mughal",
+  "linkedin_url": "https://linkedin.com/in/sarah-mughal",
+  "emails": [
+    {
+      "email": "smughal@natera.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-826-3572",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Natera"
+}

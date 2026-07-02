@@ -1,0 +1,16 @@
+{
+  "uuid": "e0b01fd8-b554-4bcf-8edb-eeabf87782e2",
+  "first_name": "Michael",
+  "last_name": "G.",
+  "full_name": "Michael G.",
+  "linkedin_url": "https://linkedin.com/in/michaelgreenspan",
+  "emails": [
+    {
+      "email": "mdg228@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self Employed"
+}

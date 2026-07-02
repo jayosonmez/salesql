@@ -1,0 +1,23 @@
+{
+  "uuid": "7e0a2422-7475-452b-9860-7f67084bb999",
+  "first_name": "Margaret",
+  "last_name": "Russo, MD",
+  "full_name": "Margaret Russo, MD",
+  "linkedin_url": "https://linkedin.com/in/margaret-russo-md-719b641b0",
+  "emails": [
+    {
+      "email": "mrusso@medtigo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-430-5616",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "medtigo"
+}

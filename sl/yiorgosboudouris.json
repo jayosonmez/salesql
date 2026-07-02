@@ -1,0 +1,38 @@
+{
+  "uuid": "22bb85b2-e786-4c22-9d80-152226bc2fe2",
+  "first_name": "Yiorgos",
+  "last_name": "Boudouris",
+  "full_name": "Yiorgos Boudouris",
+  "linkedin_url": "https://linkedin.com/in/yiorgosboudouris",
+  "emails": [
+    {
+      "email": "yiorgos.boudouris@calgary.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yiorgos@yiorgos.ca",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yiorgos@actsofgreatness.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yiorgos.boudouris@shopify.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-654-6030",
+      "type": "Work",
+      "country_code": "CA",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Zensurance"
+}

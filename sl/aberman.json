@@ -1,0 +1,36 @@
+{
+  "uuid": "931f9e6b-3f97-4647-ba6c-27a288a7f025",
+  "first_name": "Andrew",
+  "last_name": "Berman",
+  "full_name": "Andrew Berman",
+  "linkedin_url": "https://linkedin.com/in/aberman",
+  "emails": [
+    {
+      "email": "andrew.berman@zapier.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew@vowel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew@runlayer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew.berman@nanit.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "berman.andrew@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Runlayer"
+}

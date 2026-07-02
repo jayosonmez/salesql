@@ -1,0 +1,23 @@
+{
+  "uuid": "0226e611-62a3-417c-a3b6-f4da0d2ee16d",
+  "first_name": "Sergi",
+  "last_name": "Morais",
+  "full_name": "Sergi Morais",
+  "linkedin_url": "https://linkedin.com/in/sergi-morais-12a11459",
+  "emails": [
+    {
+      "email": "smorais@upv.es",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+34 963 87 70 00",
+      "type": "Work",
+      "country_code": "ES",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Universitat Politècnica de València (UPV)"
+}

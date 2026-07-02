@@ -1,0 +1,48 @@
+{
+  "uuid": "9b2e8e54-1a51-4930-bbb3-ab37901c38a8",
+  "first_name": "Danny",
+  "last_name": "Shepherd",
+  "full_name": "Danny Shepherd",
+  "linkedin_url": "https://linkedin.com/in/dannyshepherd",
+  "emails": [
+    {
+      "email": "danny.shepherd@techstars.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "danny@tuscanypavers.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dshepherd@forbes.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "danny@raddinteractive.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "danny@titanseo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "danny@titangrowth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-658-7511",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Shepherd Fund II, LLC"
+}

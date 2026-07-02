@@ -1,0 +1,33 @@
+{
+  "uuid": "219dd288-7a5e-4bbb-9e9c-ff67c6605a6d",
+  "first_name": "Steve",
+  "last_name": "Chen",
+  "full_name": "Steve Chen",
+  "linkedin_url": "https://linkedin.com/in/stevechen2",
+  "emails": [
+    {
+      "email": "steve@schen.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "schen@committee100.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steve@asianpacificfund.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+81 6-6271-1912",
+      "type": "Work",
+      "country_code": "JP",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sharp"
+}

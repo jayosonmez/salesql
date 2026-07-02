@@ -1,0 +1,16 @@
+{
+  "uuid": "78d1e294-6c95-4e8e-bdae-b7580daa9f37",
+  "first_name": "Franklin",
+  "last_name": "Berger",
+  "full_name": "Franklin Berger",
+  "linkedin_url": "https://linkedin.com/in/franklinberger01",
+  "emails": [
+    {
+      "email": "fberger@nyc.rr.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "FMB Research"
+}

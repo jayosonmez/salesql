@@ -1,0 +1,33 @@
+{
+  "uuid": "0fa47454-bd91-40d2-940f-f88e492a45b2",
+  "first_name": "Harry",
+  "last_name": "Curtin",
+  "full_name": "Harry Curtin",
+  "linkedin_url": "https://linkedin.com/in/harrycurtin",
+  "emails": [
+    {
+      "email": "harry.curtin@agnitioinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "harry_curtin@arizonatechinvestors.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "harry.curtin@phoenix.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-205-9738",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BlockDrive"
+}

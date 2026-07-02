@@ -1,0 +1,48 @@
+{
+  "uuid": "f3a80f85-ab0f-4d01-85d6-5ee95185e620",
+  "first_name": "Alfred",
+  "last_name": "Lin",
+  "full_name": "Alfred Lin",
+  "linkedin_url": "https://linkedin.com/in/linalfred",
+  "emails": [
+    {
+      "email": "alfred.lin@airbnb.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alfred.lin@citadelsecurities.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alin@kalshi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alfred@zappos.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "la@dollskill.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lin@sequoiacap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-854-3927",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sequoia Capital"
+}

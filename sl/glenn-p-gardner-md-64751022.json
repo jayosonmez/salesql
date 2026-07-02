@@ -1,0 +1,21 @@
+{
+  "uuid": "4c466cb9-5ae3-4c03-ab46-5e850e6b4e88",
+  "first_name": "Glenn P.",
+  "last_name": "Gardner, MD",
+  "full_name": "Glenn P. Gardner, MD",
+  "linkedin_url": "https://linkedin.com/in/glenn-p-gardner-md-64751022",
+  "emails": [
+    {
+      "email": "gardski@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "glenn.gardner@advocatehealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Gardner Medical Instruments, LLC"
+}

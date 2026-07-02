@@ -1,0 +1,17 @@
+{
+  "uuid": "a9322b9f-8ff4-4d29-a4ac-989d334a7976",
+  "first_name": "Ngozika",
+  "last_name": "Orjioke",
+  "full_name": "Ngozika Orjioke",
+  "linkedin_url": "https://linkedin.com/in/ngozika-orjioke-0b7bb21a3",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 404-254-5388",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Covenant Pulmonary Critical Care"
+}

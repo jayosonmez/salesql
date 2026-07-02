@@ -1,0 +1,17 @@
+{
+  "uuid": "4908e586-78ea-4ca0-99a4-e53ab4650c5b",
+  "first_name": "Nil",
+  "last_name": "Ç.",
+  "full_name": "Nil Ç.",
+  "linkedin_url": "https://linkedin.com/in/nil-ç-032b2655",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+90 216 578 85 00",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Anadolu Group"
+}

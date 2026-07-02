@@ -1,0 +1,38 @@
+{
+  "uuid": "e6c69f94-f1f7-41bf-ac0c-bcd11648de42",
+  "first_name": "Christopher",
+  "last_name": "Sawyer",
+  "full_name": "Christopher Sawyer",
+  "linkedin_url": "https://linkedin.com/in/christopher-sawyer-a58664a2",
+  "emails": [
+    {
+      "email": "christopher.sawyer@amsa.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "csawyer@kuhulbalam.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "csawyer@acom.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christopher.sawyer@ascension.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 251-633-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ascension"
+}

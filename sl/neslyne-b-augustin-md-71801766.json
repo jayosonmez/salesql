@@ -1,0 +1,28 @@
+{
+  "uuid": "dbdaf91d-b909-44fb-88d4-a6a56fd09cfa",
+  "first_name": "Neslyne B",
+  "last_name": "Augustin, MD",
+  "full_name": "Neslyne B Augustin, MD",
+  "linkedin_url": "https://linkedin.com/in/neslyne-b-augustin-md-71801766",
+  "emails": [
+    {
+      "email": "neslyne.augustin@sgmc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "naugustin@adelphimedicalstaffing.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 203-573-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Waterbury Hospital"
+}

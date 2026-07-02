@@ -1,0 +1,23 @@
+{
+  "uuid": "9ae0e042-5b7f-4381-b06c-077f4da70fc1",
+  "first_name": "Jim",
+  "last_name": "Balserak, MD, MPH, FACS, FACE",
+  "full_name": "Jim Balserak, MD, MPH, FACS, FACE",
+  "linkedin_url": "https://linkedin.com/in/jim-balserak-md-mph-facs-face-2a835177",
+  "emails": [
+    {
+      "email": "jim.balserak@optum.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-351-5495",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Optum"
+}

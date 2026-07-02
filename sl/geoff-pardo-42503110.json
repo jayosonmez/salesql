@@ -1,0 +1,21 @@
+{
+  "uuid": "c99c183a-7d00-41d6-b2da-21661ff6f4e4",
+  "first_name": "Geoff",
+  "last_name": "Pardo",
+  "full_name": "Geoff Pardo",
+  "linkedin_url": "https://linkedin.com/in/geoff-pardo-42503110",
+  "emails": [
+    {
+      "email": "gpardo1918@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "pardo@gildehealthcare.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Gilde Healthcare Partners"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "88af75fd-c0db-423b-8024-0dc3e76dba73",
+  "first_name": "Lauren",
+  "last_name": "Lawson",
+  "full_name": "Lauren Lawson",
+  "linkedin_url": "https://linkedin.com/in/lauren-lawson-3b471a274",
+  "emails": [
+    {
+      "email": "llawson@innovationworks.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 412-681-1520",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Innovation Works"
+}

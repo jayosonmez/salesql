@@ -1,0 +1,36 @@
+{
+  "uuid": "3764d480-e133-4155-bab3-97584aa53259",
+  "first_name": "Enke",
+  "last_name": "Bashllari, Ph.D.",
+  "full_name": "Enke Bashllari, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/enkebashllari",
+  "emails": [
+    {
+      "email": "enke@standardmodel.bio",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "enke@ollihomehealth.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "enke@jiminihealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eb2277@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "enke@arkitektventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Arkitekt Ventures"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "dc0986e3-e705-4947-9e74-0709750c8e1d",
+  "first_name": "Sara",
+  "last_name": "Sieteski, Ph.D.",
+  "full_name": "Sara Sieteski, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/sara-sieteski-phd",
+  "emails": [
+    {
+      "email": "sara.sieteski@techstars.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sara@logoi.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Logoi"
+}

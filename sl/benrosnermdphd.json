@@ -1,0 +1,33 @@
+{
+  "uuid": "d175ccb1-858b-408f-b9ef-d89bada84bc9",
+  "first_name": "Ben",
+  "last_name": "Rosner, MD, PhD",
+  "full_name": "Ben Rosner, MD, PhD",
+  "linkedin_url": "https://linkedin.com/in/benrosnermdphd",
+  "emails": [
+    {
+      "email": "ben@nodehealth.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rosne010@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ben.rosner@ucsf.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-218-8106",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ambience Healthcare"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "4e484f4b-fbcc-4529-bbf7-c65f544d882d",
+  "first_name": "Edwin",
+  "last_name": "Lee, MD, FACE",
+  "full_name": "Edwin Lee, MD, FACE",
+  "linkedin_url": "https://linkedin.com/in/dredwinlee",
+  "emails": [
+    {
+      "email": "ironedlee@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Institute for Hormonal Balance"
+}

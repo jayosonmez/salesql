@@ -1,0 +1,21 @@
+{
+  "uuid": "fc6d6c00-43b6-46a0-b358-4be406d2b91c",
+  "first_name": "Viveka",
+  "last_name": "Ekberg",
+  "full_name": "Viveka Ekberg",
+  "linkedin_url": "https://linkedin.com/in/viveka-ekberg-818155109",
+  "emails": [
+    {
+      "email": "viveka.ekberg@dellner.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "e_viveka@haldex.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Storebrand ASA"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "2f1043ad-12f1-4b35-99bd-dd4f3c59ad3d",
+  "first_name": "Greg",
+  "last_name": "Tseng",
+  "full_name": "Greg Tseng",
+  "linkedin_url": "https://linkedin.com/in/gregtseng",
+  "emails": [
+    {
+      "email": "greg@gregtseng.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "greg@loupapp.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

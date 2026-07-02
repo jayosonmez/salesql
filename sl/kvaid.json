@@ -1,0 +1,41 @@
+{
+  "uuid": "a947aca9-b5c0-4fe3-8d30-074e7b5751d8",
+  "first_name": "Kushagra",
+  "last_name": "Vaid",
+  "full_name": "Kushagra Vaid",
+  "linkedin_url": "https://linkedin.com/in/kvaid",
+  "emails": [
+    {
+      "email": "kushagra.vaid@outlook.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kvv72-linkedin@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kushagra.vaid@microsoft.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kvaid@gsaglobal.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kushagra@lightmatter.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kvaid@d-matrix.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Omniva.com"
+}

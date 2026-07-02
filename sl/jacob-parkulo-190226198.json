@@ -1,0 +1,23 @@
+{
+  "uuid": "9c79ccbd-1d57-420b-ad00-8fe1a2a08b8d",
+  "first_name": "Jacob",
+  "last_name": "Parkulo",
+  "full_name": "Jacob Parkulo",
+  "linkedin_url": "https://linkedin.com/in/jacob-parkulo-190226198",
+  "emails": [
+    {
+      "email": "jparkulo@vt.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 540-231-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Virginia Tech"
+}

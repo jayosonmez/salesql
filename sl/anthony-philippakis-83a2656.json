@@ -1,0 +1,38 @@
+{
+  "uuid": "c076e67e-8da9-4bc8-a5c2-908e83b7406c",
+  "first_name": "Anthony",
+  "last_name": "Philippakis",
+  "full_name": "Anthony Philippakis",
+  "linkedin_url": "https://linkedin.com/in/anthony-philippakis-83a2656",
+  "emails": [
+    {
+      "email": "aphilippakis@receptor.med.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aphilipp@broadinstitute.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aphilippakis@broadinstitute.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anthony@gv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-253-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GV (Google Ventures)"
+}

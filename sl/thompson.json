@@ -1,0 +1,26 @@
+{
+  "uuid": "2840da16-6fc8-468e-a39d-5fa86664b8b7",
+  "first_name": "Christopher C.",
+  "last_name": "Thompson, MD MSc FASGE FACG AGAF",
+  "full_name": "Christopher C. Thompson, MD MSc FASGE FACG AGAF",
+  "linkedin_url": "https://linkedin.com/in/thompson",
+  "emails": [
+    {
+      "email": "christopher_thompson@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christopher.thompson@envisionendoscopy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cthompson@hms.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Everself"
+}

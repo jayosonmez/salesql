@@ -1,0 +1,21 @@
+{
+  "uuid": "a1cf00db-cdb3-455e-9f4f-ee9f75264b0b",
+  "first_name": "Courtney",
+  "last_name": "Houchen",
+  "full_name": "Courtney Houchen",
+  "linkedin_url": "https://linkedin.com/in/courtney-houchen-77345717",
+  "emails": [
+    {
+      "email": "courtney-houchen@ouhsc.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "courtney@coarebiotechnology.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "OUHSC"
+}

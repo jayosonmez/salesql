@@ -1,0 +1,23 @@
+{
+  "uuid": "0c4b2a3d-e927-4951-9d30-bd7412462641",
+  "first_name": "Gyeo-Re",
+  "last_name": "Han",
+  "full_name": "Gyeo-Re Han",
+  "linkedin_url": "https://linkedin.com/in/gyeo-re-han-a3726a119",
+  "emails": [
+    {
+      "email": "ghan@ucla.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-825-4321",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UCLA"
+}

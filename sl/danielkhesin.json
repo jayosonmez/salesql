@@ -1,0 +1,21 @@
+{
+  "uuid": "139bf3ba-0c16-408a-aa50-492020380a25",
+  "first_name": "Daniel",
+  "last_name": "Khesin",
+  "full_name": "Daniel Khesin",
+  "linkedin_url": "https://linkedin.com/in/danielkhesin",
+  "emails": [
+    {
+      "email": "daniel@dslaboratories.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "danielkhesin@protonmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "various organizations"
+}

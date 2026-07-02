@@ -1,0 +1,38 @@
+{
+  "uuid": "9dd205bd-b32c-44ac-b1f9-b2d1f0c5deeb",
+  "first_name": "Jeff",
+  "last_name": "Evans",
+  "full_name": "Jeff Evans",
+  "linkedin_url": "https://linkedin.com/in/jeffevans1",
+  "emails": [
+    {
+      "email": "jeffrey.evans@yale.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jevans@voltaglobal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "je@europastorage.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jeff@simplestorage.mx",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-428-6500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Volta Global"
+}

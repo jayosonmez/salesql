@@ -1,0 +1,28 @@
+{
+  "uuid": "54cc56c7-da89-4098-aad7-8970a3ad802c",
+  "first_name": "Sherri",
+  "last_name": "Dennis",
+  "full_name": "Sherri Dennis",
+  "linkedin_url": "https://linkedin.com/in/sherri-dennis-6494a0b",
+  "emails": [
+    {
+      "email": "donald.dennis@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sd@eastcoastfire.net",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 508-291-4593",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "East Coast Fire & Ventilation"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "3f1087c4-4c2f-4768-8ca6-da6e859d6006",
+  "first_name": "Dr. Bas. Amr",
+  "last_name": "Ali",
+  "full_name": "Dr. Bas. Amr Ali",
+  "linkedin_url": "https://linkedin.com/in/baali",
+  "emails": [
+    {
+      "email": "basitali@mhd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr.ali@healogics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "DFW Wound & Hyperbarics PA"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "7652766a-1466-4c67-a2cd-5eaa005b4c15",
+  "first_name": "Peggy",
+  "last_name": "Wang",
+  "full_name": "Peggy Wang",
+  "linkedin_url": "https://linkedin.com/in/peggy-wang-27141a26",
+  "emails": [
+    {
+      "email": "wangc@fiu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pwang@miami.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pwang@uci.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-284-2211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Miami"
+}

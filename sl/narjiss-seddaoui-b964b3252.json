@@ -1,0 +1,23 @@
+{
+  "uuid": "e0ef4686-d38a-40d1-ad97-da5bb235b7c4",
+  "first_name": "Narjiss",
+  "last_name": "Seddaoui",
+  "full_name": "Narjiss Seddaoui",
+  "linkedin_url": "https://linkedin.com/in/narjiss-seddaoui-b964b3252",
+  "emails": [
+    {
+      "email": "narjiss.seddaoui@uniroma2.it",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+39 06 7259 3099",
+      "type": "Work",
+      "country_code": "IT",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Rome Tor Vergata"
+}

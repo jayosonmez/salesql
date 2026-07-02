@@ -1,0 +1,21 @@
+{
+  "uuid": "2a812cdb-cdd8-4953-8773-0ebfb32fd400",
+  "first_name": "Jolee",
+  "last_name": "Nieberding-Swanberg",
+  "full_name": "Jolee Nieberding-Swanberg",
+  "linkedin_url": "https://linkedin.com/in/jolee-ns",
+  "emails": [
+    {
+      "email": "jolee@schadavis.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jnieberding-swanberg@profarmgroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ProFarm"
+}

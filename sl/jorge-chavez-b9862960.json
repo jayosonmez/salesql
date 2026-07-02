@@ -1,0 +1,23 @@
+{
+  "uuid": "377e0825-db4e-4340-9b0f-452ac1ee09d0",
+  "first_name": "Jorge",
+  "last_name": "Chavez",
+  "full_name": "Jorge Chavez",
+  "linkedin_url": "https://linkedin.com/in/jorge-chavez-b9862960",
+  "emails": [
+    {
+      "email": "jchavez@ues.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 937-426-6900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UES, A BlueHalo Company"
+}

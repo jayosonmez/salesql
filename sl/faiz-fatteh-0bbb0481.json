@@ -1,0 +1,16 @@
+{
+  "uuid": "04bb3424-b5d7-4827-b3b3-7a770ac20f6c",
+  "first_name": "Faiz",
+  "last_name": "Fatteh",
+  "full_name": "Faiz Fatteh",
+  "linkedin_url": "https://linkedin.com/in/faiz-fatteh-0bbb0481",
+  "emails": [
+    {
+      "email": "ffatteh@sorentech.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "iSeeYou.MD"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "85b6aed1-5eec-44e9-905b-fa550c1f5785",
+  "first_name": "Ishwar",
+  "last_name": "Navin",
+  "full_name": "Ishwar Navin",
+  "linkedin_url": "https://linkedin.com/in/ishwar-navin-a76046bb",
+  "emails": [
+    {
+      "email": "ishwar.navin@nyulangone.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-263-8990",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NYU Langone Health"
+}

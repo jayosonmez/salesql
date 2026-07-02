@@ -1,0 +1,23 @@
+{
+  "uuid": "862b4f36-1664-436a-8008-e8cc28a34337",
+  "first_name": "Austin",
+  "last_name": "Howes",
+  "full_name": "Austin Howes",
+  "linkedin_url": "https://linkedin.com/in/howesaa",
+  "emails": [
+    {
+      "email": "austin.howes@northropgrumman.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 703-280-2900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northrop Grumman"
+}

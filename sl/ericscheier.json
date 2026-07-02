@@ -1,0 +1,16 @@
+{
+  "uuid": "2f03c636-809f-4f63-9ce6-c19e8d322253",
+  "first_name": "Eric",
+  "last_name": "Scheier",
+  "full_name": "Eric Scheier",
+  "linkedin_url": "https://linkedin.com/in/ericscheier",
+  "emails": [
+    {
+      "email": "eric@pediatricsinpajamas.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Eric Scheier MD, LLC"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "eb230e20-7b00-41ca-bd19-c6bdb94f49f4",
+  "first_name": "Alina",
+  "last_name": "Kim",
+  "full_name": "Alina Kim",
+  "linkedin_url": "https://linkedin.com/in/alina-kim-609964230",
+  "emails": [
+    {
+      "email": "kim@sense-group.ru",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+7 495 648-63-33",
+      "type": "Work",
+      "country_code": "RU",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SENSE"
+}

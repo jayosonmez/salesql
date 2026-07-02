@@ -1,0 +1,36 @@
+{
+  "uuid": "204ae302-9099-483d-81c8-1458f4a91ae1",
+  "first_name": "Knef",
+  "last_name": "Lizaso, MD",
+  "full_name": "Knef Lizaso, MD",
+  "linkedin_url": "https://linkedin.com/in/kneflizaso",
+  "emails": [
+    {
+      "email": "knef911@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "lizaso.knef@medtigo.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "klizaso@abem.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "knef.lizaso@providence.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "knef.lizaso@providence.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Southern California Emergency Medical Group"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "c6d3b1e1-01c3-48e8-9546-e6570d520546",
+  "first_name": "Jack",
+  "last_name": "Randall",
+  "full_name": "Jack Randall",
+  "linkedin_url": "https://linkedin.com/in/randalljack",
+  "emails": [
+    {
+      "email": "jack@aetherflux.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jack@ardenventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Aetherflux"
+}

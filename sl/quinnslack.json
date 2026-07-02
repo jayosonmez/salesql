@@ -1,0 +1,31 @@
+{
+  "uuid": "4581abeb-ed29-4821-bce6-6510f24d9b57",
+  "first_name": "Quinn",
+  "last_name": "Slack",
+  "full_name": "Quinn Slack",
+  "linkedin_url": "https://linkedin.com/in/quinnslack",
+  "emails": [
+    {
+      "email": "quinn@ampcode.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "quinn@hackclub.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "qslack@qslack.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sqs@sourcegraph.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Amp Code"
+}

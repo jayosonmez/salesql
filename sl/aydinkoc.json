@@ -1,0 +1,48 @@
+{
+  "uuid": "88c36ae8-f422-4e24-b4f2-94d4263a13bb",
+  "first_name": "Aydin",
+  "last_name": "K.",
+  "full_name": "Aydin K.",
+  "linkedin_url": "https://linkedin.com/in/aydinkoc",
+  "emails": [
+    {
+      "email": "aydin@keiretsuforum.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aydin@tpfund.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aydincik@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "koc@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "aydin.koc@keiretsuforum.com.tr",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aydin@etacusa.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-573-0751",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Keiretsu Forum London"
+}

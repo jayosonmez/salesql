@@ -1,0 +1,21 @@
+{
+  "uuid": "05e8bc64-f625-4914-86de-3056d1b14bac",
+  "first_name": "Ferruh",
+  "last_name": "Mavituna",
+  "full_name": "Ferruh Mavituna",
+  "linkedin_url": "https://linkedin.com/in/fmavituna",
+  "emails": [
+    {
+      "email": "ferruh.mavituna@invicti.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ferruh@mavitunasecurity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

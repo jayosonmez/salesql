@@ -1,0 +1,16 @@
+{
+  "uuid": "e9bf498d-7f3e-414f-b518-0ad563f7d77d",
+  "first_name": "Josh",
+  "last_name": "H.",
+  "full_name": "Josh H.",
+  "linkedin_url": "https://linkedin.com/in/joshherst",
+  "emails": [
+    {
+      "email": "josh@herst.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Collaborative Ventures"
+}

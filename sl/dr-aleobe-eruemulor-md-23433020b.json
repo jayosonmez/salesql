@@ -1,0 +1,17 @@
+{
+  "uuid": "9e6bf189-fdba-4daa-806c-bf54faf45111",
+  "first_name": "Dr. Aleobe",
+  "last_name": "Eruemulor, MD",
+  "full_name": "Dr. Aleobe Eruemulor, MD",
+  "linkedin_url": "https://linkedin.com/in/dr-aleobe-eruemulor-md-23433020b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 501-552-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CHI St. Vincent"
+}

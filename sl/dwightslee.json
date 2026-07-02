@@ -1,0 +1,21 @@
+{
+  "uuid": "86a808c4-cc4b-4fbc-b63e-aa0bf5dc00fe",
+  "first_name": "Dwight",
+  "last_name": "Lee",
+  "full_name": "Dwight Lee",
+  "linkedin_url": "https://linkedin.com/in/dwightslee",
+  "emails": [
+    {
+      "email": "dwight@dwightlee.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dlee@herocosmetics.us",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hero Cosmetics"
+}

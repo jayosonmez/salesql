@@ -1,0 +1,59 @@
+{
+  "uuid": "b1c4a483-666b-4e79-a6ed-b362707a978e",
+  "first_name": "Mohsen",
+  "last_name": "Moazami",
+  "full_name": "Mohsen Moazami",
+  "linkedin_url": "https://linkedin.com/in/mohsenmoazami",
+  "emails": [
+    {
+      "email": "mohsenmoazami18@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mohsen@movandi.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mohsen@seifcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mm@marpaihealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "m.m@ethernovia.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mohsen.moazami@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mmoazami@upscaleai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-887-1556",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 818-700-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DDN"
+}

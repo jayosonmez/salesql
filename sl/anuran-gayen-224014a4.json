@@ -1,0 +1,34 @@
+{
+  "uuid": "49bb59b3-59e9-40ba-9d33-23af740b6c02",
+  "first_name": "Anuran",
+  "last_name": "Gayen",
+  "full_name": "Anuran Gayen",
+  "linkedin_url": "https://linkedin.com/in/anuran-gayen-224014a4",
+  "emails": [
+    {
+      "email": "akgayen@ncsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anuran@ncsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 984-218-8062",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 352-392-3261",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Florida"
+}

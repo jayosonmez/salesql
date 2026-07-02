@@ -1,0 +1,36 @@
+{
+  "uuid": "530ac866-c167-4384-86ea-2c4d583c9204",
+  "first_name": "Chris",
+  "last_name": "Babcock",
+  "full_name": "Chris Babcock",
+  "linkedin_url": "https://linkedin.com/in/chrisbabcock",
+  "emails": [
+    {
+      "email": "chris@nufund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chris@corraldata.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chris@vela.partners",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cbabcock@san.rr.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "chrisbab@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Resolute Science"
+}

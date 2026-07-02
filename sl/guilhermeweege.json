@@ -1,0 +1,26 @@
+{
+  "uuid": "5b314225-5efc-41fb-a05e-a478e5c0f378",
+  "first_name": "Guilherme",
+  "last_name": "Weege",
+  "full_name": "Guilherme Weege",
+  "linkedin_url": "https://linkedin.com/in/guilhermeweege",
+  "emails": [
+    {
+      "email": "guilherme.weege@ume.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "guilherme@dobreve.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "guilherme@livo.com.br",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Bewater"
+}

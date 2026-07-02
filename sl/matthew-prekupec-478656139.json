@@ -1,0 +1,23 @@
+{
+  "uuid": "78eb0e64-42a8-4027-a427-c290f69e5068",
+  "first_name": "Matthew",
+  "last_name": "Prekupec",
+  "full_name": "Matthew Prekupec",
+  "linkedin_url": "https://linkedin.com/in/matthew-prekupec-478656139",
+  "emails": [
+    {
+      "email": "matthew.prekupec@va.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 844-456-5208",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "U.S. Department of Veterans Affairs"
+}

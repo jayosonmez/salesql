@@ -1,0 +1,23 @@
+{
+  "uuid": "406ff73e-3ca7-4994-8faf-bd7e1debbb31",
+  "first_name": "RS",
+  "last_name": "Properties",
+  "full_name": "RS Properties",
+  "linkedin_url": "https://linkedin.com/in/rs-properties-16a6b794",
+  "emails": [
+    {
+      "email": "rs@airforce.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 480-948-0600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "United States Air Force"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "1ff47dc8-a1c6-471c-b93a-4e7164489fc2",
+  "first_name": "Anh",
+  "last_name": "Nguyen Norden",
+  "full_name": "Anh Nguyen Norden",
+  "linkedin_url": "https://linkedin.com/in/helloanh",
+  "emails": [
+    {
+      "email": "anh.nguyen@antler.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anguyen@netflix.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anh.nguyen@leflair.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anh@youtube.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hello.anh.nguyen@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-540-3700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Netflix"
+}

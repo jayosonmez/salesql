@@ -1,0 +1,26 @@
+{
+  "uuid": "1f4c0e6c-c327-44dd-b38a-74c95020dabe",
+  "first_name": "Ilia",
+  "last_name": "P.",
+  "full_name": "Ilia P.",
+  "linkedin_url": "https://linkedin.com/in/iliaperekopsky",
+  "emails": [
+    {
+      "email": "perekopsky@yandex.ru",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "perekopsky@blackmoonfg.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "perekopsky@telegram.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Telegram Messenger"
+}

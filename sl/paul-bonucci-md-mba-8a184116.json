@@ -1,0 +1,26 @@
+{
+  "uuid": "a34cff1c-d6ab-4074-8084-74ebe4984793",
+  "first_name": "Paul",
+  "last_name": "Bonucci MD, MBA",
+  "full_name": "Paul Bonucci MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/paul-bonucci-md-mba-8a184116",
+  "emails": [
+    {
+      "email": "pbonucci@knology.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "paul.bonucci@osfhealthcare.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "pbonucci@perrymemorial.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "IHCC Hospice, Inc"
+}

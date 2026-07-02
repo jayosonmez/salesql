@@ -1,0 +1,23 @@
+{
+  "uuid": "451250e2-621f-4226-83d4-5142b15cecc4",
+  "first_name": "Jeff",
+  "last_name": "B.",
+  "full_name": "Jeff B.",
+  "linkedin_url": "https://linkedin.com/in/jeff-b-b033a3",
+  "emails": [
+    {
+      "email": "jblack@amazon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-222-8400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "StubHub"
+}

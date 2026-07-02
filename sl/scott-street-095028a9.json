@@ -1,0 +1,23 @@
+{
+  "uuid": "5f5bab4a-feb8-4d80-ac07-2ddc5bf43e0f",
+  "first_name": "Scott",
+  "last_name": "Street",
+  "full_name": "Scott Street",
+  "linkedin_url": "https://linkedin.com/in/scott-street-095028a9",
+  "emails": [
+    {
+      "email": "scott.street@remedyhealth.care",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 307-733-3636",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ascension St. John"
+}

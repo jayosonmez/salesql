@@ -1,0 +1,46 @@
+{
+  "uuid": "d0d1c404-e82f-423c-bfc9-631b9eb74828",
+  "first_name": "Jesse",
+  "last_name": "Coors-Blankenship",
+  "full_name": "Jesse Coors-Blankenship",
+  "linkedin_url": "https://linkedin.com/in/jesse-coors-blankenship",
+  "emails": [
+    {
+      "email": "jesse@testfit.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jesse@siera.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jessecb01@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jesse@frustum.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jc@figure.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jesse@gtc.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jesse@parkway.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Parkway Venture Capital"
+}

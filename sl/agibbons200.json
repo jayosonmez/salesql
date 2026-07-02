@@ -1,0 +1,33 @@
+{
+  "uuid": "02c777b1-e595-4884-86a6-6814a0ae21de",
+  "first_name": "Ashley",
+  "last_name": "Gibbons",
+  "full_name": "Ashley Gibbons",
+  "linkedin_url": "https://linkedin.com/in/agibbons200",
+  "emails": [
+    {
+      "email": "ashley.gibbons@swe.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "agibbons@sunypoly.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ashley.gibbons@regeneron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-347-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Regeneron"
+}

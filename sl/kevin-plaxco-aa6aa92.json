@@ -1,0 +1,28 @@
+{
+  "uuid": "822d2db3-1470-47b3-a065-792bf8d093e7",
+  "first_name": "Kevin",
+  "last_name": "Plaxco",
+  "full_name": "Kevin Plaxco",
+  "linkedin_url": "https://linkedin.com/in/kevin-plaxco-aa6aa92",
+  "emails": [
+    {
+      "email": "kplaxco@ucsb.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kwp@chem.ucsb.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 805-893-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC Santa Barbara"
+}

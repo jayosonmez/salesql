@@ -1,0 +1,27 @@
+{
+  "uuid": "b1bd54c9-d833-445d-8702-b9364643df65",
+  "first_name": "YAIZA",
+  "last_name": "BELACORTU PASTOR",
+  "full_name": "YAIZA BELACORTU PASTOR",
+  "linkedin_url": "https://linkedin.com/in/yaiza-belacortu-pastor-88249144",
+  "emails": [
+    {
+      "email": "ybelacortu@alphasip.es",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ybelacortu@oza-analytics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+34 976 51 28 87",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AlphaSIP"
+}

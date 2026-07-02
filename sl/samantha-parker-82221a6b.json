@@ -1,0 +1,23 @@
+{
+  "uuid": "6ea10c01-b323-4399-9a0a-1053ffd9a884",
+  "first_name": "Samantha",
+  "last_name": "Parker",
+  "full_name": "Samantha Parker",
+  "linkedin_url": "https://linkedin.com/in/samantha-parker-82221a6b",
+  "emails": [
+    {
+      "email": "sparker@lsuhsc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 501-376-0313",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IMG Physicians"
+}

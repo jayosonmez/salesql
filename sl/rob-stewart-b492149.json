@@ -1,0 +1,31 @@
+{
+  "uuid": "6ae5a4ef-d0cd-4433-a2c5-f56d352a103c",
+  "first_name": "Rob",
+  "last_name": "Stewart",
+  "full_name": "Rob Stewart",
+  "linkedin_url": "https://linkedin.com/in/rob-stewart-b492149",
+  "emails": [
+    {
+      "email": "rob.stewart@jbg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rstewart@jbg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rstewart@jbgsmith.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rob.stewart@gordonroadcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Gordon Road Capital"
+}

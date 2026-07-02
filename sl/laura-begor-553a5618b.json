@@ -1,0 +1,28 @@
+{
+  "uuid": "b4edb658-5785-42d8-9f69-5cb2454b8dc9",
+  "first_name": "Laura",
+  "last_name": "Begor",
+  "full_name": "Laura Begor",
+  "linkedin_url": "https://linkedin.com/in/laura-begor-553a5618b",
+  "emails": [
+    {
+      "email": "l.begor@northeastern.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "l.begor@northeastern.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-373-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northeastern University"
+}

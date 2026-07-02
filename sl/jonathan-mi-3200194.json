@@ -1,0 +1,38 @@
+{
+  "uuid": "27b245ad-15c8-4f53-9aa0-e248ab528022",
+  "first_name": "Jonathan",
+  "last_name": "Mi",
+  "full_name": "Jonathan Mi",
+  "linkedin_url": "https://linkedin.com/in/jonathan-mi-3200194",
+  "emails": [
+    {
+      "email": "jonathan@ica.fund",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jon_mi8@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jmi@creosyndicate.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@bcplp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-207-6099",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CREO"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "3a5ca299-77c2-4817-a075-8824c503954a",
+  "first_name": "Philippe",
+  "last_name": "Dauphin Ducharme",
+  "full_name": "Philippe Dauphin Ducharme",
+  "linkedin_url": "https://linkedin.com/in/philippe-dauphin-ducharme-7099986b",
+  "emails": [
+    {
+      "email": "philippe.dauphin@usherbrooke.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 819-821-7000",
+      "type": "Work",
+      "country_code": "CA",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Université de Sherbrooke"
+}

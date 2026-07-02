@@ -1,0 +1,23 @@
+{
+  "uuid": "6b24b80e-aa7b-4ed7-a672-1ab072165ccc",
+  "first_name": "Ethel J.",
+  "last_name": "Ngen, Ph.D.",
+  "full_name": "Ethel J. Ngen, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/ethel-j-ngen-ph-d-84bb0114",
+  "emails": [
+    {
+      "email": "ethelngen@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 410-955-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Johns Hopkins University School of Medicine"
+}

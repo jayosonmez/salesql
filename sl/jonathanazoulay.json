@@ -1,0 +1,41 @@
+{
+  "uuid": "ba732590-b4fc-47c3-86d4-021fb3ee4db2",
+  "first_name": "Jonathan",
+  "last_name": "Azoulay",
+  "full_name": "Jonathan Azoulay",
+  "linkedin_url": "https://linkedin.com/in/jonathanazoulay",
+  "emails": [
+    {
+      "email": "jonathan@talent.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jon.azoulay@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@urbanlinker.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@komeet.cc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "j.azoulay@jusmundi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@eva.gg",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "MVMT – Transmission & croissance de PME"
+}

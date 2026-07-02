@@ -1,0 +1,28 @@
+{
+  "uuid": "13aaabc0-1738-4085-95c3-ec9c660c4bd1",
+  "first_name": "Michael",
+  "last_name": "Paukshto",
+  "full_name": "Michael Paukshto",
+  "linkedin_url": "https://linkedin.com/in/michael-paukshto-915b841",
+  "emails": [
+    {
+      "email": "mpaukshto@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mpaukshto@fibralignbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-489-2199",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fibralign Corporation"
+}

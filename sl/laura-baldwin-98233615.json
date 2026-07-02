@@ -1,0 +1,28 @@
+{
+  "uuid": "556a7eb0-b2e1-40ae-9253-2f1460ce3fdc",
+  "first_name": "Laura",
+  "last_name": "Baldwin",
+  "full_name": "Laura Baldwin",
+  "linkedin_url": "https://linkedin.com/in/laura-baldwin-98233615",
+  "emails": [
+    {
+      "email": "lbaldwin@goldenseeds.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "baldwinlaura@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-629-6774",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Golden Seeds"
+}

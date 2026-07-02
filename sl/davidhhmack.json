@@ -1,0 +1,26 @@
+{
+  "uuid": "cfbc3052-8eae-412e-b6e1-e92a5423ff67",
+  "first_name": "David",
+  "last_name": "Mack",
+  "full_name": "David Mack",
+  "linkedin_url": "https://linkedin.com/in/davidhhmack",
+  "emails": [
+    {
+      "email": "david.mack@wikipedia.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "me@edmack.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@prestodesign.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Presto Design"
+}

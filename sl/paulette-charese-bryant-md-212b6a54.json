@@ -1,0 +1,28 @@
+{
+  "uuid": "adb1c517-71e8-494d-a05e-2de14dc386d6",
+  "first_name": "Paulette Charese",
+  "last_name": "Bryant, MD",
+  "full_name": "Paulette Charese Bryant, MD",
+  "linkedin_url": "https://linkedin.com/in/paulette-charese-bryant-md-212b6a54",
+  "emails": [
+    {
+      "email": "bryant8157@bellsouth.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bryantpaulette@novanthealth.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 336-718-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Novant Health"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "db77380d-0169-48c0-a513-07795cb5fb28",
+  "first_name": "Brian",
+  "last_name": "Hawkins",
+  "full_name": "Brian Hawkins",
+  "linkedin_url": "https://linkedin.com/in/brian-hawkins-928b5843",
+  "emails": [
+    {
+      "email": "b.hawkins@insightbb.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Community ENT & Allergy"
+}

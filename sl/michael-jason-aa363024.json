@@ -1,0 +1,23 @@
+{
+  "uuid": "be2178fb-7224-40e1-b7be-19177d2f3853",
+  "first_name": "Michael",
+  "last_name": "Jason",
+  "full_name": "Michael Jason",
+  "linkedin_url": "https://linkedin.com/in/michael-jason-aa363024",
+  "emails": [
+    {
+      "email": "mjason@bigplanet.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 972-931-5701",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "the balletfoundation for the XXI century"
+}

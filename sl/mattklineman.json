@@ -1,0 +1,23 @@
+{
+  "uuid": "31554ad0-f175-47f3-849a-ac3e1d79625b",
+  "first_name": "Matt",
+  "last_name": "Klineman",
+  "full_name": "Matt Klineman",
+  "linkedin_url": "https://linkedin.com/in/mattklineman",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 317-605-5145",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 415-349-0108",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stripe"
+}

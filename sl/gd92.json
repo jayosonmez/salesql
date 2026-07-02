@@ -1,0 +1,23 @@
+{
+  "uuid": "a96d432c-132c-4cda-b03c-1c140d0397d4",
+  "first_name": "Gina",
+  "last_name": "Donovan",
+  "full_name": "Gina Donovan",
+  "linkedin_url": "https://linkedin.com/in/gd92",
+  "emails": [
+    {
+      "email": "gina.donovan@regeneron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-347-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Regeneron"
+}

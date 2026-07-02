@@ -1,0 +1,31 @@
+{
+  "uuid": "f3ba3460-332e-42f0-8182-c20b7999f6bb",
+  "first_name": "Javaughn",
+  "last_name": "Lawrence",
+  "full_name": "Javaughn Lawrence",
+  "linkedin_url": "https://linkedin.com/in/javaughnlawrence",
+  "emails": [
+    {
+      "email": "javaughn@eniac.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "javaughn.lawrence@yale.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "javaughn@eniacventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jlawrence@ypo.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "DripShop"
+}

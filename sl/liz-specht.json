@@ -1,0 +1,44 @@
+{
+  "uuid": "710fa954-f447-4147-9293-1d20873679a5",
+  "first_name": "Liz",
+  "last_name": "Specht, Ph.D.",
+  "full_name": "Liz Specht, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/liz-specht",
+  "emails": [
+    {
+      "email": "lizs@gfi.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "liz.specht@su.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "liz@horizonpublicservice.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "liz.specht@darpa.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 203-241-2551",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 703-526-6630",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Defense Advanced Research Projects Agency (DARPA)"
+}

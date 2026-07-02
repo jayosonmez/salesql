@@ -1,0 +1,23 @@
+{
+  "uuid": "223cb171-12d9-4bb7-8713-319787a931bd",
+  "first_name": "Vanessa",
+  "last_name": "Peterson",
+  "full_name": "Vanessa Peterson",
+  "linkedin_url": "https://linkedin.com/in/vanessa-peterson-4a935616",
+  "emails": [
+    {
+      "email": "vpruzins@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 908-740-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Merck"
+}

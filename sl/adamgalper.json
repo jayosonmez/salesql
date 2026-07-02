@@ -1,0 +1,21 @@
+{
+  "uuid": "f75944c4-a2e0-46f0-b33c-fe5034d52fc0",
+  "first_name": "Adam",
+  "last_name": "G.",
+  "full_name": "Adam G.",
+  "linkedin_url": "https://linkedin.com/in/adamgalper",
+  "emails": [
+    {
+      "email": "adam@mycarmagic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adam@galper.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Argal, LLC"
+}

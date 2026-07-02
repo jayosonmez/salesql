@@ -1,0 +1,32 @@
+{
+  "uuid": "63990629-24d0-4e73-949e-9518ae762df8",
+  "first_name": "David W.",
+  "last_name": "Roberson",
+  "full_name": "David W. Roberson",
+  "linkedin_url": "https://linkedin.com/in/david-w-roberson-38490037",
+  "emails": [
+    {
+      "email": "david.roberson@childrens.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david_roberson@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "droberson@rcseng.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 7405 3474",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Global Tracheostomy Collaborative"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "b3035e09-95df-4cde-a351-8b660b6b26b1",
+  "first_name": "Gilles",
+  "last_name": "Gantois",
+  "full_name": "Gilles Gantois",
+  "linkedin_url": "https://linkedin.com/in/gilles-gantois",
+  "emails": [
+    {
+      "email": "gilles.gantois@lita.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gilles.gantois@business-angels.info",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lita"
+}

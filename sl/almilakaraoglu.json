@@ -1,0 +1,22 @@
+{
+  "uuid": "291525a2-a69d-48dc-bd04-492b6c57b5ba",
+  "first_name": "Almila",
+  "last_name": "Karaoğlu",
+  "full_name": "Almila Karaoğlu",
+  "linkedin_url": "https://linkedin.com/in/almilakaraoglu",
+  "emails": [
+    {
+      "email": "almila.karaoglu@vlmedia.com.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 312 210 17 77",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VLMedia"
+}

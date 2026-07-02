@@ -1,0 +1,28 @@
+{
+  "uuid": "23e6dafd-14d8-4f5c-9e93-d66b64a13e11",
+  "first_name": "Ilya",
+  "last_name": "Volodarsky",
+  "full_name": "Ilya Volodarsky",
+  "linkedin_url": "https://linkedin.com/in/ilyavolodarsky",
+  "emails": [
+    {
+      "email": "ivolo@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ilya@convectivecapital.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 570-690-4150",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wildfires.org"
+}

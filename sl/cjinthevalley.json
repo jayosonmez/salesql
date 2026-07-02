@@ -1,0 +1,48 @@
+{
+  "uuid": "b035c51b-9d4b-439c-8d12-a08f9eb4bc98",
+  "first_name": "Christina",
+  "last_name": "Lee",
+  "full_name": "Christina Lee",
+  "linkedin_url": "https://linkedin.com/in/cjinthevalley",
+  "emails": [
+    {
+      "email": "leej108959@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "cl@kpmg.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "christina@ethosfund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christina@k-vic.co.kr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christina.lee@500.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clee@linkedin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 540-364-4488",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "OA Private Capital"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c70f61ea-502c-44c3-8707-2fb6fb0cc40e",
+  "first_name": "Danielle",
+  "last_name": "Davis",
+  "full_name": "Danielle Davis",
+  "linkedin_url": "https://linkedin.com/in/danielle-davis-438a9948",
+  "emails": [
+    {
+      "email": "danielle.davis@umit.maine.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ddavis@hannaford.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-581-1110",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Maine"
+}

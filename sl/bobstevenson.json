@@ -1,0 +1,38 @@
+{
+  "uuid": "2baee081-598e-406d-9e5b-94ee9973ed6f",
+  "first_name": "Bob",
+  "last_name": "Stevenson",
+  "full_name": "Bob Stevenson",
+  "linkedin_url": "https://linkedin.com/in/bobstevenson",
+  "emails": [
+    {
+      "email": "bob@ngmoco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bob_stevenson@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bob@n3twork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bob.stevenson@cornell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-746-9011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "N3TWORK Studios"
+}

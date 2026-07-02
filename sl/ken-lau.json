@@ -1,0 +1,54 @@
+{
+  "uuid": "0e289973-95f9-4099-8d1e-a25d3cac135c",
+  "first_name": "Ken",
+  "last_name": "Lau",
+  "full_name": "Ken Lau",
+  "linkedin_url": "https://linkedin.com/in/ken-lau",
+  "emails": [
+    {
+      "email": "ken.lau@singtel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ken@redseaventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ken.m.lau1@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ken.lau@jpmorgan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ken@goldhouse.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ken.lau@nomura.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-556-7802",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 917-740-5069",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Red Sea Ventures"
+}

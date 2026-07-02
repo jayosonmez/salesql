@@ -1,0 +1,23 @@
+{
+  "uuid": "defe1b62-9302-4806-b681-9159e4a02099",
+  "first_name": "Archana",
+  "last_name": "Kumari, PhD",
+  "full_name": "Archana Kumari, PhD",
+  "linkedin_url": "https://linkedin.com/in/archana-kumari-phd-3912ab79",
+  "emails": [
+    {
+      "email": "archana.kumari@sru.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 724-738-2015",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Slippery Rock University"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "232a1bdd-f308-4e28-a28f-f17935f53220",
+  "first_name": "McKenzie",
+  "last_name": "Windham",
+  "full_name": "McKenzie Windham",
+  "linkedin_url": "https://linkedin.com/in/mckenzie-windham-690708124",
+  "emails": [
+    {
+      "email": "mckenzie.windham@vanderbilt.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 615-322-7311",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vanderbilt University"
+}

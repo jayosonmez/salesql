@@ -1,0 +1,16 @@
+{
+  "uuid": "76b906fe-5fb2-48e6-85de-69d5f16e7f23",
+  "first_name": "Scott",
+  "last_name": "Conradson",
+  "full_name": "Scott Conradson",
+  "linkedin_url": "https://linkedin.com/in/scott-conradson-867592",
+  "emails": [
+    {
+      "email": "saconradson@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "S A Conradson Product Development"
+}

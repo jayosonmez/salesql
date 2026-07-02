@@ -1,0 +1,28 @@
+{
+  "uuid": "237066a5-dcca-4a5d-baf6-ad15701ab6b7",
+  "first_name": "Terence",
+  "last_name": "Lee M.D.",
+  "full_name": "Terence Lee M.D.",
+  "linkedin_url": "https://linkedin.com/in/terence-lee-m-d-9204327",
+  "emails": [
+    {
+      "email": "terence_md@ovationfertility.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tlee@fcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 818-858-1080",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ovation Fertility"
+}

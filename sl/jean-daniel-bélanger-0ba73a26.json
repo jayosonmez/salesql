@@ -1,0 +1,33 @@
+{
+  "uuid": "88f70120-113d-454e-9518-0a790caa50f1",
+  "first_name": "Jean-Daniel",
+  "last_name": "Bélanger",
+  "full_name": "Jean-Daniel Bélanger",
+  "linkedin_url": "https://linkedin.com/in/jean-daniel-bélanger-0ba73a26",
+  "emails": [
+    {
+      "email": "jdbelanger@bdsalegal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jbelanger@inversago.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jean-daniel.belanger@angesquebec.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 438-300-2534",
+      "type": "Work",
+      "country_code": "CA",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Inversago Pharma"
+}

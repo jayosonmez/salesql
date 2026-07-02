@@ -1,0 +1,21 @@
+{
+  "uuid": "2b55c66a-4794-4da8-93dc-1abfcbda1ff5",
+  "first_name": "Toni",
+  "last_name": "Ko",
+  "full_name": "Toni Ko",
+  "linkedin_url": "https://linkedin.com/in/toni-ko-a408ba26",
+  "emails": [
+    {
+      "email": "toniko@perversesunglasses.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tonik@nyxcosmetics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

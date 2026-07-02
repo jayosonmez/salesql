@@ -1,0 +1,23 @@
+{
+  "uuid": "ae72c4f9-6806-4578-9356-e6aab2cbd2be",
+  "first_name": "Bill",
+  "last_name": "Soper",
+  "full_name": "Bill Soper",
+  "linkedin_url": "https://linkedin.com/in/bill-soper-bb9a5913",
+  "emails": [
+    {
+      "email": "wsoper@mdskc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 352-323-5762",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UF Health Central Florida"
+}

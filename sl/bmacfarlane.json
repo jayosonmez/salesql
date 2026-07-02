@@ -1,0 +1,42 @@
+{
+  "uuid": "938b2198-a31d-4877-be9a-eba3adbe2a26",
+  "first_name": "Bruce",
+  "last_name": "Macfarlane",
+  "full_name": "Bruce Macfarlane",
+  "linkedin_url": "https://linkedin.com/in/bmacfarlane",
+  "emails": [
+    {
+      "email": "bruce.macfarlane@mmcventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bruce@mmc.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "b-macfarlane@mypocdoc.co.uk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bruce.macfarlane@live-eo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brucemacfarlane@cthesigns.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 7938 2220",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MMC Ventures"
+}

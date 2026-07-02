@@ -1,0 +1,36 @@
+{
+  "uuid": "c4f34be5-db32-4091-b43b-ce323712d18e",
+  "first_name": "Baris",
+  "last_name": "Guzel",
+  "full_name": "Baris Guzel",
+  "linkedin_url": "https://linkedin.com/in/baris",
+  "emails": [
+    {
+      "email": "bguzel@ridezum.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bguzel@xometry.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "baris@bmwiventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bguzel@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "baris_g@tekion.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "BMW i Ventures"
+}

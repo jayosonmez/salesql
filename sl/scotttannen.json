@@ -1,0 +1,28 @@
+{
+  "uuid": "5b690fae-b053-47ee-85f1-ee095e0fc402",
+  "first_name": "Scott",
+  "last_name": "Tannen",
+  "full_name": "Scott Tannen",
+  "linkedin_url": "https://linkedin.com/in/scotttannen",
+  "emails": [
+    {
+      "email": "scott@funtank.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "scott@bollandbranch.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-678-3234",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Boll & Branch"
+}

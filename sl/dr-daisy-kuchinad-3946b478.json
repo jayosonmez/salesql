@@ -1,0 +1,16 @@
+{
+  "uuid": "bc7b9858-4395-4a2d-aeaa-3e4ac45a1ff6",
+  "first_name": "Dr. Daisy",
+  "last_name": "Kuchinad",
+  "full_name": "Dr. Daisy Kuchinad",
+  "linkedin_url": "https://linkedin.com/in/dr-daisy-kuchinad-3946b478",
+  "emails": [
+    {
+      "email": "daisy@kp.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "New Medical Practice in Comprehensive Integrative Medicine Consultation integrating Ayurveda"
+}

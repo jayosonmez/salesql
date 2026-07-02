@@ -1,0 +1,23 @@
+{
+  "uuid": "5924217b-8b1b-41ae-835f-c4abe9c7bf55",
+  "first_name": "Robert",
+  "last_name": "Griffith",
+  "full_name": "Robert Griffith",
+  "linkedin_url": "https://linkedin.com/in/robert-griffith-96721611",
+  "emails": [
+    {
+      "email": "rgriffi@columbus.rr.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 614-234-2900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mount Carmel Health System"
+}

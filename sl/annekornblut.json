@@ -1,0 +1,33 @@
+{
+  "uuid": "0d68c7c3-7fa5-4d6d-bd68-8a534503b85b",
+  "first_name": "Anne",
+  "last_name": "Kornblut",
+  "full_name": "Anne Kornblut",
+  "linkedin_url": "https://linkedin.com/in/annekornblut",
+  "emails": [
+    {
+      "email": "akornblut@castilleja.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anne@operatorcollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kornbluta@washpost.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-774-0454",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Meta"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "11521ea1-3710-451a-ac31-8549c6087943",
+  "first_name": "Nir",
+  "last_name": "Eyal",
+  "full_name": "Nir Eyal",
+  "linkedin_url": "https://linkedin.com/in/nireyal",
+  "emails": [
+    {
+      "email": "nir@nireyal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nir@nirandfar.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "NirAndFar.com"
+}

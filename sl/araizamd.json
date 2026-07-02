@@ -1,0 +1,28 @@
+{
+  "uuid": "f22077a3-bcac-420d-9e38-2cfc5c545e72",
+  "first_name": "Alan",
+  "last_name": "Araiza",
+  "full_name": "Alan Araiza",
+  "linkedin_url": "https://linkedin.com/in/araizamd",
+  "emails": [
+    {
+      "email": "alan@airmedical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alan@AirAmbulance1.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-424-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Air Ambulance 1"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "df77630d-3c2b-49a6-95a0-ec53997e1f93",
+  "first_name": "Melanie",
+  "last_name": "Steinbach",
+  "full_name": "Melanie Steinbach",
+  "linkedin_url": "https://linkedin.com/in/melaniesteinbach",
+  "emails": [
+    {
+      "email": "melanie.steinbach@russellreynolds.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "msteinbach@mastersommeliers.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

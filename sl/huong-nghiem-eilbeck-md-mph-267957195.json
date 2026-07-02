@@ -1,0 +1,28 @@
+{
+  "uuid": "1c61b7de-6da7-4d58-80f8-c1bf0b6b50e6",
+  "first_name": "Huong",
+  "last_name": "Nghiem-Eilbeck, MD, MPH",
+  "full_name": "Huong Nghiem-Eilbeck, MD, MPH",
+  "linkedin_url": "https://linkedin.com/in/huong-nghiem-eilbeck-md-mph-267957195",
+  "emails": [
+    {
+      "email": "hnghiem-eilbeck@AltaMed.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "huong@pandiahealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-437-1213",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pandia Health"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "1bca20be-3d68-4a99-9c17-15452e650053",
+  "first_name": "Andrew C.",
+  "last_name": "Mitchell",
+  "full_name": "Andrew C. Mitchell",
+  "linkedin_url": "https://linkedin.com/in/andrewcmitchell",
+  "emails": [
+    {
+      "email": "andrew@loonen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew@luckybevco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew@drinkbawi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew.mitchell@brandfoundryvc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "amitchell@geminicos.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-266-0114",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Brand Foundry Ventures"
+}

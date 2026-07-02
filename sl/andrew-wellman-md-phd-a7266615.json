@@ -1,0 +1,33 @@
+{
+  "uuid": "596d8061-b761-43cb-b30e-c37d744bfdcc",
+  "first_name": "Andrew",
+  "last_name": "Wellman, MD, PhD",
+  "full_name": "Andrew Wellman, MD, PhD",
+  "linkedin_url": "https://linkedin.com/in/andrew-wellman-md-phd-a7266615",
+  "emails": [
+    {
+      "email": "andrew_wellman@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "awellman@apnimed.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "awellman@rics.bwh.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-524-1718",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard Medical School"
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "d27cc06b-e4f6-4dff-b1a3-89884bef90f0",
+  "first_name": "Ralph",
+  "last_name": "Zimmermann",
+  "full_name": "Ralph Zimmermann",
+  "linkedin_url": "https://linkedin.com/in/zimmermannralph",
+  "emails": [
+    {
+      "email": "ralph@fitplanapp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ralph@edgex.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "contact@ralphzimmermann.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ralph.zimmermann@simplepractice.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-308-9232",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SimplePractice"
+}

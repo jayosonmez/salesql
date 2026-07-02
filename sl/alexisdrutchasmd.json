@@ -1,0 +1,28 @@
+{
+  "uuid": "40ce29d6-0ead-4ee8-8531-7914005ff020",
+  "first_name": "Alexis",
+  "last_name": "Drutchas, MD",
+  "full_name": "Alexis Drutchas, MD",
+  "linkedin_url": "https://linkedin.com/in/alexisdrutchasmd",
+  "emails": [
+    {
+      "email": "alexis_drutchas@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexis.drutchas@massgeneral.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-524-1718",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard Medical School"
+}

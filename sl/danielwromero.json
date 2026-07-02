@@ -1,0 +1,36 @@
+{
+  "uuid": "08d5084b-f59f-4f7e-8f60-6f288ece8d46",
+  "first_name": "Dan",
+  "last_name": "Romero",
+  "full_name": "Dan Romero",
+  "linkedin_url": "https://linkedin.com/in/danielwromero",
+  "emails": [
+    {
+      "email": "danielwromero@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@techcrunch.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dan@tempo.xyz",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan.romero@bain.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dan.romero@coinbase.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Tempo"
+}

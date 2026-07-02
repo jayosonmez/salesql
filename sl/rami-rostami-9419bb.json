@@ -1,0 +1,31 @@
+{
+  "uuid": "7259cfb1-931e-4411-a73e-8033c915f5b7",
+  "first_name": "Rami",
+  "last_name": "Rostami",
+  "full_name": "Rami Rostami",
+  "linkedin_url": "https://linkedin.com/in/rami-rostami-9419bb",
+  "emails": [
+    {
+      "email": "rami@technocel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rami@tyltventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rami.rostami@technocel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rami@tyltlab.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "TYLT Ventures"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "0a0d0ae0-9a30-4428-afa9-9fe137755351",
+  "first_name": "Urmas",
+  "last_name": "Purde",
+  "full_name": "Urmas Purde",
+  "linkedin_url": "https://linkedin.com/in/urmaspurde",
+  "emails": [
+    {
+      "email": "urmas@vain.ee",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "urmaspurde@pipedrive.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Pipedrive"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "2f8f8dff-fa71-4e6f-9db2-af9d14dc1132",
+  "first_name": "Kübra",
+  "last_name": "Kurşun",
+  "full_name": "Kübra Kurşun",
+  "linkedin_url": "https://linkedin.com/in/kübra-kurşun-45b46a108",
+  "emails": [
+    {
+      "email": "kubra.kursun@flypgs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 216 560 70 00",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pegasus Airlines"
+}

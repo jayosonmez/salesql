@@ -1,0 +1,41 @@
+{
+  "uuid": "8e9130db-886e-4bdf-89ea-e8d81be564f9",
+  "first_name": "Aytunc",
+  "last_name": "Ozturk",
+  "full_name": "Aytunc Ozturk",
+  "linkedin_url": "https://linkedin.com/in/aytunc",
+  "emails": [
+    {
+      "email": "aytunc@mother.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aytuncozturk@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "aytunc@intelligentt.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aytunc@parenthoodventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aozturk@fastcompany.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aytunc.ozturk@forbestechcouncil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Company.ai"
+}

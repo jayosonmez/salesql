@@ -1,0 +1,23 @@
+{
+  "uuid": "ccdaae7e-72a2-4337-8dcf-de845597512b",
+  "first_name": "Steil Christina G",
+  "last_name": "Steil",
+  "full_name": "Steil Christina G Steil",
+  "linkedin_url": "https://linkedin.com/in/steil-christina-g-steil-5664942a",
+  "emails": [
+    {
+      "email": "cmgsteil@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 630-455-0045",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CSC Steil Dermatology"
+}

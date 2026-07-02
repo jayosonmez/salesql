@@ -1,0 +1,23 @@
+{
+  "uuid": "75ad812b-ae82-4beb-9b91-020227db1b87",
+  "first_name": "Amy",
+  "last_name": "Morishima",
+  "full_name": "Amy Morishima",
+  "linkedin_url": "https://linkedin.com/in/amy-morishima-858102a",
+  "emails": [
+    {
+      "email": "amorishima@pol.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-404-8268",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Palo Alto Medical Foundation"
+}

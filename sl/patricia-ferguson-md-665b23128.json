@@ -1,0 +1,17 @@
+{
+  "uuid": "5d1418fc-32f0-4a22-a8e2-d9c6d271e9c8",
+  "first_name": "Patricia",
+  "last_name": "Ferguson,MD",
+  "full_name": "Patricia Ferguson,MD",
+  "linkedin_url": "https://linkedin.com/in/patricia-ferguson-md-665b23128",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 313-225-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Blue Cross Blue Shield of Michigan"
+}

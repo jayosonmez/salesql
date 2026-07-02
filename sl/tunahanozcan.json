@@ -1,0 +1,22 @@
+{
+  "uuid": "84b1a949-a43b-4d26-b1fd-98870b839abf",
+  "first_name": "Tunahan",
+  "last_name": "Ozcan",
+  "full_name": "Tunahan Ozcan",
+  "linkedin_url": "https://linkedin.com/in/tunahanozcan",
+  "emails": [
+    {
+      "email": "tunahan.ozcan@patikaglobal.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 212 654 49 80",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Eren Perakende"
+}

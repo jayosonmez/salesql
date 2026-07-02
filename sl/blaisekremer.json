@@ -1,0 +1,68 @@
+{
+  "uuid": "ad78b5c2-179d-42a3-9e60-0bead570ead2",
+  "first_name": "Blaise",
+  "last_name": "Kremer",
+  "full_name": "Blaise Kremer",
+  "linkedin_url": "https://linkedin.com/in/blaisekremer",
+  "emails": [
+    {
+      "email": "blaise@franceverif.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "blaise.kremer@legratin.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "blaise@mobula.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "blaise@nomiks.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "blaise@amaya.ag",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "blaise@anybuddyapp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "blaise.kremer@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "blaise@novastream.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "blaise@lumapps.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "blaise@vistaflow.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 6 21 66 94 08",
+      "type": "Personal",
+      "country_code": "FR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VistaFlow"
+}

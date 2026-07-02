@@ -1,0 +1,23 @@
+{
+  "uuid": "a9eb639d-53aa-4644-a259-26ec33c315ec",
+  "first_name": "Kenneth",
+  "last_name": "Marx",
+  "full_name": "Kenneth Marx",
+  "linkedin_url": "https://linkedin.com/in/kenneth-marx-a8935375",
+  "emails": [
+    {
+      "email": "kenneth.marx@nyulangone.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-263-8990",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NYU Langone Health"
+}

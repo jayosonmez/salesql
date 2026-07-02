@@ -1,0 +1,17 @@
+{
+  "uuid": "dc43d4f7-e2a4-4297-ac29-bfc957819d98",
+  "first_name": "Shaotao",
+  "last_name": "P.",
+  "full_name": "Shaotao P.",
+  "linkedin_url": "https://linkedin.com/in/shaotao-p-10322395",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 650-432-3200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Visa"
+}

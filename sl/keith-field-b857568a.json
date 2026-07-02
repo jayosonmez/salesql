@@ -1,0 +1,16 @@
+{
+  "uuid": "d4e63f57-f99f-4e40-be93-e02b89f62418",
+  "first_name": "Keith",
+  "last_name": "Field",
+  "full_name": "Keith Field",
+  "linkedin_url": "https://linkedin.com/in/keith-field-b857568a",
+  "emails": [
+    {
+      "email": "kfield@matherhospital.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Creative Home Solutions"
+}

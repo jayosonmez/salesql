@@ -1,0 +1,23 @@
+{
+  "uuid": "e82a0cb8-bae3-4c0e-885e-b1bef251a95b",
+  "first_name": "Michael",
+  "last_name": "Chandler",
+  "full_name": "Michael Chandler",
+  "linkedin_url": "https://linkedin.com/in/michael-chandler-88651a60",
+  "emails": [
+    {
+      "email": "mchandler@ufc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 702-221-4780",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ultimate Fighting Championship"
+}

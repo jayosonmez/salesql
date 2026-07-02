@@ -1,0 +1,21 @@
+{
+  "uuid": "ad854430-47e1-488b-9c95-47d23a7a2de2",
+  "first_name": "Ryan",
+  "last_name": "S",
+  "full_name": "Ryan S",
+  "linkedin_url": "https://linkedin.com/in/ryaneshea",
+  "emails": [
+    {
+      "email": "rshea@princeton.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryan@shea.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

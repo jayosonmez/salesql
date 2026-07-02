@@ -1,0 +1,23 @@
+{
+  "uuid": "e12e4af5-6f0e-4e7e-a740-9a648e13509e",
+  "first_name": "Kristof",
+  "last_name": "Notelaers",
+  "full_name": "Kristof Notelaers",
+  "linkedin_url": "https://linkedin.com/in/kristof-notelaers-42584160",
+  "emails": [
+    {
+      "email": "kristof.notelaers@ac-systems.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+32 16 21 30 30",
+      "type": "Work",
+      "country_code": "BE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "A&C Systems"
+}

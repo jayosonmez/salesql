@@ -1,0 +1,28 @@
+{
+  "uuid": "af7db937-1f7c-4d6c-a92f-3241e16e80c5",
+  "first_name": "Homayoun",
+  "last_name": "Asadzadeh",
+  "full_name": "Homayoun Asadzadeh",
+  "linkedin_url": "https://linkedin.com/in/homayoun-asadzadeh-457aa4130",
+  "emails": [
+    {
+      "email": "homayoun.asadzadeh@uta.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "homayoun.asadzadeh@uta.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 817-272-2011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The University of Texas at Arlington"
+}

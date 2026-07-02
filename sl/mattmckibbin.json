@@ -1,0 +1,36 @@
+{
+  "uuid": "79017ea6-be6e-4bae-b293-2bb777dbb780",
+  "first_name": "Matt",
+  "last_name": "McKibbin",
+  "full_name": "Matt McKibbin",
+  "linkedin_url": "https://linkedin.com/in/mattmckibbin",
+  "emails": [
+    {
+      "email": "matt@ammahealing.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "matt@chainlink.capital",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "matt.mckibbin@decentranet.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "matt@toptierimpact.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "matthew.mckibbin@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hyla Fund Management"
+}

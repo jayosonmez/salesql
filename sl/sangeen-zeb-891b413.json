@@ -1,0 +1,58 @@
+{
+  "uuid": "3191c7c6-5917-4d8a-9f3c-c51f721e7ba6",
+  "first_name": "Sangeen",
+  "last_name": "Zeb",
+  "full_name": "Sangeen Zeb",
+  "linkedin_url": "https://linkedin.com/in/sangeen-zeb-891b413",
+  "emails": [
+    {
+      "email": "sangeen.zeb@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sangeenzeb@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "szeb@centerviewcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "szeb@uipath.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sangeen@thinkingmachines.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sangeen@gv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sangeen@vercel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sangeen@harvey.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-253-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GV (Google Ventures)"
+}

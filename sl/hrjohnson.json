@@ -1,0 +1,23 @@
+{
+  "uuid": "5495b4bc-7838-497b-be1e-b079aa6dd638",
+  "first_name": "Howard",
+  "last_name": "Johnson",
+  "full_name": "Howard Johnson",
+  "linkedin_url": "https://linkedin.com/in/hrjohnson",
+  "emails": [
+    {
+      "email": "hjohnson@xmission.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-580-1903",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Carterra"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "29bb0b08-14d7-4496-991e-7c8b368b6fb4",
+  "first_name": "Sydney",
+  "last_name": "Halperin",
+  "full_name": "Sydney Halperin",
+  "linkedin_url": "https://linkedin.com/in/sydney-halperin-40499048",
+  "emails": [
+    {
+      "email": "sydney.halperin@regeneron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-347-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Regeneron"
+}

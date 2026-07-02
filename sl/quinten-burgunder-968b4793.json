@@ -1,0 +1,39 @@
+{
+  "uuid": "d19f3fe4-caeb-4a8e-8244-19e3bcbc70a3",
+  "first_name": "Quinten",
+  "last_name": "Burgunder",
+  "full_name": "Quinten Burgunder",
+  "linkedin_url": "https://linkedin.com/in/quinten-burgunder-968b4793",
+  "emails": [
+    {
+      "email": "quinten@mubi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "qab205@stern.nyu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "qburgunder@a16z.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 908-407-8365",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-289-0283",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MUBI"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "5d5905c2-46b1-4e92-98f0-ce23b4fad7a1",
+  "first_name": "Kubra Secil",
+  "last_name": "Aydin",
+  "full_name": "Kubra Secil Aydin",
+  "linkedin_url": "https://linkedin.com/in/kubra-secil-aydin",
+  "emails": [
+    {
+      "email": "kubra.aydin1@trendyol.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 216 579 30 00",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Migros Ticaret"
+}

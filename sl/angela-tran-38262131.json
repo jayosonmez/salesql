@@ -1,0 +1,41 @@
+{
+  "uuid": "eaccbb25-6d6c-48f7-9606-7797ac46c828",
+  "first_name": "Angela",
+  "last_name": "Tran",
+  "full_name": "Angela Tran",
+  "linkedin_url": "https://linkedin.com/in/angela-tran-38262131",
+  "emails": [
+    {
+      "email": "angela.tran@utoronto.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "angela@versiononeventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "angela.kingyens@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "angela@insightfellows.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "angela.tran@creativedestructionlab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "atran@computerhistory.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Version One Ventures"
+}

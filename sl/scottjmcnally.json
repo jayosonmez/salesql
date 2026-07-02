@@ -1,0 +1,16 @@
+{
+  "uuid": "3ace7741-9e40-4ade-8604-aa6b6c807f0c",
+  "first_name": "Scott",
+  "last_name": "McNally",
+  "full_name": "Scott McNally",
+  "linkedin_url": "https://linkedin.com/in/scottjmcnally",
+  "emails": [
+    {
+      "email": "scott.j.mcnally@ibm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stealth Mode"
+}

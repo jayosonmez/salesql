@@ -1,0 +1,33 @@
+{
+  "uuid": "43612f1d-39dc-4c25-b468-fb850b562e7d",
+  "first_name": "Konstantina",
+  "last_name": "Chachlaki",
+  "full_name": "Konstantina Chachlaki",
+  "linkedin_url": "https://linkedin.com/in/konstantina-chachlaki",
+  "emails": [
+    {
+      "email": "konstantina.chachlaki@healthparliament.eu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "konstantina@100mentors.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "k.chachlaki@ucl.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 7679 2000",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UCL"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "cf4938b7-7f14-4f22-b476-4ec695ed4f34",
+  "first_name": "Michael",
+  "last_name": "Rubin",
+  "full_name": "Michael Rubin",
+  "linkedin_url": "https://linkedin.com/in/michael-rubin-b76602b1",
+  "emails": [
+    {
+      "email": "michael.rubin@vituity.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "m.r@emoryhealthcare.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "michael.rubin@vituity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-686-4411",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Emory Healthcare"
+}

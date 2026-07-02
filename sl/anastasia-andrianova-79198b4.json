@@ -1,0 +1,31 @@
+{
+  "uuid": "df742341-6040-4d1e-933b-297ceeb8c179",
+  "first_name": "Anastasia",
+  "last_name": "Andrianova",
+  "full_name": "Anastasia Andrianova",
+  "linkedin_url": "https://linkedin.com/in/anastasia-andrianova-79198b4",
+  "emails": [
+    {
+      "email": "anastasia.andrianova@annamite.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anastasia@ehf.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anastasia@flare.network",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aa@theconwaygame.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Annamite Capital Limited"
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "2de060e1-2246-41a1-88a8-73e3d6c037a7",
+  "first_name": "Amarolinda",
+  "last_name": "Klein",
+  "full_name": "Amarolinda Klein",
+  "linkedin_url": "https://linkedin.com/in/amarolindaklein",
+  "emails": [
+    {
+      "email": "aklein@cnpq.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amarolinda@ventiur.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aklein@unisinos.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "azsaccol@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Secretaria da Inovação, Ciência e Tecnologia do Estado do Rio Grande do Sul"
+}

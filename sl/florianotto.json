@@ -1,0 +1,34 @@
+{
+  "uuid": "aa35fcc8-6008-456e-81b6-e1911ef9e620",
+  "first_name": "Florian",
+  "last_name": "Otto",
+  "full_name": "Florian Otto",
+  "linkedin_url": "https://linkedin.com/in/florianotto",
+  "emails": [
+    {
+      "email": "florian@cedar.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "flotto@hotmail.de",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-568-0906",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 917-470-9310",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cedar"
+}

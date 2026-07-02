@@ -1,0 +1,53 @@
+{
+  "uuid": "ee14458f-5430-40f6-90a7-0509ff04e698",
+  "first_name": "Drew",
+  "last_name": "Olanoff",
+  "full_name": "Drew Olanoff",
+  "linkedin_url": "https://linkedin.com/in/drewolanoff",
+  "emails": [
+    {
+      "email": "drew@synctera.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "drdrew@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "drew.olanoff@riverstudios.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "drew@timescale.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "drew@techcrunch.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "drew@thumbs-up.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "drew@thenextweb.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-238-8428",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Thumbs Up"
+}

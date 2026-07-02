@@ -1,0 +1,32 @@
+{
+  "uuid": "47561126-83e9-492f-9209-beb400a7fdad",
+  "first_name": "Richard",
+  "last_name": "Branson",
+  "full_name": "Richard Branson",
+  "linkedin_url": "https://linkedin.com/in/rbranson",
+  "emails": [
+    {
+      "email": "richard@virgingalactic.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "richardbranson@virginatlantic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "richard.branson@virgin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 7313 2000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Virgin"
+}

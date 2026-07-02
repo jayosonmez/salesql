@@ -1,0 +1,17 @@
+{
+  "uuid": "e079631c-25db-4e7c-80a0-b6a619b6f467",
+  "first_name": "Sathiyaraj",
+  "last_name": "George MD, FACP",
+  "full_name": "Sathiyaraj George MD, FACP",
+  "linkedin_url": "https://linkedin.com/in/drsathiyarajgeorge",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 833-872-7423",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Virtual Physician Scribes"
+}

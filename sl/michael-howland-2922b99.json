@@ -1,0 +1,16 @@
+{
+  "uuid": "cd2a0f4b-5525-41d9-936d-22f432c0e599",
+  "first_name": "Michael",
+  "last_name": "Howland",
+  "full_name": "Michael Howland",
+  "linkedin_url": "https://linkedin.com/in/michael-howland-2922b99",
+  "emails": [
+    {
+      "email": "mhowland@gilead.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Gilead Sciences"
+}

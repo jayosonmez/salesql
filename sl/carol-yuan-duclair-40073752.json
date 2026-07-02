@@ -1,0 +1,21 @@
+{
+  "uuid": "80788d47-f229-4bb5-bdb4-277729d0ce2f",
+  "first_name": "Carol",
+  "last_name": "Yuan-Duclair",
+  "full_name": "Carol Yuan-Duclair",
+  "linkedin_url": "https://linkedin.com/in/carol-yuan-duclair-40073752",
+  "emails": [
+    {
+      "email": "yuan-duclair@nychealthandhospitals.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carol.yuan-duclair@mountsinai.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "B.Hai Sleep Health"
+}

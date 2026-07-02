@@ -1,0 +1,23 @@
+{
+  "uuid": "5223d421-be4e-419e-abee-5da037f5ccfa",
+  "first_name": "Paul",
+  "last_name": "Jackson",
+  "full_name": "Paul Jackson",
+  "linkedin_url": "https://linkedin.com/in/paul-jackson-7a354086",
+  "emails": [
+    {
+      "email": "pjackson@middlebury.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 831-647-4123",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Middlebury Institute of International Studies at Monterey"
+}

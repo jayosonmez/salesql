@@ -1,0 +1,36 @@
+{
+  "uuid": "c6a4ab1b-f495-442e-a3f1-fb6b51b3f8f5",
+  "first_name": "John",
+  "last_name": "Burry",
+  "full_name": "John Burry",
+  "linkedin_url": "https://linkedin.com/in/johnburryretailreinvention",
+  "emails": [
+    {
+      "email": "john@readysetfood.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john.burry@pobox.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "john@masterclass.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john@dosedaily.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "john@justzapp.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dose"
+}

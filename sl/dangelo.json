@@ -1,0 +1,28 @@
+{
+  "uuid": "295fa023-c086-476a-8d26-ed4b45e71e61",
+  "first_name": "Adam",
+  "last_name": "D'Angelo",
+  "full_name": "Adam D'Angelo",
+  "linkedin_url": "https://linkedin.com/in/dangelo",
+  "emails": [
+    {
+      "email": "dangelo@ugcs.caltech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adam.dangelo@quora.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-555-5555",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Quora"
+}

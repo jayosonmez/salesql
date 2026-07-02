@@ -1,0 +1,48 @@
+{
+  "uuid": "86131f4a-7193-41e7-bb25-07a1879ce982",
+  "first_name": "Camella",
+  "last_name": "Wilson, PhD",
+  "full_name": "Camella Wilson, PhD",
+  "linkedin_url": "https://linkedin.com/in/4cgwilson",
+  "emails": [
+    {
+      "email": "camella.wilson@isolationbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cwilson@octavebio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "camella.wilson@sciphermedicine.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "camellag.wilson@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "camswiss@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "camella_phd@mds.studio",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 240-800-1200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northpond Ventures"
+}

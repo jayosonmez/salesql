@@ -1,0 +1,36 @@
+{
+  "uuid": "517a7bf2-ece7-4f6d-80a7-5afe6cedd7fa",
+  "first_name": "Tom",
+  "last_name": "Vogelsong",
+  "full_name": "Tom Vogelsong",
+  "linkedin_url": "https://linkedin.com/in/tom-vogelsong",
+  "emails": [
+    {
+      "email": "tom@cam-do.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tom.vogelsong@lehigh.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tlvogelsong@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tlvogelsong@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "tomv@redcrow.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "K2X Capital (formerly Kyto Technology and Life Science)"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "21008e27-db6d-40a4-9a1a-bf0dc2bddcfa",
+  "first_name": "Risa",
+  "last_name": "Schulman",
+  "full_name": "Risa Schulman",
+  "linkedin_url": "https://linkedin.com/in/risa-schulman-4a192576",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 978-963-8733",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Figtree Family Medicine"
+}

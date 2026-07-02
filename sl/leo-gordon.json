@@ -1,0 +1,23 @@
+{
+  "uuid": "0f94c00b-ee3c-4422-95b4-3716cab20e21",
+  "first_name": "Leo",
+  "last_name": "Gordon, PhD",
+  "full_name": "Leo Gordon, PhD",
+  "linkedin_url": "https://linkedin.com/in/leo-gordon",
+  "emails": [
+    {
+      "email": "lgordon@ucsb.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 805-893-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC Santa Barbara"
+}

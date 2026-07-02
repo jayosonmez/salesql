@@ -1,0 +1,53 @@
+{
+  "uuid": "7e95afc6-9af0-4a66-9196-9cedbc61254f",
+  "first_name": "Yash",
+  "last_name": "Zaveri",
+  "full_name": "Yash Zaveri",
+  "linkedin_url": "https://linkedin.com/in/yash-zaveri-7793571a",
+  "emails": [
+    {
+      "email": "yash@google.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yash.zaveri@cinven.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yash@joinef.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "y.zaveri@ucl.ac.uk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yzaveri88@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "yash@xelix.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yash@autopaid.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 574-252-5662",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth Startup"
+}

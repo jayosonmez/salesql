@@ -1,0 +1,16 @@
+{
+  "uuid": "bed50c45-24e0-4311-81f7-64fa065feb5c",
+  "first_name": "Eddie",
+  "last_name": "Harris MD",
+  "full_name": "Eddie Harris MD",
+  "linkedin_url": "https://linkedin.com/in/eddie-harris-md-00145445",
+  "emails": [
+    {
+      "email": "e3harris@bellsouth.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Premier Eye Physicians"
+}

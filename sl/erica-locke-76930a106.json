@@ -1,0 +1,16 @@
+{
+  "uuid": "0eca9b55-9253-44ae-be42-ff070ef82835",
+  "first_name": "Erica",
+  "last_name": "Locke",
+  "full_name": "Erica Locke",
+  "linkedin_url": "https://linkedin.com/in/erica-locke-76930a106",
+  "emails": [
+    {
+      "email": "elocke@svmh.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Doc's Dish"
+}

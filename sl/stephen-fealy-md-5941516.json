@@ -1,0 +1,48 @@
+{
+  "uuid": "ccee8dbc-24a1-47a2-84f1-e3fb0c260e59",
+  "first_name": "Stephen",
+  "last_name": "Fealy, MD",
+  "full_name": "Stephen Fealy, MD",
+  "linkedin_url": "https://linkedin.com/in/stephen-fealy-md-5941516",
+  "emails": [
+    {
+      "email": "sfealy@mlbplayers.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephen@betterhealthcare.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephen@betterpt.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "stephen_md@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "stephen_md@mlb.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "fealys@hss.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-634-7833",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BetterHealthcare"
+}

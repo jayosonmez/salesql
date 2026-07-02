@@ -1,0 +1,36 @@
+{
+  "uuid": "8e33ca96-4a7f-4412-b566-5a37cdde0116",
+  "first_name": "Brandon",
+  "last_name": "Cruz",
+  "full_name": "Brandon Cruz",
+  "linkedin_url": "https://linkedin.com/in/bcruz",
+  "emails": [
+    {
+      "email": "bcruz@gohealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bcruz@norvax.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brandon@gohealthinsurance.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bcruz@gohealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bcruz@healthjoy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Real Tech Capital"
+}

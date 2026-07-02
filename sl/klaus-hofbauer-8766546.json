@@ -1,0 +1,16 @@
+{
+  "uuid": "5c4fe0ca-863f-42fc-bfda-da6e97ab9695",
+  "first_name": "Klaus",
+  "last_name": "Hofbauer",
+  "full_name": "Klaus Hofbauer",
+  "linkedin_url": "https://linkedin.com/in/klaus-hofbauer-8766546",
+  "emails": [
+    {
+      "email": "klaus.hofbauer@karriere.at",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "karriere.at GmbH"
+}

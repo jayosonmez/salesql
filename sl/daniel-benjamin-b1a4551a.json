@@ -1,0 +1,16 @@
+{
+  "uuid": "6a1af2e0-50ee-4509-b034-c833991c21ef",
+  "first_name": "Daniel",
+  "last_name": "Benjamin",
+  "full_name": "Daniel Benjamin",
+  "linkedin_url": "https://linkedin.com/in/daniel-benjamin-b1a4551a",
+  "emails": [
+    {
+      "email": "ddben@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "NRAD"
+}

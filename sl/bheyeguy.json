@@ -1,0 +1,68 @@
+{
+  "uuid": "47689899-626f-44c4-bfe7-a20a62f96eef",
+  "first_name": "Dr Kambiz",
+  "last_name": "Silani",
+  "full_name": "Dr Kambiz Silani",
+  "linkedin_url": "https://linkedin.com/in/bheyeguy",
+  "emails": [
+    {
+      "email": "kambiz_silani@sightsciences.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ksilani@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kambiz_silani@novabay.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "silanidr@revolutionehr.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kambiz_silani@alcon.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ds@priverevaux.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kambiz_silani@lumenis.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kambiz_silani@tarsusrx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dr@csidryeye.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dsilani@prnomegahealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-659-2020",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Optometry 360®"
+}

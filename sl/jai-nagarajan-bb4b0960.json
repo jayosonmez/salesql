@@ -1,0 +1,36 @@
+{
+  "uuid": "2b4bfc17-d339-4fd6-939f-c36724d9bea7",
+  "first_name": "Jai",
+  "last_name": "Nagarajan",
+  "full_name": "Jai Nagarajan",
+  "linkedin_url": "https://linkedin.com/in/jai-nagarajan-bb4b0960",
+  "emails": [
+    {
+      "email": "jai@hirezappy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jai@akidolabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jai@tollan.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jai.nagarajan@deel.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jai.nagarajan93@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Deel"
+}

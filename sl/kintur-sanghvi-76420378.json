@@ -1,0 +1,23 @@
+{
+  "uuid": "4d86dd18-ed24-45cc-8f09-8967fb5b9e98",
+  "first_name": "Kintur",
+  "last_name": "Sanghvi",
+  "full_name": "Kintur Sanghvi",
+  "linkedin_url": "https://linkedin.com/in/kintur-sanghvi-76420378",
+  "emails": [
+    {
+      "email": "ksanghvi@virtua.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 856-355-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Virtua Health"
+}

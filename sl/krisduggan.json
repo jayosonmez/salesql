@@ -1,0 +1,26 @@
+{
+  "uuid": "301d7443-7bdc-40f4-a180-ce9362a5fe33",
+  "first_name": "Kris",
+  "last_name": "Duggan",
+  "full_name": "Kris Duggan",
+  "linkedin_url": "https://linkedin.com/in/krisduggan",
+  "emails": [
+    {
+      "email": "kris@alchemistaccelerator.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kris@badgeville.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kris@first100advisory.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stealth AI"
+}

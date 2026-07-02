@@ -1,0 +1,28 @@
+{
+  "uuid": "f4d664aa-fda7-433a-b3f9-03765e14d114",
+  "first_name": "David",
+  "last_name": "Warren",
+  "full_name": "David Warren",
+  "linkedin_url": "https://linkedin.com/in/davidzwarren",
+  "emails": [
+    {
+      "email": "david.warren@takethefight.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david.warren@entrepreneurcenter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 323-810-8625",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Take the Fight"
+}

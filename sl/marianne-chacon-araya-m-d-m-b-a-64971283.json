@@ -1,0 +1,23 @@
+{
+  "uuid": "6c39b13f-1a0c-496e-b92e-07719f48de80",
+  "first_name": "Marianne",
+  "last_name": "Chacon-Araya M.D., M.B.A.",
+  "full_name": "Marianne Chacon-Araya M.D., M.B.A.",
+  "linkedin_url": "https://linkedin.com/in/marianne-chacon-araya-m-d-m-b-a-64971283",
+  "emails": [
+    {
+      "email": "marianne.chacon-araya@regeneron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-347-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Regeneron"
+}

@@ -1,0 +1,22 @@
+{
+  "uuid": "ba0056e7-2703-4a8f-bf38-b6d62fc4c84c",
+  "first_name": "Gülşah",
+  "last_name": "Aydınoğlu",
+  "full_name": "Gülşah Aydınoğlu",
+  "linkedin_url": "https://linkedin.com/in/gülşah-aydınoğlu",
+  "emails": [
+    {
+      "email": "gulsah.aydinoglu@sandoz.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 8024 4760",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sandoz"
+}

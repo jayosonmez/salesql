@@ -1,0 +1,23 @@
+{
+  "uuid": "69c36e41-8d58-4c67-b4ad-2a7cc0e864f1",
+  "first_name": "Jon",
+  "last_name": "O'Sullivan",
+  "full_name": "Jon O'Sullivan",
+  "linkedin_url": "https://linkedin.com/in/jon-o-sullivan-7730752a",
+  "emails": [
+    {
+      "email": "jono@vhadvisors.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 214-507-7502",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

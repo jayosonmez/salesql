@@ -1,0 +1,28 @@
+{
+  "uuid": "385db391-416b-4f25-a8a3-a7d7be8a70e9",
+  "first_name": "Ahmed",
+  "last_name": "Ghouri, M.D.",
+  "full_name": "Ahmed Ghouri, M.D.",
+  "linkedin_url": "https://linkedin.com/in/ahmedghouri",
+  "emails": [
+    {
+      "email": "ahmed@interpreta.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ahmed@myown.md",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-795-1900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Interpreta"
+}

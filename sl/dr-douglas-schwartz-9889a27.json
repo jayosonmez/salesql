@@ -1,0 +1,16 @@
+{
+  "uuid": "4ef4a270-3db7-4238-9afd-dfc1e6f13cae",
+  "first_name": "dr douglas",
+  "last_name": "schwartz",
+  "full_name": "dr douglas schwartz",
+  "linkedin_url": "https://linkedin.com/in/dr-douglas-schwartz-9889a27",
+  "emails": [
+    {
+      "email": "drdouglas.schwartz@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "eastside medical group"
+}

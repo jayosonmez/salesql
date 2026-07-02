@@ -1,0 +1,48 @@
+{
+  "uuid": "a4eecb8e-65bd-41c4-b383-b9a08e2e74fe",
+  "first_name": "Faris",
+  "last_name": "Lodin",
+  "full_name": "Faris Lodin",
+  "linkedin_url": "https://linkedin.com/in/farislodin",
+  "emails": [
+    {
+      "email": "farislodin@sterlingequity.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "faris.lodin@axe.holdings",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "faris@ecquitas.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "faris@wahed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "faris.lodin@axeinnovation.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "faris.lodin@aia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+65 8402 8086",
+      "type": "Personal",
+      "country_code": "SG",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AxeHoldings"
+}

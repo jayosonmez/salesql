@@ -1,0 +1,42 @@
+{
+  "uuid": "c6a730d0-244d-410a-a937-8da52904b8b7",
+  "first_name": "Craig",
+  "last_name": "Nelson",
+  "full_name": "Craig Nelson",
+  "linkedin_url": "https://linkedin.com/in/craigcnelson",
+  "emails": [
+    {
+      "email": "craig@givebutter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "craig@peakspancapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "craig@primaequity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "craigcnelson@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "cnelson@powerhero.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+61 2 9662 4744",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FirstWave ASX: FCT"
+}

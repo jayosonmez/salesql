@@ -1,0 +1,41 @@
+{
+  "uuid": "6d15875d-99c8-47a4-95ad-3130e6638a4f",
+  "first_name": "Damian",
+  "last_name": "Bradfield",
+  "full_name": "Damian Bradfield",
+  "linkedin_url": "https://linkedin.com/in/damianbradfield",
+  "emails": [
+    {
+      "email": "damian@sarabandefoundation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "damian@thesupportingact.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "damian@kuvva.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "damian@wetransfer.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "damian@fupe.wtf",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "damianbradfield@me.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "FUPE"
+}

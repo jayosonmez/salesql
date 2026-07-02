@@ -1,0 +1,28 @@
+{
+  "uuid": "0587aba3-fff7-4e34-a481-59df188c84a4",
+  "first_name": "Eric",
+  "last_name": "Hoyer MD",
+  "full_name": "Eric Hoyer MD",
+  "linkedin_url": "https://linkedin.com/in/eric-hoyer-md-32b99498",
+  "emails": [
+    {
+      "email": "eric.hoyer@essentiahealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ehoyer@cheyrad.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 307-634-7711",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cheyenne Radiology Group"
+}

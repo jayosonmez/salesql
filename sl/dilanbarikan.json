@@ -1,0 +1,22 @@
+{
+  "uuid": "bc2fa74c-ab01-4336-aff4-e4eea3299acf",
+  "first_name": "Dilan",
+  "last_name": "Barikan",
+  "full_name": "Dilan Barikan",
+  "linkedin_url": "https://linkedin.com/in/dilanbarikan",
+  "emails": [
+    {
+      "email": "dilan_barikan@cargill.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 151 242 7500",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cargill"
+}

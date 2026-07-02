@@ -1,0 +1,36 @@
+{
+  "uuid": "845fdce2-0780-41a1-8b0d-f7f95e1a7ca3",
+  "first_name": "Kevin",
+  "last_name": "Rosenberg, MD FACP FACEP",
+  "full_name": "Kevin Rosenberg, MD FACP FACEP",
+  "linkedin_url": "https://linkedin.com/in/kevin-rosenberg-md",
+  "emails": [
+    {
+      "email": "kevin@debian.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kevin_rosenberg@schumacherclinical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kevin.rosenberg@lovelace.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kevin.rosenberg@ardenthealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kevin@rosenberg.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lovelace Medical Group"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "68541447-dafd-49fd-8f1d-f110b4415407",
+  "first_name": "Betsy Jean",
+  "last_name": "Yakes",
+  "full_name": "Betsy Jean Yakes",
+  "linkedin_url": "https://linkedin.com/in/betsy-jean-yakes-ab276264",
+  "emails": [
+    {
+      "email": "betsy@fda.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 301-827-3844",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FDA"
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "60375e98-ae7e-4c9f-8235-0578d801a1c6",
+  "first_name": "Dave",
+  "last_name": "Gulezian",
+  "full_name": "Dave Gulezian",
+  "linkedin_url": "https://linkedin.com/in/davegulezian",
+  "emails": [
+    {
+      "email": "dgulezian@viscira.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dgulezian@endpointclinical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dave@altos.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dgulezian@eveo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-625-8915",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Alucio"
+}

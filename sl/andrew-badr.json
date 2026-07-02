@@ -1,0 +1,26 @@
+{
+  "uuid": "13e43749-2f8b-4413-8569-8e03327c86b3",
+  "first_name": "Andrew",
+  "last_name": "Badr",
+  "full_name": "Andrew Badr",
+  "linkedin_url": "https://linkedin.com/in/andrew-badr",
+  "emails": [
+    {
+      "email": "andrew@mixily.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew@teucerbiotech.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "andrewbadr@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Teucer Diagnostics, Inc."
+}

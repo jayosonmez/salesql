@@ -1,0 +1,37 @@
+{
+  "uuid": "d0039f8f-0f07-4d50-888c-afc18786d5fc",
+  "first_name": "Marco",
+  "last_name": "Fisbhen",
+  "full_name": "Marco Fisbhen",
+  "linkedin_url": "https://linkedin.com/in/marcofisbhen",
+  "emails": [
+    {
+      "email": "marco@brazilinnovators.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "marco.fisbhen@play9.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "marco.fisbhen@endeavor.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "marco.fisbhen@descomplica.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "552194432709",
+      "type": "Personal",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Descomplica"
+}

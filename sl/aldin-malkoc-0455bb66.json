@@ -1,0 +1,21 @@
+{
+  "uuid": "a5680957-445a-4d6d-a3ce-8f91964bbf26",
+  "first_name": "Aldin",
+  "last_name": "Malkoc",
+  "full_name": "Aldin Malkoc",
+  "linkedin_url": "https://linkedin.com/in/aldin-malkoc-0455bb66",
+  "emails": [
+    {
+      "email": "amalkoc@whitecoatphilanthropy.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "amalkoc@sgu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Arrowhead Regional Medical Center and Kaiser Permanente Fontana "
+}

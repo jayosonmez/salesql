@@ -1,0 +1,16 @@
+{
+  "uuid": "15a0a7b1-7705-420b-838f-685e59c409bc",
+  "first_name": "Dr. M. George",
+  "last_name": "M.D.",
+  "full_name": "Dr. M. George M.D.",
+  "linkedin_url": "https://linkedin.com/in/drmgeorge",
+  "emails": [
+    {
+      "email": "royaloakmedical@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Royal Oak Medical Group"
+}

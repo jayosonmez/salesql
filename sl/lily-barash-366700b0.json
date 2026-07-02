@@ -1,0 +1,28 @@
+{
+  "uuid": "c22e7ddb-9eb3-47f6-bc20-f2970152c99f",
+  "first_name": "Lily",
+  "last_name": "Barash",
+  "full_name": "Lily Barash",
+  "linkedin_url": "https://linkedin.com/in/lily-barash-366700b0",
+  "emails": [
+    {
+      "email": "lbarash@montefiore.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lbarash@montefiore.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 718-920-4321",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Montefiore Health System"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "a638309f-f45c-493b-89e9-7faa022a3399",
+  "first_name": "Ted",
+  "last_name": "Conklin",
+  "full_name": "Ted Conklin",
+  "linkedin_url": "https://linkedin.com/in/ted-conklin-3806703",
+  "emails": [
+    {
+      "email": "ted@onsitedocs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ted.conklin@carenamd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-572-2103",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Carena Physicians"
+}

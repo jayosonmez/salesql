@@ -1,0 +1,17 @@
+{
+  "uuid": "d2d36ee8-e899-4072-847a-2772ff3ab566",
+  "first_name": "Regina",
+  "last_name": "Smith",
+  "full_name": "Regina Smith",
+  "linkedin_url": "https://linkedin.com/in/regina-smith-07b399266",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 301-608-9292",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "United Therapeutics Corporation"
+}

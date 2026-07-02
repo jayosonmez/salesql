@@ -1,0 +1,17 @@
+{
+  "uuid": "a082a3d7-c7ad-42f1-bc55-1a34cb4265d4",
+  "first_name": "Shawn",
+  "last_name": "Lupold",
+  "full_name": "Shawn Lupold",
+  "linkedin_url": "https://linkedin.com/in/shawn-lupold-a2ba5288",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 410-955-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Johns Hopkins University School of Medicine"
+}

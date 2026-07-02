@@ -1,0 +1,28 @@
+{
+  "uuid": "65ca2ac0-eefe-4211-bf36-b9b6be85c99a",
+  "first_name": "Mikayla",
+  "last_name": "Rahman",
+  "full_name": "Mikayla Rahman",
+  "linkedin_url": "https://linkedin.com/in/mikayla-rahman",
+  "emails": [
+    {
+      "email": "mikayla.rahman@emory.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mikayla.rahman@gatech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-894-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Georgia Institute of Technology"
+}

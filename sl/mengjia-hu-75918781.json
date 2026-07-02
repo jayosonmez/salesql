@@ -1,0 +1,28 @@
+{
+  "uuid": "52cfc0cc-372e-458c-884e-f4169308b55f",
+  "first_name": "Mengjia",
+  "last_name": "Hu",
+  "full_name": "Mengjia Hu",
+  "linkedin_url": "https://linkedin.com/in/mengjia-hu-75918781",
+  "emails": [
+    {
+      "email": "mhu@biofluidica.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mhu@kumc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 913-588-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Kansas Medical Center"
+}

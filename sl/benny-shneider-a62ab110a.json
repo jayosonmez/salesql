@@ -1,0 +1,16 @@
+{
+  "uuid": "6ccab372-fa48-4e44-af93-218e081b1d23",
+  "first_name": "Benny",
+  "last_name": "Shneider",
+  "full_name": "Benny Shneider",
+  "linkedin_url": "https://linkedin.com/in/benny-shneider-a62ab110a",
+  "emails": [
+    {
+      "email": "snyydrb@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Gav Systems \"merkaz\""
+}

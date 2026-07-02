@@ -1,0 +1,23 @@
+{
+  "uuid": "c1df1c86-bbed-46b7-9b2a-5588cf05e1b2",
+  "first_name": "Silviya",
+  "last_name": "Petrova Zustiak",
+  "full_name": "Silviya Petrova Zustiak",
+  "linkedin_url": "https://linkedin.com/in/silviya-petrova-zustiak-5676305",
+  "emails": [
+    {
+      "email": "szustiak@slu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 314-977-2222",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Saint Louis University"
+}

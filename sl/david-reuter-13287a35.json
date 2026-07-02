@@ -1,0 +1,21 @@
+{
+  "uuid": "a7138a4d-6814-409e-a295-70400e0fa75d",
+  "first_name": "David",
+  "last_name": "Reuter",
+  "full_name": "David Reuter",
+  "linkedin_url": "https://linkedin.com/in/david-reuter-13287a35",
+  "emails": [
+    {
+      "email": "david.reuter@seattlechildrens.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dreuter@cardiacdimensions.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Allegro Pediatrics"
+}

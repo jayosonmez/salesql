@@ -1,0 +1,43 @@
+{
+  "uuid": "b591fd69-702a-4e46-8af4-dfa2ab65e10d",
+  "first_name": "Bjarne",
+  "last_name": "Christiansen",
+  "full_name": "Bjarne Christiansen",
+  "linkedin_url": "https://linkedin.com/in/bjchrist",
+  "emails": [
+    {
+      "email": "b@christiansen.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bc@baze.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bjarne.christiansen@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bjarne@christiansen.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bjarne@float.energy",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-714-1754",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Float"
+}

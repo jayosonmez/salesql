@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+{% block title %}Dashboard – Metsulin Outreach{% endblock %}
+{% block content %}
+
+<div class="row g-3 mb-4">
+  <div class="col-md-3">
+    <div class="card stat-card shadow-sm">
+      <div class="card-body">
+        <div class="text-muted small">Sent Today</div>
+        <div class="fs-2 fw-bold">{{ global_sent }}</div>
+        <div class="text-muted small">of {{ global_limit }} limit</div>
+        <div class="progress mt-2">
+          <div class="progress-bar" style="width: {{ (global_sent / global_limit * 100) | int }}%"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-3">
+    <div class="card shadow-sm" style="border-left:4px solid #198754;">
+      <div class="card-body">
+        <div class="text-muted small">Follow-ups Sent Today</div>
+        <div class="fs-2 fw-bold">{{ followups_today }}</div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-3">
+    <div class="card shadow-sm" style="border-left:4px solid #fd7e14;">
+      <div class="card-body">
+        <div class="text-muted small">New Sends Today</div>
+        <div class="fs-2 fw-bold">{{ new_today }}</div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-3">
+    <div class="card shadow-sm" style="border-left:4px solid #6f42c1;">
+      <div class="card-body">
+        <div class="text-muted small">Active Campaigns</div>
+        <div class="fs-2 fw-bold">{{ active_campaigns }}</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card shadow-sm mb-4">
+  <div class="card-header d-flex justify-content-between align-items-center">
+    <strong>Campaign Daily Breakdown</strong>
+    <span class="text-muted small">Resets midnight PDT</span>
+  </div>
+  <div class="card-body p-0">
+    <table class="table table-hover mb-0">
+      <thead class="table-light">
+        <tr>
+          <th>Campaign</th>
+          <th class="text-end">Follow-ups</th>
+          <th class="text-end">New Sends</th>
+          <th class="text-end">Total Today</th>
+          <th class="text-end">Daily Limit</th>
+          <th>Usage</th>
+          <th>Status</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in campaign_rows %}
+        <tr>
+          <td><a href="/campaigns/{{ row.id }}" class="text-decoration-none fw-semibold">{{ row.name }}</a></td>
+          <td class="text-end">{{ row.followups_today }}</td>
+          <td class="text-end">{{ row.new_today }}</td>
+          <td class="text-end fw-semibold">{{ row.total_today }}</td>
+          <td class="text-end text-muted">{{ row.daily_limit }}</td>
+          <td style="min-width:100px;">
+            <div class="progress">
+              <div class="progress-bar {% if row.pct >= 90 %}bg-danger{% elif row.pct >= 60 %}bg-warning{% else %}bg-success{% endif %}"
+                   style="width: {{ row.pct }}%"></div>
+            </div>
+          </td>
+          <td>
+            <span class="badge {% if row.status == 'active' %}bg-success{% else %}bg-secondary{% endif %}">
+              {{ row.status }}
+            </span>
+          </td>
+          <td>
+            <a href="/campaigns/{{ row.id }}/enroll" class="btn btn-sm btn-outline-primary">Enroll</a>
+          </td>
+        </tr>
+        {% else %}
+        <tr><td colspan="8" class="text-center text-muted py-4">No campaigns yet. <a href="/campaigns/new">Create one.</a></td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card shadow-sm">
+  <div class="card-header"><strong>Follow-ups Due Next 7 Days</strong></div>
+  <div class="card-body p-0">
+    <table class="table table-sm mb-0">
+      <thead class="table-light">
+        <tr>
+          <th>Campaign</th>
+          <th>Email</th>
+          <th>Step</th>
+          <th>Due</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in upcoming_followups %}
+        <tr>
+          <td>{{ row.campaign_name }}</td>
+          <td>{{ row.email }}</td>
+          <td>Step {{ row.current_step }}</td>
+          <td>{{ row.next_send_at.strftime('%b %d %H:%M') if row.next_send_at else '—' }}</td>
+        </tr>
+        {% else %}
+        <tr><td colspan="4" class="text-center text-muted py-3">No upcoming follow-ups.</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+{% endblock %}

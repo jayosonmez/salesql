@@ -1,0 +1,23 @@
+{
+  "uuid": "3d7f5902-7bbf-4b57-8e91-890d593e7b45",
+  "first_name": "Ryan",
+  "last_name": "Donovan",
+  "full_name": "Ryan Donovan",
+  "linkedin_url": "https://linkedin.com/in/ryandonovan1106",
+  "emails": [
+    {
+      "email": "ryan.donovan@regeneron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-347-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Regeneron"
+}

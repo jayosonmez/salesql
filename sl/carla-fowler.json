@@ -1,0 +1,21 @@
+{
+  "uuid": "0271be4e-996d-480c-9cb3-1dcf47050a42",
+  "first_name": "Carla",
+  "last_name": "Fowler, MD PhD",
+  "full_name": "Carla Fowler, MD PhD",
+  "linkedin_url": "https://linkedin.com/in/carla-fowler",
+  "emails": [
+    {
+      "email": "fowler@thaxa.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "fowler@thaxa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "THAXA Executive Coaching"
+}

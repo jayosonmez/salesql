@@ -1,0 +1,21 @@
+{
+  "uuid": "35b8b251-8ff6-47c4-9d4c-ebc5acffcdb9",
+  "first_name": "Alex",
+  "last_name": "Chriss",
+  "full_name": "Alex Chriss",
+  "linkedin_url": "https://linkedin.com/in/alexchriss",
+  "emails": [
+    {
+      "email": "alex@backupify.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alex_chriss@intuit.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

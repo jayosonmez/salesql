@@ -1,0 +1,21 @@
+{
+  "uuid": "e3d30c26-661e-4b47-853c-5d8755df010c",
+  "first_name": "Thaddeus",
+  "last_name": "Y.",
+  "full_name": "Thaddeus Y.",
+  "linkedin_url": "https://linkedin.com/in/thadyoung21",
+  "emails": [
+    {
+      "email": "thaddeus@firstround.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ty@honestgame.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Reform Ventures"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "151d316d-5774-4b61-bb0e-31f911973798",
+  "first_name": "Rene",
+  "last_name": "de Jong",
+  "full_name": "Rene de Jong",
+  "linkedin_url": "https://linkedin.com/in/renedejongspain",
+  "emails": [
+    {
+      "email": "contact@renedejong.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jong-r@eonetwork.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Desayunos para / con Family Offices en relación con inversión en start ups"
+}

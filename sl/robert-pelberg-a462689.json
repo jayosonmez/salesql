@@ -1,0 +1,28 @@
+{
+  "uuid": "9a894fdc-7b5b-4369-a1cc-d13d3da41d40",
+  "first_name": "' Robert",
+  "last_name": "Pelberg",
+  "full_name": "' Robert Pelberg",
+  "linkedin_url": "https://linkedin.com/in/robert-pelberg-a462689",
+  "emails": [
+    {
+      "email": "robert.pelberg@thechristhospital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pelbergr@ohioheart.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 513-585-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Christ Hospital Health Network"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ce0edca3-f9b6-4693-88f1-312d41ca7382",
+  "first_name": "Linda",
+  "last_name": "Kornfeld",
+  "full_name": "Linda Kornfeld",
+  "linkedin_url": "https://linkedin.com/in/linda-kornfeld-6915848b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 603-669-5300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Plan Ahead Medical Services, LLC"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "c4ce64b5-2881-45e0-8f00-f78c9db8a63f",
+  "first_name": "Eric",
+  "last_name": "W.",
+  "full_name": "Eric W.",
+  "linkedin_url": "https://linkedin.com/in/ericwechslermd",
+  "emails": [
+    {
+      "email": "eric@southerncaliforniakidney.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-642-4974",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SOUTHERN CALIFORNIA KIDNEY ASSOCIATES INC."
+}

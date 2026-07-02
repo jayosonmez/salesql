@@ -1,0 +1,31 @@
+{
+  "uuid": "3be0833f-e3ed-4231-9c9d-25517ccb3945",
+  "first_name": "Francesco",
+  "last_name": "Gatti",
+  "full_name": "Francesco Gatti",
+  "linkedin_url": "https://linkedin.com/in/fr-gatti",
+  "emails": [
+    {
+      "email": "gatti.f@hotmail.it",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fg@drooly.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "francesco.gatti@opensend.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "francesco@herb.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stealth AI Startup"
+}

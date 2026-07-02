@@ -1,0 +1,28 @@
+{
+  "uuid": "78ea08e3-5ed7-4e8e-9cb9-261e576b431c",
+  "first_name": "Jennifer",
+  "last_name": "Abrams, M.D.",
+  "full_name": "Jennifer Abrams, M.D.",
+  "linkedin_url": "https://linkedin.com/in/jennifermillermd",
+  "emails": [
+    {
+      "email": "jennm@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jennifer@villagedoctor.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-851-4747",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Village Doctor"
+}

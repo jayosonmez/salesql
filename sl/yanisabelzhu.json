@@ -1,0 +1,16 @@
+{
+  "uuid": "649cc56c-c536-4cd9-a710-2e2165c04bca",
+  "first_name": "Yan Isabel",
+  "last_name": "Zhu",
+  "full_name": "Yan Isabel Zhu",
+  "linkedin_url": "https://linkedin.com/in/yanisabelzhu",
+  "emails": [
+    {
+      "email": "yiz1@columbia.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "SkinWise Dermatology Clinic"
+}

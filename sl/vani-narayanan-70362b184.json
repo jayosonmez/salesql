@@ -1,0 +1,23 @@
+{
+  "uuid": "2f8f4a7f-9708-4b7f-b6ba-232274eba118",
+  "first_name": "Vani",
+  "last_name": "Narayanan",
+  "full_name": "Vani Narayanan",
+  "linkedin_url": "https://linkedin.com/in/vani-narayanan-70362b184",
+  "emails": [
+    {
+      "email": "vnarayanan@virginia.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 434-924-0311",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Virginia"
+}

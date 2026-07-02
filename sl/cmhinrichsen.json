@@ -1,0 +1,33 @@
+{
+  "uuid": "942e5511-78ed-4b2a-899a-8122eb2578bd",
+  "first_name": "Cameron",
+  "last_name": "Hinrichsen",
+  "full_name": "Cameron Hinrichsen",
+  "linkedin_url": "https://linkedin.com/in/cmhinrichsen",
+  "emails": [
+    {
+      "email": "chinrichsen@cdc.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cameron.hinrichsen@va.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cameron.hinrichsen@lukos.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 718-392-0033",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "U.S. Department of Veterans Affairs"
+}

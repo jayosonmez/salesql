@@ -1,0 +1,43 @@
+{
+  "uuid": "99f74c19-93cb-46ca-b69c-cf0748e7ece4",
+  "first_name": "Brian W. Wu,",
+  "last_name": "MD, PhD, MNM",
+  "full_name": "Brian W. Wu, MD, PhD, MNM",
+  "linkedin_url": "https://linkedin.com/in/brianwwu",
+  "emails": [
+    {
+      "email": "brianwlwu@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "brian.md@oak.care",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brian@pasadenaangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bmd@alliancewell.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brianmd@cdrewu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 323-563-4800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Charles R. Drew University of Medicine and Science"
+}

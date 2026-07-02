@@ -1,0 +1,22 @@
+{
+  "uuid": "49d2747a-652d-47c8-9583-5cc4810be90b",
+  "first_name": "David",
+  "last_name": "Ruiz Alonso",
+  "full_name": "David Ruiz Alonso",
+  "linkedin_url": "https://linkedin.com/in/david-ruiz-alonso-77b83a2",
+  "emails": [
+    {
+      "email": "david.ruiz@owlstone.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 1223 428200",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Owlstone Medical"
+}

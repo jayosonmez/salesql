@@ -1,0 +1,28 @@
+{
+  "uuid": "78ba7f0f-c7b9-40eb-8af2-4e8eb055544b",
+  "first_name": "Erin",
+  "last_name": "Gawron-Hyla, Ph.D.",
+  "full_name": "Erin Gawron-Hyla, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/eringawron",
+  "emails": [
+    {
+      "email": "e.gawron-hyla@army.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "egawron@rockdale.k12.ga.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 301-394-3590",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SenSyn, Inc."
+}

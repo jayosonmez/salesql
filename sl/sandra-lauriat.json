@@ -1,0 +1,28 @@
+{
+  "uuid": "d4cd3975-d7a0-41d6-a883-9735d4aab738",
+  "first_name": "Sandra",
+  "last_name": "Lauriat, MD, FACP",
+  "full_name": "Sandra Lauriat, MD, FACP",
+  "linkedin_url": "https://linkedin.com/in/sandra-lauriat",
+  "emails": [
+    {
+      "email": "sandra.lauriat@fmcna.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lauriats@dneph.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-654-3639",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Dallas Nephrology Associates"
+}

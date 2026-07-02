@@ -1,0 +1,23 @@
+{
+  "uuid": "69efaca9-1040-4893-ad80-89d22cb07cc5",
+  "first_name": "Andrew",
+  "last_name": "Stromberg, MD",
+  "full_name": "Andrew Stromberg, MD",
+  "linkedin_url": "https://linkedin.com/in/andrew-stromberg-md",
+  "emails": [
+    {
+      "email": "astromberg@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-723-4177",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stanford University School of Medicine"
+}

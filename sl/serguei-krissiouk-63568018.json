@@ -1,0 +1,16 @@
+{
+  "uuid": "abcd2121-6b87-4a60-ae1b-c19510aad89c",
+  "first_name": "Serguei",
+  "last_name": "Krissiouk",
+  "full_name": "Serguei Krissiouk",
+  "linkedin_url": "https://linkedin.com/in/serguei-krissiouk-63568018",
+  "emails": [
+    {
+      "email": "serg2kris@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Ruta Comprehensive Holistic Co."
+}

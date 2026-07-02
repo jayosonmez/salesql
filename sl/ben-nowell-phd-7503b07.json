@@ -1,0 +1,28 @@
+{
+  "uuid": "fa7e177d-92b6-4854-891b-de4f3b1d79dc",
+  "first_name": "Ben",
+  "last_name": "Nowell, PhD",
+  "full_name": "Ben Nowell, PhD",
+  "linkedin_url": "https://linkedin.com/in/ben-nowell-phd-7503b07",
+  "emails": [
+    {
+      "email": "ben.nowell@regeneron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ben.nowell@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-347-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Regeneron"
+}

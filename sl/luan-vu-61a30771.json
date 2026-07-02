@@ -1,0 +1,23 @@
+{
+  "uuid": "ab570262-2ea1-4f22-9a5d-aed1a9913b20",
+  "first_name": "LUAN",
+  "last_name": "VU",
+  "full_name": "LUAN VU",
+  "linkedin_url": "https://linkedin.com/in/luan-vu-61a30771",
+  "emails": [
+    {
+      "email": "lvu@lsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 225-578-8654",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Louisiana State University"
+}

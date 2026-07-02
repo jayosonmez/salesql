@@ -1,0 +1,23 @@
+{
+  "uuid": "2b409162-0568-4b17-b103-09fb2d91bcf4",
+  "first_name": "Melissa",
+  "last_name": "Black M.D.",
+  "full_name": "Melissa Black M.D.",
+  "linkedin_url": "https://linkedin.com/in/melissa-black-m-d-2a733173",
+  "emails": [
+    {
+      "email": "melissa.black@emoryhealthcare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-686-4411",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Empower Family Medicine"
+}

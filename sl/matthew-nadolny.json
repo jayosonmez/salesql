@@ -1,0 +1,22 @@
+{
+  "uuid": "7f960a56-8da9-45b3-b05e-e05754f0f3cf",
+  "first_name": "Matthew",
+  "last_name": "Nadolny",
+  "full_name": "Matthew Nadolny",
+  "linkedin_url": "https://linkedin.com/in/matthew-nadolny",
+  "emails": [
+    {
+      "email": "matthew.nadolny@rtx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 1592 754311",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Raytheon"
+}

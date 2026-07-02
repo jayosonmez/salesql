@@ -1,0 +1,48 @@
+{
+  "uuid": "597aab49-5c77-473f-b707-d3ab0eb293bd",
+  "first_name": "Darrell",
+  "last_name": "Silver",
+  "full_name": "Darrell Silver",
+  "linkedin_url": "https://linkedin.com/in/darrellsilver",
+  "emails": [
+    {
+      "email": "darrell@teamunion.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "darrell@darrellsilver.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "darrell@perpetually.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darrell@unbundle.studio",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dsilver@theyoungcenter.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darrell@fiveable.me",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 773-360-8920",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Young Center for Immigrant Children's Rights"
+}

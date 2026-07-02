@@ -1,0 +1,36 @@
+{
+  "uuid": "844fbe79-9f27-48bd-809a-9c735546f8ab",
+  "first_name": "Shahed",
+  "last_name": "K.",
+  "full_name": "Shahed K.",
+  "linkedin_url": "https://linkedin.com/in/shahedkhan",
+  "emails": [
+    {
+      "email": "shahed@upfront.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shahed@weebly.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shahedkhan30@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "shahed@useloom.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "shahed@prologue.xyz",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Loom"
+}

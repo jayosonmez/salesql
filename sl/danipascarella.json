@@ -1,0 +1,41 @@
+{
+  "uuid": "ba7e30a3-2f14-481c-8b9a-334d652d79f0",
+  "first_name": "Dani",
+  "last_name": "Pascarella",
+  "full_name": "Dani Pascarella",
+  "linkedin_url": "https://linkedin.com/in/danipascarella",
+  "emails": [
+    {
+      "email": "dani@chief.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dani.pascarella@jpmorgan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dani@chartbeat.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dpascarella@forbes.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dpascarella@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dani@invibed.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "OneEleven Financial Wellness"
+}

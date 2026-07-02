@@ -1,0 +1,26 @@
+{
+  "uuid": "786f517b-2a72-4425-afc3-3347ac0f0f16",
+  "first_name": "Mark",
+  "last_name": "Brezinski MD,PhD,CPT",
+  "full_name": "Mark Brezinski MD,PhD,CPT",
+  "linkedin_url": "https://linkedin.com/in/mark-brezinski-md-phd-cpt-2376a048",
+  "emails": [
+    {
+      "email": "mebrezin@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brezinski_mark@seizehealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mbrezinski@lightlabimaging.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Harvard/MIT/Brigham and Women/MGH (MGB)"
+}

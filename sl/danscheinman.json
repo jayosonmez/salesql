@@ -1,0 +1,51 @@
+{
+  "uuid": "93f55b08-08ef-4c78-a3bc-38f6b2843ffe",
+  "first_name": "Dan",
+  "last_name": "Scheinman",
+  "full_name": "Dan Scheinman",
+  "linkedin_url": "https://linkedin.com/in/danscheinman",
+  "emails": [
+    {
+      "email": "dan@cycognito.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@drata.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dscheinm@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@tango.me",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@getbreakout.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dan@torch.security",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dan@cimento.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dan@getburnt.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Burnt"
+}

@@ -1,0 +1,49 @@
+{
+  "uuid": "df4127f0-6ba7-4c7c-8c07-53e856af6106",
+  "first_name": "Alexey",
+  "last_name": "Dubov",
+  "full_name": "Alexey Dubov",
+  "linkedin_url": "https://linkedin.com/in/alekseydubov",
+  "emails": [
+    {
+      "email": "dubov@mightybuildings.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hovl.swc@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ad@arx.city",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alexey.dubov@weforum.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexey@kitecompliance.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+7 495 796-10-97",
+      "type": "Personal",
+      "country_code": "RU",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-223-9769",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BuildTech Ventures"
+}

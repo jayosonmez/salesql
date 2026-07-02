@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}Settings{% endblock %}
+{% block content %}
+
+<div class="row justify-content-center">
+  <div class="col-lg-5">
+    <div class="card shadow-sm">
+      <div class="card-header"><strong>Global Settings</strong></div>
+      <div class="card-body">
+        <form method="post">
+          <div class="mb-4">
+            <label class="form-label">Global Daily Email Limit</label>
+            <input type="number" name="max_daily_total" class="form-control"
+                   min="1" max="10000" value="{{ max_daily_total }}" required>
+            <div class="form-text">
+              Total emails across ALL campaigns per day. Individual campaigns also have their own daily_limit.
+            </div>
+          </div>
+          <button type="submit" class="btn btn-primary">Save</button>
+          <a href="/" class="btn btn-outline-secondary ms-2">Cancel</a>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

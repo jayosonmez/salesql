@@ -1,0 +1,23 @@
+{
+  "uuid": "82d836e7-1fae-463a-9b23-589a506915b7",
+  "first_name": "Aswini",
+  "last_name": "Pradhan",
+  "full_name": "Aswini Pradhan",
+  "linkedin_url": "https://linkedin.com/in/aswini-pradhan-051909a0",
+  "emails": [
+    {
+      "email": "aswini.pradhan@hamptonu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 757-727-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hampton University"
+}

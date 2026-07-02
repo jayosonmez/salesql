@@ -1,0 +1,33 @@
+{
+  "uuid": "e807de7f-6981-4df6-a6a8-7cfe4bfa4f55",
+  "first_name": "Arianna",
+  "last_name": "Huffington",
+  "full_name": "Arianna Huffington",
+  "linkedin_url": "https://linkedin.com/in/ariannahuffington",
+  "emails": [
+    {
+      "email": "arianna.huffington@thriveglobal.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ah@thriveglobal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "arianna@huffingtonpost.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-700-8474",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Thrive Global"
+}

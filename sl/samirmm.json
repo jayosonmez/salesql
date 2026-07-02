@@ -1,0 +1,46 @@
+{
+  "uuid": "940213d5-b0fb-4e09-a2d5-d123a7b37b6b",
+  "first_name": "Samir",
+  "last_name": "Malik",
+  "full_name": "Samir Malik",
+  "linkedin_url": "https://linkedin.com/in/samirmm",
+  "emails": [
+    {
+      "email": "samirmm@wharton.upenn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "samir@1docway.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "samir.malik2@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "samirmalik@genoa-qol.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "samir@assurancesd.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "samir@firsthandcares.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "samir@ridehealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "firsthand"
+}

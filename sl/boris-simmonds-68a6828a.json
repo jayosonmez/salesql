@@ -1,0 +1,16 @@
+{
+  "uuid": "f6ba7256-03a2-40d9-abcc-da9cc4d9cf41",
+  "first_name": "Boris",
+  "last_name": "Simmonds",
+  "full_name": "Boris Simmonds",
+  "linkedin_url": "https://linkedin.com/in/boris-simmonds-68a6828a",
+  "emails": [
+    {
+      "email": "boris.simmonds@zimvie.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ZimVie North America"
+}

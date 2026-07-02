@@ -1,0 +1,16 @@
+{
+  "uuid": "7361f21b-5394-4bd3-bc1a-7fba55823dbd",
+  "first_name": "Mikhail",
+  "last_name": "Babin",
+  "full_name": "Mikhail Babin",
+  "linkedin_url": "https://linkedin.com/in/mikhail-babin-4ba79054",
+  "emails": [
+    {
+      "email": "m.babin@litgames.net",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lit Games"
+}

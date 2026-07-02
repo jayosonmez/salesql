@@ -1,0 +1,29 @@
+{
+  "uuid": "e0ee5cca-6ada-4d7b-a4e5-334906d63354",
+  "first_name": "Luis",
+  "last_name": "Gonzalez",
+  "full_name": "Luis Gonzalez",
+  "linkedin_url": "https://linkedin.com/in/luis-gonzalez-302a476",
+  "emails": [
+    {
+      "email": "lgonzalez@interconnecta.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-845-1509",
+      "type": "Personal",
+      "country_code": "PR",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 646-760-4090",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "InterConnecta"
+}

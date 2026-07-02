@@ -1,0 +1,38 @@
+{
+  "uuid": "c02c877e-d657-409d-b261-ed4da42fcf7d",
+  "first_name": "Oscarina",
+  "last_name": "Herrera Albornoz MD",
+  "full_name": "Oscarina Herrera Albornoz MD",
+  "linkedin_url": "https://linkedin.com/in/oscarina-herrera-albornoz-md-853b0a258",
+  "emails": [
+    {
+      "email": "oscarina.herrera@optum.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "herreraoscarina@jmandry.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "oscarina.herrera@canohealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "oscarina.herrera@caremax.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-351-5495",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Optum"
+}

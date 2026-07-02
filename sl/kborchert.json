@@ -1,0 +1,41 @@
+{
+  "uuid": "6c424dbc-865f-4ed1-976a-889f5e093939",
+  "first_name": "Katharina",
+  "last_name": "Borchert",
+  "full_name": "Katharina Borchert",
+  "linkedin_url": "https://linkedin.com/in/kborchert",
+  "emails": [
+    {
+      "email": "kborchert@mozilla.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "katharina.borchert@spiegel.de",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "katharina_borchert@spiegel.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "borchert@handelsblatt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "katharina@distributedmedialab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "katharina.borchert@taplink.cc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Biomarq Health "
+}

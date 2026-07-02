@@ -1,0 +1,41 @@
+{
+  "uuid": "14ea75e7-ee82-434a-9dfd-c7e5c68a8358",
+  "first_name": "Evan",
+  "last_name": "Brown",
+  "full_name": "Evan Brown",
+  "linkedin_url": "https://linkedin.com/in/evan-brown-a690ab13",
+  "emails": [
+    {
+      "email": "dteb16@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "evan.s.brown.95@dartmouth.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "be@mainline.gg",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "evan@kopasocks.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "evan@hellonesh.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "evan@recapped.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kopa"
+}

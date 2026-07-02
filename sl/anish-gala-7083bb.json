@@ -1,0 +1,16 @@
+{
+  "uuid": "b7cc4ecc-2c04-461a-b715-9ce3b451be4c",
+  "first_name": "Anish",
+  "last_name": "Gala",
+  "full_name": "Anish Gala",
+  "linkedin_url": "https://linkedin.com/in/anish-gala-7083bb",
+  "emails": [
+    {
+      "email": "rollamo@usa.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "indiaengage.org"
+}

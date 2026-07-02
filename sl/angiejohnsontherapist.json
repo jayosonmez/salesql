@@ -1,0 +1,43 @@
+{
+  "uuid": "d34265b7-5e0b-4f93-89b0-8ee241aa5f4e",
+  "first_name": "Angie",
+  "last_name": "Johnson",
+  "full_name": "Angie Johnson",
+  "linkedin_url": "https://linkedin.com/in/angiejohnsontherapist",
+  "emails": [
+    {
+      "email": "angie@thetokenspace.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "angie.johnson@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "angie.johnson09@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ajohnson@gatewayinternational.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hello@aj.life",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 814-201-2751",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EVOLUTION COUNSELING SERVICES, LLC"
+}

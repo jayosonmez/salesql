@@ -1,0 +1,29 @@
+{
+  "uuid": "62ccc4eb-9d4c-4955-935d-2fc302e0575f",
+  "first_name": "Melanie",
+  "last_name": "W.",
+  "full_name": "Melanie W.",
+  "linkedin_url": "https://linkedin.com/in/melanie-w-4473417",
+  "emails": [
+    {
+      "email": "mel_h_wong@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-635-3618",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-288-4891",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "LakePharma, Inc., Now Part of Curia"
+}

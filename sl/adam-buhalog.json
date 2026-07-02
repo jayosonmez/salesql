@@ -1,0 +1,16 @@
+{
+  "uuid": "4f11c376-57c9-4fef-a236-80389a012aa9",
+  "first_name": "Adam",
+  "last_name": "Buhalog, MD, MBA",
+  "full_name": "Adam Buhalog, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/adam-buhalog",
+  "emails": [
+    {
+      "email": "ambuhalog@wisc.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "PerpetuWell Health"
+}

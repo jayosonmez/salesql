@@ -1,0 +1,36 @@
+{
+  "uuid": "658cd851-f78b-409e-9eb0-9e1ade3e09b7",
+  "first_name": "Gokul",
+  "last_name": "Rajaram",
+  "full_name": "Gokul Rajaram",
+  "linkedin_url": "https://linkedin.com/in/gokulrajaram1",
+  "emails": [
+    {
+      "email": "gokul.rajaram@coinbase.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "grajaram@pinterest.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gokul@doordash.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gokulr@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "gokul@marathonmp.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Marathon Management Partners"
+}

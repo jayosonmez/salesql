@@ -1,0 +1,28 @@
+{
+  "uuid": "8e7fe3e9-4cb8-463e-afae-ba442fe8b8e3",
+  "first_name": "Iosif",
+  "last_name": "Tantis",
+  "full_name": "Iosif Tantis",
+  "linkedin_url": "https://linkedin.com/in/iosif-tantis-b9a05a48",
+  "emails": [
+    {
+      "email": "iosif8@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "iosif.tantis@cornell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 607-254-4636",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cornell University"
+}

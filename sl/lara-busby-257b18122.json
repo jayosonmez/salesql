@@ -1,0 +1,23 @@
+{
+  "uuid": "b32c7001-7c37-4d81-8b96-b1b4fe14ad1a",
+  "first_name": "Lara",
+  "last_name": "Busby",
+  "full_name": "Lara Busby",
+  "linkedin_url": "https://linkedin.com/in/lara-busby-257b18122",
+  "emails": [
+    {
+      "email": "larabusby@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-642-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Berkeley"
+}

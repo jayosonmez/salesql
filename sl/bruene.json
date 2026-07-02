@@ -1,0 +1,43 @@
+{
+  "uuid": "1f3aa105-2d9e-4ab0-99d6-7053733010d8",
+  "first_name": "Jim",
+  "last_name": "Bruene",
+  "full_name": "Jim Bruene",
+  "linkedin_url": "https://linkedin.com/in/bruene",
+  "emails": [
+    {
+      "email": "jim@allianceofangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jim.bruene@usbank.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jim@netbanker.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jim@fintechlabs.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jim@fintechlabs.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 713-410-5873",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fintech Labs"
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "628479bf-4615-4d55-b14f-56e8dfa6a0de",
+  "first_name": "Ebru",
+  "last_name": "Demir",
+  "full_name": "Ebru Demir",
+  "linkedin_url": "https://linkedin.com/in/ebru-demir-491256192",
+  "emails": [
+    {
+      "email": "ebru.iris.demir@icloud.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ebru@maritimehealthcare.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+30 694 910 8539",
+      "type": "Personal",
+      "country_code": "GR",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 904-574-5606",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Maritime & Healthcare Group"
+}

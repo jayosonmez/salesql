@@ -1,0 +1,48 @@
+{
+  "uuid": "4da6a504-2da9-4f29-a519-eba58e25f97c",
+  "first_name": "Wendell",
+  "last_name": "Su",
+  "full_name": "Wendell Su",
+  "linkedin_url": "https://linkedin.com/in/wendell-su",
+  "emails": [
+    {
+      "email": "wrsu@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wendellrsu@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "wendell@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wendell@neonvest.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wendell.su@portaly.cc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wendell@masschallenge.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-310-9215",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Healthcare Syndicate"
+}

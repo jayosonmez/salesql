@@ -1,0 +1,34 @@
+{
+  "uuid": "20546c28-7644-403f-a367-27d0893e91cb",
+  "first_name": "Derek",
+  "last_name": "Brown",
+  "full_name": "Derek Brown",
+  "linkedin_url": "https://linkedin.com/in/derekbrownjr",
+  "emails": [
+    {
+      "email": "derek@exeq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "derek@brown.lt",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 252-531-7276",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 574-252-5662",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth Startup"
+}

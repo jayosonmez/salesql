@@ -1,0 +1,38 @@
+{
+  "uuid": "0eee4bd9-bdeb-4109-a8af-667bcb11ec18",
+  "first_name": "Craig",
+  "last_name": "Larsen",
+  "full_name": "Craig Larsen",
+  "linkedin_url": "https://linkedin.com/in/larsencraig",
+  "emails": [
+    {
+      "email": "clarsen@revitamedical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "craiglarsen@maleexcel.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "clarsen@ranmllc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "craiglarsen@welltrustmedical.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 833-625-3392",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Excel Medical"
+}

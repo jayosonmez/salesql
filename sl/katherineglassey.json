@@ -1,0 +1,48 @@
+{
+  "uuid": "c303fd7f-caee-4648-8e51-d236cb44e3be",
+  "first_name": "Katherine",
+  "last_name": "Glassey",
+  "full_name": "Katherine Glassey",
+  "linkedin_url": "https://linkedin.com/in/katherineglassey",
+  "emails": [
+    {
+      "email": "katherine@harvest-thermal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "katherine.glassey@komfortiq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kglassey@aurorasfc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "klglassey@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kglassey@bandangels.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kglassey@sagepartners.net",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-799-0299",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sage Partners"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "4fe7dd8f-cb20-4fdc-b837-a9f06988a066",
+  "first_name": "Philip",
+  "last_name": "Melendez",
+  "full_name": "Philip Melendez",
+  "linkedin_url": "https://linkedin.com/in/philip-melendez-0b055619b",
+  "emails": [
+    {
+      "email": "philip.melendez@nnip.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "NN Investment Partners"
+}

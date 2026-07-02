@@ -1,0 +1,23 @@
+{
+  "uuid": "6e9c4247-797d-44d3-a5b2-c9f4a1554c3d",
+  "first_name": "Eric",
+  "last_name": "Choudhary",
+  "full_name": "Eric Choudhary",
+  "linkedin_url": "https://linkedin.com/in/ericchoudhary",
+  "emails": [
+    {
+      "email": "echoudhary@iridia.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 760-991-4466",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Iridia, Inc."
+}

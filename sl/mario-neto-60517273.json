@@ -1,0 +1,23 @@
+{
+  "uuid": "addce4a6-9722-4e87-a813-a7d998de9041",
+  "first_name": "Mario",
+  "last_name": "Neto",
+  "full_name": "Mario Neto",
+  "linkedin_url": "https://linkedin.com/in/mario-neto-60517273",
+  "emails": [
+    {
+      "email": "mario.neto@abbott.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 714-247-8200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Abbott"
+}

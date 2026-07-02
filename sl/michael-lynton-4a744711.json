@@ -1,0 +1,26 @@
+{
+  "uuid": "c9b468c1-03e7-42d3-bb7e-1d622fe0c6d9",
+  "first_name": "Michael",
+  "last_name": "lynton",
+  "full_name": "Michael lynton",
+  "linkedin_url": "https://linkedin.com/in/michael-lynton-4a744711",
+  "emails": [
+    {
+      "email": "michael@disney.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael.lynton@sonypictures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael_lynton@spe.sony.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

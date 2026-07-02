@@ -1,0 +1,22 @@
+{
+  "uuid": "9a60bdb6-b1d3-4c10-b5c8-054becd29180",
+  "first_name": "Görkem Seray",
+  "last_name": "Mutlu",
+  "full_name": "Görkem Seray Mutlu",
+  "linkedin_url": "https://linkedin.com/in/görkem-seray-mutlu-6a19a0b9",
+  "emails": [
+    {
+      "email": "gorkem.mutlu@danone.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 1 44 35 20 20",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Danone"
+}

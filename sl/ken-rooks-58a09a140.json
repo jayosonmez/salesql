@@ -1,0 +1,28 @@
+{
+  "uuid": "dc97c801-310e-4cf1-8dab-b6e21e87806b",
+  "first_name": "Ken",
+  "last_name": "Rooks",
+  "full_name": "Ken Rooks",
+  "linkedin_url": "https://linkedin.com/in/ken-rooks-58a09a140",
+  "emails": [
+    {
+      "email": "ken@hippohealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ken.rooks@hnfs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 323-266-7770",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Health Net Federal Services"
+}

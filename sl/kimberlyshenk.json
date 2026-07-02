@@ -1,0 +1,48 @@
+{
+  "uuid": "49f74881-a1c4-4432-af99-0b4296aa8fd7",
+  "first_name": "Kimberly",
+  "last_name": "Shenk",
+  "full_name": "Kimberly Shenk",
+  "linkedin_url": "https://linkedin.com/in/kimberlyshenk",
+  "emails": [
+    {
+      "email": "kimberly@noviconnect.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "knshenk@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kimberly.shenk@domino.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kimberly@nakedpoppy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kimberly@chemforward.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kshenk@usfca.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 833-873-6684",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Novi"
+}

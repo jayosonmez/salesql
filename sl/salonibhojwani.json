@@ -1,0 +1,46 @@
+{
+  "uuid": "62a35a12-8921-4bf9-95b9-e3a7b45711b5",
+  "first_name": "Saloni",
+  "last_name": "Bhojwani",
+  "full_name": "Saloni Bhojwani",
+  "linkedin_url": "https://linkedin.com/in/salonibhojwani",
+  "emails": [
+    {
+      "email": "saloni@pinksaltventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "saloni@sie.ventures",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "saloni.bhojwani@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "saloni@zebra-fuel.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "saloni.bhojwani@sojo.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "saloni@wild.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "saloni@alma-angels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Pink Salt Ventures"
+}

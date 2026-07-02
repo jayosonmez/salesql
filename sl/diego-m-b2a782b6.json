@@ -1,0 +1,23 @@
+{
+  "uuid": "0609bc97-785c-42bb-826f-08342865f86f",
+  "first_name": "Diego",
+  "last_name": "M.",
+  "full_name": "Diego M.",
+  "linkedin_url": "https://linkedin.com/in/diego-m-b2a782b6",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+52 55 4046 2715",
+      "type": "Personal",
+      "country_code": "MX",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 630-692-6008",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IML Labels"
+}

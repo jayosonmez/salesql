@@ -1,0 +1,23 @@
+{
+  "uuid": "7b1dd32a-f8d6-46be-8625-47e59a778245",
+  "first_name": "Nicole",
+  "last_name": "Gregorio",
+  "full_name": "Nicole Gregorio",
+  "linkedin_url": "https://linkedin.com/in/nicoleegregorio",
+  "emails": [
+    {
+      "email": "ngregorio@uw.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-543-2100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Washington"
+}

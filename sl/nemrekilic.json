@@ -1,0 +1,34 @@
+{
+  "uuid": "41ee46d9-37aa-42ab-b9e2-e2bc1bf7911f",
+  "first_name": "Emre",
+  "last_name": "Kilic",
+  "full_name": "Emre Kilic",
+  "linkedin_url": "https://linkedin.com/in/nemrekilic",
+  "emails": [
+    {
+      "email": "emre.kilic@grafton.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "emre@batigroup.com.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 534 203 69 09",
+      "type": "Personal",
+      "country_code": "TR",
+      "is_valid": true
+    },
+    {
+      "phone": "+90 212 293 24 00",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BATI Group of Shipping Companies"
+}

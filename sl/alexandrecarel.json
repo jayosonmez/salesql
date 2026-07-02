@@ -1,0 +1,26 @@
+{
+  "uuid": "d5c1ad15-09cd-40ed-b9ab-b9c9f34f1da3",
+  "first_name": "Alexandre",
+  "last_name": "Carel",
+  "full_name": "Alexandre Carel",
+  "linkedin_url": "https://linkedin.com/in/alexandrecarel",
+  "emails": [
+    {
+      "email": "acarel@christies.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexandre.carel@kkr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexandre_carel@libertysurf.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Transmission Capital"
+}

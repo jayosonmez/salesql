@@ -1,0 +1,23 @@
+{
+  "uuid": "a90a3f9e-1c96-499c-952d-ff08b241ef22",
+  "first_name": "John",
+  "last_name": "McNelis",
+  "full_name": "John McNelis",
+  "linkedin_url": "https://linkedin.com/in/john-mcnelis-3a296716",
+  "emails": [
+    {
+      "email": "jm@irishangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-442-0949",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IrishAngels"
+}

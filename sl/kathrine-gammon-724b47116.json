@@ -1,0 +1,23 @@
+{
+  "uuid": "343200ba-30cd-4d3d-8fc4-eb80ec8e0a90",
+  "first_name": "Kathrine",
+  "last_name": "Gammon",
+  "full_name": "Kathrine Gammon",
+  "linkedin_url": "https://linkedin.com/in/kathrine-gammon-724b47116",
+  "emails": [
+    {
+      "email": "kgammon@mayoclinic.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 507-266-4688",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mayo Clinic"
+}

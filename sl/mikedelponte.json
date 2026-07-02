@@ -1,0 +1,21 @@
+{
+  "uuid": "84a9069a-a58b-4868-9d63-a3a0325e27db",
+  "first_name": "Mike",
+  "last_name": "Del Ponte",
+  "full_name": "Mike Del Ponte",
+  "linkedin_url": "https://linkedin.com/in/mikedelponte",
+  "emails": [
+    {
+      "email": "mike@sparkseed.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mike.del@solugen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "MDP Business Consulting"
+}

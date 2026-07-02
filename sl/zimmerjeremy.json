@@ -1,0 +1,38 @@
+{
+  "uuid": "feb867bb-6308-483c-907f-e39cfa437906",
+  "first_name": "Jeremy",
+  "last_name": "Zimmer",
+  "full_name": "Jeremy Zimmer",
+  "linkedin_url": "https://linkedin.com/in/zimmerjeremy",
+  "emails": [
+    {
+      "email": "zimmerj@unitedtalent.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeremy@unitedtalent.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeremy.zimmer@unitedtalent.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jeremy@telly.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-996-2409",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Telly TV"
+}

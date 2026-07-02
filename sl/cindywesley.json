@@ -1,0 +1,39 @@
+{
+  "uuid": "134532d0-cfe3-4b95-b0ca-ecdbd3b9be09",
+  "first_name": "Cindy",
+  "last_name": "Wesley, M.B.A.",
+  "full_name": "Cindy Wesley, M.B.A.",
+  "linkedin_url": "https://linkedin.com/in/cindywesley",
+  "emails": [
+    {
+      "email": "cindywesley@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "cwesley@its.jnj.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "wesley@radiometer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 443-994-5406",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+45 38 27 38 27",
+      "type": "Work",
+      "country_code": "DK",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Radiometer"
+}

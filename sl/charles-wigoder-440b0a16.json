@@ -1,0 +1,28 @@
+{
+  "uuid": "6c0eb88d-8bdd-4019-9019-e7e43e76cfde",
+  "first_name": "Charles",
+  "last_name": "Wigoder",
+  "full_name": "Charles Wigoder",
+  "linkedin_url": "https://linkedin.com/in/charles-wigoder-440b0a16",
+  "emails": [
+    {
+      "email": "cwigoder@telecomplus.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "charles@youtube.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-253-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Anthony Gopaul"
+}

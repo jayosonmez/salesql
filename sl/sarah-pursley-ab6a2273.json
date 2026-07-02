@@ -1,0 +1,23 @@
+{
+  "uuid": "a304ed04-987e-42ae-ade6-89676fd795c3",
+  "first_name": "Sarah",
+  "last_name": "Pursley",
+  "full_name": "Sarah Pursley",
+  "linkedin_url": "https://linkedin.com/in/sarah-pursley-ab6a2273",
+  "emails": [
+    {
+      "email": "spursley@ou.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 850-675-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Baptist Health Care"
+}

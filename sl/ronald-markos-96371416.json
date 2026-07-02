@@ -1,0 +1,28 @@
+{
+  "uuid": "a2e1185e-c0e9-4892-b23e-ec8cfa6a6e40",
+  "first_name": "Ronald",
+  "last_name": "Markos",
+  "full_name": "Ronald Markos",
+  "linkedin_url": "https://linkedin.com/in/ronald-markos-96371416",
+  "emails": [
+    {
+      "email": "rmarkos@cgi-health.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "macadoni@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 215-257-5071",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Center for GI Health"
+}

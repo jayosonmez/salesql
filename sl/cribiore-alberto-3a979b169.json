@@ -1,0 +1,22 @@
+{
+  "uuid": "4b4141c6-faf5-48b0-a2e7-a73c94ec7e6d",
+  "first_name": "Cribiore",
+  "last_name": "Alberto",
+  "full_name": "Cribiore Alberto",
+  "linkedin_url": "https://linkedin.com/in/cribiore-alberto-3a979b169",
+  "emails": [
+    {
+      "email": "alberto.cribiore@citigroup.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+51 1 2217000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Citi"
+}

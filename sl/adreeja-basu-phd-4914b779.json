@@ -1,0 +1,33 @@
+{
+  "uuid": "b4f323cd-d7b8-4ce5-aab5-84b800cb8ab3",
+  "first_name": "Adreeja",
+  "last_name": "Basu, PhD",
+  "full_name": "Adreeja Basu, PhD",
+  "linkedin_url": "https://linkedin.com/in/adreeja-basu-phd-4914b779",
+  "emails": [
+    {
+      "email": "basua@stjohns.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adreeja@ernet.in",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adreeja.basu@cuny.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-660-6133",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Baruch College"
+}

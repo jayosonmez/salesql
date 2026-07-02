@@ -1,0 +1,28 @@
+{
+  "uuid": "68211438-1dfe-4f6e-822e-3a013b4bdcf5",
+  "first_name": "Chinyere",
+  "last_name": "Okpaleke, M.D.",
+  "full_name": "Chinyere Okpaleke, M.D.",
+  "linkedin_url": "https://linkedin.com/in/askdrchi",
+  "emails": [
+    {
+      "email": "cokpalek@mail.usf.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chinyere.okpaleke@memorialhermann.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 713-704-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MEMORIAL HERMANN MEDICAL GROUP"
+}

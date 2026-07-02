@@ -1,0 +1,36 @@
+{
+  "uuid": "159fb3a5-f7d2-445f-b229-5d762fe0c343",
+  "first_name": "Gannon",
+  "last_name": "Jones",
+  "full_name": "Gannon Jones",
+  "linkedin_url": "https://linkedin.com/in/gannonjones",
+  "emails": [
+    {
+      "email": "gannon_jones@independencepetholdings.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gannon@hpa.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gannon@uncommonequity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gannon.jones@pepsico.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gannon@georgetownconsulting.net",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Independence Pet Holdings"
+}

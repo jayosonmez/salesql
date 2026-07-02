@@ -1,0 +1,49 @@
+{
+  "uuid": "b64e4c6a-db5b-4139-b598-d88794b3b500",
+  "first_name": "Kudzi",
+  "last_name": "Chikumbu",
+  "full_name": "Kudzi Chikumbu",
+  "linkedin_url": "https://linkedin.com/in/kudzichikumbu",
+  "emails": [
+    {
+      "email": "kchikumbu@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kudzi.chikumbu@tiktok.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kudzi@progression.fund",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kudzi@powerhouse.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kudzi@tubitv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-862-7706",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 479-408-1331",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tubi"
+}

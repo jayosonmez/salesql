@@ -1,0 +1,63 @@
+{
+  "uuid": "eebe53fb-4aa7-446e-960e-dd4bdaddf867",
+  "first_name": "Alexsander",
+  "last_name": "Canaparro, PhD",
+  "full_name": "Alexsander Canaparro, PhD",
+  "linkedin_url": "https://linkedin.com/in/alexsandercanaparro",
+  "emails": [
+    {
+      "email": "acanaparro@linkedin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexsander@abstartups.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexsander@go-bbx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexsander@ventiur.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexsander.canaparro@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "alexsander.canaparro@ciahering.com.br",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "acanaparro@piccadilly.com.br",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "canaparro@nr2bconsultoria.com.br",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "canaparro@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 51 3549-9600",
+      "type": "Work",
+      "country_code": "BR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cia. Hering"
+}

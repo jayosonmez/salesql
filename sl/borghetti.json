@@ -1,0 +1,36 @@
+{
+  "uuid": "6e04288f-7618-4797-bf9c-d968b888e236",
+  "first_name": "William",
+  "last_name": "Borghetti",
+  "full_name": "William Borghetti",
+  "linkedin_url": "https://linkedin.com/in/borghetti",
+  "emails": [
+    {
+      "email": "william@borghetti.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "william@revvy.tech",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "william@sendside.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wborghetti@kolosis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wborghetti@titleio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "REVvy"
+}

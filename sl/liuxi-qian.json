@@ -1,0 +1,23 @@
+{
+  "uuid": "332c310c-3d98-4d83-9dfc-c53270d3ad3d",
+  "first_name": "Liuxi (Lucie)",
+  "last_name": "Qian",
+  "full_name": "Liuxi (Lucie) Qian",
+  "linkedin_url": "https://linkedin.com/in/liuxi-qian",
+  "emails": [
+    {
+      "email": "liuxi.qian@mathworks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 508-647-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MathWorks"
+}

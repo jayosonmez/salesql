@@ -1,0 +1,23 @@
+{
+  "uuid": "36125b8d-4fb7-4fea-a4c4-3b8f62c6a27e",
+  "first_name": "Setsuko",
+  "last_name": "Hosoda MD, MPH",
+  "full_name": "Setsuko Hosoda MD, MPH",
+  "linkedin_url": "https://linkedin.com/in/setsuko-hosoda-md-mph",
+  "emails": [
+    {
+      "email": "shosoda@lyrahealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-505-5972",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lyra Health"
+}

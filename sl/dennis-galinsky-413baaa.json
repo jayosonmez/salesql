@@ -1,0 +1,16 @@
+{
+  "uuid": "e7000af4-6a12-4dfa-9bbe-538500288344",
+  "first_name": "Dennis",
+  "last_name": "Galinsky",
+  "full_name": "Dennis Galinsky",
+  "linkedin_url": "https://linkedin.com/in/dennis-galinsky-413baaa",
+  "emails": [
+    {
+      "email": "dgalin123@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Nuclear Oncology Associates"
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "39c123ec-68ff-41c8-87df-94e54ce8aab7",
+  "first_name": "David",
+  "last_name": "Sikowitz MD",
+  "full_name": "David Sikowitz MD",
+  "linkedin_url": "https://linkedin.com/in/david-sikowitz-md-6b134949",
+  "emails": [
+    {
+      "email": "david.sikowitz@rutgers.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.sikowitz@hackensackmeridianhealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "info@thetmscenterofnj.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-740-7675",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 732-842-0505",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The TMS Center of New Jersey"
+}

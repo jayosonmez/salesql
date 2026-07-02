@@ -1,0 +1,26 @@
+{
+  "uuid": "77e0e21f-acc4-4c9e-b5f3-9fa3775f3df5",
+  "first_name": "Faysel",
+  "last_name": "Manfaa",
+  "full_name": "Faysel Manfaa",
+  "linkedin_url": "https://linkedin.com/in/fayselmanfaa",
+  "emails": [
+    {
+      "email": "faysel@thearchetypegroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "faysel@hmginvestments.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "faysel@nufund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Halgas & Manfaa Group, Inc"
+}

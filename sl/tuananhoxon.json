@@ -1,0 +1,46 @@
+{
+  "uuid": "be3b41bc-7b54-431a-850d-ed24f801bd69",
+  "first_name": "Tuan-Anh",
+  "last_name": "Tran, PhD",
+  "full_name": "Tuan-Anh Tran, PhD",
+  "linkedin_url": "https://linkedin.com/in/tuananhoxon",
+  "emails": [
+    {
+      "email": "tuan-anh_phd@advano.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tuan-anh_phd@redefinemeat.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tuan-anh_phd@manna.aero",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tatran.mail@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "tuan-anh@alabaster.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tuan-anh@neptune-robotics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tuan-anh@airtree.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Solano Energy"
+}

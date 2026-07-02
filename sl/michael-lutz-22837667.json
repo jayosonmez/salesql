@@ -1,0 +1,33 @@
+{
+  "uuid": "e697e91b-026f-4a05-a779-aed8b10afa40",
+  "first_name": "Michael",
+  "last_name": "Lutz",
+  "full_name": "Michael Lutz",
+  "linkedin_url": "https://linkedin.com/in/michael-lutz-22837667",
+  "emails": [
+    {
+      "email": "lutzm@michiganurology.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lutz@oakland.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lutz@oakland.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 586-884-9320",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Oakland University School of Health Sciences"
+}

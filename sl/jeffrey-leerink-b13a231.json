@@ -1,0 +1,38 @@
+{
+  "uuid": "b8685dee-2734-43a9-bdca-4d196ab7a4d2",
+  "first_name": "Jeffrey",
+  "last_name": "Leerink",
+  "full_name": "Jeffrey Leerink",
+  "linkedin_url": "https://linkedin.com/in/jeffrey-leerink-b13a231",
+  "emails": [
+    {
+      "email": "jeffrey.leerink@leerink.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeffl@leerink.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jleerink@emassbigs.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeffrey_leerink@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-248-1601",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Leerink Partners"
+}

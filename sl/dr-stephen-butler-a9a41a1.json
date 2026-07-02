@@ -1,0 +1,28 @@
+{
+  "uuid": "b87c59cd-820c-4005-8566-cbe29f2a047d",
+  "first_name": "Dr. Stephen",
+  "last_name": "Butler",
+  "full_name": "Dr. Stephen Butler",
+  "linkedin_url": "https://linkedin.com/in/dr-stephen-butler-a9a41a1",
+  "emails": [
+    {
+      "email": "dr@flyingkites.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sbutler26@cox.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 857-452-1852",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Flying Kites"
+}

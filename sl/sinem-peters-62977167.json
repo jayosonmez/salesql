@@ -1,0 +1,22 @@
+{
+  "uuid": "973ede78-5324-4b2d-93ef-b147b107a6a6",
+  "first_name": "Sinem",
+  "last_name": "Peters",
+  "full_name": "Sinem Peters",
+  "linkedin_url": "https://linkedin.com/in/sinem-peters-62977167",
+  "emails": [
+    {
+      "email": "sinem.peters@sterixpert.de",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 7151 945700",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BBF Sterilisationsservice GmbH"
+}

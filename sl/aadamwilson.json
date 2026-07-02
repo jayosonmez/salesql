@@ -1,0 +1,49 @@
+{
+  "uuid": "ff304e7a-6015-4489-80b8-b3ad398a8881",
+  "first_name": "A. Adam",
+  "last_name": "Wilson",
+  "full_name": "A. Adam Wilson",
+  "linkedin_url": "https://linkedin.com/in/aadamwilson",
+  "emails": [
+    {
+      "email": "aawilson@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "a@boomi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "awilson@avidxchange.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "awilson@newrelic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "awilson@tpg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-743-1500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 415-235-7416",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "TPG"
+}

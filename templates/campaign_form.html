@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block title %}{{ "Edit" if campaign else "New" }} Campaign{% endblock %}
+{% block content %}
+
+<div class="row justify-content-center">
+  <div class="col-lg-7">
+    <div class="card shadow-sm">
+      <div class="card-header">
+        <strong>{{ "Edit" if campaign else "New" }} Campaign</strong>
+      </div>
+      <div class="card-body">
+        <form method="post">
+          <div class="mb-3">
+            <label class="form-label">Campaign Name</label>
+            <input type="text" name="name" class="form-control"
+                   value="{{ campaign.name if campaign else '' }}" required>
+          </div>
+          <div class="row g-3 mb-3">
+            <div class="col-md-6">
+              <label class="form-label">From Name</label>
+              <input type="text" name="from_name" class="form-control"
+                     value="{{ (campaign.from_name or '') if campaign else 'Jay Sonmez' }}">
+            </div>
+            <div class="col-md-6">
+              <label class="form-label">From Email</label>
+              <input type="email" name="from_email" class="form-control"
+                     value="{{ (campaign.from_email or '') if campaign else 'jay@metsulin.com' }}">
+            </div>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Reply-To <span class="text-muted">(optional)</span></label>
+            <input type="email" name="reply_to" class="form-control"
+                   value="{{ (campaign.reply_to or '') if campaign else '' }}">
+          </div>
+          <div class="row g-3 mb-3">
+            <div class="col-md-6">
+              <label class="form-label">Daily Limit <span class="text-muted">(emails/day)</span></label>
+              <input type="number" name="daily_limit" class="form-control" min="1" max="1000"
+                     value="{{ campaign.daily_limit if campaign else 100 }}" required>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label">Gmail Label</label>
+              <input type="text" name="gmail_label" class="form-control"
+                     value="{{ campaign.gmail_label if campaign else '' }}"
+                     placeholder="e.g. SES-Fundraising">
+            </div>
+          </div>
+          <div class="mb-4">
+            <label class="form-label">Status</label>
+            <select name="status" class="form-select">
+              <option value="draft" {{ "selected" if campaign and campaign.status == "draft" }}>Draft</option>
+              <option value="active" {{ "selected" if campaign and campaign.status == "active" }}>Active</option>
+              <option value="paused" {{ "selected" if campaign and campaign.status == "paused" }}>Paused</option>
+            </select>
+          </div>
+          <div class="d-flex gap-2">
+            <button type="submit" class="btn btn-primary">Save Campaign</button>
+            <a href="/campaigns" class="btn btn-outline-secondary">Cancel</a>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

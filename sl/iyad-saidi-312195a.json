@@ -1,0 +1,21 @@
+{
+  "uuid": "9a13c328-9fc8-4a0b-8bf9-efee64f2f5a2",
+  "first_name": "Iyad",
+  "last_name": "Saidi",
+  "full_name": "Iyad Saidi",
+  "linkedin_url": "https://linkedin.com/in/iyad-saidi-312195a",
+  "emails": [
+    {
+      "email": "isaidi@nasoform.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "isaidi@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "CorIT LLC"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4ee95209-0d45-4080-8518-8a68c8d32cb0",
+  "first_name": "Xiong",
+  "last_name": "Yijia",
+  "full_name": "Xiong Yijia",
+  "linkedin_url": "https://linkedin.com/in/xiong-yijia-929b4b9",
+  "emails": [
+    {
+      "email": "yijia.xiong@pnl.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "xyijia@westernu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 909-623-6116",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Genetools"
+}

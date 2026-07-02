@@ -1,0 +1,36 @@
+{
+  "uuid": "ae3f65d5-4da5-4630-9e27-973fd49be87d",
+  "first_name": "Anthony",
+  "last_name": "Chow",
+  "full_name": "Anthony Chow",
+  "linkedin_url": "https://linkedin.com/in/anthonymchow",
+  "emails": [
+    {
+      "email": "anthonymchow@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anthony_cfa@meatable.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anthony_cfa@hydgene.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anthony_cfa@allgfoods.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anthony_cfa@onego.bio",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

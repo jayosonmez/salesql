@@ -1,0 +1,16 @@
+{
+  "uuid": "1da7c9c1-2044-4ff6-92dd-cfff2a92743a",
+  "first_name": "Michael",
+  "last_name": "Pear, Ph.D.",
+  "full_name": "Michael Pear, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/michaelpear",
+  "emails": [
+    {
+      "email": "mpear@ibisbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Nexus Research Informatics, Inc."
+}

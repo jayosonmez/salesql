@@ -1,0 +1,23 @@
+{
+  "uuid": "9b7b09e2-edc8-43d3-854b-82b70bcfb7a3",
+  "first_name": "Hua",
+  "last_name": "Bai",
+  "full_name": "Hua Bai",
+  "linkedin_url": "https://linkedin.com/in/hua-bai-4aa80a131",
+  "emails": [
+    {
+      "email": "hbai@nwmissouri.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 660-562-1212",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northwest Missouri State University"
+}

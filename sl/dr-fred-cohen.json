@@ -1,0 +1,26 @@
+{
+  "uuid": "518d8b32-99a9-488e-b754-88c9ab25faf4",
+  "first_name": "Fred",
+  "last_name": "Cohen",
+  "full_name": "Fred Cohen",
+  "linkedin_url": "https://linkedin.com/in/dr-fred-cohen",
+  "emails": [
+    {
+      "email": "fc@all.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fc@manalyt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fc@manalyt.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Angel to Exit"
+}

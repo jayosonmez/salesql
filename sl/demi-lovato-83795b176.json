@@ -1,0 +1,16 @@
+{
+  "uuid": "c5bd784b-a905-443e-9713-c60d3ed3454e",
+  "first_name": "Demi",
+  "last_name": "Lovato",
+  "full_name": "Demi Lovato",
+  "linkedin_url": "https://linkedin.com/in/demi-lovato-83795b176",
+  "emails": [
+    {
+      "email": "lovato-demi@republicrecords.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Republic Records"
+}

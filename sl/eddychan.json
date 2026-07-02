@@ -1,0 +1,46 @@
+{
+  "uuid": "765555fd-122f-48f9-9d66-a66445d2f446",
+  "first_name": "Eddy",
+  "last_name": "Chan",
+  "full_name": "Eddy Chan",
+  "linkedin_url": "https://linkedin.com/in/eddychan",
+  "emails": [
+    {
+      "email": "eddy@intudovc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eddychan@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "chan@spacex.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eddyychan@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "echan@paypal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "echan@palantir.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eddy@xendit.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Intudo"
+}

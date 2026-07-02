@@ -1,0 +1,23 @@
+{
+  "uuid": "ebc9c48a-f965-4f13-8813-3ffa3961464a",
+  "first_name": "Marwa",
+  "last_name": "Atwa",
+  "full_name": "Marwa Atwa",
+  "linkedin_url": "https://linkedin.com/in/marwaatwa",
+  "emails": [
+    {
+      "email": "matwa@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-723-2300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stanford University"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "bfe3a799-9ea1-47ca-b51d-c79c78c3f6c0",
+  "first_name": "Paras",
+  "last_name": "Doshi",
+  "full_name": "Paras Doshi",
+  "linkedin_url": "https://linkedin.com/in/doshiparas82",
+  "emails": [
+    {
+      "email": "pdoshi@linkedin.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "doshipar@msu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "paras@vitalize.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-415-8762",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "LinkedIn"
+}

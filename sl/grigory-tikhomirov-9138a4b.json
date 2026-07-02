@@ -1,0 +1,33 @@
+{
+  "uuid": "126f1ace-2881-4b8e-abce-392a024a310b",
+  "first_name": "Grigory",
+  "last_name": "Tikhomirov",
+  "full_name": "Grigory Tikhomirov",
+  "linkedin_url": "https://linkedin.com/in/grigory-tikhomirov-9138a4b",
+  "emails": [
+    {
+      "email": "grigorii@ualberta.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gtikhomirov@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "grigorytikhomirov@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-642-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Berkeley"
+}

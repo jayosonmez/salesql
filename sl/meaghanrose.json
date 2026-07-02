@@ -1,0 +1,41 @@
+{
+  "uuid": "b7399928-b732-402c-b0dd-1a1b5d92d07a",
+  "first_name": "Meaghan",
+  "last_name": "Rose",
+  "full_name": "Meaghan Rose",
+  "linkedin_url": "https://linkedin.com/in/meaghanrose",
+  "emails": [
+    {
+      "email": "mrose@ypo.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "meaghan@rocksbox.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "meaghan@ProjectGlimmer.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mrose@careyschool.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "meaghan.r@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "meaghan@rocksbox.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Various"
+}

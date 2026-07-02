@@ -1,0 +1,34 @@
+{
+  "uuid": "7f60340b-ee0f-4237-88e5-c2b2aa5c89cd",
+  "first_name": "Peter",
+  "last_name": "Saravis",
+  "full_name": "Peter Saravis",
+  "linkedin_url": "https://linkedin.com/in/petersaravis",
+  "emails": [
+    {
+      "email": "peter.saravis@goevive.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter@evivehealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-786-4324",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 312-824-6653",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Evive, a bswift Company | bswift.com"
+}

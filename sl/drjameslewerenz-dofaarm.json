@@ -1,0 +1,21 @@
+{
+  "uuid": "db5f2faf-d243-4397-b19b-5c25ac0d13bd",
+  "first_name": "Dr. James",
+  "last_name": "Lewerenz D.O., F.A.A.R.M.",
+  "full_name": "Dr. James Lewerenz D.O., F.A.A.R.M.",
+  "linkedin_url": "https://linkedin.com/in/drjameslewerenz-dofaarm",
+  "emails": [
+    {
+      "email": "drjim234@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dlewerenz@longevityhealthinstituteinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Longevity Health Institute"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "b006338d-0747-4fb9-84ce-fc7e50d021b3",
+  "first_name": "Ric",
+  "last_name": "Gallaher",
+  "full_name": "Ric Gallaher",
+  "linkedin_url": "https://linkedin.com/in/ric-g-59396716",
+  "emails": [
+    {
+      "email": "jampatgal@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jampatgal@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Market Resources"
+}

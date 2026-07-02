@@ -1,0 +1,16 @@
+{
+  "uuid": "7dd6247a-edb2-4566-b188-63a9ebc9cd1a",
+  "first_name": "Kenny",
+  "last_name": "Dawgg",
+  "full_name": "Kenny Dawgg",
+  "linkedin_url": "https://linkedin.com/in/kenny-dawgg-84a7ba19b",
+  "emails": [
+    {
+      "email": "kenny.dawgg@standardbank.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Standard Bank Group"
+}

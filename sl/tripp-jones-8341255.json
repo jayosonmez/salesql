@@ -1,0 +1,54 @@
+{
+  "uuid": "59033cea-f7af-4b3b-ba03-4d6c9d90e5de",
+  "first_name": "Tripp",
+  "last_name": "Jones",
+  "full_name": "Tripp Jones",
+  "linkedin_url": "https://linkedin.com/in/tripp-jones-8341255",
+  "emails": [
+    {
+      "email": "tripp@augustcap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tripp@uncorkcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tripp@wander.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tripp.jones@finalroundai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tjones@groq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tripp@soma.energy",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-497-7206",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-234-9900",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Uncork Capital"
+}

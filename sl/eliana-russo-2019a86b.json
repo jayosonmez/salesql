@@ -1,0 +1,22 @@
+{
+  "uuid": "7e879299-f3fb-432a-bfcc-49da86c68ca9",
+  "first_name": "Eliana",
+  "last_name": "Russo",
+  "full_name": "Eliana Russo",
+  "linkedin_url": "https://linkedin.com/in/eliana-russo-2019a86b",
+  "emails": [
+    {
+      "email": "e.russo@geolog.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+31 20 342 0620",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GEOLOG International"
+}

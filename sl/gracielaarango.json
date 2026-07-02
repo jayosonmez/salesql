@@ -1,0 +1,16 @@
+{
+  "uuid": "f7591cbd-a7ae-404e-8c94-46ba48445764",
+  "first_name": "Graciela",
+  "last_name": "Arango",
+  "full_name": "Graciela Arango",
+  "linkedin_url": "https://linkedin.com/in/gracielaarango",
+  "emails": [
+    {
+      "email": "graciela@uber.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Uber"
+}

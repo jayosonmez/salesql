@@ -1,0 +1,28 @@
+{
+  "uuid": "d6c7e8c3-6fbe-419b-ad3d-098de68bd540",
+  "first_name": "Alexandria",
+  "last_name": "Alvarez, MD",
+  "full_name": "Alexandria Alvarez, MD",
+  "linkedin_url": "https://linkedin.com/in/alexandriaalvarezmd",
+  "emails": [
+    {
+      "email": "alexandria.alvarez@msmc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aalvarez@dadeschools.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-674-2273",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mount Sinai Medical Center"
+}

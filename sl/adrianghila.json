@@ -1,0 +1,27 @@
+{
+  "uuid": "8d659993-c1fd-4c57-868e-4fd5e26b4235",
+  "first_name": "Adrian",
+  "last_name": "Ghila",
+  "full_name": "Adrian Ghila",
+  "linkedin_url": "https://linkedin.com/in/adrianghila",
+  "emails": [
+    {
+      "email": "adrian_ghila@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "adrian.ghila@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "0724500000",
+      "type": "Personal",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Factor & Fund"
+}

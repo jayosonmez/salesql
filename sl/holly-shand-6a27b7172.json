@@ -1,0 +1,41 @@
+{
+  "uuid": "ddf2e04b-29e6-429a-95f3-4b61ef8f6aaa",
+  "first_name": "Holly",
+  "last_name": "Shand",
+  "full_name": "Holly Shand",
+  "linkedin_url": "https://linkedin.com/in/holly-shand-6a27b7172",
+  "emails": [
+    {
+      "email": "fantasyfootballcommunity@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "holly@fantasyfootballhub.co.uk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "holly.shand@fantrax.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "holly.shand@pinpointhq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hollyshand@wolves.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hshand@theathletic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Scoreline"
+}

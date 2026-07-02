@@ -1,0 +1,44 @@
+{
+  "uuid": "dcb6ae1b-293e-4918-9a0f-95efc3cf314c",
+  "first_name": "Robb",
+  "last_name": "Kunz",
+  "full_name": "Robb Kunz",
+  "linkedin_url": "https://linkedin.com/in/robbkunz",
+  "emails": [
+    {
+      "email": "rk@boomstartup.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "robert.kunz@knowledgeblue.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rk@venturebluecapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rkunz@assure.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-633-2004",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 517-338-9609",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ventureBlue Capital"
+}

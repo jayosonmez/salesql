@@ -1,0 +1,23 @@
+{
+  "uuid": "b0c910a8-31c4-4bf4-83c9-53ba0b47645f",
+  "first_name": "Ariel",
+  "last_name": "Wibowo",
+  "full_name": "Ariel Wibowo",
+  "linkedin_url": "https://linkedin.com/in/arielwibowo",
+  "emails": [
+    {
+      "email": "ariel@intudovc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+62 811-1894-258",
+      "type": "Personal",
+      "country_code": "ID",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Intudo"
+}

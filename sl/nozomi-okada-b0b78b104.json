@@ -1,0 +1,17 @@
+{
+  "uuid": "8842498a-b666-4102-a6a6-49da5c5c1fc0",
+  "first_name": "Nozomi",
+  "last_name": "Okada",
+  "full_name": "Nozomi Okada",
+  "linkedin_url": "https://linkedin.com/in/nozomi-okada-b0b78b104",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+81 3-6866-3160",
+      "type": "Work",
+      "country_code": "JP",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

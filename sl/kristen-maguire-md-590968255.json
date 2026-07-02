@@ -1,0 +1,22 @@
+{
+  "uuid": "ef79dd63-03de-4cae-99b5-8cad82287c30",
+  "first_name": "Kristen",
+  "last_name": "Maguire, MD",
+  "full_name": "Kristen Maguire, MD",
+  "linkedin_url": "https://linkedin.com/in/kristen-maguire-md-590968255",
+  "emails": [
+    {
+      "email": "kristen@doctordaughters.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "8472513100",
+      "type": "Work",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Doctor Daughters"
+}

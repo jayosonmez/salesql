@@ -1,0 +1,23 @@
+{
+  "uuid": "57d96e5b-1530-4786-ad17-ccfa6783d1a7",
+  "first_name": "Allen W.",
+  "last_name": "Bell, MD",
+  "full_name": "Allen W. Bell, MD",
+  "linkedin_url": "https://linkedin.com/in/allenwbell",
+  "emails": [
+    {
+      "email": "allen.bell@usuhs.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 301-295-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Walter Reed National Military Medical Center"
+}

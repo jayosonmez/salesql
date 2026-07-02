@@ -1,0 +1,53 @@
+{
+  "uuid": "fd470983-8f84-42ff-ba41-01c700ca3353",
+  "first_name": "Arno",
+  "last_name": "de Wilde",
+  "full_name": "Arno de Wilde",
+  "linkedin_url": "https://linkedin.com/in/arnodewilde",
+  "emails": [
+    {
+      "email": "arno_wilde@vectorytx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "arno_wilde@amsterdamumc.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "arno_wilde@astronautx.bio",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "arnodewilde@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "arno.de@eqtgroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ade@atalantatx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ad@aerska.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+46 8 506 553 00",
+      "type": "Work",
+      "country_code": "SE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EQT Group"
+}

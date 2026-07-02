@@ -1,0 +1,23 @@
+{
+  "uuid": "bc606280-21a0-4512-b2dc-4e22a61cbcdf",
+  "first_name": "Richard",
+  "last_name": "Van Dam",
+  "full_name": "Richard Van Dam",
+  "linkedin_url": "https://linkedin.com/in/richard-van-dam-4ba00384",
+  "emails": [
+    {
+      "email": "richard.van@emory.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-727-6123",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Emory University"
+}

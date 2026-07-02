@@ -1,0 +1,23 @@
+{
+  "uuid": "42f38d80-cd72-453a-90cd-34050f86ce35",
+  "first_name": "Erin",
+  "last_name": "Saner, MD, D-ABOM",
+  "full_name": "Erin Saner, MD, D-ABOM",
+  "linkedin_url": "https://linkedin.com/in/erin-saner",
+  "emails": [
+    {
+      "email": "esaner@wakehealth.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 336-716-2011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Atrium Health Wake Forest Baptist"
+}

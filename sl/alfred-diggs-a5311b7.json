@@ -1,0 +1,28 @@
+{
+  "uuid": "62af31e8-5062-4201-b3f5-370003c09fea",
+  "first_name": "Alfred",
+  "last_name": "Diggs",
+  "full_name": "Alfred Diggs",
+  "linkedin_url": "https://linkedin.com/in/alfred-diggs-a5311b7",
+  "emails": [
+    {
+      "email": "adiggs@purdue.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "adiggs@LUC.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 773-274-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Loyola University Chicago"
+}

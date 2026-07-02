@@ -1,0 +1,28 @@
+{
+  "uuid": "1f3720c7-74a2-4df9-a8c7-2d819e821a0b",
+  "first_name": "Elizabeth",
+  "last_name": "Caspari, M.S.",
+  "full_name": "Elizabeth Caspari, M.S.",
+  "linkedin_url": "https://linkedin.com/in/elizabeth-caspari-m-s-48137730",
+  "emails": [
+    {
+      "email": "casparib@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ecaspari@stlurology.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 314-567-6071",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Urology of St. Louis"
+}

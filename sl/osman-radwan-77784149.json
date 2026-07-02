@@ -1,0 +1,23 @@
+{
+  "uuid": "f0295db0-07c9-4b3b-8165-685cb13c08dd",
+  "first_name": "Osman",
+  "last_name": "Radwan",
+  "full_name": "Osman Radwan",
+  "linkedin_url": "https://linkedin.com/in/osman-radwan-77784149",
+  "emails": [
+    {
+      "email": "osman.radwan@udayton.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 937-229-2113",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Dayton Research Institute"
+}

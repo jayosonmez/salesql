@@ -1,0 +1,42 @@
+{
+  "uuid": "d83f8df7-a476-4737-9eaa-b67c5d11676c",
+  "first_name": "Stéphane",
+  "last_name": "Philipakis",
+  "full_name": "Stéphane Philipakis",
+  "linkedin_url": "https://linkedin.com/in/stephanephilipakis",
+  "emails": [
+    {
+      "email": "stephane.philipakis@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "stephane@fieldwire.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "stephane@blockcypher.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephane.philipakis@paymium.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephane.philipakis@talan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 1 84 16 91 51",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Paymium"
+}

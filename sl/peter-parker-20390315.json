@@ -1,0 +1,43 @@
+{
+  "uuid": "3b125b0b-0eac-46ce-8661-1345fc447a16",
+  "first_name": "Peter",
+  "last_name": "Parker",
+  "full_name": "Peter Parker",
+  "linkedin_url": "https://linkedin.com/in/peter-parker-20390315",
+  "emails": [
+    {
+      "email": "pparker@marinabio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pparker@missionbiocapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pdp.parker@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "pparker@bio-innovation.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pparker@labcentral.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-812-3350",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mission BioCapital"
+}

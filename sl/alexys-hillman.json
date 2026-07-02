@@ -1,0 +1,28 @@
+{
+  "uuid": "d8310799-e918-4793-86ab-ac9a3d1fd001",
+  "first_name": "Alexys",
+  "last_name": "Hillman",
+  "full_name": "Alexys Hillman",
+  "linkedin_url": "https://linkedin.com/in/alexys-hillman",
+  "emails": [
+    {
+      "email": "alexys.hillman@includedhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexys.hillman@xlibris.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 218-387-2330",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sawtooth Mountain Clinic"
+}

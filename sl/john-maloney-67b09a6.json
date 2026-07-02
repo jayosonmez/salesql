@@ -1,0 +1,21 @@
+{
+  "uuid": "5aaddd10-d4db-4fa4-a27f-e383f9e71d71",
+  "first_name": "John",
+  "last_name": "Maloney",
+  "full_name": "John Maloney",
+  "linkedin_url": "https://linkedin.com/in/john-maloney-67b09a6",
+  "emails": [
+    {
+      "email": "john@localstops.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john@terrapinbale.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Terrapin Bale"
+}

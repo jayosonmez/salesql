@@ -1,0 +1,58 @@
+{
+  "uuid": "629af887-7cbd-4a4d-9cb5-e36dbf2ec355",
+  "first_name": "Dr. Alderd",
+  "last_name": "Froolik, DBA, MBA, MSc.",
+  "full_name": "Dr. Alderd Froolik, DBA, MBA, MSc.",
+  "linkedin_url": "https://linkedin.com/in/alderdfroolik",
+  "emails": [
+    {
+      "email": "dr@questautomations.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "froolik-dr@peponixl.nl",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr@questautomations.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "info@klushandel.nl",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "a.f@yuverta.nl",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "afroolik@rodekruis.nl",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alderd@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+31 6 50218580",
+      "type": "Personal",
+      "country_code": "NL",
+      "is_valid": true
+    },
+    {
+      "phone": "0650218580",
+      "type": "Personal",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Quest AI Solutions BV"
+}

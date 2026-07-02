@@ -1,0 +1,28 @@
+{
+  "uuid": "67fe41e2-a828-4497-953b-1fa6f8b5b495",
+  "first_name": "Bupesh",
+  "last_name": "Pandita",
+  "full_name": "Bupesh Pandita",
+  "linkedin_url": "https://linkedin.com/in/bupesh-pandita-3553865",
+  "emails": [
+    {
+      "email": "panditabupesh@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bpandita@cadence.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-943-1234",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cadence"
+}

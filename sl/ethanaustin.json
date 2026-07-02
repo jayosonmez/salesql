@@ -1,0 +1,33 @@
+{
+  "uuid": "2fd34ea5-3705-43c2-9fcc-44f48be857cc",
+  "first_name": "Ethan",
+  "last_name": "Austin",
+  "full_name": "Ethan Austin",
+  "linkedin_url": "https://linkedin.com/in/ethanaustin",
+  "emails": [
+    {
+      "email": "e.austin@qut.edu.au",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ethanaustin@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ethan@giveforward.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+61 7 3138 2000",
+      "type": "Work",
+      "country_code": "AU",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "QUT (Queensland University of Technology)"
+}

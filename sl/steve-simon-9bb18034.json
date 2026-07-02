@@ -1,0 +1,28 @@
+{
+  "uuid": "27e15b88-17ee-439f-817d-644670028225",
+  "first_name": "Steve",
+  "last_name": "Simon",
+  "full_name": "Steve Simon",
+  "linkedin_url": "https://linkedin.com/in/steve-simon-9bb18034",
+  "emails": [
+    {
+      "email": "stsimon@simon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stsimon@simonequity.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-856-0569",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Simon Equity Partners"
+}

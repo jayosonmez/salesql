@@ -1,0 +1,16 @@
+{
+  "uuid": "2b5fb53f-9bb0-460f-8ad4-27334c847e0d",
+  "first_name": "Christy",
+  "last_name": "O.",
+  "full_name": "Christy O.",
+  "linkedin_url": "https://linkedin.com/in/christine-t-odom",
+  "emails": [
+    {
+      "email": "christyliz3@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ClinGen Resource"
+}

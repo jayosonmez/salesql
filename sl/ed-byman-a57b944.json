@@ -1,0 +1,23 @@
+{
+  "uuid": "f29d0baf-64b9-4982-96e7-d6385744a935",
+  "first_name": "Ed",
+  "last_name": "Byman",
+  "full_name": "Ed Byman",
+  "linkedin_url": "https://linkedin.com/in/ed-byman-a57b944",
+  "emails": [
+    {
+      "email": "ebyman@globalgolf.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-719-7940",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Global Value Commerce"
+}

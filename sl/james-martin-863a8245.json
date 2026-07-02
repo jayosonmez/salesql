@@ -1,0 +1,16 @@
+{
+  "uuid": "6bc374d7-bd28-4de0-bb91-637bbefd25e0",
+  "first_name": "James",
+  "last_name": "Martin",
+  "full_name": "James Martin",
+  "linkedin_url": "https://linkedin.com/in/james-martin-863a8245",
+  "emails": [
+    {
+      "email": "bdbfc2b1e352a5d4170888879d3cba90@openid.user",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dept. of Veterans Affairs"
+}

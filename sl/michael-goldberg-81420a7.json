@@ -1,0 +1,21 @@
+{
+  "uuid": "1b5999a7-3d41-470b-89dc-ee40e66ac67e",
+  "first_name": "Michael",
+  "last_name": "Goldberg",
+  "full_name": "Michael Goldberg",
+  "linkedin_url": "https://linkedin.com/in/michael-goldberg-81420a7",
+  "emails": [
+    {
+      "email": "mgoldberg@cfpsych.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael@firesidestrategic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Mindspan Group, Inc."
+}

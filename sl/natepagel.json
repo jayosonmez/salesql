@@ -1,0 +1,38 @@
+{
+  "uuid": "46e5db61-f5e2-42cc-988f-bbd62ac6880c",
+  "first_name": "Nate",
+  "last_name": "Pagel",
+  "full_name": "Nate Pagel",
+  "linkedin_url": "https://linkedin.com/in/natepagel",
+  "emails": [
+    {
+      "email": "designate@mindspring.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "nate@medifies.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nate@podaddies.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nate@vidlet.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-577-8971",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

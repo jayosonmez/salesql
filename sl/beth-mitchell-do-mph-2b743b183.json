@@ -1,0 +1,23 @@
+{
+  "uuid": "e221293b-2584-4cc8-b244-425e0fda3eea",
+  "first_name": "Beth",
+  "last_name": "Mitchell, DO, MPH",
+  "full_name": "Beth Mitchell, DO, MPH",
+  "linkedin_url": "https://linkedin.com/in/beth-mitchell-do-mph-2b743b183",
+  "emails": [
+    {
+      "email": "beth.mitchell@naphcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 813-515-7357",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Restorative Healing & Wellness Center "
+}

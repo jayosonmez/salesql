@@ -1,0 +1,33 @@
+{
+  "uuid": "1808ad52-175a-4808-8319-79071ae27b06",
+  "first_name": "Nitun",
+  "last_name": "Verma MD MBA",
+  "full_name": "Nitun Verma MD MBA",
+  "linkedin_url": "https://linkedin.com/in/nitunverma",
+  "emails": [
+    {
+      "email": "nitun@acwellness.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nverma@aasm.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nverma@healthtechcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-783-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AC Wellness Medical Group"
+}

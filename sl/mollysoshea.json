@@ -1,0 +1,16 @@
+{
+  "uuid": "fe252a6a-721a-4e63-ba08-be79cc55f477",
+  "first_name": "Molly",
+  "last_name": "O'Shea",
+  "full_name": "Molly O'Shea",
+  "linkedin_url": "https://linkedin.com/in/mollysoshea",
+  "emails": [
+    {
+      "email": "mso256@nyu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Family Office"
+}

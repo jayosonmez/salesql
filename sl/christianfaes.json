@@ -1,0 +1,31 @@
+{
+  "uuid": "bafa83d4-4f8a-4318-ad3d-ef3a39ee9bcc",
+  "first_name": "Christian",
+  "last_name": "Faes",
+  "full_name": "Christian Faes",
+  "linkedin_url": "https://linkedin.com/in/christianfaes",
+  "emails": [
+    {
+      "email": "cfaes@montellocapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christian@lendinvestcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "christian.faes@lendinvest.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christian@onate.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Faes & Co."
+}

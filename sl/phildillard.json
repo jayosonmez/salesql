@@ -1,0 +1,43 @@
+{
+  "uuid": "0cd23ddb-f7e7-46ed-8e8b-0de935e0dfd2",
+  "first_name": "Phil",
+  "last_name": "Dillard",
+  "full_name": "Phil Dillard",
+  "linkedin_url": "https://linkedin.com/in/phildillard",
+  "emails": [
+    {
+      "email": "me@phildillard.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "phil.dillard@earthlink.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pdillard@atpfund.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "phil@globalmindsworklocal.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "phil@svbs.one",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-894-5297",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Thruline Networks"
+}

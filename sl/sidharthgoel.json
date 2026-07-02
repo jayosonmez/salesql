@@ -1,0 +1,23 @@
+{
+  "uuid": "2eba42ca-b973-4d49-a748-e1265a607326",
+  "first_name": "Sidharth",
+  "last_name": "G.",
+  "full_name": "Sidharth G.",
+  "linkedin_url": "https://linkedin.com/in/sidharthgoel",
+  "emails": [
+    {
+      "email": "sidharth@hirefly.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-986-5009",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Abnormal AI"
+}

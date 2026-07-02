@@ -1,0 +1,16 @@
+{
+  "uuid": "f18cfd7f-4d6a-4bc3-b6d4-be0fdabddb68",
+  "first_name": "Daniel",
+  "last_name": "Curtis",
+  "full_name": "Daniel Curtis",
+  "linkedin_url": "https://linkedin.com/in/daniel-curtis-0747761",
+  "emails": [
+    {
+      "email": "dan.curtis@arkansas.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Arkansas Economic Development Commission"
+}

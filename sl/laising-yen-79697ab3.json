@@ -1,0 +1,23 @@
+{
+  "uuid": "6e7d5d3f-08aa-4209-8010-2608ccd34497",
+  "first_name": "Laising",
+  "last_name": "Yen",
+  "full_name": "Laising Yen",
+  "linkedin_url": "https://linkedin.com/in/laising-yen-79697ab3",
+  "emails": [
+    {
+      "email": "laising.yen@bcm.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 713-798-4842",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Baylor College of Medicine"
+}

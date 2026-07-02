@@ -1,0 +1,23 @@
+{
+  "uuid": "c5421bd4-6f01-4a2c-a8b6-a2959439a03f",
+  "first_name": "Vini",
+  "last_name": "Singh",
+  "full_name": "Vini Singh",
+  "linkedin_url": "https://linkedin.com/in/vinivsingh",
+  "emails": [
+    {
+      "email": "singh@kennedykrieger.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 443-923-9500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kennedy Krieger Institute"
+}

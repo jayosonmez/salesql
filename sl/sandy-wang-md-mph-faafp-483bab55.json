@@ -1,0 +1,28 @@
+{
+  "uuid": "7af817fc-49dc-4bd6-a38d-a10635aed171",
+  "first_name": "Sandy",
+  "last_name": "Wang MD MPH FAAFP",
+  "full_name": "Sandy Wang MD MPH FAAFP",
+  "linkedin_url": "https://linkedin.com/in/sandy-wang-md-mph-faafp-483bab55",
+  "emails": [
+    {
+      "email": "sandy.wang@rochester.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "swang@miami.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 585-275-2121",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Rochester Medicine"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "ed339ce7-117a-4815-8517-c9da537988d0",
+  "first_name": "Kai",
+  "last_name": "Kuo",
+  "full_name": "Kai Kuo",
+  "linkedin_url": "https://linkedin.com/in/kaikuo",
+  "emails": [
+    {
+      "email": "kuoka@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Comcast Advertising"
+}

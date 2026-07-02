@@ -1,0 +1,17 @@
+{
+  "uuid": "34519fc5-b3e4-4fd1-a5c9-41fa50c5503c",
+  "first_name": "Rami",
+  "last_name": "Arfoosh",
+  "full_name": "Rami Arfoosh",
+  "linkedin_url": "https://linkedin.com/in/rami-arfoosh-22875921a",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 770-586-0300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PULMONARY AND SLEEP SPECIALISTS OF NORTHEAST Georgia and PIEDMONT NORTHEAST"
+}

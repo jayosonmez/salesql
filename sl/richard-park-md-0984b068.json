@@ -1,0 +1,16 @@
+{
+  "uuid": "d6f32850-ed5d-4671-a97c-dbc7d957057a",
+  "first_name": "Richard",
+  "last_name": "Park, MD",
+  "full_name": "Richard Park, MD",
+  "linkedin_url": "https://linkedin.com/in/richard-park-md-0984b068",
+  "emails": [
+    {
+      "email": "richard_park@airforce.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Park Internal Medicine"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "b831bf9e-e726-48e4-a121-2278a1522696",
+  "first_name": "Nicole",
+  "last_name": "Oberfoell",
+  "full_name": "Nicole Oberfoell",
+  "linkedin_url": "https://linkedin.com/in/nicole-oberfoell",
+  "emails": [
+    {
+      "email": "nicole.oberfoell@ihs.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 602-263-1200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Indian Health Service"
+}

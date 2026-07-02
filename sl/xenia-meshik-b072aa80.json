@@ -1,0 +1,23 @@
+{
+  "uuid": "4d540676-eee3-4658-ac7a-01ad1b1c556c",
+  "first_name": "Xenia",
+  "last_name": "Meshik",
+  "full_name": "Xenia Meshik",
+  "linkedin_url": "https://linkedin.com/in/xenia-meshik-b072aa80",
+  "emails": [
+    {
+      "email": "xenia.meshik@canopybiosciences.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 314-833-9764",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Canopy Biosciences"
+}

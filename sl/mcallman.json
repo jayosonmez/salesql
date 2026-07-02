@@ -1,0 +1,28 @@
+{
+  "uuid": "836af9ff-903f-4d20-b4c8-3a0b9e897d07",
+  "first_name": "Mark",
+  "last_name": "Callman, MD FACP",
+  "full_name": "Mark Callman, MD FACP",
+  "linkedin_url": "https://linkedin.com/in/mcallman",
+  "emails": [
+    {
+      "email": "mark.callman@hcahealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mlcdoc1@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 804-483-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HCA Healthcare"
+}

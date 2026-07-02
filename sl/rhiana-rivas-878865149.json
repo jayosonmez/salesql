@@ -1,0 +1,23 @@
+{
+  "uuid": "fbbce73f-7cd2-4010-9284-58dcd85e68bd",
+  "first_name": "Rhiana",
+  "last_name": "Rivas",
+  "full_name": "Rhiana Rivas",
+  "linkedin_url": "https://linkedin.com/in/rhiana-rivas-878865149",
+  "emails": [
+    {
+      "email": "rrivas@unm.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 505-272-2321",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The University of New Mexico School of Medicine"
+}

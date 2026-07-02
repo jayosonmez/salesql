@@ -1,0 +1,48 @@
+{
+  "uuid": "b28fbe8e-28f1-439a-8b48-a5c439e97d3a",
+  "first_name": "Fiona",
+  "last_name": "MacLaughlin",
+  "full_name": "Fiona MacLaughlin",
+  "linkedin_url": "https://linkedin.com/in/fiona-maclaughlin-63a9861",
+  "emails": [
+    {
+      "email": "fmaclaughlin@aviadobio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fmaclaughlin@citryll.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fiona.maclaughlin@jnj.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "f.maclaughlin@flindrtx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fionamaclaughlin@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fiona@inkefcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-524-0400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Johnson & Johnson"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "7007046b-435b-4385-a262-24ed9c957dd2",
+  "first_name": "Angela",
+  "last_name": "Peverly",
+  "full_name": "Angela Peverly",
+  "linkedin_url": "https://linkedin.com/in/angela-peverly-26858247",
+  "emails": [
+    {
+      "email": "apeverly@eureka.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 309-467-3721",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Eureka College"
+}

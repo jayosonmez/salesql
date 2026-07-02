@@ -1,0 +1,23 @@
+{
+  "uuid": "57cc50c9-913a-442b-9b23-e4089957dfe8",
+  "first_name": "Hyun",
+  "last_name": "Kwon",
+  "full_name": "Hyun Kwon",
+  "linkedin_url": "https://linkedin.com/in/hyun-kwon-9a43961b",
+  "emails": [
+    {
+      "email": "hkwon@andrews.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-253-2874",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Andrews University"
+}

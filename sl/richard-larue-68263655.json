@@ -1,0 +1,23 @@
+{
+  "uuid": "7e146df2-f703-4442-a8a2-9e4b55334656",
+  "first_name": "Richard",
+  "last_name": "LaRue",
+  "full_name": "Richard LaRue",
+  "linkedin_url": "https://linkedin.com/in/richard-larue-68263655",
+  "emails": [
+    {
+      "email": "richard.larue@vanderbilthealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 615-322-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vanderbilt University Medical Center"
+}

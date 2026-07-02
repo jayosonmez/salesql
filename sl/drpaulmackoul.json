@@ -1,0 +1,28 @@
+{
+  "uuid": "ab926f8a-135b-40fd-b9d9-4d2ca80bbf0e",
+  "first_name": "Dr. Paul J.",
+  "last_name": "MacKoul, MD",
+  "full_name": "Dr. Paul J. MacKoul, MD",
+  "linkedin_url": "https://linkedin.com/in/drpaulmackoul",
+  "emails": [
+    {
+      "email": "m-d@innovativegyn.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr.mackoul@holycrosshealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 866-766-9126",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Center for Innovative GYN Care"
+}

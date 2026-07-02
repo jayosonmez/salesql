@@ -1,0 +1,28 @@
+{
+  "uuid": "5218bddb-1733-4f8b-a62d-c624e54e81e5",
+  "first_name": "Luciano",
+  "last_name": "Talens",
+  "full_name": "Luciano Talens",
+  "linkedin_url": "https://linkedin.com/in/luciano-talens-a759455",
+  "emails": [
+    {
+      "email": "ltalens@inventprise.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lucianotalens@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-258-2660",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Inventprise"
+}

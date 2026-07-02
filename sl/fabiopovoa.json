@@ -1,0 +1,36 @@
+{
+  "uuid": "c56314a0-0e55-46dc-bdbc-c7da6b84e99a",
+  "first_name": "Fábio",
+  "last_name": "Póvoa",
+  "full_name": "Fábio Póvoa",
+  "linkedin_url": "https://linkedin.com/in/fabiopovoa",
+  "emails": [
+    {
+      "email": "fabpovoa@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "fabio.povoa@smartmoney.ventures",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "fpovoa@propay.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "povoa@unicamp.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fabio.povoa@movile.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Smart Money Ventures"
+}

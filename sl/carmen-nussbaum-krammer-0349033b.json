@@ -1,0 +1,28 @@
+{
+  "uuid": "20e6a28f-64eb-4f9b-a7f5-87412bde809e",
+  "first_name": "Carmen",
+  "last_name": "Nussbaum-Krammer",
+  "full_name": "Carmen Nussbaum-Krammer",
+  "linkedin_url": "https://linkedin.com/in/carmen-nussbaum-krammer-0349033b",
+  "emails": [
+    {
+      "email": "krammer.carmen@gmx.de",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "carmen.nussbaum-krammer@lmu.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 89 21800",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ludwig-Maximilians-Universität München"
+}

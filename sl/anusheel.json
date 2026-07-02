@@ -1,0 +1,41 @@
+{
+  "uuid": "1714c795-225a-40b4-9106-66b432ccd41e",
+  "first_name": "Anusheel",
+  "last_name": "Bhushan",
+  "full_name": "Anusheel Bhushan",
+  "linkedin_url": "https://linkedin.com/in/anusheel",
+  "emails": [
+    {
+      "email": "anusheel@startx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "abhushan@arcprize.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anusheel@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anusheel@mines.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anusheel@imagine.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anusheel@charli3.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Plank"
+}

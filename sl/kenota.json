@@ -1,0 +1,21 @@
+{
+  "uuid": "64d9ec35-1198-4bc6-ac5d-e6682fbbbb00",
+  "first_name": "Ken Shadman",
+  "last_name": "Ota, DO",
+  "full_name": "Ken Shadman Ota, DO",
+  "linkedin_url": "https://linkedin.com/in/kenota",
+  "emails": [
+    {
+      "email": "ken.ota@ampcares.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ken@sagehospice.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Aligned Medical Providers"
+}

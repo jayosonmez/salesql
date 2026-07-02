@@ -1,0 +1,23 @@
+{
+  "uuid": "05dfc181-79b1-4721-a560-649b1d57a0b6",
+  "first_name": "Claudio",
+  "last_name": "Costamagna",
+  "full_name": "Claudio Costamagna",
+  "linkedin_url": "https://linkedin.com/in/claudio-costamagna-561377b3",
+  "emails": [
+    {
+      "email": "claudio.costamagna@fticonsulting.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 202-312-9100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FTI Consulting"
+}

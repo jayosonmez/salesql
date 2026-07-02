@@ -1,0 +1,28 @@
+{
+  "uuid": "f3e0ce08-af67-411a-be8a-402ce6209679",
+  "first_name": "Joseph T.",
+  "last_name": "Inglefield III M.D.",
+  "full_name": "Joseph T. Inglefield III M.D.",
+  "linkedin_url": "https://linkedin.com/in/joseph-t-inglefield-iii-m-d-48818aa",
+  "emails": [
+    {
+      "email": "jinglefield@hickoryallergy.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jinglefield@charter.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 828-322-1275",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hickory Allergy Asthma and Sinus Clinic"
+}

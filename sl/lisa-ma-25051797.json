@@ -1,0 +1,16 @@
+{
+  "uuid": "83a6d486-f15e-41c3-9e2e-62ddf340f554",
+  "first_name": "Lisa",
+  "last_name": "Ma",
+  "full_name": "Lisa Ma",
+  "linkedin_url": "https://linkedin.com/in/lisa-ma-25051797",
+  "emails": [
+    {
+      "email": "lma@keiro.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "https://nacproplus.com"
+}

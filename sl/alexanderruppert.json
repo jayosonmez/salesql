@@ -1,0 +1,28 @@
+{
+  "uuid": "5c3d6db3-ad17-4d92-b439-fd83c3046c0f",
+  "first_name": "Alexander",
+  "last_name": "Ruppert",
+  "full_name": "Alexander Ruppert",
+  "linkedin_url": "https://linkedin.com/in/alexanderruppert",
+  "emails": [
+    {
+      "email": "alexanderbass@gmx.de",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "alexander.ruppert@grafana.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-812-4179",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Grafana Labs"
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "55614903-9c9c-45b6-a761-6d6708169d68",
+  "first_name": "Dede",
+  "last_name": "Willis",
+  "full_name": "Dede Willis",
+  "linkedin_url": "https://linkedin.com/in/dede-willis-entrepreneur",
+  "emails": [
+    {
+      "email": "dwillis@ventac-partners.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dwillis@orbitgenomics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-589-9845",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 720-515-0395",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Orbit Genomics"
+}

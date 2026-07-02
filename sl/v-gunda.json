@@ -1,0 +1,33 @@
+{
+  "uuid": "e663d575-964c-40e1-b037-6d840b8da4eb",
+  "first_name": "Varun",
+  "last_name": "Gunda",
+  "full_name": "Varun Gunda",
+  "linkedin_url": "https://linkedin.com/in/v-gunda",
+  "emails": [
+    {
+      "email": "varun.gunda@utdallas.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "varun.gunda@utdallas.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "varun.gunda@hosa.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 972-883-2111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Department of Bioengineering - UT Dallas"
+}

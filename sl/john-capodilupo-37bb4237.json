@@ -1,0 +1,28 @@
+{
+  "uuid": "e4823206-b952-46f5-a397-e30b0819cf99",
+  "first_name": "John",
+  "last_name": "Capodilupo",
+  "full_name": "John Capodilupo",
+  "linkedin_url": "https://linkedin.com/in/john-capodilupo-37bb4237",
+  "emails": [
+    {
+      "email": "capodilupo@whoop.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jcapodilupo@college.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 616-438-2717",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Throne Science"
+}

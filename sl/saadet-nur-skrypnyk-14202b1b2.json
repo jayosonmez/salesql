@@ -1,0 +1,23 @@
+{
+  "uuid": "73572b49-c203-476e-aa76-73184fc0909c",
+  "first_name": "Saadet Nur",
+  "last_name": "Skrypnyk",
+  "full_name": "Saadet Nur Skrypnyk",
+  "linkedin_url": "https://linkedin.com/in/saadet-nur-skrypnyk-14202b1b2",
+  "emails": [
+    {
+      "email": "saadet.skrypnyk@sunexpress.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 180 6 959590",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SunExpress"
+}

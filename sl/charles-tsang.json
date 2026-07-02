@@ -1,0 +1,43 @@
+{
+  "uuid": "a1b39f92-982a-4471-a077-f6f11c955ce5",
+  "first_name": "Charles",
+  "last_name": "Tsang",
+  "full_name": "Charles Tsang",
+  "linkedin_url": "https://linkedin.com/in/charles-tsang",
+  "emails": [
+    {
+      "email": "charles.tsang@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "charles@pinwheelapi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "charles@firstround.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "charles@bill.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ctsang@visa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-621-7700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BILL"
+}

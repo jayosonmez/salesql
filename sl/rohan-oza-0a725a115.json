@@ -1,0 +1,43 @@
+{
+  "uuid": "1e60dabe-91e7-4143-b687-a46ec353de0b",
+  "first_name": "Rohan",
+  "last_name": "Oza",
+  "full_name": "Rohan Oza",
+  "linkedin_url": "https://linkedin.com/in/rohan-oza-0a725a115",
+  "emails": [
+    {
+      "email": "roza@whistlepigwhiskey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rohan@skinnydipped.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rohan@cavuconsumer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rohan_oza@drinkpoppi.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rohan@beekeepersnaturals.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-716-2670",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CAVU Consumer Partners"
+}

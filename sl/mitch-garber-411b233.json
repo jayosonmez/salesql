@@ -1,0 +1,16 @@
+{
+  "uuid": "2d73e557-9913-47b0-ba31-9fb321370621",
+  "first_name": "Mitch",
+  "last_name": "Garber",
+  "full_name": "Mitch Garber",
+  "linkedin_url": "https://linkedin.com/in/mitch-garber-411b233",
+  "emails": [
+    {
+      "email": "mgarber@cenyc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Caithness Corporation"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "032b195e-dc38-409b-8cbb-ef6d36af8d9f",
+  "first_name": "Hendro",
+  "last_name": "Riyadi",
+  "full_name": "Hendro Riyadi",
+  "linkedin_url": "https://linkedin.com/in/hriyadi",
+  "emails": [
+    {
+      "email": "hendro.riyadi@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "hendro.riyadi@agriaku.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hendro@vidavox.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hendro@halorumah.id",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hendro@insignia.academy",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hendro@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Vidavox"
+}

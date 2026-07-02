@@ -1,0 +1,23 @@
+{
+  "uuid": "fa61a11a-a0a3-40a4-a4fa-fcec7d8a5dad",
+  "first_name": "Darkeyah",
+  "last_name": "Reuven",
+  "full_name": "Darkeyah Reuven",
+  "linkedin_url": "https://linkedin.com/in/darkeyah-reuven-b5314677",
+  "emails": [
+    {
+      "email": "dreuven@jcsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 704-378-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Johnson C. Smith University - JCSU"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "8c5d649f-8953-4acf-83e9-82b44e0c4f25",
+  "first_name": "Brett",
+  "last_name": "Durrett",
+  "full_name": "Brett Durrett",
+  "linkedin_url": "https://linkedin.com/in/brettgdurrett",
+  "emails": [
+    {
+      "email": "brett@durrett.net",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-829-4815",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Google"
+}

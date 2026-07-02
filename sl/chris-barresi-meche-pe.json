@@ -1,0 +1,28 @@
+{
+  "uuid": "86b4250e-175f-4bb1-94a2-aea7445d43f9",
+  "first_name": "Chris",
+  "last_name": "Barresi",
+  "full_name": "Chris Barresi",
+  "linkedin_url": "https://linkedin.com/in/chris-barresi-meche-pe",
+  "emails": [
+    {
+      "email": "cbarresi@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "cbarresi@lockheedmartin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 301-897-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lockheed Martin"
+}

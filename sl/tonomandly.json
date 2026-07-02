@@ -1,0 +1,16 @@
+{
+  "uuid": "61156802-7b4e-4700-a28f-375f4d70e988",
+  "first_name": "Tono",
+  "last_name": "Mandly",
+  "full_name": "Tono Mandly",
+  "linkedin_url": "https://linkedin.com/in/tonomandly",
+  "emails": [
+    {
+      "email": "tono@onwaldi.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stealth"
+}

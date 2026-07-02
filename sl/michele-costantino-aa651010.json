@@ -1,0 +1,38 @@
+{
+  "uuid": "8be29804-014f-4268-9b8b-ffc104de9bf8",
+  "first_name": "Michele",
+  "last_name": "Costantino",
+  "full_name": "Michele Costantino",
+  "linkedin_url": "https://linkedin.com/in/michele-costantino-aa651010",
+  "emails": [
+    {
+      "email": "mcostantino@iusb.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mcostantino@ivytech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michele.costantino@asu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mlh@siteenhancementservices.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-278-5080",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Arizona State University"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "a52cc625-afc6-44e7-a0bf-4164433813fc",
+  "first_name": "Paul",
+  "last_name": "Jemelian",
+  "full_name": "Paul Jemelian",
+  "linkedin_url": "https://linkedin.com/in/paul-jemelian-b134477",
+  "emails": [
+    {
+      "email": "jemelian@sbcglobal.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "99ba2660-4a32-4d7c-8935-663da6c921ed",
+  "first_name": "Eric",
+  "last_name": "Simon",
+  "full_name": "Eric Simon",
+  "linkedin_url": "https://linkedin.com/in/ericmsimon1",
+  "emails": [
+    {
+      "email": "dexdes@inconnect.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "info@dexteritydesign.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-541-9000",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 801-541-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Dexterity Design"
+}

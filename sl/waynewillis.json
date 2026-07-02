@@ -1,0 +1,49 @@
+{
+  "uuid": "5136ae17-b399-4767-9e48-bca13f872bf0",
+  "first_name": "Wayne",
+  "last_name": "Willis",
+  "full_name": "Wayne Willis",
+  "linkedin_url": "https://linkedin.com/in/waynewillis",
+  "emails": [
+    {
+      "email": "wwillis@tasbia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wwillis@cyracom.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wwillis@netlaw.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wayne@willisdomain.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wayne@nodalpartners.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-428-1395",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 888-604-4789",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NetLaw"
+}

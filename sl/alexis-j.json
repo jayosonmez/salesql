@@ -1,0 +1,17 @@
+{
+  "uuid": "577dcdd1-4285-4e84-8259-4251685c34c4",
+  "first_name": "Alexis",
+  "last_name": "J.",
+  "full_name": "Alexis J.",
+  "linkedin_url": "https://linkedin.com/in/alexis-j",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 505-844-8066",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sandia National Laboratories"
+}

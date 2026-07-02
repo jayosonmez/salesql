@@ -1,0 +1,23 @@
+{
+  "uuid": "b23f1a09-b09e-4958-95d2-c7ae5608c417",
+  "first_name": "Kerry",
+  "last_name": "Dykens",
+  "full_name": "Kerry Dykens",
+  "linkedin_url": "https://linkedin.com/in/kerry-dykens",
+  "emails": [
+    {
+      "email": "kdykens@bigelow.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-315-2567",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bigelow Laboratory for Ocean Sciences"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "e41aa428-8a54-434b-96fb-09c13c055403",
+  "first_name": "Dawn",
+  "last_name": "Dobras",
+  "full_name": "Dawn Dobras",
+  "linkedin_url": "https://linkedin.com/in/dawndobras",
+  "emails": [
+    {
+      "email": "dawn@thecouncil.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dawn@credobeauty.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dawn@archiveresale.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dawn@capitalf.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dawn_dobras@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ddobras@hbs.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Capital F"
+}

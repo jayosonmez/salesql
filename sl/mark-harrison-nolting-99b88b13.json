@@ -1,0 +1,33 @@
+{
+  "uuid": "5261d72f-426a-49c5-8905-c404b0c9756b",
+  "first_name": "Mark Harrison",
+  "last_name": "Nolting",
+  "full_name": "Mark Harrison Nolting",
+  "linkedin_url": "https://linkedin.com/in/mark-harrison-nolting-99b88b13",
+  "emails": [
+    {
+      "email": "mark.nolting@tivityhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "docnolting@cs.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mark.nolting@bastyr.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-869-5311",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tivity Health"
+}

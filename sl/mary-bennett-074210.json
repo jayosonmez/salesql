@@ -1,0 +1,16 @@
+{
+  "uuid": "4a0316b3-9974-4e2b-af7f-9655fc41f3e6",
+  "first_name": "Mary",
+  "last_name": "Bennett",
+  "full_name": "Mary Bennett",
+  "linkedin_url": "https://linkedin.com/in/mary-bennett-074210",
+  "emails": [
+    {
+      "email": "mary.bennett@mindspring.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

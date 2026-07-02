@@ -1,0 +1,21 @@
+{
+  "uuid": "ed929fbc-f242-4bdc-b2a6-a8207b238210",
+  "first_name": "Matthew",
+  "last_name": "Fortuin, CFA",
+  "full_name": "Matthew Fortuin, CFA",
+  "linkedin_url": "https://linkedin.com/in/matthew-fortuin-cfa-14038b8",
+  "emails": [
+    {
+      "email": "matt.fortuin@sunlife.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "matthew_fortuin@putnam.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Bain Capital Real Estate"
+}

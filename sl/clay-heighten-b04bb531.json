@@ -1,0 +1,28 @@
+{
+  "uuid": "db119c5e-6aef-4b4a-8595-3b4d96afb192",
+  "first_name": "clay",
+  "last_name": "heighten",
+  "full_name": "clay heighten",
+  "linkedin_url": "https://linkedin.com/in/clay-heighten-b04bb531",
+  "emails": [
+    {
+      "email": "clay.heighten@medicaledge.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clay.heighten@medicaledge.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 972-739-3001",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Medical Edge Healthcare Group, P.A."
+}

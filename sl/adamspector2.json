@@ -1,0 +1,16 @@
+{
+  "uuid": "0af9eddb-3a06-4c12-9ee8-a2af5a3eb622",
+  "first_name": "Adam",
+  "last_name": "Spector",
+  "full_name": "Adam Spector",
+  "linkedin_url": "https://linkedin.com/in/adamspector2",
+  "emails": [
+    {
+      "email": "aspec00@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Chore"
+}

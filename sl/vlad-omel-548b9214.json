@@ -1,0 +1,23 @@
+{
+  "uuid": "bbeb3367-a22c-44a8-b025-5be00b7750ab",
+  "first_name": "Vlad",
+  "last_name": "Omel",
+  "full_name": "Vlad Omel",
+  "linkedin_url": "https://linkedin.com/in/vlad-omel-548b9214",
+  "emails": [
+    {
+      "email": "vladomel@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-556-9352",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

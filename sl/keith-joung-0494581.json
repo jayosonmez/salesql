@@ -1,0 +1,46 @@
+{
+  "uuid": "8322596c-cda2-41c8-8317-41cdb3b30221",
+  "first_name": "Keith",
+  "last_name": "Joung",
+  "full_name": "Keith Joung",
+  "linkedin_url": "https://linkedin.com/in/keith-joung-0494581",
+  "emails": [
+    {
+      "email": "jjoung@partners.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "keith.joung@sequre-dx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joung@arenabio.works",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "keith.joung@chromamedicine.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "keith_joung@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kjoung@pairwise.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kjoung@nveloptx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Arena BioWorks"
+}

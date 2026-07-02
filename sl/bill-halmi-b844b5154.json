@@ -1,0 +1,17 @@
+{
+  "uuid": "4fe9ef7a-ecf2-4a5d-9afe-baac2c310933",
+  "first_name": "Bill",
+  "last_name": "Halmi",
+  "full_name": "Bill Halmi",
+  "linkedin_url": "https://linkedin.com/in/bill-halmi-b844b5154",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 231-487-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MindLab Partners - Medical Apps \"Efficiency for Docs ,Better Care for Patients\""
+}

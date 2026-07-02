@@ -1,0 +1,16 @@
+{
+  "uuid": "abef0f4e-aab7-47b7-8184-c857e449db3f",
+  "first_name": "Alice",
+  "last_name": "Laule",
+  "full_name": "Alice Laule",
+  "linkedin_url": "https://linkedin.com/in/alice-laule-2a668248",
+  "emails": [
+    {
+      "email": "alicelaule@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Luci's Little Luxuries and Flipside Skateshop"
+}

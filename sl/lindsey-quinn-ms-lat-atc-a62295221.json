@@ -1,0 +1,23 @@
+{
+  "uuid": "8b3fddca-e5c2-4005-8788-df72f7e94b29",
+  "first_name": "Lindsey",
+  "last_name": "Quinn, MS, LAT, ATC",
+  "full_name": "Lindsey Quinn, MS, LAT, ATC",
+  "linkedin_url": "https://linkedin.com/in/lindsey-quinn-ms-lat-atc-a62295221",
+  "emails": [
+    {
+      "email": "lquinn@gvh.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 215-453-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Grand View Health"
+}

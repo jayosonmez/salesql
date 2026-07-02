@@ -1,0 +1,43 @@
+{
+  "uuid": "12db9cf1-b40c-41ab-9fdf-46b78439ab19",
+  "first_name": "Edith",
+  "last_name": "Harbaugh",
+  "full_name": "Edith Harbaugh",
+  "linkedin_url": "https://linkedin.com/in/edithharbaugh",
+  "emails": [
+    {
+      "email": "edith@hmcinq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "edith@readwrite.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "edith@alchemistaccelerator.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "edith.harbaugh@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "edith@launchdarkly.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-579-3275",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "LaunchDarkly"
+}

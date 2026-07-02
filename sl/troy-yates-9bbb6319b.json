@@ -1,0 +1,16 @@
+{
+  "uuid": "dd6a4367-ba9b-4616-b234-7494af699164",
+  "first_name": "Troy",
+  "last_name": "Yates",
+  "full_name": "Troy Yates",
+  "linkedin_url": "https://linkedin.com/in/troy-yates-9bbb6319b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+965 2295 1000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Global Investment House"
+}

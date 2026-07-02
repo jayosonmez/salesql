@@ -1,0 +1,28 @@
+{
+  "uuid": "db21d0e3-9f09-4b16-a87e-97935ee545dc",
+  "first_name": "Aida",
+  "last_name": "Rezaie",
+  "full_name": "Aida Rezaie",
+  "linkedin_url": "https://linkedin.com/in/aidarezaie",
+  "emails": [
+    {
+      "email": "aida.rezaie@bannerhealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aida.rezaie@utah.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 970-352-4121",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Banner Health"
+}

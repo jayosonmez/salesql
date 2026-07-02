@@ -1,0 +1,23 @@
+{
+  "uuid": "01e2b7c5-8b06-48d3-90ee-e1808705ce8a",
+  "first_name": "Liwen",
+  "last_name": "Xu, MD MPhil",
+  "full_name": "Liwen Xu, MD MPhil",
+  "linkedin_url": "https://linkedin.com/in/liwen-xu-md-mphil-a0718873",
+  "emails": [
+    {
+      "email": "liwen.xu@permanente.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-608-0044",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kaiser Permanente - Southern California Permanente Medical Group Physician Careers"
+}

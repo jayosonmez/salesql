@@ -1,0 +1,23 @@
+{
+  "uuid": "2494b49a-fc19-4198-8e58-7d410ccf3010",
+  "first_name": "Trisha",
+  "last_name": "Yanduru",
+  "full_name": "Trisha Yanduru",
+  "linkedin_url": "https://linkedin.com/in/trisha-yanduru-697088205",
+  "emails": [
+    {
+      "email": "trisha@whittierhospital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 619-880-6545",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Laboratory for Eukaryote Pathogenesis, Drug Discovery and Chemical Biology at UCSD"
+}

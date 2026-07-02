@@ -1,0 +1,23 @@
+{
+  "uuid": "af4be54b-9f21-41b2-a0fe-341bfd4205f9",
+  "first_name": "Can",
+  "last_name": "Liu",
+  "full_name": "Can Liu",
+  "linkedin_url": "https://linkedin.com/in/can-liu-437727271",
+  "emails": [
+    {
+      "email": "cliu@moveworks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-421-3755",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Moveworks"
+}

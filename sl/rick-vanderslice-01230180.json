@@ -1,0 +1,23 @@
+{
+  "uuid": "b9a82edd-3e48-4500-b487-7554dab15488",
+  "first_name": "Rick",
+  "last_name": "Vanderslice",
+  "full_name": "Rick Vanderslice",
+  "linkedin_url": "https://linkedin.com/in/rick-vanderslice-01230180",
+  "emails": [
+    {
+      "email": "rick@hargray.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 843-686-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hargray Communications"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "77b57856-3d9e-4142-8898-156abb589ba1",
+  "first_name": "Steve",
+  "last_name": "Waters",
+  "full_name": "Steve Waters",
+  "linkedin_url": "https://linkedin.com/in/thestevewaters",
+  "emails": [
+    {
+      "email": "steve@findingyourcircle.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Social Circle"
+}

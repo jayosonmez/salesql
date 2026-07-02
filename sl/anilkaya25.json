@@ -1,0 +1,41 @@
+{
+  "uuid": "54c80dbc-63ef-4e9b-a1a2-ae6403c7797e",
+  "first_name": "Anıl",
+  "last_name": "Kaya",
+  "full_name": "Anıl Kaya",
+  "linkedin_url": "https://linkedin.com/in/anilkaya25",
+  "emails": [
+    {
+      "email": "anil.kaya@kobil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anil.kaya@kobil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anilkaya2591@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anil.kaya@volitanglobal.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anil@datafruit.us",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anil@losaltos-capital.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Los Altos Capital"
+}

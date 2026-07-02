@@ -1,0 +1,22 @@
+{
+  "uuid": "46a09a6c-3efd-4b98-9fcf-460211b2244c",
+  "first_name": "Caroline",
+  "last_name": "Woeffler",
+  "full_name": "Caroline Woeffler",
+  "linkedin_url": "https://linkedin.com/in/caroline-woeffler-1b435289",
+  "emails": [
+    {
+      "email": "woeffler.caroline@universite-lyon.fr",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 4 37 37 26 70",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Université de Lyon"
+}

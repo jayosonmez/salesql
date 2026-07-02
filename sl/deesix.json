@@ -1,0 +1,27 @@
+{
+  "uuid": "720d4b09-4183-4d4f-885c-4d023f94af25",
+  "first_name": "Dominic",
+  "last_name": "Preuss",
+  "full_name": "Dominic Preuss",
+  "linkedin_url": "https://linkedin.com/in/deesix",
+  "emails": [
+    {
+      "email": "dominic@dominicpreuss.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dominic@villagesql.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "9171954057",
+      "type": "Personal",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "VillageSQL"
+}

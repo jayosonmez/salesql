@@ -1,0 +1,17 @@
+{
+  "uuid": "41ec21cf-15b0-44d1-b898-cbee04ccd1ab",
+  "first_name": "Bilge",
+  "last_name": "H.",
+  "full_name": "Bilge H.",
+  "linkedin_url": "https://linkedin.com/in/bilgehatipoglu",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 346-244-7116",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "RoofStacks"
+}

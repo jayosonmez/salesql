@@ -1,0 +1,54 @@
+{
+  "uuid": "65efbdd7-ebce-42b9-bacd-69db22c02774",
+  "first_name": "Robert",
+  "last_name": "Hill",
+  "full_name": "Robert Hill",
+  "linkedin_url": "https://linkedin.com/in/robert-hill-5848aaa",
+  "emails": [
+    {
+      "email": "rjh7062@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "robhill@deloitte.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robert@sandiego.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "r.h@socialventurepartners.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rhill@lifescienceangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rhill@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-353-2678",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 408-541-1152",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Life Science Angels"
+}

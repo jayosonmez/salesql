@@ -1,0 +1,34 @@
+{
+  "uuid": "503da42f-5ad7-4cde-af7b-98b0ead965f4",
+  "first_name": "Shahid",
+  "last_name": "Bandarkar",
+  "full_name": "Shahid Bandarkar",
+  "linkedin_url": "https://linkedin.com/in/shahidbandarkar",
+  "emails": [
+    {
+      "email": "shahidbandarkar@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "shahid.bandarkar@bistasolutions.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-401-2332",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 858-401-2332",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bista Solutions Inc"
+}

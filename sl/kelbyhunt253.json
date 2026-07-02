@@ -1,0 +1,23 @@
+{
+  "uuid": "aafae1ac-b6a9-4398-800e-5b418a92d41d",
+  "first_name": "Kelby",
+  "last_name": "Hunt",
+  "full_name": "Kelby Hunt",
+  "linkedin_url": "https://linkedin.com/in/kelbyhunt253",
+  "emails": [
+    {
+      "email": "khunt@dukehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-684-8111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Duke University Health System"
+}

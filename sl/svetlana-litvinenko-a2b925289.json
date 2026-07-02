@@ -1,0 +1,17 @@
+{
+  "uuid": "1e43be8c-a7be-4379-ac91-5857d2d31e05",
+  "first_name": "Svetlana",
+  "last_name": "Litvinenko",
+  "full_name": "Svetlana Litvinenko",
+  "linkedin_url": "https://linkedin.com/in/svetlana-litvinenko-a2b925289",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+7 495 926-41-00",
+      "type": "Work",
+      "country_code": "RU",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GeekSource"
+}

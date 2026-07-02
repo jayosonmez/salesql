@@ -1,0 +1,48 @@
+{
+  "uuid": "41b37473-fbc1-4fcc-8665-ffbd21c37608",
+  "first_name": "Will",
+  "last_name": "Weisman",
+  "full_name": "Will Weisman",
+  "linkedin_url": "https://linkedin.com/in/willweisman",
+  "emails": [
+    {
+      "email": "wweisman@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "will@kittyhawk.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ww@sceye.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "will@geckomaterials.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wweisman@outcome.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "will@beltways.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-244-5641",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "KittyHawk"
+}

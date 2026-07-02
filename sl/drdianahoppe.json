@@ -1,0 +1,28 @@
+{
+  "uuid": "9a551dff-5a76-4d92-bc14-c4814efbc187",
+  "first_name": "Diana",
+  "last_name": "Hoppe, M.D.",
+  "full_name": "Diana Hoppe, M.D.",
+  "linkedin_url": "https://linkedin.com/in/drdianahoppe",
+  "emails": [
+    {
+      "email": "drdiana@drdianahoppe.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "h-d@nawbo.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 702-798-5156",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NAWBO Southern Nevada"
+}

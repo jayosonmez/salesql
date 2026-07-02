@@ -1,0 +1,29 @@
+{
+  "uuid": "5dd23ff6-1195-4955-b16c-9ccf87e0c038",
+  "first_name": "Andy",
+  "last_name": "Cohen, FAIA",
+  "full_name": "Andy Cohen, FAIA",
+  "linkedin_url": "https://linkedin.com/in/andy-cohen-faia",
+  "emails": [
+    {
+      "email": "andy-cohen@gensler.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 213-327-3610",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 415-433-3700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Gensler"
+}

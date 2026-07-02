@@ -1,0 +1,16 @@
+{
+  "uuid": "452e6da2-5180-429a-aa5a-a0d371bc6597",
+  "first_name": "Ann",
+  "last_name": "Harrington",
+  "full_name": "Ann Harrington",
+  "linkedin_url": "https://linkedin.com/in/ann-harrington-b4548929",
+  "emails": [
+    {
+      "email": "ann.harrington@att.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "EventForge LLC"
+}

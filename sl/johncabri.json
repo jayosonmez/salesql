@@ -1,0 +1,43 @@
+{
+  "uuid": "9304dae0-4244-443f-8a98-4fe54e7968e5",
+  "first_name": "John",
+  "last_name": "Cabri",
+  "full_name": "John Cabri",
+  "linkedin_url": "https://linkedin.com/in/johncabri",
+  "emails": [
+    {
+      "email": "jcabri@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "john.cabri@gigamein.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jcabri@ciphergraph.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jcabri@blueskyelearn.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john.cabri@beatrust.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 574-252-5662",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth Startup"
+}

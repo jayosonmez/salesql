@@ -1,0 +1,16 @@
+{
+  "uuid": "a2bb7853-1bf3-4076-86ee-3ce463d8d73f",
+  "first_name": "Steve",
+  "last_name": "Hess",
+  "full_name": "Steve Hess",
+  "linkedin_url": "https://linkedin.com/in/steve-hess-0287b0",
+  "emails": [
+    {
+      "email": "stevekhess@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "own firm"
+}

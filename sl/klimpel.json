@@ -1,0 +1,16 @@
+{
+  "uuid": "51c2c800-f65d-4304-8d5c-ff3cda7bf372",
+  "first_name": "Kurt",
+  "last_name": "Klimpel",
+  "full_name": "Kurt Klimpel",
+  "linkedin_url": "https://linkedin.com/in/klimpel",
+  "emails": [
+    {
+      "email": "kurt.klimpel@l-3com.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "NinthBio LLC"
+}

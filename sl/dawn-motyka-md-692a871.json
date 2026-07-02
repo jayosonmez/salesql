@@ -1,0 +1,28 @@
+{
+  "uuid": "aaf4a5c0-ea0f-4a91-9637-3f9b92ae4ba4",
+  "first_name": "Dawn",
+  "last_name": "Motyka, MD",
+  "full_name": "Dawn Motyka, MD",
+  "linkedin_url": "https://linkedin.com/in/dawn-motyka-md-692a871",
+  "emails": [
+    {
+      "email": "dawnmotyka@ifm.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dmotyka@pmgscc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-228-0622",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Institute for Functional Medicine"
+}

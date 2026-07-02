@@ -1,0 +1,39 @@
+{
+  "uuid": "453c5e09-e8c6-41a3-8e76-b0de41ccfa4c",
+  "first_name": "Gary",
+  "last_name": "Kremen",
+  "full_name": "Gary Kremen",
+  "linkedin_url": "https://linkedin.com/in/gkremen",
+  "emails": [
+    {
+      "email": "gkremen@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "gkremen@capgainsolutions.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "gkremen@hirschsecure.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-305-3052",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 408-256-3408",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Voter.vote"
+}

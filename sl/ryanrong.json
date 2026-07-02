@@ -1,0 +1,28 @@
+{
+  "uuid": "c4e70fc4-b2fc-48cb-b5b6-26ba5ef0a114",
+  "first_name": "Ryan",
+  "last_name": "Rong, Ph.D.",
+  "full_name": "Ryan Rong, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/ryanrong",
+  "emails": [
+    {
+      "email": "ryanrong@discover.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuerong@ufl.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 224-405-0900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Discover"
+}

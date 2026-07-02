@@ -1,0 +1,23 @@
+{
+  "uuid": "23af6f57-733e-44f5-b46b-690cfb484f14",
+  "first_name": "Aktaruzzaman",
+  "last_name": "Al Hossain",
+  "full_name": "Aktaruzzaman Al Hossain",
+  "linkedin_url": "https://linkedin.com/in/aktaruzzaman-al-hossain-54755010b",
+  "emails": [
+    {
+      "email": "aktaruzzaman.al@wolfspeed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-287-7888",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wolfspeed"
+}

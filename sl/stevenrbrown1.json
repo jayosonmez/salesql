@@ -1,0 +1,16 @@
+{
+  "uuid": "da61c892-f64e-4378-9bc6-1f0932f84d6f",
+  "first_name": "Steven",
+  "last_name": "Brown",
+  "full_name": "Steven Brown",
+  "linkedin_url": "https://linkedin.com/in/stevenrbrown1",
+  "emails": [
+    {
+      "email": "steve@ennisdale.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Moonpull"
+}

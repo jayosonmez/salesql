@@ -1,0 +1,16 @@
+{
+  "uuid": "c13eaa51-78ad-42e7-b132-218a64a77e99",
+  "first_name": "Ted",
+  "last_name": "Labuza",
+  "full_name": "Ted Labuza",
+  "linkedin_url": "https://linkedin.com/in/ted-labuza-a5b2154",
+  "emails": [
+    {
+      "email": "tplabuza@umn.edu",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Univ of Minnesota"
+}

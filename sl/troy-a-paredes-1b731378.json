@@ -1,0 +1,36 @@
+{
+  "uuid": "af07d513-7c65-4064-aa77-d2f7f67c7a55",
+  "first_name": "Troy A.",
+  "last_name": "Paredes",
+  "full_name": "Troy A. Paredes",
+  "linkedin_url": "https://linkedin.com/in/troy-a-paredes-1b731378",
+  "emails": [
+    {
+      "email": "troyaparedes@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "p.troy@strikeprotocols.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "t_paredes@inveniam.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "troy.paredes@camberview.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aparedes@apple.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Paredes Strategies LLC"
+}

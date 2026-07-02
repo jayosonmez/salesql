@@ -1,0 +1,23 @@
+{
+  "uuid": "ec8ab1dc-8cdb-46d7-9281-746ddf75be23",
+  "first_name": "Moosa",
+  "last_name": "Hassan",
+  "full_name": "Moosa Hassan",
+  "linkedin_url": "https://linkedin.com/in/syedmhassan",
+  "emails": [
+    {
+      "email": "syed.hassan@colorado.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-603-5427",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

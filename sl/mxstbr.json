@@ -1,0 +1,16 @@
+{
+  "uuid": "c4f4496e-506e-408c-8406-f8f95c54549b",
+  "first_name": "Max",
+  "last_name": "Stoiber",
+  "full_name": "Max Stoiber",
+  "linkedin_url": "https://linkedin.com/in/mxstbr",
+  "emails": [
+    {
+      "email": "max@openai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "OpenAI"
+}

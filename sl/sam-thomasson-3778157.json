@@ -1,0 +1,33 @@
+{
+  "uuid": "4ba11e67-f288-4295-a944-b06567401b1a",
+  "first_name": "Sam",
+  "last_name": "Thomasson",
+  "full_name": "Sam Thomasson",
+  "linkedin_url": "https://linkedin.com/in/sam-thomasson-3778157",
+  "emails": [
+    {
+      "email": "sam.thomasson@zoundshearing.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sam.thomasson@stryker.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sam.thomasson@medtronic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 905-690-5700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stryker"
+}

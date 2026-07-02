@@ -1,0 +1,16 @@
+{
+  "uuid": "ff84f388-4aaf-43d3-b556-01bcfb56ca32",
+  "first_name": "Francois",
+  "last_name": "Nuyts",
+  "full_name": "Francois Nuyts",
+  "linkedin_url": "https://linkedin.com/in/francois-nuyts-87082",
+  "emails": [
+    {
+      "email": "francois@nuyts.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Luda"
+}

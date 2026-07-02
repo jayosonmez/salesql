@@ -1,0 +1,48 @@
+{
+  "uuid": "59a7bf6e-c079-475d-a079-2f3b83014c70",
+  "first_name": "Ari",
+  "last_name": "Tulla",
+  "full_name": "Ari Tulla",
+  "linkedin_url": "https://linkedin.com/in/aritulla",
+  "emails": [
+    {
+      "email": "ari.tulla@techstars.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ari.tulla@primary.health",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ari@byfounders.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ari.tulla@luminarylifesciences.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aritulla@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ari.tulla@elo.health",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-307-0306",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Elo Health"
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "660821ec-79bb-47ca-b3ff-a21b668aef55",
+  "first_name": "David",
+  "last_name": "Bookspan",
+  "full_name": "David Bookspan",
+  "linkedin_url": "https://linkedin.com/in/davidbookspan",
+  "emails": [
+    {
+      "email": "david@aminopay.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bd@integralads.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dbookspan@monetate.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@dreamit.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dreamit Ventures"
+}

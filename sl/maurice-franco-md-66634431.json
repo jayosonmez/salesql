@@ -1,0 +1,28 @@
+{
+  "uuid": "0a51b2b9-1990-45d7-b19a-e125f9b06bdc",
+  "first_name": "Maurice",
+  "last_name": "Franco, MD",
+  "full_name": "Maurice Franco, MD",
+  "linkedin_url": "https://linkedin.com/in/maurice-franco-md-66634431",
+  "emails": [
+    {
+      "email": "maurice1950@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "maurice_md@healthtechcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-307-5203",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HealthTech Capital"
+}

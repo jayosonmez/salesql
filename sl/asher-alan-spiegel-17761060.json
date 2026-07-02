@@ -1,0 +1,46 @@
+{
+  "uuid": "4512f688-325b-43f2-b3f9-cc0d02b1918f",
+  "first_name": "Asher (Alan)",
+  "last_name": "Spiegel",
+  "full_name": "Asher (Alan) Spiegel",
+  "linkedin_url": "https://linkedin.com/in/asher-alan-spiegel-17761060",
+  "emails": [
+    {
+      "email": "aspiegel2626@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "asher@leaflet.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "asher@dogdrop.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "asher@tidy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "asher@seatboost.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "asher.spiegel@nowsta.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "asher@collectable.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Eternal Equity Solutions"
+}

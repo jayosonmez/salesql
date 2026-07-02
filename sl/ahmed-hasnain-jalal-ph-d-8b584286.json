@@ -1,0 +1,23 @@
+{
+  "uuid": "2e75b503-2c4b-4d3a-8bb2-10594a4e29fd",
+  "first_name": "Ahmed",
+  "last_name": "Hasnain Jalal, Ph.D.",
+  "full_name": "Ahmed Hasnain Jalal, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/ahmed-hasnain-jalal-ph-d-8b584286",
+  "emails": [
+    {
+      "email": "ahmed.hasnain@uvu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-863-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Utah Valley University"
+}

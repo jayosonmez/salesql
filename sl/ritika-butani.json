@@ -1,0 +1,43 @@
+{
+  "uuid": "a8546173-a093-41ca-91a6-ee8ee06d58b9",
+  "first_name": "Ritika",
+  "last_name": "Butani",
+  "full_name": "Ritika Butani",
+  "linkedin_url": "https://linkedin.com/in/ritika-butani",
+  "emails": [
+    {
+      "email": "ritikab@remitly.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ritika@operatorcollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ritika.butani@endeavor.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ritika@cutanddry.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ritikabutani@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-535-6152",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Remitly"
+}

@@ -1,0 +1,27 @@
+{
+  "uuid": "463bb0b3-291a-4515-8331-547483f1b870",
+  "first_name": "Lakshmi",
+  "last_name": "Kandari",
+  "full_name": "Lakshmi Kandari",
+  "linkedin_url": "https://linkedin.com/in/lakshmicella",
+  "emails": [
+    {
+      "email": "clakshmi.narasamamba@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "lakshmi.kandari@bms.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+45 45 93 05 06",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bristol Myers Squibb"
+}

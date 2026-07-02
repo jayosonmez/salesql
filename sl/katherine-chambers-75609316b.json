@@ -1,0 +1,28 @@
+{
+  "uuid": "c921baa7-856d-48a4-8435-ead06158ff84",
+  "first_name": "Katherine",
+  "last_name": "Chambers",
+  "full_name": "Katherine Chambers",
+  "linkedin_url": "https://linkedin.com/in/katherine-chambers-75609316b",
+  "emails": [
+    {
+      "email": "kchambers@temple.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "katherine@facebook.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 215-707-3656",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Temple University - Lewis Katz School of Medicine"
+}

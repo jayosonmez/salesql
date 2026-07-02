@@ -1,0 +1,43 @@
+{
+  "uuid": "f32fcf60-f6d2-4c31-901a-51125b24bbf6",
+  "first_name": "Charlene",
+  "last_name": "Li",
+  "full_name": "Charlene Li",
+  "linkedin_url": "https://linkedin.com/in/charleneli",
+  "emails": [
+    {
+      "email": "charlene_li@moh.gov.sg",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "charlene@altimetergroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cli@forrester.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "c.l@ypo.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "charlene@charleneli.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-203-9597",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Charlene Li Keynote Speaker & Strategic Advisor"
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "961756e0-06e4-4d9f-91ba-2bf479a364d4",
+  "first_name": "Mike",
+  "last_name": "Lincoln",
+  "full_name": "Mike Lincoln",
+  "linkedin_url": "https://linkedin.com/in/mike-lincoln-b5262",
+  "emails": [
+    {
+      "email": "mlincoln@cooley.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mlincoln@fusfoundation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mike@mindsharenetwork.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 703-407-1181",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 434-220-4993",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Focused Ultrasound Foundation"
+}

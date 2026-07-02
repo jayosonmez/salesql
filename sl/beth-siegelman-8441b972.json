@@ -1,0 +1,23 @@
+{
+  "uuid": "8c49a354-2650-4aa8-987a-47d4375f74b8",
+  "first_name": "Beth",
+  "last_name": "Siegelman",
+  "full_name": "Beth Siegelman",
+  "linkedin_url": "https://linkedin.com/in/beth-siegelman-8441b972",
+  "emails": [
+    {
+      "email": "beth@freespira.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-735-8995",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Freespira"
+}

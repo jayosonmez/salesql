@@ -1,0 +1,16 @@
+{
+  "uuid": "7f4d648c-9f43-409d-8d85-1dd562f98de0",
+  "first_name": "Vanessa",
+  "last_name": "Sims",
+  "full_name": "Vanessa Sims",
+  "linkedin_url": "https://linkedin.com/in/vanessa-sims-bb67ba172",
+  "emails": [
+    {
+      "email": "vanessa.sims@farmworks.africa",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "FarmWorks Agriculture"
+}

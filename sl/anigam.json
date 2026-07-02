@@ -1,0 +1,41 @@
+{
+  "uuid": "425cffe7-5ccd-49d2-82c0-3caeb5b33684",
+  "first_name": "Anu (Anurag)",
+  "last_name": "Nigam",
+  "full_name": "Anu (Anurag) Nigam",
+  "linkedin_url": "https://linkedin.com/in/anigam",
+  "emails": [
+    {
+      "email": "anu@enjoythework.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anu@sandhillangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anu@buzzbox.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anu@bestappsmarket.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anu@getrevi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anu@duecourse.coach",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Bold Heart Advising"
+}

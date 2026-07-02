@@ -1,0 +1,17 @@
+{
+  "uuid": "9229f744-a8c2-403f-a246-a76668e59aba",
+  "first_name": "Franziska",
+  "last_name": "Zosel",
+  "full_name": "Franziska Zosel",
+  "linkedin_url": "https://linkedin.com/in/franziska-zosel",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+45 44 44 88 88",
+      "type": "Work",
+      "country_code": "DK",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Novo Nordisk"
+}

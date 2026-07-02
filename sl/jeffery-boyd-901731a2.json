@@ -1,0 +1,16 @@
+{
+  "uuid": "a9ce0e88-4ad1-4447-9174-87ad0e3e49a8",
+  "first_name": "Jeffery",
+  "last_name": "Boyd",
+  "full_name": "Jeffery Boyd",
+  "linkedin_url": "https://linkedin.com/in/jeffery-boyd-901731a2",
+  "emails": [
+    {
+      "email": "jeff.boyd@priceline.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Brothers Brook, LLC"
+}

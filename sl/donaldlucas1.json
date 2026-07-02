@@ -1,0 +1,49 @@
+{
+  "uuid": "f23b3c0c-7782-4eef-9ab4-d2894d6e7330",
+  "first_name": "Donald",
+  "last_name": "Lucas",
+  "full_name": "Donald Lucas",
+  "linkedin_url": "https://linkedin.com/in/donaldlucas1",
+  "emails": [
+    {
+      "email": "d-lucas@truebill.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "donald.lucas@callsign.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "don@lucasvg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "donald@kognos.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "donald@finicast.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-543-3300",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-543-3300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lucas Venture Group"
+}

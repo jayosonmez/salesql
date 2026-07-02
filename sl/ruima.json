@@ -1,0 +1,46 @@
+{
+  "uuid": "885dd11d-68ff-4bef-9536-53b1090e9f08",
+  "first_name": "Rui",
+  "last_name": "Ma",
+  "full_name": "Rui Ma",
+  "linkedin_url": "https://linkedin.com/in/ruima",
+  "emails": [
+    {
+      "email": "miss.rui.ma@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rui@startupgrind.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rui@euzen.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mar@unicef.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ruima@triller.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rui@pandaily.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rui.ma@speaklyai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Tech Buzz China"
+}

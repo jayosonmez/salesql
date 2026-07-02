@@ -1,0 +1,16 @@
+{
+  "uuid": "35bdf907-dcb8-4c55-bd35-3dc0a43e9d00",
+  "first_name": "Tom",
+  "last_name": "Huseby",
+  "full_name": "Tom Huseby",
+  "linkedin_url": "https://linkedin.com/in/tom-huseby-baa6145b",
+  "emails": [
+    {
+      "email": "tom@seapointventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "SeaPoint Ventures"
+}

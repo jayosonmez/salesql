@@ -1,0 +1,17 @@
+{
+  "uuid": "6bf3c8b3-5689-4198-9b02-60f71449177a",
+  "first_name": "Lisbeth",
+  "last_name": "McKinnon MD",
+  "full_name": "Lisbeth McKinnon MD",
+  "linkedin_url": "https://linkedin.com/in/lisbeth-mckinnon-md-7528077a",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 800-967-2289",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ob Hospitalist Group"
+}

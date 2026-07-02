@@ -1,0 +1,53 @@
+{
+  "uuid": "ae5648e0-904a-4a9c-8511-9285f0a18af7",
+  "first_name": "Travis",
+  "last_name": "Katz",
+  "full_name": "Travis Katz",
+  "linkedin_url": "https://linkedin.com/in/traviskatz",
+  "emails": [
+    {
+      "email": "travis@gogobot.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "traviskatz@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "traviskatz@trip.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "travis@onplan.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "travis@cscale.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "travis@aurahealth.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "travis@youtube.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-253-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "YouTube"
+}

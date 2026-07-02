@@ -1,0 +1,16 @@
+{
+  "uuid": "d495ebf9-78ff-4ae2-aaeb-6dfa1211f7f0",
+  "first_name": "Gilbert",
+  "last_name": "Godin",
+  "full_name": "Gilbert Godin",
+  "linkedin_url": "https://linkedin.com/in/gilbert-godin-1159357",
+  "emails": [
+    {
+      "email": "g_godin@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kingsbarn Ventures LLC"
+}

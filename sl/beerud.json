@@ -1,0 +1,46 @@
+{
+  "uuid": "764c4399-fc75-4fc6-a768-0f383a82ec48",
+  "first_name": "Beerud",
+  "last_name": "Sheth",
+  "full_name": "Beerud Sheth",
+  "linkedin_url": "https://linkedin.com/in/beerud",
+  "emails": [
+    {
+      "email": "beerud@iitbombay.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "beerudsheth@upwork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "beerud.sheth@ml.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "beerud@webaroo.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "beerud@teamchat.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "beerud@gupshup.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "beerud@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "IIT Bombay Heritage Foundation"
+}

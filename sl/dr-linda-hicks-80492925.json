@@ -1,0 +1,33 @@
+{
+  "uuid": "8bc54479-c942-4a8f-b222-7bc94798cc26",
+  "first_name": "Dr. Linda",
+  "last_name": "Hicks",
+  "full_name": "Dr. Linda Hicks",
+  "linkedin_url": "https://linkedin.com/in/dr-linda-hicks-80492925",
+  "emails": [
+    {
+      "email": "dhicks@globaladvisers.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "d.hicks@globaladvisers.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joneseyhln@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-832-8514",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Genesis"
+}

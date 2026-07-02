@@ -1,0 +1,43 @@
+{
+  "uuid": "f4633ce2-577e-48ee-b3dc-c235df3edba8",
+  "first_name": "Steven",
+  "last_name": "Sinofsky",
+  "full_name": "Steven Sinofsky",
+  "linkedin_url": "https://linkedin.com/in/sinofsky",
+  "emails": [
+    {
+      "email": "steven@a16z.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "stevesi@microsoft.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steven.sinofsky@everlaw.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steven.sinofsky@tanium.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ssinofsky@box.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 844-383-7529",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Everlaw"
+}

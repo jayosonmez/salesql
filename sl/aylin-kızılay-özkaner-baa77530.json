@@ -1,0 +1,28 @@
+{
+  "uuid": "b0552390-6dae-4dc6-95a1-b1d631faeb67",
+  "first_name": "Aylin",
+  "last_name": "Kızılay Özkaner",
+  "full_name": "Aylin Kızılay Özkaner",
+  "linkedin_url": "https://linkedin.com/in/aylin-kızılay-özkaner-baa77530",
+  "emails": [
+    {
+      "email": "aylin.ozkaner@opetfuchs.com.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amateurinlife@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 216 522 69 00",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Opet Fuchs"
+}

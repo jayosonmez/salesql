@@ -1,0 +1,23 @@
+{
+  "uuid": "923a1ba2-9759-48f0-b75c-88932cacebcf",
+  "first_name": "Calvin",
+  "last_name": "Maxwell",
+  "full_name": "Calvin Maxwell",
+  "linkedin_url": "https://linkedin.com/in/calvin-maxwell-87b305193",
+  "emails": [
+    {
+      "email": "calvin@self.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 215-496-9610",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SELF Magazine"
+}

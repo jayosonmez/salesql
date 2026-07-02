@@ -1,0 +1,34 @@
+{
+  "uuid": "4ed84173-4511-4a4e-9c42-65f1811389cc",
+  "first_name": "Dr. John",
+  "last_name": "Foley",
+  "full_name": "Dr. John Foley",
+  "linkedin_url": "https://linkedin.com/in/drjohnsfoley",
+  "emails": [
+    {
+      "email": "john@bodycures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "drjohn@nutritionalhealingcenters.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-455-0099",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 914-455-0099",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Dr. John Foley"
+}

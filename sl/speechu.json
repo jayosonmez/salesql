@@ -1,0 +1,53 @@
+{
+  "uuid": "08b38207-cc5a-4bb1-aa5c-ddc7a8265913",
+  "first_name": "Sundeep",
+  "last_name": "Peechu",
+  "full_name": "Sundeep Peechu",
+  "linkedin_url": "https://linkedin.com/in/speechu",
+  "emails": [
+    {
+      "email": "peechu@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sp@bitpay.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sundeep.peechu@prenuvo.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sundeep@felicis.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sundeep@mercor.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sundeep@picnichealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sundeep@thzcorp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-391-6035",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Felicis"
+}

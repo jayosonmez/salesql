@@ -1,0 +1,16 @@
+{
+  "uuid": "abe71fe5-bde6-4408-852f-61934a603a43",
+  "first_name": "marvin",
+  "last_name": "schneider",
+  "full_name": "marvin schneider",
+  "linkedin_url": "https://linkedin.com/in/marvin-schneider-7b0bb670",
+  "emails": [
+    {
+      "email": "mcs@mcsfp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "schneider family practice"
+}

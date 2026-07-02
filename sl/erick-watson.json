@@ -1,0 +1,65 @@
+{
+  "uuid": "2e733112-85e6-49c2-a3f0-d7f6047ffeb3",
+  "first_name": "Erick",
+  "last_name": "W.",
+  "full_name": "Erick W.",
+  "linkedin_url": "https://linkedin.com/in/erick-watson",
+  "emails": [
+    {
+      "email": "erickwa@msn.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "deals@sproutvest.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "erickwatson@google.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "linkedin@sproutvest.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "erick.watson@toptal.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "erick@lftechnology.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "erick@sproutvest.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 425-894-3301",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 425-894-3301",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 425-894-3301",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SproutVest"
+}

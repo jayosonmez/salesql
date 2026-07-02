@@ -1,0 +1,28 @@
+{
+  "uuid": "71385097-4a2a-4172-bb4f-f4c039abe8aa",
+  "first_name": "Mark",
+  "last_name": "Hager",
+  "full_name": "Mark Hager",
+  "linkedin_url": "https://linkedin.com/in/mark-hager-2359a37a",
+  "emails": [
+    {
+      "email": "mark.hager@brightspeed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark@exactis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 386-283-5060",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Exactis"
+}

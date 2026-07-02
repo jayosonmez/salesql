@@ -1,0 +1,43 @@
+{
+  "uuid": "0941f4cf-a89f-4870-b5ff-e415f06ce41c",
+  "first_name": "Matt",
+  "last_name": "Matros",
+  "full_name": "Matt Matros",
+  "linkedin_url": "https://linkedin.com/in/mattmatros",
+  "emails": [
+    {
+      "email": "matt_matros@mckinsey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "matt@ncc.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "matt@mulecity.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "thealchemist1979@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "matt@proteinbarchicago.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-894-3626",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mule City Specialty Feeds"
+}

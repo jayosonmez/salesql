@@ -1,0 +1,17 @@
+{
+  "uuid": "d7c97d8f-55b0-44d3-95b9-0a79ffb16b41",
+  "first_name": "Romelle",
+  "last_name": "Jones Maloney",
+  "full_name": "Romelle Jones Maloney",
+  "linkedin_url": "https://linkedin.com/in/romelle-jones-maloney-590577138",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 203-688-2333",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Yale New Haven Health"
+}

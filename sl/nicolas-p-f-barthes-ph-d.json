@@ -1,0 +1,22 @@
+{
+  "uuid": "c396cac2-64dc-485c-807b-64b98e6c5a9d",
+  "first_name": "Nicolas P. F.",
+  "last_name": "Barthes, PhD",
+  "full_name": "Nicolas P. F. Barthes, PhD",
+  "linkedin_url": "https://linkedin.com/in/nicolas-p-f-barthes-ph-d",
+  "emails": [
+    {
+      "email": "nicolas.barthes@randstad.ch",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+41 58 201 48 60",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Randstad Switzerland"
+}

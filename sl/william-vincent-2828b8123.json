@@ -1,0 +1,17 @@
+{
+  "uuid": "c22467cf-b233-42f9-a962-1dbd973a9b2e",
+  "first_name": "William",
+  "last_name": "Vincent",
+  "full_name": "William Vincent",
+  "linkedin_url": "https://linkedin.com/in/william-vincent-2828b8123",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 626-796-9259",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pacific Pediatric Cardiology"
+}

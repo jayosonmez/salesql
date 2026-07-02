@@ -1,0 +1,48 @@
+{
+  "uuid": "f774db80-1000-449f-9693-9b9e0284c0f3",
+  "first_name": "Paul",
+  "last_name": "H.",
+  "full_name": "Paul H.",
+  "linkedin_url": "https://linkedin.com/in/heywoodpaul",
+  "emails": [
+    {
+      "email": "paul_heywood@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "paul@ipinfo.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "paul@york.ie",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "paul@relativephase.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "paul.heywood@uk.clara.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "paul@timely.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 7506 111991",
+      "type": "Personal",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IPinfo"
+}

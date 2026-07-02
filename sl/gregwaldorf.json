@@ -1,0 +1,43 @@
+{
+  "uuid": "bad28dc3-fc40-4973-b323-d6b99de1cfe2",
+  "first_name": "Greg",
+  "last_name": "Waldorf",
+  "full_name": "Greg Waldorf",
+  "linkedin_url": "https://linkedin.com/in/gregwaldorf",
+  "emails": [
+    {
+      "email": "greg.waldorf@virtahealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gregw@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "greg.waldorf@2go.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "gwaldorf@tpg.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "glw@waldorf.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-723-2146",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stanford University Graduate School of Business"
+}

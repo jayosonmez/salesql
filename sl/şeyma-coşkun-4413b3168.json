@@ -1,0 +1,22 @@
+{
+  "uuid": "e612770f-c99b-4198-9264-9c7df150c7df",
+  "first_name": "Seyma",
+  "last_name": "Coskun",
+  "full_name": "Seyma Coskun",
+  "linkedin_url": "https://linkedin.com/in/şeyma-coşkun-4413b3168",
+  "emails": [
+    {
+      "email": "scoskun@tecnicasreunidas.es",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+34 915 92 03 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tecnicas Reunidas"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "31033c53-9b31-4006-b83a-772f22f89e71",
+  "first_name": "Nicholas",
+  "last_name": "Ryan",
+  "full_name": "Nicholas Ryan",
+  "linkedin_url": "https://linkedin.com/in/nicholas-ryan-7a7069ab",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 502-629-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Norton Healthcare"
+}

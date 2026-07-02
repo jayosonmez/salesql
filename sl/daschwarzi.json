@@ -1,0 +1,28 @@
+{
+  "uuid": "3316b6b5-9f9a-4a75-8f1e-1e590a2fa6dc",
+  "first_name": "David",
+  "last_name": "Schwarz",
+  "full_name": "David Schwarz",
+  "linkedin_url": "https://linkedin.com/in/daschwarzi",
+  "emails": [
+    {
+      "email": "david.a.schwarz.i@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "david.schwarz@upr.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-848-1230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "TRIPP, Inc."
+}

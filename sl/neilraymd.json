@@ -1,0 +1,28 @@
+{
+  "uuid": "0e6da3de-1a9b-4d53-ad0c-4015bac60286",
+  "first_name": "Neil",
+  "last_name": "Ray MD, MBA, MMCi",
+  "full_name": "Neil Ray MD, MBA, MMCi",
+  "linkedin_url": "https://linkedin.com/in/neilraymd",
+  "emails": [
+    {
+      "email": "nray@dukehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nray@dukehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-684-8111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Duke Health Integrated Practice"
+}

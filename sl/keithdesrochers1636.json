@@ -1,0 +1,28 @@
+{
+  "uuid": "81fbe78e-c012-4882-8492-da32459606bc",
+  "first_name": "Keith",
+  "last_name": "DesRochers",
+  "full_name": "Keith DesRochers",
+  "linkedin_url": "https://linkedin.com/in/keithdesrochers1636",
+  "emails": [
+    {
+      "email": "keith@bluewavemedicine.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "keithdesrochers@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-339-2692",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BlueWave Medicine"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "cfa7bbe8-d10e-4ec0-bb2e-df444a8685f1",
+  "first_name": "Jessica",
+  "last_name": "Wu-Woods",
+  "full_name": "Jessica Wu-Woods",
+  "linkedin_url": "https://linkedin.com/in/jessica-wu-woods",
+  "emails": [
+    {
+      "email": "jessica.wu-woods@ucr.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 951-827-1012",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Riverside"
+}

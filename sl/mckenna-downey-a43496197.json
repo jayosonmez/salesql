@@ -1,0 +1,23 @@
+{
+  "uuid": "292501dc-1022-4c6d-9cf2-6519989c0490",
+  "first_name": "McKenna",
+  "last_name": "Downey",
+  "full_name": "McKenna Downey",
+  "linkedin_url": "https://linkedin.com/in/mckenna-downey-a43496197",
+  "emails": [
+    {
+      "email": "mckenna.downey@gatech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-894-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Georgia Institute of Technology"
+}

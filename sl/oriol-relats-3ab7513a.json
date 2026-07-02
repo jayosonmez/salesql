@@ -1,0 +1,23 @@
+{
+  "uuid": "42f13472-7ce0-4672-b73e-e733b35ce11c",
+  "first_name": "Oriol",
+  "last_name": "Relats",
+  "full_name": "Oriol Relats",
+  "linkedin_url": "https://linkedin.com/in/oriol-relats-3ab7513a",
+  "emails": [
+    {
+      "email": "orelats@relats.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+34 938 62 75 10",
+      "type": "Work",
+      "country_code": "ES",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Relats"
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "b32042f6-2fc9-4ff9-862e-496eb7387404",
+  "first_name": "John",
+  "last_name": "Zink",
+  "full_name": "John Zink",
+  "linkedin_url": "https://linkedin.com/in/johnzink",
+  "emails": [
+    {
+      "email": "john.zink@fanhealthnetwork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john.zink@vivoinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john@avalonstaffingsolutions.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 925-659-8115",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 925-626-7138",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IT Avalon"
+}

@@ -1,0 +1,49 @@
+{
+  "uuid": "0b18e131-e964-4774-8633-3cc024c3e8ed",
+  "first_name": "Viviane",
+  "last_name": "Moreau",
+  "full_name": "Viviane Moreau",
+  "linkedin_url": "https://linkedin.com/in/viviane-moreau-96b34456",
+  "emails": [
+    {
+      "email": "v.moreau92@free.fr",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "viviane@altitude-business.fr",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "viviane.moreau@business-angels.info",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "viviane.moreau@ensae.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "viviane.moreau@centralesupelec.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 6 95 72 48 99",
+      "type": "Personal",
+      "country_code": "FR",
+      "is_valid": true
+    },
+    {
+      "phone": "+33 1 75 31 60 00",
+      "type": "Work",
+      "country_code": "FR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ENSAE Paris"
+}

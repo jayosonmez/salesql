@@ -1,0 +1,28 @@
+{
+  "uuid": "ad83d291-0031-46b1-b719-a9a992b49285",
+  "first_name": "Chandu",
+  "last_name": "Damavarapu, MD, MHA",
+  "full_name": "Chandu Damavarapu, MD, MHA",
+  "linkedin_url": "https://linkedin.com/in/cdamavarapu",
+  "emails": [
+    {
+      "email": "chandu@epi.health",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cdamavarapu@signifyhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-984-5121",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Signify Health"
+}

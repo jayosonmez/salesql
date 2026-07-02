@@ -1,0 +1,17 @@
+{
+  "uuid": "bf552e3f-7e00-46e1-b5be-c5c9829b7470",
+  "first_name": "Maryann",
+  "last_name": "S.",
+  "full_name": "Maryann S.",
+  "linkedin_url": "https://linkedin.com/in/maryann-s-46954554",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 732-557-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "RWJBarnabas Health Medical Group"
+}

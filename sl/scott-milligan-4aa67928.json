@@ -1,0 +1,39 @@
+{
+  "uuid": "59a647c8-d5fd-4a01-b4a1-6a4cdd4fcc1a",
+  "first_name": "Scott",
+  "last_name": "Milligan",
+  "full_name": "Scott Milligan",
+  "linkedin_url": "https://linkedin.com/in/scott-milligan-4aa67928",
+  "emails": [
+    {
+      "email": "scott@skinio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "smilligan@petcureoncology.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "smilligan@accelitech.biz",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-622-3301",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 855-754-6400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SkinIO"
+}

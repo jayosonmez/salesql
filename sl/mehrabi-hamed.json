@@ -1,0 +1,23 @@
+{
+  "uuid": "4562dbfe-52e5-4498-98f5-1b95efdd805e",
+  "first_name": "Hamed",
+  "last_name": "Mehrabi",
+  "full_name": "Hamed Mehrabi",
+  "linkedin_url": "https://linkedin.com/in/mehrabi-hamed",
+  "emails": [
+    {
+      "email": "hamed.mehrabi@northwestern.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-491-3741",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northwestern University"
+}

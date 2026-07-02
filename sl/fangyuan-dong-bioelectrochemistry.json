@@ -1,0 +1,17 @@
+{
+  "uuid": "ff364dfa-5e48-4fd6-adf6-729031d0d23c",
+  "first_name": "Fangyuan",
+  "last_name": "D.",
+  "full_name": "Fangyuan D.",
+  "linkedin_url": "https://linkedin.com/in/fangyuan-dong-bioelectrochemistry",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 781-622-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Thermo Fisher Scientific"
+}

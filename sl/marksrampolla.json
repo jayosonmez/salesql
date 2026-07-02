@@ -1,0 +1,56 @@
+{
+  "uuid": "8bfcfba6-764a-4539-ab67-b2036aefbf38",
+  "first_name": "Mark",
+  "last_name": "Rampolla",
+  "full_name": "Mark Rampolla",
+  "linkedin_url": "https://linkedin.com/in/marksrampolla",
+  "emails": [
+    {
+      "email": "mark@zico.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "msrampolla@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mark.rampolla@beanfields.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rampolla-m@flyingembers.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mark@powerplantvc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mark@rampollaventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mark@liveowyn.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mark@systmfoods.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark.rampolla@drinkpartake.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "GroundForce Capital"
+}

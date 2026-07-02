@@ -1,0 +1,17 @@
+{
+  "uuid": "5730889e-ca17-4e71-89aa-2e7362b3ca2a",
+  "first_name": "James",
+  "last_name": "Lemire, MD",
+  "full_name": "James Lemire, MD",
+  "linkedin_url": "https://linkedin.com/in/james-lemire-md-a1938858",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 352-291-9459",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lemire Clinic - Ocala, Florida"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "33864036-a487-4d7a-9db4-c585814e744f",
+  "first_name": "berestrand",
+  "last_name": "williams",
+  "full_name": "berestrand williams",
+  "linkedin_url": "https://linkedin.com/in/berestrand-williams-81959256",
+  "emails": [
+    {
+      "email": "berestrand.williams@ow.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-445-7272",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Concentra"
+}

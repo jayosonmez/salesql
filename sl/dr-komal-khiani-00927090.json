@@ -1,0 +1,16 @@
+{
+  "uuid": "35c8f4fa-5399-4cb4-9974-b5a57ac833b6",
+  "first_name": "Dr. Komal",
+  "last_name": "Khiani",
+  "full_name": "Dr. Komal Khiani",
+  "linkedin_url": "https://linkedin.com/in/dr-komal-khiani-00927090",
+  "emails": [
+    {
+      "email": "komalkhiani@maximus.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lolien Aesthetics and Wellness"
+}

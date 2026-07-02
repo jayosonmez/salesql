@@ -1,0 +1,16 @@
+{
+  "uuid": "9f64724e-2479-4f44-ad67-a762efd9ec84",
+  "first_name": "Michael",
+  "last_name": "Reinisch",
+  "full_name": "Michael Reinisch",
+  "linkedin_url": "https://linkedin.com/in/michael-reinisch",
+  "emails": [
+    {
+      "email": "michael.reinisch@bakertilly.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Baker Tilly US"
+}

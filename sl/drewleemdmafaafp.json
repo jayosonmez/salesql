@@ -1,0 +1,33 @@
+{
+  "uuid": "30d74abf-0f18-42ad-9fc8-9fd9e3b14dc0",
+  "first_name": "Drew",
+  "last_name": "Lee MD, MA, FAAFP, AFC® ",
+  "full_name": "Drew Lee MD, MA, FAAFP, AFC® ",
+  "linkedin_url": "https://linkedin.com/in/drewleemdmafaafp",
+  "emails": [
+    {
+      "email": "drew.lee@dmu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "drew.lee@rosalindfranklin.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dlee15@lumc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-578-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Advocate Aurora Health"
+}

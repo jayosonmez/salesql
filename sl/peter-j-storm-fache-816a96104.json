@@ -1,0 +1,23 @@
+{
+  "uuid": "e8bce950-7485-49af-827c-cf2a4305b6d6",
+  "first_name": "Peter J.",
+  "last_name": "Storm, FACHE",
+  "full_name": "Peter J. Storm, FACHE",
+  "linkedin_url": "https://linkedin.com/in/peter-j-storm-fache-816a96104",
+  "emails": [
+    {
+      "email": "peter.storm@va.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 844-456-5208",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "U.S. Department of Veterans Affairs"
+}

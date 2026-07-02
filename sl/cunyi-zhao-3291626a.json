@@ -1,0 +1,23 @@
+{
+  "uuid": "50c4e392-d112-4de9-b38e-84bf7ad9fd43",
+  "first_name": "Cunyi",
+  "last_name": "Zhao",
+  "full_name": "Cunyi Zhao",
+  "linkedin_url": "https://linkedin.com/in/cunyi-zhao-3291626a",
+  "emails": [
+    {
+      "email": "czhao@ucdavis.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 530-752-1011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Davis"
+}

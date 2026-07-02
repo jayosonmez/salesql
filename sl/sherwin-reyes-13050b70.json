@@ -1,0 +1,23 @@
+{
+  "uuid": "4736298a-a2d0-438a-8234-412c75eceace",
+  "first_name": "Sherwin",
+  "last_name": "Reyes",
+  "full_name": "Sherwin Reyes",
+  "linkedin_url": "https://linkedin.com/in/sherwin-reyes-13050b70",
+  "emails": [
+    {
+      "email": "sreyes@miami.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-243-3234",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FEUNRMF"
+}

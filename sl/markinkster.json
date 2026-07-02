@@ -1,0 +1,38 @@
+{
+  "uuid": "eaf182bd-dc6f-4290-93bb-c4821e203851",
+  "first_name": "Mark",
+  "last_name": "Inkster",
+  "full_name": "Mark Inkster",
+  "linkedin_url": "https://linkedin.com/in/markinkster",
+  "emails": [
+    {
+      "email": "inknet@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mark.inkster@asiasustainabilityangels.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mark.inkster@antler.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark_inkster@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-495-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard University"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "cb8b259c-b27a-4193-9e08-5fc5f3a4082a",
+  "first_name": "Yuri",
+  "last_name": "Makarov",
+  "full_name": "Yuri Makarov",
+  "linkedin_url": "https://linkedin.com/in/yuri-makarov-9a845012",
+  "emails": [
+    {
+      "email": "yuri.makarov@semitech.us",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Nitride Crystals, Inc."
+}

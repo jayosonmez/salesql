@@ -1,0 +1,17 @@
+{
+  "uuid": "af61ce13-068a-48cb-be07-fa5284439897",
+  "first_name": "Shyam",
+  "last_name": "M.",
+  "full_name": "Shyam M.",
+  "linkedin_url": "https://linkedin.com/in/shyammurali91",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 800-789-7366",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Penn Medicine, University of Pennsylvania Health System"
+}

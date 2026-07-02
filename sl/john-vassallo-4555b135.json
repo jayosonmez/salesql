@@ -1,0 +1,28 @@
+{
+  "uuid": "eef565d4-fe07-4d84-9034-d7d203c1c7b6",
+  "first_name": "John",
+  "last_name": "Vassallo",
+  "full_name": "John Vassallo",
+  "linkedin_url": "https://linkedin.com/in/john-vassallo-4555b135",
+  "emails": [
+    {
+      "email": "jvassallo@floridaeyespecialists.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "veidrv@cs.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 904-564-2020",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Self-employed"
+}

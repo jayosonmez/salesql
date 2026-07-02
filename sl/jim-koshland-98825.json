@@ -1,0 +1,16 @@
+{
+  "uuid": "a45f9175-f1af-4e66-bd40-fa99a28b583f",
+  "first_name": "Jim",
+  "last_name": "Koshland",
+  "full_name": "Jim Koshland",
+  "linkedin_url": "https://linkedin.com/in/jim-koshland-98825",
+  "emails": [
+    {
+      "email": "jim.koshland@dlapiper.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "J-Ventures Fund"
+}

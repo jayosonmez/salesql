@@ -1,0 +1,16 @@
+{
+  "uuid": "ef11008b-0ae5-484d-bc66-91d497717d07",
+  "first_name": "Mehmet",
+  "last_name": "Turhan",
+  "full_name": "Mehmet Turhan",
+  "linkedin_url": "https://linkedin.com/in/mehmet-turhan26",
+  "emails": [
+    {
+      "email": "mehmet@korrogo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Korrogo IT Staffing"
+}

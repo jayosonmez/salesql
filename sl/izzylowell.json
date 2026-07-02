@@ -1,0 +1,23 @@
+{
+  "uuid": "ed5599ab-db16-4a54-a0a3-f87a491eda50",
+  "first_name": "Isabel (Izzy)",
+  "last_name": "Lowell, MD, MBA",
+  "full_name": "Isabel (Izzy) Lowell, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/izzylowell",
+  "emails": [
+    {
+      "email": "isabel.lowell@piedmont.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 770-918-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "QMed"
+}

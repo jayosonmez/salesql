@@ -1,0 +1,17 @@
+{
+  "uuid": "47783e3c-9776-4206-af79-8d90428f08bc",
+  "first_name": "Andrew",
+  "last_name": "Hillman",
+  "full_name": "Andrew Hillman",
+  "linkedin_url": "https://linkedin.com/in/andrew-hillman-dallas",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 972-999-0490",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Private law Firm (Advocate & Consultancies)"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "189582ca-b7ef-4615-908f-230c6a8dd6d2",
+  "first_name": "David",
+  "last_name": "Batstone",
+  "full_name": "David Batstone",
+  "linkedin_url": "https://linkedin.com/in/david-batstone-66418213",
+  "emails": [
+    {
+      "email": "batstoned@rightreality.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@notforsalecampaign.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-560-9990",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Not For Sale"
+}

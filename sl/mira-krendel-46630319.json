@@ -1,0 +1,23 @@
+{
+  "uuid": "57046871-e65e-4592-94fd-2155ae04b311",
+  "first_name": "Mira",
+  "last_name": "Krendel",
+  "full_name": "Mira Krendel",
+  "linkedin_url": "https://linkedin.com/in/mira-krendel-46630319",
+  "emails": [
+    {
+      "email": "krendelm@upstate.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 315-464-5540",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Upstate Medical University"
+}

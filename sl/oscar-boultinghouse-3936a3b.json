@@ -1,0 +1,28 @@
+{
+  "uuid": "a72ce651-a2ef-4b44-8b1e-2fdf9e3efe19",
+  "first_name": "Oscar",
+  "last_name": "Boultinghouse",
+  "full_name": "Oscar Boultinghouse",
+  "linkedin_url": "https://linkedin.com/in/oscar-boultinghouse-3936a3b",
+  "emails": [
+    {
+      "email": "oscar.b@nuphysicia.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "oscar@teladoc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 203-635-2002",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "eCareGroup, PLLC"
+}

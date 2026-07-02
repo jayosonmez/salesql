@@ -1,0 +1,16 @@
+{
+  "uuid": "363a7eb4-8bae-4022-bf71-d75c310cef75",
+  "first_name": "Marcus",
+  "last_name": "Menger",
+  "full_name": "Marcus Menger",
+  "linkedin_url": "https://linkedin.com/in/marcus-menger-2761931a",
+  "emails": [
+    {
+      "email": "menger@rina-gmbh.eu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Fraunhofer Institute for Cell Therapy and Immunology, Branch Bioanalytics and Bioprocesses (IZI-BB)"
+}

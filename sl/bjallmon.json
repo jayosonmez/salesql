@@ -1,0 +1,28 @@
+{
+  "uuid": "e1806547-9b48-4d58-9d5a-e379ec6c3178",
+  "first_name": "B.J.",
+  "last_name": "Allmon",
+  "full_name": "B.J. Allmon",
+  "linkedin_url": "https://linkedin.com/in/bjallmon",
+  "emails": [
+    {
+      "email": "bj.allmon@tealium.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bjallmon@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-779-1344",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tealium"
+}

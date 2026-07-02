@@ -1,0 +1,33 @@
+{
+  "uuid": "c0b00467-4638-4954-8fbc-1eadc40fa80d",
+  "first_name": "Parth",
+  "last_name": "Patel",
+  "full_name": "Parth Patel",
+  "linkedin_url": "https://linkedin.com/in/parth-patel-2aa8a1103",
+  "emails": [
+    {
+      "email": "parth.patel@emory.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pspatel@g.cofc.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "parth.patel@emory.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 773-834-0525",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Emory University School of Medicine"
+}

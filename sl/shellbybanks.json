@@ -1,0 +1,26 @@
+{
+  "uuid": "dbdbb664-b90d-4bb9-a721-aa47a477ef72",
+  "first_name": "Shellby",
+  "last_name": "Banks",
+  "full_name": "Shellby Banks",
+  "linkedin_url": "https://linkedin.com/in/shellbybanks",
+  "emails": [
+    {
+      "email": "sfabian14@amherst.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shellby@unefemmewines.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "banks@hamlin.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Let It Break"
+}

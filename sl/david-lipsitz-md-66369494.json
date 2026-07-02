@@ -1,0 +1,17 @@
+{
+  "uuid": "ae21b363-3f67-4e96-9e8f-62cc15481c36",
+  "first_name": "David",
+  "last_name": "Lipsitz MD",
+  "full_name": "David Lipsitz MD",
+  "linkedin_url": "https://linkedin.com/in/david-lipsitz-md-66369494",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 704-906-5067",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CliniSpan Health"
+}

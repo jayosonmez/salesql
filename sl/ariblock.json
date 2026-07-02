@@ -1,0 +1,38 @@
+{
+  "uuid": "a55d29fa-fefd-4cc6-9215-d03c772f3af0",
+  "first_name": "Ari",
+  "last_name": "Block",
+  "full_name": "Ari Block",
+  "linkedin_url": "https://linkedin.com/in/ariblock",
+  "emails": [
+    {
+      "email": "ari.block@think.co.il",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ari@storysamurai.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ari@smokeeaters.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ari@gathervoices.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-348-8640",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Story Samurai"
+}

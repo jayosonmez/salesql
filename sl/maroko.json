@@ -1,0 +1,32 @@
+{
+  "uuid": "990ece26-d6be-41da-b092-b36dbb8fd3c4",
+  "first_name": "Robert",
+  "last_name": "Maroko",
+  "full_name": "Robert Maroko",
+  "linkedin_url": "https://linkedin.com/in/maroko",
+  "emails": [
+    {
+      "email": "maroko@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "robert.maroko@pfizer.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "robertmaroko@pol.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 333 555 2526",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pfizer"
+}

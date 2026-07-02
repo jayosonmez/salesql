@@ -1,0 +1,23 @@
+{
+  "uuid": "fd30973a-67d8-409c-9499-c9dbeccd65c0",
+  "first_name": "Derek",
+  "last_name": "Sanchez",
+  "full_name": "Derek Sanchez",
+  "linkedin_url": "https://linkedin.com/in/derek-sanchez-681a8a29",
+  "emails": [
+    {
+      "email": "djsanche@asu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-352-2309",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rural/Metro Corporation"
+}

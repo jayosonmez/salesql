@@ -1,0 +1,31 @@
+{
+  "uuid": "0c6de4aa-12bf-40c1-a9f7-ba3a2fc5fe39",
+  "first_name": "William",
+  "last_name": "Tunstall-Pedoe FREng",
+  "full_name": "William Tunstall-Pedoe FREng",
+  "linkedin_url": "https://linkedin.com/in/williamtp",
+  "emails": [
+    {
+      "email": "william.tp@trueknowledge.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "william@williamtp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "william@adjust.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tw@cicplc.co.uk",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "UnlikelyAI"
+}

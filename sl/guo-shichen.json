@@ -1,0 +1,23 @@
+{
+  "uuid": "e0f42e35-c34a-40c8-bd34-e3e6c817f844",
+  "first_name": "Shichen",
+  "last_name": "Guo",
+  "full_name": "Shichen Guo",
+  "linkedin_url": "https://linkedin.com/in/guo-shichen",
+  "emails": [
+    {
+      "email": "shichen.guo@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-684-2813",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Duke University"
+}

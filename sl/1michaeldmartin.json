@@ -1,0 +1,21 @@
+{
+  "uuid": "89251683-35f1-4f5c-b44a-2d1d5208a24b",
+  "first_name": "Michael",
+  "last_name": "Martin",
+  "full_name": "Michael Martin",
+  "linkedin_url": "https://linkedin.com/in/1michaeldmartin",
+  "emails": [
+    {
+      "email": "michael_martin@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "michael@michaeldmartin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "MDM Ventures, LLC"
+}

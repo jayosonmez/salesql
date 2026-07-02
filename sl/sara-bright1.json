@@ -1,0 +1,23 @@
+{
+  "uuid": "32a2b49c-b483-4964-9f09-06326eb7a899",
+  "first_name": "Sara",
+  "last_name": "Bright",
+  "full_name": "Sara Bright",
+  "linkedin_url": "https://linkedin.com/in/sara-bright1",
+  "emails": [
+    {
+      "email": "sara.bright@sunrun.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-478-6786",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sunrun"
+}

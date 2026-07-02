@@ -1,0 +1,41 @@
+{
+  "uuid": "1f3b21c4-c01b-40f9-8588-2e3a7fa0b964",
+  "first_name": "Cassio",
+  "last_name": "Spina",
+  "full_name": "Cassio Spina",
+  "linkedin_url": "https://linkedin.com/in/cassiospina",
+  "emails": [
+    {
+      "email": "cassio.spina@ibgc.org.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cassio@poliangels.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cassio@astia.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cassio.spina@wbaforum.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cassio@anjosdobrasil.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cassio@altivia.net.br",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Alya Ventures"
+}

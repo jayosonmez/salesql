@@ -1,0 +1,23 @@
+{
+  "uuid": "842a825f-19bc-4063-a08d-0fc534ffdc6c",
+  "first_name": "Amy",
+  "last_name": "Rees",
+  "full_name": "Amy Rees",
+  "linkedin_url": "https://linkedin.com/in/amyrees",
+  "emails": [
+    {
+      "email": "rees@musc.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 843-792-3281",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Medical University of South Carolina"
+}

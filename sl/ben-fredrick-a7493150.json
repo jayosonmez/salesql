@@ -1,0 +1,29 @@
+{
+  "uuid": "1422c6bd-d5a8-4116-b889-13a28eedb406",
+  "first_name": "Ben",
+  "last_name": "Fredrick",
+  "full_name": "Ben Fredrick",
+  "linkedin_url": "https://linkedin.com/in/ben-fredrick-a7493150",
+  "emails": [
+    {
+      "email": "bfredrick@psu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 719-287-7438",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 717-829-5508",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hershey Medical Center"
+}

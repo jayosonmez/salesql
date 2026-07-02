@@ -1,0 +1,16 @@
+{
+  "uuid": "89e0626f-159d-4955-8973-deef21bfcb9f",
+  "first_name": "Owen",
+  "last_name": "Van Natta",
+  "full_name": "Owen Van Natta",
+  "linkedin_url": "https://linkedin.com/in/owen-van-natta-444a7",
+  "emails": [
+    {
+      "email": "owen@vnfamily.net",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "vnfamily.net"
+}

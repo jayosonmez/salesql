@@ -1,0 +1,23 @@
+{
+  "uuid": "b2554040-f697-4571-859e-663c90744b76",
+  "first_name": "Gerry",
+  "last_name": "Malnar",
+  "full_name": "Gerry Malnar",
+  "linkedin_url": "https://linkedin.com/in/gerry-malnar-b6a77110",
+  "emails": [
+    {
+      "email": "malnarg@umkc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 816-404-1103",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University Health KC"
+}

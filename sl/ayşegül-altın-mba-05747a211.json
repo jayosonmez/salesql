@@ -1,0 +1,23 @@
+{
+  "uuid": "21292d21-ffbf-4a32-8217-66ac834754e0",
+  "first_name": "Ayşegül",
+  "last_name": "Altın, MBA",
+  "full_name": "Ayşegül Altın, MBA",
+  "linkedin_url": "https://linkedin.com/in/ayşegül-altın-mba-05747a211",
+  "emails": [
+    {
+      "email": "aysegul.altin@logiwa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 833-456-4492",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Logiwa"
+}

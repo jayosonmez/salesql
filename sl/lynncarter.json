@@ -1,0 +1,39 @@
+{
+  "uuid": "ef50f736-1d93-48ff-91e7-2f09763c49ed",
+  "first_name": "Lynn",
+  "last_name": "Stepovich Carter",
+  "full_name": "Lynn Stepovich Carter",
+  "linkedin_url": "https://linkedin.com/in/lynncarter",
+  "emails": [
+    {
+      "email": "lynn@stepo.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lcarter@confluent.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lynn@operatorcollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-680-8015",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-453-5860",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Confluent"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "6179fe11-7b90-4fa1-8a73-a92ba8f73cb1",
+  "first_name": "Karen",
+  "last_name": "Christopherson",
+  "full_name": "Karen Christopherson",
+  "linkedin_url": "https://linkedin.com/in/karen-christopherson-3354441",
+  "emails": [
+    {
+      "email": "kschrist@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kschrist@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Praxis Bioresearch"
+}

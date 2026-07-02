@@ -1,0 +1,16 @@
+{
+  "uuid": "2671c2d8-e471-4f9d-9f14-a62b042d0cd5",
+  "first_name": "Russ",
+  "last_name": "Jones",
+  "full_name": "Russ Jones",
+  "linkedin_url": "https://linkedin.com/in/russ-jones-79a884a0",
+  "emails": [
+    {
+      "email": "russ.jones@caa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Private"
+}

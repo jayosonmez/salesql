@@ -1,0 +1,46 @@
+{
+  "uuid": "e2a79793-6dd1-461b-9d30-41d2007b8692",
+  "first_name": "Dr. Joel",
+  "last_name": "Palathinkal",
+  "full_name": "Dr. Joel Palathinkal",
+  "linkedin_url": "https://linkedin.com/in/joelpalathinkal",
+  "emails": [
+    {
+      "email": "joelpalathinkal@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "gqstylino07@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joel_phd@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dr@pipe.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr.palathinkal@carta.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr.palathinkal@robinhood.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr.palathinkal@klarna.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sutton Capital"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "19784156-6d0f-44dd-a98e-5d4850998d5e",
+  "first_name": "Mary",
+  "last_name": "Newport MD",
+  "full_name": "Mary Newport MD",
+  "linkedin_url": "https://linkedin.com/in/mary-newport-md-226b3479",
+  "emails": [
+    {
+      "email": "mnewport@turnerpublishing.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 615-255-2665",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Turner Publishing Company"
+}

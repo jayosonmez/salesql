@@ -1,0 +1,21 @@
+{
+  "uuid": "63d6fc27-303c-4a0d-984e-84677a71ec13",
+  "first_name": "Parameswaran Kumar",
+  "last_name": "Mallikarjunan",
+  "full_name": "Parameswaran Kumar Mallikarjunan",
+  "linkedin_url": "https://linkedin.com/in/parameswaran-kumar-mallikarjunan-2969127",
+  "emails": [
+    {
+      "email": "kumar@vt.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pmallikarjunan@umn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Midwest Dairy Food Research Center"
+}

@@ -1,0 +1,53 @@
+{
+  "uuid": "dd2908e9-d167-4118-aa3e-ddb75af7f54b",
+  "first_name": "Dayo",
+  "last_name": "Koleowo",
+  "full_name": "Dayo Koleowo",
+  "linkedin_url": "https://linkedin.com/in/natekorl",
+  "emails": [
+    {
+      "email": "dayokoleowo@technation.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dayo@nestcoin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aok.koleowo@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "koleowoadedayo@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kd@linkedin.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dayo@riby.ng",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dayo@microtraction.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+234 806 742 1700",
+      "type": "Personal",
+      "country_code": "NG",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Microtraction"
+}

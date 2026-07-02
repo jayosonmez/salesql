@@ -1,0 +1,23 @@
+{
+  "uuid": "07ca0b69-d375-4302-9c78-390ddb24a174",
+  "first_name": "Brian",
+  "last_name": "Mason",
+  "full_name": "Brian Mason",
+  "linkedin_url": "https://linkedin.com/in/brian-mason-08081162",
+  "emails": [
+    {
+      "email": "brianm@aidoc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+972 54-998-1478",
+      "type": "Work",
+      "country_code": "IL",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Aidoc"
+}

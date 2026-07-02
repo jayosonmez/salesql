@@ -1,0 +1,48 @@
+{
+  "uuid": "e2f3e30b-c09c-480d-b117-a30453396a30",
+  "first_name": "Kim",
+  "last_name": "Jabal",
+  "full_name": "Kim Jabal",
+  "linkedin_url": "https://linkedin.com/in/kim-jabal-190119",
+  "emails": [
+    {
+      "email": "kjabal@lucid.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kjabal@turo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kim@operatorcollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kim@acrewcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kim@lytro.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kimjabal@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-335-7177",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Turo"
+}

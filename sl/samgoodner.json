@@ -1,0 +1,31 @@
+{
+  "uuid": "c472c267-03d9-4648-ab34-e81ae946b4d3",
+  "first_name": "Sam",
+  "last_name": "Goodner",
+  "full_name": "Sam Goodner",
+  "linkedin_url": "https://linkedin.com/in/samgoodner",
+  "emails": [
+    {
+      "email": "sam.goodner@catapultsystems.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sam@goodner.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sam.goodner@kleverlogic.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sam.goodner@addisongroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "FreeScale Coaching Systems"
+}

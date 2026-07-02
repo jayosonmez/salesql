@@ -1,0 +1,28 @@
+{
+  "uuid": "1890d1d5-33b6-4d4a-b61a-4f281ac4753f",
+  "first_name": "Gerry",
+  "last_name": "Boccarossa DO,FACP",
+  "full_name": "Gerry Boccarossa DO,FACP",
+  "linkedin_url": "https://linkedin.com/in/gerry-boccarossa-do-facp-bba73b45",
+  "emails": [
+    {
+      "email": "bocca@truevine.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gerry.boccarossa@va.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 844-456-5208",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "U.S. Department of Veterans Affairs"
+}

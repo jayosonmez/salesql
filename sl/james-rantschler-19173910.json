@@ -1,0 +1,28 @@
+{
+  "uuid": "729467b8-9225-4edf-bbd2-ac95030a0d8f",
+  "first_name": "James",
+  "last_name": "Rantschler",
+  "full_name": "James Rantschler",
+  "linkedin_url": "https://linkedin.com/in/james-rantschler-19173910",
+  "emails": [
+    {
+      "email": "rantschl@mad.scientist.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rantschlerj@tamug.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 409-740-4414",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Texas A&M University Galveston Campus"
+}

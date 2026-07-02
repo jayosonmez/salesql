@@ -1,0 +1,26 @@
+{
+  "uuid": "59e85e55-6e99-48fa-81b6-4da504ec84d5",
+  "first_name": "Chris",
+  "last_name": "Priebe",
+  "full_name": "Chris Priebe",
+  "linkedin_url": "https://linkedin.com/in/chrisagain",
+  "emails": [
+    {
+      "email": "cpriebe@ta.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chris.priebe@ml.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chris.priebe@globalfounderscapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Zelt"
+}

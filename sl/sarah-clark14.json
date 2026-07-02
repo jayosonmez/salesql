@@ -1,0 +1,23 @@
+{
+  "uuid": "0d1c1b38-d2e5-4b84-80c2-149bd99b988f",
+  "first_name": "Sarah",
+  "last_name": "Clark",
+  "full_name": "Sarah Clark",
+  "linkedin_url": "https://linkedin.com/in/sarah-clark14",
+  "emails": [
+    {
+      "email": "sarah.clark@northropgrumman.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 703-280-2900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northrop Grumman"
+}

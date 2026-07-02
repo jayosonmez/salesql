@@ -1,0 +1,28 @@
+{
+  "uuid": "41f58596-64e4-4e37-ae01-7da69cc3046e",
+  "first_name": "Eric",
+  "last_name": "Nadalin",
+  "full_name": "Eric Nadalin",
+  "linkedin_url": "https://linkedin.com/in/enadalin",
+  "emails": [
+    {
+      "email": "eric@nadalin.info",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric@episode1.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 7611 1014",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Episode 1 Ventures"
+}

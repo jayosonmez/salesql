@@ -1,0 +1,43 @@
+{
+  "uuid": "fffdb2a5-9f1f-4d5d-8f34-758ca7869ea5",
+  "first_name": "Prashant",
+  "last_name": "Samant",
+  "full_name": "Prashant Samant",
+  "linkedin_url": "https://linkedin.com/in/prashantsamant",
+  "emails": [
+    {
+      "email": "pssamant@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "prashant@akidolabs.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "psamant@usc.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "prashant@psynthesys.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "prashant@grid110.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 866-279-7837",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Akido Labs"
+}

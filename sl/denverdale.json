@@ -1,0 +1,34 @@
+{
+  "uuid": "611604a7-765f-4091-b369-653f23c0f97c",
+  "first_name": "Denver",
+  "last_name": "Dale",
+  "full_name": "Denver Dale",
+  "linkedin_url": "https://linkedin.com/in/denverdale",
+  "emails": [
+    {
+      "email": "denver@onpointcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "denver@tectoncapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-741-0607",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-741-0607",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pale Blue Capital LLC"
+}

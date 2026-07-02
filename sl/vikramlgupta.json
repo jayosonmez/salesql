@@ -1,0 +1,31 @@
+{
+  "uuid": "29444252-65e3-4dd1-8e05-c92657632614",
+  "first_name": "Vik",
+  "last_name": "Gupta",
+  "full_name": "Vik Gupta",
+  "linkedin_url": "https://linkedin.com/in/vikramlgupta",
+  "emails": [
+    {
+      "email": "vik@verticalfinance.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vgupta@headset.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vikg@westerntech.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vg@spintacap.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Spinta Capital"
+}

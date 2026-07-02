@@ -1,0 +1,31 @@
+{
+  "uuid": "b29f648e-c64f-45a9-83de-c403ee422afa",
+  "first_name": "Christopher",
+  "last_name": "Smith",
+  "full_name": "Christopher Smith",
+  "linkedin_url": "https://linkedin.com/in/christophersmith1830",
+  "emails": [
+    {
+      "email": "c.smith@pacificwest.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christopher@1836-vc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "christopher.smith@pacificwest.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "christopher@4datx.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

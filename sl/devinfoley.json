@@ -1,0 +1,31 @@
+{
+  "uuid": "e5a1d55c-8c2d-46e1-8920-15eb6b9d97d1",
+  "first_name": "Devin",
+  "last_name": "Foley",
+  "full_name": "Devin Foley",
+  "linkedin_url": "https://linkedin.com/in/devinfoley",
+  "emails": [
+    {
+      "email": "devin@surface.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "devin@slack.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "devin@devinfoley.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "devin.foley@ifttt.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Paperclip Labs, Inc"
+}

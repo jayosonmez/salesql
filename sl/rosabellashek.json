@@ -1,0 +1,38 @@
+{
+  "uuid": "4b8f51d1-b1b8-4f0e-9fc5-90ed27e35c27",
+  "first_name": "Rosabella",
+  "last_name": "Shek MD",
+  "full_name": "Rosabella Shek MD",
+  "linkedin_url": "https://linkedin.com/in/rosabellashek",
+  "emails": [
+    {
+      "email": "rshekmd@tampabay.rr.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rosabella.shek@downstate.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rosabella.shek@takeda.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 941-761-2666",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+81 3-3278-2000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Takeda"
+}

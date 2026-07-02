@@ -1,0 +1,36 @@
+{
+  "uuid": "4c7fe904-0ac0-40b0-b26c-44c9b97320ae",
+  "first_name": "Eric",
+  "last_name": "Bahn",
+  "full_name": "Eric Bahn",
+  "linkedin_url": "https://linkedin.com/in/ericbahn",
+  "emails": [
+    {
+      "email": "ebahn@costco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric.bahn@ventureforamerica.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric.bahn@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "eric@thehustle.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eric@hustlefund.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hustle Fund"
+}

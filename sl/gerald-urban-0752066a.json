@@ -1,0 +1,28 @@
+{
+  "uuid": "77062c31-3664-448f-9029-8cde3788985d",
+  "first_name": "Gerald",
+  "last_name": "Urban",
+  "full_name": "Gerald Urban",
+  "linkedin_url": "https://linkedin.com/in/gerald-urban-0752066a",
+  "emails": [
+    {
+      "email": "urban@uni-freiburg.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gerald.urban@sick.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 952-941-9287",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Albert Ludwigs University of Freiburg, Germany"
+}

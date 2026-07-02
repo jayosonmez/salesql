@@ -1,0 +1,16 @@
+{
+  "uuid": "54352c2c-843c-456e-ad1e-c9629996a6fb",
+  "first_name": "Jeffrey",
+  "last_name": "Franks",
+  "full_name": "Jeffrey Franks",
+  "linkedin_url": "https://linkedin.com/in/jeffrey-franks-9a309247",
+  "emails": [
+    {
+      "email": "jeffreyfranks2@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "DigiLimbo"
+}

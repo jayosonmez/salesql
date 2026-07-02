@@ -1,0 +1,43 @@
+{
+  "uuid": "077081bb-0cea-4e86-95f1-143102362f48",
+  "first_name": "Sonia",
+  "last_name": "Arrison",
+  "full_name": "Sonia Arrison",
+  "linkedin_url": "https://linkedin.com/in/sarrison",
+  "emails": [
+    {
+      "email": "sonia@foresight.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sonia@felicis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sonia@portfolia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sonia@a4li.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sonia.arrison@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-686-6492",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Portfolia"
+}

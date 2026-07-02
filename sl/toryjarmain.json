@@ -1,0 +1,21 @@
+{
+  "uuid": "6354b07e-ac3d-4284-afe7-44e97eb09bfe",
+  "first_name": "Tory",
+  "last_name": "Jarmain",
+  "full_name": "Tory Jarmain",
+  "linkedin_url": "https://linkedin.com/in/toryjarmain",
+  "emails": [
+    {
+      "email": "ejarmai@uwo.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tory@triage.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Triage"
+}

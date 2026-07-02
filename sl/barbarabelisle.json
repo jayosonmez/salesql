@@ -1,0 +1,16 @@
+{
+  "uuid": "6f7f36d2-f529-42b1-8d33-c6e24d9597e6",
+  "first_name": "Barbara",
+  "last_name": "Belisle",
+  "full_name": "Barbara Belisle",
+  "linkedin_url": "https://linkedin.com/in/barbarabelisle",
+  "emails": [
+    {
+      "email": "bbelisle@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "San Francisco Bay Area"
+}

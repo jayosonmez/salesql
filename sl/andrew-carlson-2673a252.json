@@ -1,0 +1,23 @@
+{
+  "uuid": "96002d6d-d81b-42d1-bbdc-80a73d7991fd",
+  "first_name": "Andrew",
+  "last_name": "Carlson",
+  "full_name": "Andrew Carlson",
+  "linkedin_url": "https://linkedin.com/in/andrew-carlson-2673a252",
+  "emails": [
+    {
+      "email": "andrew@homecreations.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 704-872-2268",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "State Farm"
+}

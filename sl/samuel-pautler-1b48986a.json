@@ -1,0 +1,27 @@
+{
+  "uuid": "cd7cd34b-95a1-45e7-8654-f1bc9a0cd7a4",
+  "first_name": "Samuel",
+  "last_name": "Pautler",
+  "full_name": "Samuel Pautler",
+  "linkedin_url": "https://linkedin.com/in/samuel-pautler-1b48986a",
+  "emails": [
+    {
+      "email": "psamuel@3m.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "spautler@3m.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+46 46 892 21 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "3M"
+}

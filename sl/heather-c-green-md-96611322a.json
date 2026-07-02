@@ -1,0 +1,28 @@
+{
+  "uuid": "434edddb-2f9f-4901-a9e5-00f7944e63ad",
+  "first_name": "Heather C.",
+  "last_name": "Green, MD",
+  "full_name": "Heather C. Green, MD",
+  "linkedin_url": "https://linkedin.com/in/heather-c-green-md-96611322a",
+  "emails": [
+    {
+      "email": "heather.green@owensborohealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "heather.green@owensborohealth.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 270-417-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Owensboro Health"
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "1ee87122-30f4-4d31-8bfb-dae6dc3ff36a",
+  "first_name": "Fabian",
+  "last_name": "von Kuenheim",
+  "full_name": "Fabian von Kuenheim",
+  "linkedin_url": "https://linkedin.com/in/fabian-von-kuenheim-412ba994",
+  "emails": [
+    {
+      "email": "fabian@high-mobility.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fvon@geolith.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fabian_kuenheim@commerzbank.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "fabian_kuenheim@lacon.de",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Geolith"
+}

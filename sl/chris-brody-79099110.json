@@ -1,0 +1,21 @@
+{
+  "uuid": "6aa208c9-460f-4bed-a5ce-6be48a9e7b5d",
+  "first_name": "Chris",
+  "last_name": "Brody",
+  "full_name": "Chris Brody",
+  "linkedin_url": "https://linkedin.com/in/chris-brody-79099110",
+  "emails": [
+    {
+      "email": "chrisbrody@vantage-partners.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "chris.brody@warburgpincus.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Vantage Partners, LLC"
+}

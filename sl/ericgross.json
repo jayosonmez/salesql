@@ -1,0 +1,26 @@
+{
+  "uuid": "5493d33e-d97b-45bb-8da5-60beb3832361",
+  "first_name": "Eric",
+  "last_name": "G.",
+  "full_name": "Eric G.",
+  "linkedin_url": "https://linkedin.com/in/ericgross",
+  "emails": [
+    {
+      "email": "e@ericgross.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "linkedin@ericgross.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric@ingredient-ai.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "IngredientAI"
+}

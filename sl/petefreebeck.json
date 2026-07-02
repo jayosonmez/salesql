@@ -1,0 +1,23 @@
+{
+  "uuid": "1222e5ee-09c4-4916-9fe5-addaf3a60127",
+  "first_name": "Pete",
+  "last_name": "Freebeck",
+  "full_name": "Pete Freebeck",
+  "linkedin_url": "https://linkedin.com/in/petefreebeck",
+  "emails": [
+    {
+      "email": "pfreebeck@lynxitsolutions.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 630-286-7555",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lynxit Solutions"
+}

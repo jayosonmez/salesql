@@ -1,0 +1,16 @@
+{
+  "uuid": "1feebcec-2134-4989-81e9-7b0941ff63e0",
+  "first_name": "Matthew",
+  "last_name": "Markus",
+  "full_name": "Matthew Markus",
+  "linkedin_url": "https://linkedin.com/in/matthewmarkus",
+  "emails": [
+    {
+      "email": "matthew@pembient.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Pembient"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "cfd3308d-7027-4af5-8809-9ab944f04b8e",
+  "first_name": "Andrew",
+  "last_name": "MacDowell",
+  "full_name": "Andrew MacDowell",
+  "linkedin_url": "https://linkedin.com/in/andrewmacdowell",
+  "emails": [
+    {
+      "email": "amacdowell@goodscreenmedia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew@pincast.fm",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Pincast"
+}

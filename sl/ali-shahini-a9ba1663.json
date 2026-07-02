@@ -1,0 +1,23 @@
+{
+  "uuid": "22f16dfd-696b-4e71-b64a-e25a895026ce",
+  "first_name": "Ali",
+  "last_name": "Shahini",
+  "full_name": "Ali Shahini",
+  "linkedin_url": "https://linkedin.com/in/ali-shahini-a9ba1663",
+  "emails": [
+    {
+      "email": "ali.shahini@mathworks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 508-647-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MathWorks"
+}

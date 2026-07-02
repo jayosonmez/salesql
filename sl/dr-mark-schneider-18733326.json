@@ -1,0 +1,21 @@
+{
+  "uuid": "4fdd1a93-ebe3-4b1b-b426-6667c04465c0",
+  "first_name": "Dr. Mark",
+  "last_name": "Schneider",
+  "full_name": "Dr. Mark Schneider",
+  "linkedin_url": "https://linkedin.com/in/dr-mark-schneider-18733326",
+  "emails": [
+    {
+      "email": "doc1@healthdesigns.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "docmark20@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "HDI Commerce"
+}

@@ -1,0 +1,36 @@
+{
+  "uuid": "80cd71e4-cc1f-4b9f-aa01-d3b3d3ce616d",
+  "first_name": "Bianca",
+  "last_name": "Sassoon",
+  "full_name": "Bianca Sassoon",
+  "linkedin_url": "https://linkedin.com/in/biancasassoon",
+  "emails": [
+    {
+      "email": "biancasassoon@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bianca@kaszek.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bianca.sassoon@lxgcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bsassoon@buenosaires.gob.ar",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bsassoon@utdt.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "17Sigma"
+}

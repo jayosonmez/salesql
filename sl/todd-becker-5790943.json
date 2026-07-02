@@ -1,0 +1,28 @@
+{
+  "uuid": "d5cdd494-2fd8-4065-8597-b1f4ef829781",
+  "first_name": "Todd",
+  "last_name": "Becker",
+  "full_name": "Todd Becker",
+  "linkedin_url": "https://linkedin.com/in/todd-becker-5790943",
+  "emails": [
+    {
+      "email": "todd.becker@danisco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "todd.becker@iff.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-765-5500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IFF"
+}

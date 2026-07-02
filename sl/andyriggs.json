@@ -1,0 +1,17 @@
+{
+  "uuid": "8274d1b3-3a4b-454d-83af-8fe0f584bfa4",
+  "first_name": "Andy",
+  "last_name": "Riggs",
+  "full_name": "Andy Riggs",
+  "linkedin_url": "https://linkedin.com/in/andyriggs",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 314-342-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stifel Bank"
+}

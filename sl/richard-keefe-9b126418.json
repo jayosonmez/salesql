@@ -1,0 +1,48 @@
+{
+  "uuid": "c1be9b08-ab4a-4a64-9407-74e3df953687",
+  "first_name": "Richard",
+  "last_name": "Keefe",
+  "full_name": "Richard Keefe",
+  "linkedin_url": "https://linkedin.com/in/richard-keefe-9b126418",
+  "emails": [
+    {
+      "email": "richard.keefe@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "richard.keefe@neurocogtrials.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "keefe.richard@perioptions.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "richard.keefe@perioptions.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "r.k@perioptions.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rkeefe@dukehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-401-4642",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VeraSci"
+}

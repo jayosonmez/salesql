@@ -1,0 +1,36 @@
+{
+  "uuid": "0ee20ba1-be16-4394-a2d5-b4eb64add4e9",
+  "first_name": "Courtney",
+  "last_name": "Broadus",
+  "full_name": "Courtney Broadus",
+  "linkedin_url": "https://linkedin.com/in/courtneybroadus",
+  "emails": [
+    {
+      "email": "courtney.broadus@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "courtney@spidercapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "courtney@broadway-angels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "courtney@operatorcollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "courtney@winfunding.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Broadway Angels"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "fdce6ed6-6d95-458b-a497-46e07bd9878c",
+  "first_name": "Raphael",
+  "last_name": "Darvish",
+  "full_name": "Raphael Darvish",
+  "linkedin_url": "https://linkedin.com/in/raphael-darvish",
+  "emails": [
+    {
+      "email": "raphael.darvish.2004@anderson.ucla.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rd@skinpeccable.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Skinpeccable Dermatology & Lasers"
+}

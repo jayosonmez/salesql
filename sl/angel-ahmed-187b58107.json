@@ -1,0 +1,16 @@
+{
+  "uuid": "1a274e30-abf4-41ad-86f2-f399130915e6",
+  "first_name": "Angel",
+  "last_name": "Ahmed",
+  "full_name": "Angel Ahmed",
+  "linkedin_url": "https://linkedin.com/in/angel-ahmed-187b58107",
+  "emails": [
+    {
+      "email": "angel@angelinvestmentnetwork.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Angel Investment Network"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "7813ecee-f378-42b2-b1a6-13d7cce96f35",
+  "first_name": "Wendell",
+  "last_name": "Davis",
+  "full_name": "Wendell Davis",
+  "linkedin_url": "https://linkedin.com/in/wendell-davis-b3009519b",
+  "emails": [
+    {
+      "email": "wdavis@mfs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-954-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MFS Investment Management"
+}

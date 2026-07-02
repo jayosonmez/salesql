@@ -1,0 +1,28 @@
+{
+  "uuid": "668ec8a5-f431-4457-a780-8eb760902d62",
+  "first_name": "Eugenel",
+  "last_name": "Espiritu",
+  "full_name": "Eugenel Espiritu",
+  "linkedin_url": "https://linkedin.com/in/eugenel-espiritu",
+  "emails": [
+    {
+      "email": "eugenel.espiritu@janssen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kermie71682@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-524-0400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Janssen Pharmaceutical Companies of Johnson & Johnson"
+}

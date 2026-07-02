@@ -1,0 +1,33 @@
+{
+  "uuid": "f873ed92-ab00-4835-9b94-82e235c207e6",
+  "first_name": "Dr luca",
+  "last_name": "gualco",
+  "full_name": "Dr luca gualco",
+  "linkedin_url": "https://linkedin.com/in/dr-luca-gualco-64a8b02",
+  "emails": [
+    {
+      "email": "dottgualco@libero.it",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "luca.gualco@weingrow.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr@becausemarket.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-837-8744",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Because"
+}

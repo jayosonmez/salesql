@@ -1,0 +1,39 @@
+{
+  "uuid": "b3fecb72-d18d-4f96-805c-bea181e6af88",
+  "first_name": "Karanveer",
+  "last_name": "Dhillon",
+  "full_name": "Karanveer Dhillon",
+  "linkedin_url": "https://linkedin.com/in/kardhillon",
+  "emails": [
+    {
+      "email": "karanveer@rallycap.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kar@startupgrind.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kar@paladin.partners",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 916-717-0530",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 267-991-3548",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bytespace.ai"
+}

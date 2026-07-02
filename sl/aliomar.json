@@ -1,0 +1,58 @@
+{
+  "uuid": "cf948336-105d-4c53-bd52-526928f313f3",
+  "first_name": "Ali",
+  "last_name": "Omar",
+  "full_name": "Ali Omar",
+  "linkedin_url": "https://linkedin.com/in/aliomar",
+  "emails": [
+    {
+      "email": "ali@themo.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ali.omar@guidin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ali@cemit.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ali.omar@medgroup.fi",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ali.omar@fiban.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ali.omar@vibemetrics.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ali.omar@caleido.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aliomar1975@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+358 44 5278511",
+      "type": "Work",
+      "country_code": "FI",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Caleido.io"
+}

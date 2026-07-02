@@ -1,0 +1,73 @@
+{
+  "uuid": "88fa4765-a5dc-4645-8c27-7a814563296e",
+  "first_name": "Darryl",
+  "last_name": "Wells",
+  "full_name": "Darryl Wells",
+  "linkedin_url": "https://linkedin.com/in/darryl-wells-17b25851",
+  "emails": [
+    {
+      "email": "darryl.wells@modumetal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darryl@vegacloud.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darryl@reveal-dx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darryl@whartonalumniangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darryl@Qorum.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darryl.wells@rigado.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darryl@cardtapp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dwells@klatunetworks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darryl@replenium.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darryl.wells@swedish.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dwells@mediapartners.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-386-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Swedish"
+}

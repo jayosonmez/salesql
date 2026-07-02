@@ -1,0 +1,17 @@
+{
+  "uuid": "3e60e83d-67f8-4369-98ac-6cec824df3a0",
+  "first_name": "Floyd",
+  "last_name": "Mayweather",
+  "full_name": "Floyd Mayweather",
+  "linkedin_url": "https://linkedin.com/in/floyd-mayweather-8b651ab7",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 201-414-0300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "International Boxing Federation"
+}

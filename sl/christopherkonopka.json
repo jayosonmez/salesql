@@ -1,0 +1,28 @@
+{
+  "uuid": "67eeb490-76c9-44f5-a009-704fdb6b610d",
+  "first_name": "Christopher",
+  "last_name": "Konopka",
+  "full_name": "Christopher Konopka",
+  "linkedin_url": "https://linkedin.com/in/christopherkonopka",
+  "emails": [
+    {
+      "email": "christopher.konopka@motional.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ckonopka1@berklee.net",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 816-452-4700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Motional"
+}

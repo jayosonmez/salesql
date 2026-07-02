@@ -1,0 +1,23 @@
+{
+  "uuid": "da5d5f65-ffb2-4bbe-b80a-3b122700a745",
+  "first_name": "Kevin",
+  "last_name": "Ashby",
+  "full_name": "Kevin Ashby",
+  "linkedin_url": "https://linkedin.com/in/kevin-ashby-48217a156",
+  "emails": [
+    {
+      "email": "a-k@kevinashbymd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-333-0492",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "KEVIN ASHBY, MD INC."
+}

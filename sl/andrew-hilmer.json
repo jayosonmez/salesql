@@ -1,0 +1,23 @@
+{
+  "uuid": "d39a93ff-0d05-49ab-a1c4-2196d74304ca",
+  "first_name": "Andrew",
+  "last_name": "Hilmer",
+  "full_name": "Andrew Hilmer",
+  "linkedin_url": "https://linkedin.com/in/andrew-hilmer",
+  "emails": [
+    {
+      "email": "andrew.hilmer@regeneron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-347-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Regeneron"
+}

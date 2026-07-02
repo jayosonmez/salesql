@@ -1,0 +1,16 @@
+{
+  "uuid": "670084c3-064d-4eb4-b694-3d149559ddaa",
+  "first_name": "Ronald",
+  "last_name": "Conway",
+  "full_name": "Ronald Conway",
+  "linkedin_url": "https://linkedin.com/in/ronnyconway",
+  "emails": [
+    {
+      "email": "ronnyconway710@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

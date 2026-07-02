@@ -1,0 +1,33 @@
+{
+  "uuid": "b1026083-f808-4852-8a40-832a8523d7e0",
+  "first_name": "Kyle",
+  "last_name": "Thompson",
+  "full_name": "Kyle Thompson",
+  "linkedin_url": "https://linkedin.com/in/kyle-thompson-51117a20",
+  "emails": [
+    {
+      "email": "kyle.thompson@sce.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "thompson_kyleb@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kyle.thompson@sce.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 626-302-1212",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Freelance"
+}

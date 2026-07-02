@@ -1,0 +1,23 @@
+{
+  "uuid": "5adfb1e4-656b-4376-b865-e360a660382f",
+  "first_name": "Xuefei",
+  "last_name": "Gao",
+  "full_name": "Xuefei Gao",
+  "linkedin_url": "https://linkedin.com/in/xuefei-gao-bbb3b9171",
+  "emails": [
+    {
+      "email": "xgao@wvu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 304-293-0111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "West Virginia University"
+}

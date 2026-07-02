@@ -1,0 +1,16 @@
+{
+  "uuid": "2bbea8d5-218a-4e3f-87c7-80dbeaa0cbe4",
+  "first_name": "Jordan",
+  "last_name": "Rubin",
+  "full_name": "Jordan Rubin",
+  "linkedin_url": "https://linkedin.com/in/jordan-rubin",
+  "emails": [
+    {
+      "email": "founders@ancientnutrition.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Ancient Nutrition"
+}

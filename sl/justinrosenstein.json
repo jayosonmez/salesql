@@ -1,0 +1,16 @@
+{
+  "uuid": "3591b17d-d528-4709-a98b-427ebd378c6e",
+  "first_name": "Justin",
+  "last_name": "Rosenstein",
+  "full_name": "Justin Rosenstein",
+  "linkedin_url": "https://linkedin.com/in/justinrosenstein",
+  "emails": [
+    {
+      "email": "jr@asana.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "One Project"
+}

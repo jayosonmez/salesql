@@ -1,0 +1,23 @@
+{
+  "uuid": "9a6358ab-1ec2-4d66-95ba-02e818d2a052",
+  "first_name": "James",
+  "last_name": "Bullard",
+  "full_name": "James Bullard",
+  "linkedin_url": "https://linkedin.com/in/james-bullard-a2960a61",
+  "emails": [
+    {
+      "email": "james.bullard@wholebiome.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-669-9035",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pendulum Therapeutics"
+}

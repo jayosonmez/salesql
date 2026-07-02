@@ -1,0 +1,21 @@
+{
+  "uuid": "8a68c7f9-4a62-4d30-a644-4b390111e309",
+  "first_name": "Steve",
+  "last_name": "Butts",
+  "full_name": "Steve Butts",
+  "linkedin_url": "https://linkedin.com/in/steve-butts-3818b83",
+  "emails": [
+    {
+      "email": "steve@knoppbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steve@freewheelideas.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Arrivo BioVentures LLC"
+}

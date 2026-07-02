@@ -1,0 +1,23 @@
+{
+  "uuid": "d5afcd65-1590-47a8-840c-138011622229",
+  "first_name": "Shannon",
+  "last_name": "Pinnell",
+  "full_name": "Shannon Pinnell",
+  "linkedin_url": "https://linkedin.com/in/shannon-pinnell-719479178",
+  "emails": [
+    {
+      "email": "spinnell@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 971-412-2265",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MIT Lincoln Laboratory"
+}

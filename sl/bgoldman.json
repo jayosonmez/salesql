@@ -1,0 +1,49 @@
+{
+  "uuid": "24b89952-cbfb-4c3f-8ae2-c48c01504a98",
+  "first_name": "Brandon",
+  "last_name": "Goldman",
+  "full_name": "Brandon Goldman",
+  "linkedin_url": "https://linkedin.com/in/bgoldman",
+  "emails": [
+    {
+      "email": "brandon@foresight.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brandon@lionheart.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brandon.goldman@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bryan@bryandorsey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brandon@goldmaninteractive.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-924-1440",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 626-416-9989",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lionheart Ventures"
+}

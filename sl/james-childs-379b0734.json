@@ -1,0 +1,21 @@
+{
+  "uuid": "99fc856b-a4a9-48f1-81e3-ac7484202274",
+  "first_name": "James",
+  "last_name": "Childs",
+  "full_name": "James Childs",
+  "linkedin_url": "https://linkedin.com/in/james-childs-379b0734",
+  "emails": [
+    {
+      "email": "jchilds1@earthlink.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jchilds@palomarmedical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "IPG Medical"
+}

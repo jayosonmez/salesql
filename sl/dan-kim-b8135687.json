@@ -1,0 +1,23 @@
+{
+  "uuid": "e84ca3ed-e1a8-4799-bdfe-69184b2d15d9",
+  "first_name": "Dan",
+  "last_name": "Kim",
+  "full_name": "Dan Kim",
+  "linkedin_url": "https://linkedin.com/in/dan-kim-b8135687",
+  "emails": [
+    {
+      "email": "kimd@pamf.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-853-2200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "www.curbsideme.com"
+}

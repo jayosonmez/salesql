@@ -1,0 +1,22 @@
+{
+  "uuid": "9ccfc9d9-6010-4e25-a6c3-391908e643f7",
+  "first_name": "Neslihan",
+  "last_name": "Fisek",
+  "full_name": "Neslihan Fisek",
+  "linkedin_url": "https://linkedin.com/in/neslihan-fisek-560ab8148",
+  "emails": [
+    {
+      "email": "neslihan.fisek@airliquide.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+48 32 790 81 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Air Liquide"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "e07ddb6d-5eb9-4b9f-9b54-23ffc27bb599",
+  "first_name": "Mark",
+  "last_name": "Rampton",
+  "full_name": "Mark Rampton",
+  "linkedin_url": "https://linkedin.com/in/mark-rampton-2519a924",
+  "emails": [
+    {
+      "email": "ramptonfam@proaxis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Corvallis Family Medicine"
+}

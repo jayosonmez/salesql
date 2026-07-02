@@ -1,0 +1,23 @@
+{
+  "uuid": "751cfe9c-1d2b-44b9-9a74-2e1731b144da",
+  "first_name": "Shih-I",
+  "last_name": "Tan",
+  "full_name": "Shih-I Tan",
+  "linkedin_url": "https://linkedin.com/in/shih-i-tan-6a9263226",
+  "emails": [
+    {
+      "email": "stan@illinois.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 217-333-0502",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Illinois Urbana-Champaign"
+}

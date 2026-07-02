@@ -1,0 +1,16 @@
+{
+  "uuid": "7e1f5a4b-5c47-42de-b507-96cb75e30cec",
+  "first_name": "Chris",
+  "last_name": "Johnson",
+  "full_name": "Chris Johnson",
+  "linkedin_url": "https://linkedin.com/in/chris-johnson-487971b",
+  "emails": [
+    {
+      "email": "johns611@tc.umn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "West Metro Medical Foundation"
+}

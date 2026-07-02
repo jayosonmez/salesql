@@ -1,0 +1,53 @@
+{
+  "uuid": "8c0c100d-d6e2-4a2a-9e88-8185a76dba89",
+  "first_name": "Simon",
+  "last_name": "Beaulieu",
+  "full_name": "Simon Beaulieu",
+  "linkedin_url": "https://linkedin.com/in/simon-beaulieu-a7a438b",
+  "emails": [
+    {
+      "email": "beaulieu.simon@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "simon.beaulieu@ey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sbeaulieu@torontobiennial.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "simon.beaulieu@finance-montreal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "b-s@stationfintech.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "simon.beaulieu@macm.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 514-874-4476",
+      "type": "Personal",
+      "country_code": "CA",
+      "is_valid": true
+    },
+    {
+      "phone": "+91 22 6192 0000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EY"
+}

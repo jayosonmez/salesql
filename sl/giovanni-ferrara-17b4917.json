@@ -1,0 +1,21 @@
+{
+  "uuid": "73cce098-a64c-4759-b773-5d173808fec6",
+  "first_name": "Giovanni",
+  "last_name": "Ferrara",
+  "full_name": "Giovanni Ferrara",
+  "linkedin_url": "https://linkedin.com/in/giovanni-ferrara-17b4917",
+  "emails": [
+    {
+      "email": "gferrara@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "gf@neurovia-inc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Medeor Therapeutics, Inc."
+}

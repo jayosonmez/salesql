@@ -1,0 +1,39 @@
+{
+  "uuid": "34f3b6ec-a21d-4374-a82b-89815316bc02",
+  "first_name": "Omid",
+  "last_name": "Farokhzad",
+  "full_name": "Omid Farokhzad",
+  "linkedin_url": "https://linkedin.com/in/omidfarokhzad",
+  "emails": [
+    {
+      "email": "ofarokhzad@selectabio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "omid.farokhzad@prognomiq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "farokhzad@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-453-0000",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-453-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Seer"
+}

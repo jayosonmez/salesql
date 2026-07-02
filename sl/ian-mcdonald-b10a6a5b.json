@@ -1,0 +1,21 @@
+{
+  "uuid": "4030d51c-fe06-4122-989a-3b0003547953",
+  "first_name": "Ian",
+  "last_name": "McDonald",
+  "full_name": "Ian McDonald",
+  "linkedin_url": "https://linkedin.com/in/ian-mcdonald-b10a6a5b",
+  "emails": [
+    {
+      "email": "ian.mcdonald@gong.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "imcdonald@quotasignal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Gong"
+}

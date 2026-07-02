@@ -1,0 +1,26 @@
+{
+  "uuid": "c0d1df13-6d86-42d8-88bb-bcf978c1e981",
+  "first_name": "Anand",
+  "last_name": "Agarawala",
+  "full_name": "Anand Agarawala",
+  "linkedin_url": "https://linkedin.com/in/anandx",
+  "emails": [
+    {
+      "email": "anand@honeybrown.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anand@bumptop.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anand@southparkcommons.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "South Park Commons"
+}

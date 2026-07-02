@@ -1,0 +1,63 @@
+{
+  "uuid": "07b06939-2a18-48a9-a6ac-f57fafdbdb68",
+  "first_name": "Peter",
+  "last_name": "Hunn",
+  "full_name": "Peter Hunn",
+  "linkedin_url": "https://linkedin.com/in/peterhunn",
+  "emails": [
+    {
+      "email": "peter@peterhunn.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "h-p@oup.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "peter@clause.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "peter-h@iso.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "peter@accordproject.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "peter-hunn@scl.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "peter@southwest.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "phunn@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter.hunn@docusign.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 214-792-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Southwest Airlines"
+}

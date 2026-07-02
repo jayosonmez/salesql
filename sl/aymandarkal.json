@@ -1,0 +1,43 @@
+{
+  "uuid": "5a43799e-1b99-4fcb-873b-05b56505c2ca",
+  "first_name": "Ayman",
+  "last_name": "Darkal",
+  "full_name": "Ayman Darkal",
+  "linkedin_url": "https://linkedin.com/in/aymandarkal",
+  "emails": [
+    {
+      "email": "adarkal@nuro.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ayman@angelpad.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ayman.darkal@beamgift.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ayman.darkal@aviznetworks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ad@devrev.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-754-0108",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AngelPad"
+}

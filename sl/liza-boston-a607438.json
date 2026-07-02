@@ -1,0 +1,51 @@
+{
+  "uuid": "77ac2994-74be-4ea1-9f9d-3b1fb43b4e44",
+  "first_name": "Liza",
+  "last_name": "Boston",
+  "full_name": "Liza Boston",
+  "linkedin_url": "https://linkedin.com/in/liza-boston-a607438",
+  "emails": [
+    {
+      "email": "liza@surgewomen.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "liza@taboo.com.au",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "liza@airtree.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "liza.boston@forkcast.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "liza@veilability.com.au",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "liza.boston@soundhalo.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "liza@planetneo.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "liza@flowercapital.com.au",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

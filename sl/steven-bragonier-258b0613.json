@@ -1,0 +1,29 @@
+{
+  "uuid": "08efa0ad-2b14-4b86-9139-82e3c2f96e00",
+  "first_name": "Steven",
+  "last_name": "Bragonier",
+  "full_name": "Steven Bragonier",
+  "linkedin_url": "https://linkedin.com/in/steven-bragonier-258b0613",
+  "emails": [
+    {
+      "email": "sbragonier@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-781-8756",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 786-505-4888",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Neotribe Ventures"
+}

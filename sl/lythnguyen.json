@@ -1,0 +1,16 @@
+{
+  "uuid": "ad9eac33-92d6-44af-9777-cb5011465905",
+  "first_name": "Ly",
+  "last_name": "Nguyen",
+  "full_name": "Ly Nguyen",
+  "linkedin_url": "https://linkedin.com/in/lythnguyen",
+  "emails": [
+    {
+      "email": "lynguyen@ucsd.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Yonder Dynamics"
+}

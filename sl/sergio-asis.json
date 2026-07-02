@@ -1,0 +1,48 @@
+{
+  "uuid": "b2775a45-40d5-4fa2-bf21-a27c5577d8c4",
+  "first_name": "Sergio",
+  "last_name": "Asis",
+  "full_name": "Sergio Asis",
+  "linkedin_url": "https://linkedin.com/in/sergio-asis",
+  "emails": [
+    {
+      "email": "sergio.asis@incutex.com.ar",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sergio@agrojusto.com.ar",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sergio.asis@endeavor.org.ar",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sergio@addventureclub.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sergio.asis@capazeta.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "asis.sergio@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+54 11 5272-3100",
+      "type": "Work",
+      "country_code": "AR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Endeavor Argentina"
+}

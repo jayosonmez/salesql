@@ -1,0 +1,33 @@
+{
+  "uuid": "0f798f5f-78e9-4f3e-a5af-373aec7a5680",
+  "first_name": "Eiman",
+  "last_name": "Jahangir, MD, MPH",
+  "full_name": "Eiman Jahangir, MD, MPH",
+  "linkedin_url": "https://linkedin.com/in/eimanjahangir",
+  "emails": [
+    {
+      "email": "eiman.jahangir@va.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eiman.jahangir@vanderbilthealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ejahangir@blueorigin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 615-322-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vanderbilt University Medical Center"
+}

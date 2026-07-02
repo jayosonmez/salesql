@@ -1,0 +1,23 @@
+{
+  "uuid": "194de414-06e3-4cc5-a520-027d4f0b8130",
+  "first_name": "Leo",
+  "last_name": "Baumgart",
+  "full_name": "Leo Baumgart",
+  "linkedin_url": "https://linkedin.com/in/leobaumgart",
+  "emails": [
+    {
+      "email": "leo.baumgart@doe.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 716-942-3235",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Joint Genome Institute"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "3a02ab3a-32b2-40e5-92ad-87e4e3824b33",
+  "first_name": "Tobias",
+  "last_name": "Balling",
+  "full_name": "Tobias Balling",
+  "linkedin_url": "https://linkedin.com/in/tobias-balling-38195063",
+  "emails": [
+    {
+      "email": "tobias@blinkist.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "t@blinkist.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Blinkist"
+}

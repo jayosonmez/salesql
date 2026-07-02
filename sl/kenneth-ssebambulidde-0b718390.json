@@ -1,0 +1,23 @@
+{
+  "uuid": "5999ca66-47ac-4a2b-a8f4-836447f792e7",
+  "first_name": "Kenneth",
+  "last_name": "Ssebambulidde",
+  "full_name": "Kenneth Ssebambulidde",
+  "linkedin_url": "https://linkedin.com/in/kenneth-ssebambulidde-0b718390",
+  "emails": [
+    {
+      "email": "kenneth.ssebambulidde@nih.gov",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 202-865-6100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Howard University Hospital"
+}

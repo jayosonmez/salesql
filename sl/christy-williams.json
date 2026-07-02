@@ -1,0 +1,16 @@
+{
+  "uuid": "95916c11-1211-426d-9335-8d07b3efc31e",
+  "first_name": "Christy",
+  "last_name": "Williams",
+  "full_name": "Christy Williams",
+  "linkedin_url": "https://linkedin.com/in/christy-williams",
+  "emails": [
+    {
+      "email": "christy@walkiedoggie.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

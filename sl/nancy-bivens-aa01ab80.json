@@ -1,0 +1,28 @@
+{
+  "uuid": "fc3e9164-7ae7-4bb9-98e9-cc6f045fdf18",
+  "first_name": "Nancy",
+  "last_name": "Bivens",
+  "full_name": "Nancy Bivens",
+  "linkedin_url": "https://linkedin.com/in/nancy-bivens-aa01ab80",
+  "emails": [
+    {
+      "email": "nancy.bivens@trivergenthealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nancy.bivens@meritushealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 301-790-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Meritus Health"
+}

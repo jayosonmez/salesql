@@ -1,0 +1,33 @@
+{
+  "uuid": "defdb423-1c21-450d-a4fb-423275ef741c",
+  "first_name": "Justin",
+  "last_name": "Wylie",
+  "full_name": "Justin Wylie",
+  "linkedin_url": "https://linkedin.com/in/justinwylie",
+  "emails": [
+    {
+      "email": "justin@justinwylie.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jwylie@accuvant.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "justin.wylie@gopherangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 612-388-1804",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "2 Peak Velocity, LLC"
+}

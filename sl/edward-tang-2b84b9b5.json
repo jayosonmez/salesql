@@ -1,0 +1,23 @@
+{
+  "uuid": "05e6498e-4bc9-4b06-a04c-499d3d18dc13",
+  "first_name": "Edward",
+  "last_name": "Tang",
+  "full_name": "Edward Tang",
+  "linkedin_url": "https://linkedin.com/in/edward-tang-2b84b9b5",
+  "emails": [
+    {
+      "email": "edward@iquestsols.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-382-0033",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IQuest Solutions Corporation"
+}

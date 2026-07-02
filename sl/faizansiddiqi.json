@@ -1,0 +1,43 @@
+{
+  "uuid": "8149578c-e334-43e8-9289-c690ccd5cf43",
+  "first_name": "Faizan",
+  "last_name": "Siddiqi",
+  "full_name": "Faizan Siddiqi",
+  "linkedin_url": "https://linkedin.com/in/faizansiddiqi",
+  "emails": [
+    {
+      "email": "faizan.siddiqi@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "siddiqi@google.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "siddiqif@purdue.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "faizan@canadastartups.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "faizan@beehiiv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+92 21 111 118 729",
+      "type": "Work",
+      "country_code": "PK",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SLGTrax"
+}

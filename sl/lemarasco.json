@@ -1,0 +1,17 @@
+{
+  "uuid": "8f87ba2a-e86b-4cec-a111-5055c9a3b142",
+  "first_name": "Luciano",
+  "last_name": "Marasco",
+  "full_name": "Luciano Marasco",
+  "linkedin_url": "https://linkedin.com/in/lemarasco",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+44 1865 270000",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Oxford"
+}

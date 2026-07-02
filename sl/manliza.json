@@ -1,0 +1,23 @@
+{
+  "uuid": "2747b4b9-fee7-44cf-9929-dcefa78b58ad",
+  "first_name": "Liza",
+  "last_name": "Man",
+  "full_name": "Liza Man",
+  "linkedin_url": "https://linkedin.com/in/manliza",
+  "emails": [
+    {
+      "email": "liza.man@10xgenomics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 925-401-7300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "10x Genomics"
+}

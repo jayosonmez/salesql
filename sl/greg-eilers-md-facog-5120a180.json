@@ -1,0 +1,17 @@
+{
+  "uuid": "3397478b-31ac-4eed-a749-1b737784b8d0",
+  "first_name": "Greg",
+  "last_name": "Eilers, MD, FACOG",
+  "full_name": "Greg Eilers, MD, FACOG",
+  "linkedin_url": "https://linkedin.com/in/greg-eilers-md-facog-5120a180",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 503-413-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Legacy Health"
+}

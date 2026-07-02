@@ -1,0 +1,43 @@
+{
+  "uuid": "840c033f-5fb1-4238-b42b-5d9342ae7be7",
+  "first_name": "Bradley C.",
+  "last_name": "Harrison",
+  "full_name": "Bradley C. Harrison",
+  "linkedin_url": "https://linkedin.com/in/bradharrison",
+  "emails": [
+    {
+      "email": "brad@bhvvc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brad@scoutventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "c_harrison@usma.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bharrison@explorers.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bradley@scout.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-656-5665",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Scout Ventures"
+}

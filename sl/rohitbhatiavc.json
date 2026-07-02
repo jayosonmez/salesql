@@ -1,0 +1,26 @@
+{
+  "uuid": "4a034de2-c62d-45f1-9abd-42077fe2b1f8",
+  "first_name": "rohit",
+  "last_name": "bhatia",
+  "full_name": "rohit bhatia",
+  "linkedin_url": "https://linkedin.com/in/rohitbhatiavc",
+  "emails": [
+    {
+      "email": "rohit.b@brownangelgroup.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rohit@getdecko.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rohit.bhatia@elevancehealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Elevance Health"
+}

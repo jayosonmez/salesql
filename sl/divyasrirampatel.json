@@ -1,0 +1,26 @@
+{
+  "uuid": "984db273-a3af-4b29-9434-c6067abed4fd",
+  "first_name": "Divya",
+  "last_name": "Patel",
+  "full_name": "Divya Patel",
+  "linkedin_url": "https://linkedin.com/in/divyasrirampatel",
+  "emails": [
+    {
+      "email": "divyasriram@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "divya@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "divya@inwomenshealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Evvy"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "e2fd74a3-e84e-48b4-979e-d6a4e3e411de",
+  "first_name": "Steve",
+  "last_name": "Morrow",
+  "full_name": "Steve Morrow",
+  "linkedin_url": "https://linkedin.com/in/stevemorrow1",
+  "emails": [
+    {
+      "email": "smorrow1@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-573-0751",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Keiretsu Forum"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "7c5c1023-3f2f-4bd5-8dc1-44aaff2620cb",
+  "first_name": "Adrian",
+  "last_name": "Vanzyl",
+  "full_name": "Adrian Vanzyl",
+  "linkedin_url": "https://linkedin.com/in/adrianvanzyl",
+  "emails": [
+    {
+      "email": "adrian@wavemaker.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "adrian@vanzyl.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stealth Startup"
+}

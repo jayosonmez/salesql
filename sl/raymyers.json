@@ -1,0 +1,33 @@
+{
+  "uuid": "85b4f43b-6a98-4aef-a73a-19ed7bdb777b",
+  "first_name": "Ray",
+  "last_name": "Myers",
+  "full_name": "Ray Myers",
+  "linkedin_url": "https://linkedin.com/in/raymyers",
+  "emails": [
+    {
+      "email": "rmyers@clickmotive.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ray.myers@eosworldwide.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rmyers@strategysearch.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 248-278-8220",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EOS Worldwide"
+}

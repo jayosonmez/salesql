@@ -1,0 +1,17 @@
+{
+  "uuid": "c55c49c1-7535-4b64-81ab-05948bc6af28",
+  "first_name": "Nicole C.",
+  "last_name": "Rich, MD MPH",
+  "full_name": "Nicole C. Rich, MD MPH",
+  "linkedin_url": "https://linkedin.com/in/nicole-c-rich",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 325-653-6741",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Shannon Medical Center"
+}

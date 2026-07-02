@@ -1,0 +1,16 @@
+{
+  "uuid": "5a80f17a-e7c0-4d33-be37-9f4201f4522a",
+  "first_name": "jack",
+  "last_name": "Krupnick",
+  "full_name": "jack Krupnick",
+  "linkedin_url": "https://linkedin.com/in/jack-krupnick-8988522b",
+  "emails": [
+    {
+      "email": "jackkrupnick@bellsouth.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Asheville NC"
+}

@@ -1,0 +1,56 @@
+{
+  "uuid": "168b6861-4aa1-4a72-8033-0e779da8df0f",
+  "first_name": "Ilya",
+  "last_name": "Movshovich",
+  "full_name": "Ilya Movshovich",
+  "linkedin_url": "https://linkedin.com/in/movshovich",
+  "emails": [
+    {
+      "email": "m-i@thriveagrifood.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ilya@carmanation.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ilya@volkconsulting.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ilyamov@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ilyamov@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ilya@medzoomer.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ilya@plantbasedseafoodco.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ilya@digitalathleteventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ilya@hatch.blue",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Digital Athlete Ventures"
+}

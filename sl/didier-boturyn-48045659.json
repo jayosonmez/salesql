@@ -1,0 +1,21 @@
+{
+  "uuid": "c372b0da-9c1f-47d2-8caf-f91973202eef",
+  "first_name": "Didier",
+  "last_name": "Boturyn",
+  "full_name": "Didier Boturyn",
+  "linkedin_url": "https://linkedin.com/in/didier-boturyn-48045659",
+  "emails": [
+    {
+      "email": "didier.boturyn@univ-grenoble-alpes.fr",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "didier.boturyn@cnrs.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Département de Chimie Moléculaire"
+}

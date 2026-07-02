@@ -1,0 +1,36 @@
+{
+  "uuid": "4e059f55-41b4-41aa-a439-fc2f7ba88e33",
+  "first_name": "Avanish",
+  "last_name": "Vellanki",
+  "full_name": "Avanish Vellanki",
+  "linkedin_url": "https://linkedin.com/in/avellanki",
+  "emails": [
+    {
+      "email": "avanishv@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "avellanki@rainthera.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "avanish@independencebrewco.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "avanish@rainoncology.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "avanish.vellanki@garudatx.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stratus Therapeutics"
+}

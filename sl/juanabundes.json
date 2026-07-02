@@ -1,0 +1,36 @@
+{
+  "uuid": "8e91f9a8-bf4e-42b8-ba30-2110a2aae4fb",
+  "first_name": "Juan",
+  "last_name": "Abundes",
+  "full_name": "Juan Abundes",
+  "linkedin_url": "https://linkedin.com/in/juanabundes",
+  "emails": [
+    {
+      "email": "juan@adaptvc.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jmabundes@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "juan@korovc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "juan@somacap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juan@tribecap.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stealth"
+}

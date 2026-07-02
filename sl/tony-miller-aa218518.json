@@ -1,0 +1,16 @@
+{
+  "uuid": "6e10328e-e305-42d2-8977-e80cc6be0b66",
+  "first_name": "Tony",
+  "last_name": "Miller",
+  "full_name": "Tony Miller",
+  "linkedin_url": "https://linkedin.com/in/tony-miller-aa218518",
+  "emails": [
+    {
+      "email": "tony.miller@bbsrc.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "John Innes Centre"
+}

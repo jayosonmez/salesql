@@ -1,0 +1,22 @@
+{
+  "uuid": "ca739810-abc5-4760-91fc-5d88cf5e2295",
+  "first_name": "Wallace",
+  "last_name": "M.",
+  "full_name": "Wallace M.",
+  "linkedin_url": "https://linkedin.com/in/wallacemacindoe",
+  "emails": [
+    {
+      "email": "wallace.macindoe@i3consult.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+61 426 428 156",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "i3consult.com"
+}

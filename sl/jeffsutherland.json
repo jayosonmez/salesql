@@ -1,0 +1,40 @@
+{
+  "uuid": "21134b7e-faa5-4060-8533-96cba53c0ac7",
+  "first_name": "Jeff",
+  "last_name": "Sutherland",
+  "full_name": "Jeff Sutherland",
+  "linkedin_url": "https://linkedin.com/in/jeffsutherland",
+  "emails": [
+    {
+      "email": "jeff.sutherland@scruminc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeff.sutherland@jvsmanagement.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-606-3652",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 617-947-7400",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 617-294-6598",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Scrum Inc."
+}

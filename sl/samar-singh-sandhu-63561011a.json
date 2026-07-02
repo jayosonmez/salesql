@@ -1,0 +1,23 @@
+{
+  "uuid": "d12fc94c-ce6e-445f-adec-3c4e3909f535",
+  "first_name": "Samar Singh",
+  "last_name": "Sandhu",
+  "full_name": "Samar Singh Sandhu",
+  "linkedin_url": "https://linkedin.com/in/samar-singh-sandhu-63561011a",
+  "emails": [
+    {
+      "email": "sssandhu@eng.ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-260-9213",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Center for Wearable Sensors, UC San Diego"
+}

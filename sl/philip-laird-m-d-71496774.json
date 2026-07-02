@@ -1,0 +1,26 @@
+{
+  "uuid": "2bb9dde0-e4c5-4873-8cb0-4fc507b3ed7a",
+  "first_name": "Philip",
+  "last_name": "Laird M.D.",
+  "full_name": "Philip Laird M.D.",
+  "linkedin_url": "https://linkedin.com/in/philip-laird-m-d-71496774",
+  "emails": [
+    {
+      "email": "philip.laird@va.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philip.laird@choa.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "plaird@gradymem.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Retina Care Specialists"
+}

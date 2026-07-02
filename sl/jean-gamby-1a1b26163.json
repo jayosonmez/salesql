@@ -1,0 +1,22 @@
+{
+  "uuid": "26478ef4-148c-48b6-b691-641632ea972e",
+  "first_name": "Jean",
+  "last_name": "GAMBY",
+  "full_name": "Jean GAMBY",
+  "linkedin_url": "https://linkedin.com/in/jean-gamby-1a1b26163",
+  "emails": [
+    {
+      "email": "jean.gamby@cnrs.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 1 44 96 40 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CNRS"
+}

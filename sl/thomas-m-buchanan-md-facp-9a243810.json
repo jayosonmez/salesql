@@ -1,0 +1,28 @@
+{
+  "uuid": "879a6584-6621-4b89-93e9-d6fb688a1bb1",
+  "first_name": "Thomas M.",
+  "last_name": "Buchanan MD FACP",
+  "full_name": "Thomas M. Buchanan MD FACP",
+  "linkedin_url": "https://linkedin.com/in/thomas-m-buchanan-md-facp-9a243810",
+  "emails": [
+    {
+      "email": "thomas.buchanan@ushealthworks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tmbuchanan@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 661-678-2300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "US Healthworks/Concentra"
+}

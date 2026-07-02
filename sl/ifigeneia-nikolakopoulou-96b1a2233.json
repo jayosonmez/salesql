@@ -1,0 +1,23 @@
+{
+  "uuid": "39e6fa9b-59ff-4371-bf7f-bf32d283bab4",
+  "first_name": "Ifigeneia",
+  "last_name": "Nikolakopoulou",
+  "full_name": "Ifigeneia Nikolakopoulou",
+  "linkedin_url": "https://linkedin.com/in/ifigeneia-nikolakopoulou-96b1a2233",
+  "emails": [
+    {
+      "email": "ifigeneia.nikolakopoulou@ki.se",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+46 8 524 800 00",
+      "type": "Work",
+      "country_code": "SE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Karolinska Institutet"
+}

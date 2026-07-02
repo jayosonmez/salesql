@@ -1,0 +1,16 @@
+{
+  "uuid": "5de4020d-1c96-42c6-bf06-fa77bbc19854",
+  "first_name": "Joe",
+  "last_name": "Gerrety",
+  "full_name": "Joe Gerrety",
+  "linkedin_url": "https://linkedin.com/in/joe-gerrety-0a43216",
+  "emails": [
+    {
+      "email": "gerrety@us.ibm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Fundamental Solutions Corporation - CytoSPAR"
+}

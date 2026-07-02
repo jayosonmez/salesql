@@ -1,0 +1,41 @@
+{
+  "uuid": "f3d06296-6ae6-4737-a429-8bdfb378f8ee",
+  "first_name": "Joe",
+  "last_name": "Cross",
+  "full_name": "Joe Cross",
+  "linkedin_url": "https://linkedin.com/in/joemcross",
+  "emails": [
+    {
+      "email": "joecross@seedcamp.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "iamjoecross@googlemail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joe@weareuncapped.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joe@generationhome.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joe@reallyclever.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joe@atomico.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

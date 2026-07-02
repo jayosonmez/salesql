@@ -1,0 +1,17 @@
+{
+  "uuid": "f2efeb59-154b-454a-9ad2-c581c03aee2e",
+  "first_name": "Laura",
+  "last_name": "G.",
+  "full_name": "Laura G.",
+  "linkedin_url": "https://linkedin.com/in/laura-gonzalez10",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+41 61 927 47 47",
+      "type": "Work",
+      "country_code": "CH",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Nanosurf"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "c8b81c16-de79-4ebb-b923-2f0efab9f114",
+  "first_name": "Carl",
+  "last_name": "Tenenbaum",
+  "full_name": "Carl Tenenbaum",
+  "linkedin_url": "https://linkedin.com/in/carltenenbaum",
+  "emails": [
+    {
+      "email": "carl.tenenbaum@rtx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carl.tenenbaum@rtx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carltenenbaum@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 508-384-7717",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "RTX"
+}

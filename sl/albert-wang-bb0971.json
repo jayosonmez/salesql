@@ -1,0 +1,16 @@
+{
+  "uuid": "4718938f-d3e3-426d-89de-9ff8af486d6e",
+  "first_name": "Albert",
+  "last_name": "Wang",
+  "full_name": "Albert Wang",
+  "linkedin_url": "https://linkedin.com/in/albert-wang-bb0971",
+  "emails": [
+    {
+      "email": "aybwang@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Palo Alto Foundation Medical Group"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "7d4e8b9e-b8f4-45b2-b164-b4b5ff8aaffe",
+  "first_name": "Ha",
+  "last_name": "Nguyen",
+  "full_name": "Ha Nguyen",
+  "linkedin_url": "https://linkedin.com/in/hanguyen-spero",
+  "emails": [
+    {
+      "email": "ha@nextstepfwd.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ha.nguyen@betfair.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ha@ember.new",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 619-259-0502",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sidebar"
+}

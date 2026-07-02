@@ -1,0 +1,23 @@
+{
+  "uuid": "781e3118-3eb7-486f-b085-c724eeeae7df",
+  "first_name": "Devon",
+  "last_name": "Pawley, PhD",
+  "full_name": "Devon Pawley, PhD",
+  "linkedin_url": "https://linkedin.com/in/devon-pawley",
+  "emails": [
+    {
+      "email": "dpawley@centene.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 314-725-4477",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Centene Corporation"
+}

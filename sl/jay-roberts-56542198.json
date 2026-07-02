@@ -1,0 +1,23 @@
+{
+  "uuid": "0769dd51-a87c-493b-9803-2a8483817c13",
+  "first_name": "Jay",
+  "last_name": "Roberts",
+  "full_name": "Jay Roberts",
+  "linkedin_url": "https://linkedin.com/in/jay-roberts-56542198",
+  "emails": [
+    {
+      "email": "jroberts@nexmc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-216-6711",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Nexus"
+}

@@ -1,0 +1,22 @@
+{
+  "uuid": "46e1e822-da14-45d8-bebd-36286d044d6b",
+  "first_name": "Preben",
+  "last_name": "Damgaard",
+  "full_name": "Preben Damgaard",
+  "linkedin_url": "https://linkedin.com/in/preben-damgaard-859722",
+  "emails": [
+    {
+      "email": "preben_damgaard@fellowmindcompany.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+31 85 400 9970",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fellowmind"
+}

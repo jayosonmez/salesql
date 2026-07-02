@@ -1,0 +1,16 @@
+{
+  "uuid": "197e6b20-3da5-4bd6-8304-1204188f9526",
+  "first_name": "Brad",
+  "last_name": "Frandsen",
+  "full_name": "Brad Frandsen",
+  "linkedin_url": "https://linkedin.com/in/bradfrandsen",
+  "emails": [
+    {
+      "email": "frandsen@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sound Medical Research"
+}

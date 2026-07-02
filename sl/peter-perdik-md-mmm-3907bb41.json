@@ -1,0 +1,28 @@
+{
+  "uuid": "960f3519-adf3-47de-bb31-91729561a952",
+  "first_name": "Peter",
+  "last_name": "Perdik MD MMM",
+  "full_name": "Peter Perdik MD MMM",
+  "linkedin_url": "https://linkedin.com/in/peter-perdik-md-mmm-3907bb41",
+  "emails": [
+    {
+      "email": "pperdik@northwell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter.perdik@hofstra.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 516-463-5901",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hofstra North Shore-LIJ School of Medicine at Hofstra University"
+}

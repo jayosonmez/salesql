@@ -1,0 +1,26 @@
+{
+  "uuid": "0f97c6ba-7ae8-402f-8ade-853dfe49bd5d",
+  "first_name": "Mai",
+  "last_name": "M.",
+  "full_name": "Mai M.",
+  "linkedin_url": "https://linkedin.com/in/maimoona-mohammed",
+  "emails": [
+    {
+      "email": "mai@ganas.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mai@mindrock.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mm@3xcapital.fund",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hectagon"
+}

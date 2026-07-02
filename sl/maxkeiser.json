@@ -1,0 +1,16 @@
+{
+  "uuid": "b9572189-7629-4d58-b040-0dcc1f8e7cc0",
+  "first_name": "Max",
+  "last_name": "Keiser",
+  "full_name": "Max Keiser",
+  "linkedin_url": "https://linkedin.com/in/maxkeiser",
+  "emails": [
+    {
+      "email": "max@maxkeiser.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "El Zonte Capital"
+}

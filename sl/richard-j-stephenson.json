@@ -1,0 +1,38 @@
+{
+  "uuid": "131ce85c-e160-4ac0-8e2f-89f42f8bd886",
+  "first_name": "Richard J",
+  "last_name": "Stephenson",
+  "full_name": "Richard J Stephenson",
+  "linkedin_url": "https://linkedin.com/in/richard-j-stephenson",
+  "emails": [
+    {
+      "email": "rstephenson@cancercenter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "richard.stephenson@gatewaycr.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephensonr@icmcvi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "richards@sheridancp.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-872-4561",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cancer Treatment Centers of America (acquired by City of Hope)"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "2e8efe15-a0cd-4956-ba6f-982c3ad58972",
+  "first_name": "Arthur",
+  "last_name": "Rein",
+  "full_name": "Arthur Rein",
+  "linkedin_url": "https://linkedin.com/in/arthurkevinrein",
+  "emails": [
+    {
+      "email": "akevin1109@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "arthur.rein@peoplesbancorp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

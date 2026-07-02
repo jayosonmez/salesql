@@ -1,0 +1,23 @@
+{
+  "uuid": "bd54e2de-0589-4701-a72a-31f75a6112a9",
+  "first_name": "James",
+  "last_name": "Andry, Sr., MD",
+  "full_name": "James Andry, Sr., MD",
+  "linkedin_url": "https://linkedin.com/in/james-andry-sr-md-32214167",
+  "emails": [
+    {
+      "email": "andry.james@sleeptrc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 210-614-6000",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sleep Therapy & Research Center"
+}

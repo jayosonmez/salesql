@@ -1,0 +1,26 @@
+{
+  "uuid": "7c0715a3-ee12-4c11-8218-9492ba9b5b0e",
+  "first_name": "Adam",
+  "last_name": "Bauer",
+  "full_name": "Adam Bauer",
+  "linkedin_url": "https://linkedin.com/in/adambauerconsultant",
+  "emails": [
+    {
+      "email": "adam.bauer@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adam.bauer@optum.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "adam@caduceus.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Caduceus Capital Partners, LLC"
+}

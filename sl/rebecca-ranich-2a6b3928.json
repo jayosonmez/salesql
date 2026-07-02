@@ -1,0 +1,37 @@
+{
+  "uuid": "486d13c3-0655-4d6f-873d-969961d45210",
+  "first_name": "Rebecca",
+  "last_name": "Ranich",
+  "full_name": "Rebecca Ranich",
+  "linkedin_url": "https://linkedin.com/in/rebecca-ranich-2a6b3928",
+  "emails": [
+    {
+      "email": "rebecca@ranich.net",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "reranich@deloitte.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rebecca.ranich@qio.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rebecca@waveep.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 3300 0177",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "QiO Technologies"
+}

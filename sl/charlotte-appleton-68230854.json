@@ -1,0 +1,16 @@
+{
+  "uuid": "41fb9b18-2f43-4cdd-80a5-822fee3f3c62",
+  "first_name": "Charlotte",
+  "last_name": "Appleton",
+  "full_name": "Charlotte Appleton",
+  "linkedin_url": "https://linkedin.com/in/charlotte-appleton-68230854",
+  "emails": [
+    {
+      "email": "cappleton@accentcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Zazari Project"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "ede36840-c22d-4b7e-91a1-29c6b39889a5",
+  "first_name": "Ting",
+  "last_name": "Chen",
+  "full_name": "Ting Chen",
+  "linkedin_url": "https://linkedin.com/in/ting-chen-6669a295",
+  "emails": [
+    {
+      "email": "tchen@uic.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-996-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Illinois Chicago"
+}

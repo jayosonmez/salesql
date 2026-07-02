@@ -1,0 +1,26 @@
+{
+  "uuid": "886f7001-1369-4593-b720-b4979375c805",
+  "first_name": "Sebastian",
+  "last_name": "Eriksson Giwa, PhD",
+  "full_name": "Sebastian Eriksson Giwa, PhD",
+  "linkedin_url": "https://linkedin.com/in/sebastiangiwa",
+  "emails": [
+    {
+      "email": "sebastian.giwa@post.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sebastian@organpreservationalliance.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sebastian@elevian.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sylvatica Biotech Inc"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3e09bcaf-5670-4aaf-a101-07db768dd921",
+  "first_name": "Yun",
+  "last_name": "Xing",
+  "full_name": "Yun Xing",
+  "linkedin_url": "https://linkedin.com/in/yunxing",
+  "emails": [
+    {
+      "email": "yxingckk@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "yxing@mcw.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 414-955-8296",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Medical College of Wisconsin"
+}

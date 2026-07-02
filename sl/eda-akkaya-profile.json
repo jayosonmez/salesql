@@ -1,0 +1,23 @@
+{
+  "uuid": "6cf1593d-6705-4d13-9e28-d927292aade2",
+  "first_name": "Eda",
+  "last_name": "Akkaya",
+  "full_name": "Eda Akkaya",
+  "linkedin_url": "https://linkedin.com/in/eda-akkaya-profile",
+  "emails": [
+    {
+      "email": "eda@expertera.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 212 263 38 40",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Expertera"
+}

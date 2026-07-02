@@ -1,0 +1,33 @@
+{
+  "uuid": "0700ca05-2359-4a95-932b-1fe375200fe1",
+  "first_name": "Laura",
+  "last_name": "Behrens Wu",
+  "full_name": "Laura Behrens Wu",
+  "linkedin_url": "https://linkedin.com/in/laurabehrenswu",
+  "emails": [
+    {
+      "email": "laura.behrens@giz.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "laura.behrens@lendup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lauraw@goshippo.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "5553419393",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Shippo"
+}

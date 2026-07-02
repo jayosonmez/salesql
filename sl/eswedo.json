@@ -1,0 +1,23 @@
+{
+  "uuid": "56357844-00df-423c-a3ef-e09d7a3f3f2c",
+  "first_name": "Elizabeth",
+  "last_name": "Swedo",
+  "full_name": "Elizabeth Swedo",
+  "linkedin_url": "https://linkedin.com/in/eswedo",
+  "emails": [
+    {
+      "email": "eswedo@cdc.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 718-392-0033",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Centers for Disease Control and Prevention"
+}

@@ -1,0 +1,73 @@
+{
+  "uuid": "d9f9ffb4-dd10-4d1d-845c-099d1fbc057a",
+  "first_name": "Philip",
+  "last_name": "Green",
+  "full_name": "Philip Green",
+  "linkedin_url": "https://linkedin.com/in/philip-green-35b38210",
+  "emails": [
+    {
+      "email": "philip.green@portswigger.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philip@playersfund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philip@thelkn.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philip.green@reachrobotics.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "philip.green@arcticshores.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "p_green@codikoat.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "pgreen0307@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "philip.green75@hotmail.co.uk",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "philip.green@vivid-q.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "green.philip@salford.ac.uk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "philip.green@and.digital",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 7660 8184",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ovation Rights"
+}

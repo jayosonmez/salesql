@@ -1,0 +1,28 @@
+{
+  "uuid": "6703b06b-f66d-4190-9566-46e6756f3208",
+  "first_name": "Isaac",
+  "last_name": "Apea II",
+  "full_name": "Isaac Apea II",
+  "linkedin_url": "https://linkedin.com/in/isaac-apea-ii-9a699079",
+  "emails": [
+    {
+      "email": "isaac.apea@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "iapea@hrcmholdings.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 240-645-3723",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HRCM Holdings"
+}

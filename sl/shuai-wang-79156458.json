@@ -1,0 +1,23 @@
+{
+  "uuid": "d8e53074-ef46-457d-bbd2-6af816c5cc5a",
+  "first_name": "Shuai",
+  "last_name": "Wang",
+  "full_name": "Shuai Wang",
+  "linkedin_url": "https://linkedin.com/in/shuai-wang-79156458",
+  "emails": [
+    {
+      "email": "shuaiwang@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-642-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Berkeley"
+}

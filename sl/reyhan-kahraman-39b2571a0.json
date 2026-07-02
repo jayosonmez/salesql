@@ -1,0 +1,26 @@
+{
+  "uuid": "53f72017-60f2-4cc5-9087-9170c6cbed4d",
+  "first_name": "Reyhan",
+  "last_name": "Kahraman",
+  "full_name": "Reyhan Kahraman",
+  "linkedin_url": "https://linkedin.com/in/reyhan-kahraman-39b2571a0",
+  "emails": [
+    {
+      "email": "reyhan@talentize.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "reyhan@talentize.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "reyhan.kahraman@talentize.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Talentize Turkey"
+}

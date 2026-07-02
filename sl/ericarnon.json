@@ -1,0 +1,16 @@
+{
+  "uuid": "8b706c63-a503-4c79-9f40-130df51bfc92",
+  "first_name": "Eric",
+  "last_name": "Arnon",
+  "full_name": "Eric Arnon",
+  "linkedin_url": "https://linkedin.com/in/ericarnon",
+  "emails": [
+    {
+      "email": "earnon@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

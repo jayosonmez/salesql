@@ -1,0 +1,21 @@
+{
+  "uuid": "c3944a8d-627a-427a-91a7-b04471337b94",
+  "first_name": "David",
+  "last_name": "Wright",
+  "full_name": "David Wright",
+  "linkedin_url": "https://linkedin.com/in/david-wright-2217a639",
+  "emails": [
+    {
+      "email": "somsnake@sprynet.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "davidwright@amdilabs.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Autonomous Medical Devices Incorporated"
+}

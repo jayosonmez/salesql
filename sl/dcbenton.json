@@ -1,0 +1,26 @@
+{
+  "uuid": "1de7d1bb-b2ee-4044-991b-fc158911a724",
+  "first_name": "Dan",
+  "last_name": "Benton",
+  "full_name": "Dan Benton",
+  "linkedin_url": "https://linkedin.com/in/dcbenton",
+  "emails": [
+    {
+      "email": "dan@andorcap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "danb@benton-capital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan.benton@goldmansachs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Benton Capital Management"
+}

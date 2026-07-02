@@ -1,0 +1,48 @@
+{
+  "uuid": "fc49ce0d-8199-4de2-9363-8c1cda148a30",
+  "first_name": "Jamie",
+  "last_name": "Wilson",
+  "full_name": "Jamie Wilson",
+  "linkedin_url": "https://linkedin.com/in/jamie-wilson-300",
+  "emails": [
+    {
+      "email": "jamie.wilson@zaplabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jwilson@homeriver.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jamie.wilson@thehubhaus.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jwilson@ziprealty.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jamie.wilson@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jamie.wilson@zaplabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 901-641-3200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HomeRiver Group"
+}

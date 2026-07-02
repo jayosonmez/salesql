@@ -1,0 +1,17 @@
+{
+  "uuid": "bed10469-24a4-4e85-9452-3ca6f2503928",
+  "first_name": "晓云",
+  "last_name": "丁",
+  "full_name": "晓云 丁",
+  "linkedin_url": "https://linkedin.com/in/晓云-丁-16ab72276",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 212-878-0600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Warburg Pincus LLC"
+}

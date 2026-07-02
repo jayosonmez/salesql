@@ -1,0 +1,16 @@
+{
+  "uuid": "c209481c-426b-4285-9fbd-fb0bcb16b368",
+  "first_name": "Jack",
+  "last_name": "Holton",
+  "full_name": "Jack Holton",
+  "linkedin_url": "https://linkedin.com/in/jackholton",
+  "emails": [
+    {
+      "email": "jdholton@ix.netcom.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "start-ups and small companies"
+}

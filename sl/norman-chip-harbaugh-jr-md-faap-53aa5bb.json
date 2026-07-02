@@ -1,0 +1,21 @@
+{
+  "uuid": "832c12da-41a0-4125-a1a3-705ce391ddb9",
+  "first_name": "Norman (Chip)",
+  "last_name": "Harbaugh, Jr. MD FAAP",
+  "full_name": "Norman (Chip) Harbaugh, Jr. MD FAAP",
+  "linkedin_url": "https://linkedin.com/in/norman-chip-harbaugh-jr-md-faap-53aa5bb",
+  "emails": [
+    {
+      "email": "nharbaugh@cmg-pc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chipharb@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Children's Care Network"
+}

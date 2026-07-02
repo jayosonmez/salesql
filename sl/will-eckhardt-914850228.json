@@ -1,0 +1,17 @@
+{
+  "uuid": "726ba8dc-026b-4a5d-a925-2f24e92982b8",
+  "first_name": "will",
+  "last_name": "eckhardt",
+  "full_name": "will eckhardt",
+  "linkedin_url": "https://linkedin.com/in/will-eckhardt-914850228",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 615-665-1283",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Envision"
+}

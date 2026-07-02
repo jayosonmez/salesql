@@ -1,0 +1,23 @@
+{
+  "uuid": "137057f4-2d1d-4688-9b72-bcc83f62f312",
+  "first_name": "Ashkhan",
+  "last_name": "Hojati",
+  "full_name": "Ashkhan Hojati",
+  "linkedin_url": "https://linkedin.com/in/ashkhan-hojati-3709037b",
+  "emails": [
+    {
+      "email": "ahojati@illinois.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 217-300-5700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Carle Illinois College of Medicine"
+}

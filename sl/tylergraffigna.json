@@ -1,0 +1,28 @@
+{
+  "uuid": "3f815260-aa70-4ff3-b189-3cacb3cbfe4d",
+  "first_name": "Tyler",
+  "last_name": "Graffigna",
+  "full_name": "Tyler Graffigna",
+  "linkedin_url": "https://linkedin.com/in/tylergraffigna",
+  "emails": [
+    {
+      "email": "tylergraffigna@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "tyler.graffigna@ml.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-288-2576",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Soriano Investment Partners, LLC"
+}

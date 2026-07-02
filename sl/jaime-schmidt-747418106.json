@@ -1,0 +1,38 @@
+{
+  "uuid": "2f4f1bba-d737-4728-a49f-e7583d8ee9fc",
+  "first_name": "Jaime",
+  "last_name": "Schmidt",
+  "full_name": "Jaime Schmidt",
+  "linkedin_url": "https://linkedin.com/in/jaime-schmidt-747418106",
+  "emails": [
+    {
+      "email": "jaime@supermaker.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jaime@schmidts.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hello@jaimeschmidt.info",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jaime@color.capital",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-866-9748",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Schmidt's Naturals"
+}

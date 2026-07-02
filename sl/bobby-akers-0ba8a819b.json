@@ -1,0 +1,23 @@
+{
+  "uuid": "948d6adc-934c-4c59-a7be-8c20c7c0724f",
+  "first_name": "Bobby",
+  "last_name": "Akers",
+  "full_name": "Bobby Akers",
+  "linkedin_url": "https://linkedin.com/in/bobby-akers-0ba8a819b",
+  "emails": [
+    {
+      "email": "bakers@mfs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-954-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MFS Investment Management"
+}

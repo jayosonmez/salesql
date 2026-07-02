@@ -1,0 +1,16 @@
+{
+  "uuid": "595926e0-f448-4da8-847d-4836b9ec3cae",
+  "first_name": "Emma",
+  "last_name": "D.",
+  "full_name": "Emma D.",
+  "linkedin_url": "https://linkedin.com/in/emma-deligny",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+33 6 99 04 27 06",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Recruitwith"
+}

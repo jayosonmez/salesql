@@ -1,0 +1,21 @@
+{
+  "uuid": "7dd44a08-2ee9-4a4e-a031-63b061d658f7",
+  "first_name": "Devin",
+  "last_name": "Calloway",
+  "full_name": "Devin Calloway",
+  "linkedin_url": "https://linkedin.com/in/devincalloway",
+  "emails": [
+    {
+      "email": "devin@vcalloway.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "devin.calloway@ecofarm.ag",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "SuperCrop.io"
+}

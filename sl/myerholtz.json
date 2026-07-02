@@ -1,0 +1,28 @@
+{
+  "uuid": "1bb76abc-df54-4853-a3c5-66015f5aee62",
+  "first_name": "Carl",
+  "last_name": "Myerholtz",
+  "full_name": "Carl Myerholtz",
+  "linkedin_url": "https://linkedin.com/in/myerholtz",
+  "emails": [
+    {
+      "email": "carl_myerholtz@agilent.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "carl_myerholtz@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-345-8886",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Agilent Technologies"
+}

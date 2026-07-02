@@ -1,0 +1,23 @@
+{
+  "uuid": "f12c4d69-eff3-44e4-9535-13a3355141be",
+  "first_name": "Fredric B.",
+  "last_name": "Kraemer, M.D.",
+  "full_name": "Fredric B. Kraemer, M.D.",
+  "linkedin_url": "https://linkedin.com/in/fredric-b-kraemer-m-d-9a684868",
+  "emails": [
+    {
+      "email": "fkraemer@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-723-4177",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stanford University School of Medicine"
+}

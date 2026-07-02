@@ -1,0 +1,38 @@
+{
+  "uuid": "5998a379-3600-4c8b-b033-a36d19edfe3e",
+  "first_name": "Colin C. Edgerton",
+  "last_name": "MD, FACP",
+  "full_name": "Colin C. Edgerton MD, FACP",
+  "linkedin_url": "https://linkedin.com/in/colin-c-edgerton-md-facp-07719379",
+  "emails": [
+    {
+      "email": "cmd@articularishealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cmd@rheumatology.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "colin.md@ama-assn.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cmd@georgiahealth.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 843-329-8831",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Articularis Healthcare Group, Inc"
+}

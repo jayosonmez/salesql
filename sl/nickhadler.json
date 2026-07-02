@@ -1,0 +1,28 @@
+{
+  "uuid": "7961caf0-866e-4c18-ae9a-1f1fb3fb8d6b",
+  "first_name": "Nick",
+  "last_name": "Hadler",
+  "full_name": "Nick Hadler",
+  "linkedin_url": "https://linkedin.com/in/nickhadler",
+  "emails": [
+    {
+      "email": "nick@mydxlife.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nick@elitesocialmediamarketing.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-220-2868",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Elite Social Media"
+}

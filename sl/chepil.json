@@ -1,0 +1,22 @@
+{
+  "uuid": "3b51e56f-8638-4da9-9f08-1d0caffd2840",
+  "first_name": "Eugene",
+  "last_name": "Chepil",
+  "full_name": "Eugene Chepil",
+  "linkedin_url": "https://linkedin.com/in/chepil",
+  "emails": [
+    {
+      "email": "eugene@datascienceretreat.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 30 23633473",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Data Science Retreat"
+}

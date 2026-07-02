@@ -1,0 +1,33 @@
+{
+  "uuid": "3682cea3-8617-48a7-b875-aad4ece3ca43",
+  "first_name": "Cam",
+  "last_name": "Woods",
+  "full_name": "Cam Woods",
+  "linkedin_url": "https://linkedin.com/in/cam-woods-235632",
+  "emails": [
+    {
+      "email": "cam.woods@staffgarden.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cam.woods@fedbidspeed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cam.woods@netquarry.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-824-2524",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NetQuarry, Inc."
+}

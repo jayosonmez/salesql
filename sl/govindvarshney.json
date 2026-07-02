@@ -1,0 +1,28 @@
+{
+  "uuid": "ce1a7367-c333-40b1-8730-c2f2cde1e954",
+  "first_name": "Govind",
+  "last_name": "Varshney",
+  "full_name": "Govind Varshney",
+  "linkedin_url": "https://linkedin.com/in/govindvarshney",
+  "emails": [
+    {
+      "email": "govindv@microsoft.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "govind@lalitech.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-540-6400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lalitech"
+}

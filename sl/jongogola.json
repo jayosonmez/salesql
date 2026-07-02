@@ -1,0 +1,21 @@
+{
+  "uuid": "26836883-4e88-4f13-8584-aa4d53fa7845",
+  "first_name": "Jon",
+  "last_name": "Gogola, MD",
+  "full_name": "Jon Gogola, MD",
+  "linkedin_url": "https://linkedin.com/in/jongogola",
+  "emails": [
+    {
+      "email": "jgogolamd@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jon.gogola@memorialhermann.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Medical Providers Mutual Insurance Company, RRG"
+}

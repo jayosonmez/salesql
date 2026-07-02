@@ -1,0 +1,38 @@
+{
+  "uuid": "5edc0c2a-2650-491e-91d2-ad095a9590ac",
+  "first_name": "Inderpal",
+  "last_name": "Randhawa, MD",
+  "full_name": "Inderpal Randhawa, MD",
+  "linkedin_url": "https://linkedin.com/in/inderpal-randhawa-md-3370b611",
+  "emails": [
+    {
+      "email": "docrandhawa@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "irandhawa@tpirc.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "irandhawa@memorialcare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "irandhawa@foodallergyinstitute.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 562-684-8096",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "LAHA - Lung and Allergy Health Associates"
+}

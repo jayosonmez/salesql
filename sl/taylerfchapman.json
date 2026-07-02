@@ -1,0 +1,33 @@
+{
+  "uuid": "f3bba18f-6094-400a-9f3c-082fbdfa4f89",
+  "first_name": "Tayler-Frances",
+  "last_name": "Chapman",
+  "full_name": "Tayler-Frances Chapman",
+  "linkedin_url": "https://linkedin.com/in/taylerfchapman",
+  "emails": [
+    {
+      "email": "chapmando@tfcmed.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tayler.chapman@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tayler-frances_chapman@medicalresearchscotland.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 973-698-9590",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Medical Research"
+}

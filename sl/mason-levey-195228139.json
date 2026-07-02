@@ -1,0 +1,17 @@
+{
+  "uuid": "bdf87831-2086-497c-8d49-a4c54da25e2f",
+  "first_name": "Mason",
+  "last_name": "Levey",
+  "full_name": "Mason Levey",
+  "linkedin_url": "https://linkedin.com/in/mason-levey-195228139",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 646-709-1421",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

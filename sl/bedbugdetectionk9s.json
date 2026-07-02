@@ -1,0 +1,34 @@
+{
+  "uuid": "5432f258-6a18-4fb7-88ed-8309424955bd",
+  "first_name": "Kay",
+  "last_name": "McDonald",
+  "full_name": "Kay McDonald",
+  "linkedin_url": "https://linkedin.com/in/bedbugdetectionk9s",
+  "emails": [
+    {
+      "email": "flyball2000@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kay@venturesouth.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 864-416-1070",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 617-633-5686",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bed Bug Detection K9s"
+}

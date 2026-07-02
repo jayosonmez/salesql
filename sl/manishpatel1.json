@@ -1,0 +1,36 @@
+{
+  "uuid": "5c9f14b2-2118-4b24-bf43-968518ee50cc",
+  "first_name": "Manish",
+  "last_name": "Patel",
+  "full_name": "Manish Patel",
+  "linkedin_url": "https://linkedin.com/in/manishpatel1",
+  "emails": [
+    {
+      "email": "manu1382@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "manish@seedsumo.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mp@arrivelogistics.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "manish@mightyequities.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "manish@springdaleventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Mighty Equities"
+}

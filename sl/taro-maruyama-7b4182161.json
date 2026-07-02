@@ -1,0 +1,16 @@
+{
+  "uuid": "c99e4de1-639b-4f65-ad50-085f93b91815",
+  "first_name": "Taro",
+  "last_name": "Maruyama",
+  "full_name": "Taro Maruyama",
+  "linkedin_url": "https://linkedin.com/in/taro-maruyama-7b4182161",
+  "emails": [
+    {
+      "email": "maruyama@anri.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ANRI"
+}

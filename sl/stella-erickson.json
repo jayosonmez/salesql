@@ -1,0 +1,26 @@
+{
+  "uuid": "b28b1172-8062-4d77-997e-39753d16cba3",
+  "first_name": "Stella",
+  "last_name": "Erickson",
+  "full_name": "Stella Erickson",
+  "linkedin_url": "https://linkedin.com/in/stella-erickson",
+  "emails": [
+    {
+      "email": "ericks30@purdue.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "stella.erickson@liquiglide.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "serickson@arnasigroup.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Arnasi"
+}

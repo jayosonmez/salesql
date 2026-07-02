@@ -1,0 +1,28 @@
+{
+  "uuid": "84b08b7f-e6e6-4db7-ab9a-aa8eefc1e95f",
+  "first_name": "James",
+  "last_name": "Bauer",
+  "full_name": "James Bauer",
+  "linkedin_url": "https://linkedin.com/in/james-bauer-3596ab12",
+  "emails": [
+    {
+      "email": "jbauer@peacehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr.james.d.bauer@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 907-225-5171",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PeaceHealth"
+}

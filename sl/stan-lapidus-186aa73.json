@@ -1,0 +1,51 @@
+{
+  "uuid": "7a972773-3a86-4304-b7c2-b81eeb063310",
+  "first_name": "Stan",
+  "last_name": "Lapidus",
+  "full_name": "Stan Lapidus",
+  "linkedin_url": "https://linkedin.com/in/stan-lapidus-186aa73",
+  "emails": [
+    {
+      "email": "slapidus@synapdx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "stan.lapidus@mybinxhealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "slapidus@lapidx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "stan@amplifyer.bio",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stan.lapidus@pathai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stan@mirvie.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stan@mercybio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sl@LucidDx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Mercy BioAnalytics, Inc."
+}

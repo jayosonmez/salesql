@@ -1,0 +1,23 @@
+{
+  "uuid": "9a3e74e0-26be-429e-afaf-929e00803592",
+  "first_name": "Daniel",
+  "last_name": "Kim",
+  "full_name": "Daniel Kim",
+  "linkedin_url": "https://linkedin.com/in/daniel-kim-7294906a",
+  "emails": [
+    {
+      "email": "d.k@permanente.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-608-0044",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Southland Wellness"
+}

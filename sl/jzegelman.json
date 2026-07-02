@@ -1,0 +1,48 @@
+{
+  "uuid": "270e3007-c787-46e2-821f-672459eb0530",
+  "first_name": "Julian",
+  "last_name": "Zegelman",
+  "full_name": "Julian Zegelman",
+  "linkedin_url": "https://linkedin.com/in/jzegelman",
+  "emails": [
+    {
+      "email": "jzegelman@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jzegelman@vzfirm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "julian.zegelman@metamaterial.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "julian@rolith.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "julian@tmtblockchainfund.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "julian@stepaheadcap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-891-7991",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sfermion"
+}

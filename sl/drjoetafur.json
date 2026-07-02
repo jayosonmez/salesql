@@ -1,0 +1,16 @@
+{
+  "uuid": "5a3486a8-3366-41f0-8089-fe35526f807f",
+  "first_name": "Joe",
+  "last_name": "Tafur",
+  "full_name": "Joe Tafur",
+  "linkedin_url": "https://linkedin.com/in/drjoetafur",
+  "emails": [
+    {
+      "email": "joetafur@modernspirit.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Modern Spirit"
+}

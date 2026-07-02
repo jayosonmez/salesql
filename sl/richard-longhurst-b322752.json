@@ -1,0 +1,21 @@
+{
+  "uuid": "fd808b18-f647-471e-97fb-897589fbc8a1",
+  "first_name": "Richard",
+  "last_name": "Longhurst",
+  "full_name": "Richard Longhurst",
+  "linkedin_url": "https://linkedin.com/in/richard-longhurst-b322752",
+  "emails": [
+    {
+      "email": "richard.longhurst@lovehoney.co.uk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "richard.longhurst@lovehoneygroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lovehoney Group"
+}

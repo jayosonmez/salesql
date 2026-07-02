@@ -1,0 +1,33 @@
+{
+  "uuid": "f46a3f88-7ea1-407b-897d-84c0aa969319",
+  "first_name": "Elliott",
+  "last_name": "Sigal",
+  "full_name": "Elliott Sigal",
+  "linkedin_url": "https://linkedin.com/in/elliott-sigal-aa978567",
+  "emails": [
+    {
+      "email": "esigal@vir.bio",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "esigal@alnylam.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "elliott.sigal@amgen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-551-8200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Alnylam Pharmaceuticals"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "d3be812e-73c2-4ae9-89d3-5f2f78069b7a",
+  "first_name": "Jonathan",
+  "last_name": "Stein",
+  "full_name": "Jonathan Stein",
+  "linkedin_url": "https://linkedin.com/in/jonstein",
+  "emails": [
+    {
+      "email": "jon@betterment.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jon.stein@betterment.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan.b.stein@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan.stein@valoraapp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@getwarmer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-256-5222",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Warmer"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "d04bcc19-6d1e-467f-b63c-fe263b14293c",
+  "first_name": "Karin Sue",
+  "last_name": "Duncan",
+  "full_name": "Karin Sue Duncan",
+  "linkedin_url": "https://linkedin.com/in/ksduncan",
+  "emails": [
+    {
+      "email": "kroberts@orioninternational.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Coeur d'Alene Healing Arts"
+}

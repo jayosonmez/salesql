@@ -1,0 +1,23 @@
+{
+  "uuid": "fcea5879-fc79-458f-8775-a5e32b3aff65",
+  "first_name": "Dr. James L.",
+  "last_name": "Flowers",
+  "full_name": "Dr. James L. Flowers",
+  "linkedin_url": "https://linkedin.com/in/dr-james-l-flowers-379a493",
+  "emails": [
+    {
+      "email": "mfmenter@earthlink.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-872-7215",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Advance Medical Center"
+}

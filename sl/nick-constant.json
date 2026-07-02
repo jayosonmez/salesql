@@ -1,0 +1,16 @@
+{
+  "uuid": "eaace0a3-2ace-4e74-b14d-cb4711daf933",
+  "first_name": "Nicholas",
+  "last_name": "Constant",
+  "full_name": "Nicholas Constant",
+  "linkedin_url": "https://linkedin.com/in/nick-constant",
+  "emails": [
+    {
+      "email": "kabuki4774@my.uri.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "WellAware"
+}

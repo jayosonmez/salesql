@@ -1,0 +1,16 @@
+{
+  "uuid": "e261ef56-8cc6-431c-8541-1839d5e535eb",
+  "first_name": "Jimmy",
+  "last_name": "Ahmar",
+  "full_name": "Jimmy Ahmar",
+  "linkedin_url": "https://linkedin.com/in/jimmy-ahmar-88090219b",
+  "emails": [
+    {
+      "email": "jimmy.ahmar@standardbank.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Standard Bank Group"
+}

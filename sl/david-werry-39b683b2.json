@@ -1,0 +1,28 @@
+{
+  "uuid": "1a69916c-efac-49d5-901b-cb2d2d944f3c",
+  "first_name": "David",
+  "last_name": "Werry",
+  "full_name": "David Werry",
+  "linkedin_url": "https://linkedin.com/in/david-werry-39b683b2",
+  "emails": [
+    {
+      "email": "david.werry@well.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dwerry@lslog.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 469-844-3700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "LifeScience Logistics"
+}

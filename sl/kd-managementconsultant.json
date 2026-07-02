@@ -1,0 +1,39 @@
+{
+  "uuid": "18056126-9831-47e1-8a59-522a6cff826e",
+  "first_name": "Karan",
+  "last_name": "Desai",
+  "full_name": "Karan Desai",
+  "linkedin_url": "https://linkedin.com/in/kd-managementconsultant",
+  "emails": [
+    {
+      "email": "karan.desai@elorce.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kd@mdhealthtrak.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "karan.d@thedecinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 347-209-2806",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+91 99664 87744",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ariumsoft"
+}

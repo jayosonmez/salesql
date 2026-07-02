@@ -1,0 +1,38 @@
+{
+  "uuid": "6abe2cf0-f840-4529-825f-334149eed24d",
+  "first_name": "Dan",
+  "last_name": "Peate",
+  "full_name": "Dan Peate",
+  "linkedin_url": "https://linkedin.com/in/dan-peate-38100a6",
+  "emails": [
+    {
+      "email": "dpeate@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@peateventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan.peate@avinew.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan.peate@hixme.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 805-277-2888",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Avinew"
+}

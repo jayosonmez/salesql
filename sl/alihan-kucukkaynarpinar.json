@@ -1,0 +1,16 @@
+{
+  "uuid": "ac129b30-37a6-429d-aaf9-c29096afd045",
+  "first_name": "Alihan",
+  "last_name": "Küçükkaynarpınar",
+  "full_name": "Alihan Küçükkaynarpınar",
+  "linkedin_url": "https://linkedin.com/in/alihan-kucukkaynarpinar",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+90 262 315 50 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ford Otosan"
+}

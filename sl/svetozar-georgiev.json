@@ -1,0 +1,41 @@
+{
+  "uuid": "ef32cf96-bb37-46ca-83e0-5b8f535401ab",
+  "first_name": "Svetozar",
+  "last_name": "Georgiev",
+  "full_name": "Svetozar Georgiev",
+  "linkedin_url": "https://linkedin.com/in/svetozar-georgiev",
+  "emails": [
+    {
+      "email": "svetozar_georgiev@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "svetozar@besco.bg",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "svetozar@campusx.company",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "svetozar@telerikacademy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sgeorgiev@aubg.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "s.georgiev@zaednovchas.bg",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "BEX"
+}

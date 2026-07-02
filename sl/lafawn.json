@@ -1,0 +1,36 @@
+{
+  "uuid": "276be171-852e-44f6-927d-9d78d31f9bf6",
+  "first_name": "LaFawn",
+  "last_name": "Davis",
+  "full_name": "LaFawn Davis",
+  "linkedin_url": "https://linkedin.com/in/lafawn",
+  "emails": [
+    {
+      "email": "lafawn@worldwellbeingmovement.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lafawn@lwtsquad.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lafawn@operatorcollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lafawnd@indeed.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lafawn@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "World Wellbeing Movement"
+}

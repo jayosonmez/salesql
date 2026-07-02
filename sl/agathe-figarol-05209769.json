@@ -1,0 +1,23 @@
+{
+  "uuid": "0965079f-0a90-4ae5-956e-97212a23df0f",
+  "first_name": "Agathe",
+  "last_name": "Figarol",
+  "full_name": "Agathe Figarol",
+  "linkedin_url": "https://linkedin.com/in/agathe-figarol-05209769",
+  "emails": [
+    {
+      "email": "agathe.figarol@univ-fcomte.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 3 81 66 66 66",
+      "type": "Work",
+      "country_code": "FR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Université Marie et Louis Pasteur"
+}

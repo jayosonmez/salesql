@@ -1,0 +1,16 @@
+{
+  "uuid": "0b05ffa2-36ef-4244-8c1c-2f7cef9f92f4",
+  "first_name": "Jeff",
+  "last_name": "Edwards",
+  "full_name": "Jeff Edwards",
+  "linkedin_url": "https://linkedin.com/in/jeff-edwards-622b1a42",
+  "emails": [
+    {
+      "email": "usig@att.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Multi Family Investing"
+}

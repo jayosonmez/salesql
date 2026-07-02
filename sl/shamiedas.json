@@ -1,0 +1,36 @@
+{
+  "uuid": "1fb1790d-6be1-4c9f-8e0a-53bafb896e29",
+  "first_name": "Shamie",
+  "last_name": "Das, MD, MBA, MPH, FACEP",
+  "full_name": "Shamie Das, MD, MBA, MPH, FACEP",
+  "linkedin_url": "https://linkedin.com/in/shamiedas",
+  "emails": [
+    {
+      "email": "shamie.das@ama-assn.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sdas@mag.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shamie.das@emoryhealthcare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shamie.das@emory.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "das.shamie@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "National Academy of Medicine"
+}

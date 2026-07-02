@@ -1,0 +1,33 @@
+{
+  "uuid": "5a7c9e2a-fa1e-424f-8681-3ba35523f4df",
+  "first_name": "Michael D.",
+  "last_name": "Weiss",
+  "full_name": "Michael D. Weiss",
+  "linkedin_url": "https://linkedin.com/in/michael-d-weiss-39015231",
+  "emails": [
+    {
+      "email": "doctorstork@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mweiss@athome.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael.weiss@med-kick.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 248-608-2737",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MICHAEL D. WEISS"
+}

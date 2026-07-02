@@ -1,0 +1,38 @@
+{
+  "uuid": "aa39d1a6-c0a5-494e-8b4f-684072861391",
+  "first_name": "Michael",
+  "last_name": "Hwang",
+  "full_name": "Michael Hwang",
+  "linkedin_url": "https://linkedin.com/in/michael-hwang-45904253",
+  "emails": [
+    {
+      "email": "mh@kaist.ac.kr",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "michael@fliption.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael.hwang@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael.hwang@kt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+82 10-3164-1012",
+      "type": "Work",
+      "country_code": "KR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DATUMO, Inc."
+}

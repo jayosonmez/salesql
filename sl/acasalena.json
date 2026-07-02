@@ -1,0 +1,23 @@
+{
+  "uuid": "bb45def2-973b-48d1-95b6-1bc73b3eddac",
+  "first_name": "Anthony",
+  "last_name": "Casalena",
+  "full_name": "Anthony Casalena",
+  "linkedin_url": "https://linkedin.com/in/acasalena",
+  "emails": [
+    {
+      "email": "acasalena@squarespace.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-255-5530",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Squarespace"
+}

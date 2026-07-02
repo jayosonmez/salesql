@@ -1,0 +1,16 @@
+{
+  "uuid": "9b602bb4-e17f-4b4f-8556-284de96e58ff",
+  "first_name": "Gary",
+  "last_name": "R.",
+  "full_name": "Gary R.",
+  "linkedin_url": "https://linkedin.com/in/gary-r-5ab970",
+  "emails": [
+    {
+      "email": "gwrush@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

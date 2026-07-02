@@ -1,0 +1,28 @@
+{
+  "uuid": "d0e25c72-dda8-4fb1-818f-5891e0ac4e3f",
+  "first_name": "Shabari",
+  "last_name": "Mulgund",
+  "full_name": "Shabari Mulgund",
+  "linkedin_url": "https://linkedin.com/in/shabari-mulgund-27313757",
+  "emails": [
+    {
+      "email": "smulgund@nyp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mulgund@nychealthandhospitals.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-562-4141",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NYC Health + Hospitals"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "27f95575-8081-4ef8-9b03-3e896c6ce1f1",
+  "first_name": "Chris",
+  "last_name": "Dulla",
+  "full_name": "Chris Dulla",
+  "linkedin_url": "https://linkedin.com/in/chris-dulla-835b509",
+  "emails": [
+    {
+      "email": "chris.dulla@tufts.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-636-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tufts University School of Medicine"
+}

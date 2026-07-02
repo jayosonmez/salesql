@@ -1,0 +1,33 @@
+{
+  "uuid": "d537a66a-c970-4585-a560-1ed9898b6c92",
+  "first_name": "Bernhard",
+  "last_name": "Niesner",
+  "full_name": "Bernhard Niesner",
+  "linkedin_url": "https://linkedin.com/in/bernhardniesner",
+  "emails": [
+    {
+      "email": "bernhard.niesner@gmx.at",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bernhard@busuu.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bernhard.niesner@austrianstartups.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+43 821 4031024",
+      "type": "Work",
+      "country_code": "AT",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AustrianStartups"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "70af00f7-42b6-4383-8410-255c6a195b8e",
+  "first_name": "Allison",
+  "last_name": "Reno",
+  "full_name": "Allison Reno",
+  "linkedin_url": "https://linkedin.com/in/allison-reno-3a6955112",
+  "emails": [
+    {
+      "email": "areno@clemson.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 864-656-2345",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Clemson University"
+}

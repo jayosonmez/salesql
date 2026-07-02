@@ -1,0 +1,16 @@
+{
+  "uuid": "bc7f82e6-d997-44fe-833e-dccf606cfa71",
+  "first_name": "Stefan",
+  "last_name": "Hennig",
+  "full_name": "Stefan Hennig",
+  "linkedin_url": "https://linkedin.com/in/shennig",
+  "emails": [
+    {
+      "email": "shennig@bioline.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Meridian Life Science-Academic (previously Bioline)"
+}

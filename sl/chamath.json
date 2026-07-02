@@ -1,0 +1,43 @@
+{
+  "uuid": "679d5f0e-bdfd-4a54-ad42-0aab08e2f47e",
+  "first_name": "Chamath",
+  "last_name": "Palihapitiya",
+  "full_name": "Chamath Palihapitiya",
+  "linkedin_url": "https://linkedin.com/in/chamath",
+  "emails": [
+    {
+      "email": "chamath@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "chamath.palihapitiya@syapse.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "palihapitiya@socialcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chamath@aol.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cpalihapitiya@mayfield.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-521-9007",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Social Capital"
+}

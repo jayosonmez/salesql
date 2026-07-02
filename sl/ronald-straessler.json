@@ -1,0 +1,26 @@
+{
+  "uuid": "a5dc1a88-d5cd-4ff2-b396-e934f8b8fd6c",
+  "first_name": "Ronald",
+  "last_name": "Strässler",
+  "full_name": "Ronald Strässler",
+  "linkedin_url": "https://linkedin.com/in/ronald-straessler",
+  "emails": [
+    {
+      "email": "ronald.strassler@avaloq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ronald.s@novigenix.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "r.s@veertly.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Rimsalai Holding AG"
+}

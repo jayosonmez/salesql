@@ -1,0 +1,36 @@
+{
+  "uuid": "de68ee57-5e87-4dbb-bacb-c628e05fb7ee",
+  "first_name": "Jonathan",
+  "last_name": "Siegel",
+  "full_name": "Jonathan Siegel",
+  "linkedin_url": "https://linkedin.com/in/jsiegel",
+  "emails": [
+    {
+      "email": "jonathan@rightventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan.siegel@rackspace.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@cjsiegel.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jsiegel@hammingcollege.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@xenon.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sole Practioner"
+}

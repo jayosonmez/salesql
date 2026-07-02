@@ -1,0 +1,26 @@
+{
+  "uuid": "36eafd33-c255-46ae-8cec-d74deb5d41ba",
+  "first_name": "Jeff",
+  "last_name": "Hagins",
+  "full_name": "Jeff Hagins",
+  "linkedin_url": "https://linkedin.com/in/hagins",
+  "emails": [
+    {
+      "email": "jeff.hagins@muralventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeff@hagins.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeff@mural.cloud",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Contextual.io"
+}

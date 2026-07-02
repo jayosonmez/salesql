@@ -1,0 +1,23 @@
+{
+  "uuid": "551bc373-f6d6-43e6-b52c-b4109b2ad3d4",
+  "first_name": "Salil",
+  "last_name": "Bhate",
+  "full_name": "Salil Bhate",
+  "linkedin_url": "https://linkedin.com/in/salil-bhate-4a115ba8",
+  "emails": [
+    {
+      "email": "sbhate@broadinstitute.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-714-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Broad Institute of MIT and Harvard"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "67b1c180-9a6f-4a45-aefa-486aa2443f91",
+  "first_name": "Fabiola",
+  "last_name": "Cazares",
+  "full_name": "Fabiola Cazares",
+  "linkedin_url": "https://linkedin.com/in/fabcazares",
+  "emails": [
+    {
+      "email": "fabiola@affirm.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-906-6069",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Affirm"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "b828908f-5467-417e-b0b8-001d34560a7f",
+  "first_name": "Barry",
+  "last_name": "Coffman",
+  "full_name": "Barry Coffman",
+  "linkedin_url": "https://linkedin.com/in/barry-coffman-4017435",
+  "emails": [
+    {
+      "email": "bcoffman@needhamma.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "barry@wahtshearing.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bcoffman@bidneedham.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bcoffman@realplay.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "barry.coffman@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 603-945-4510",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "WAHTS Hearing"
+}

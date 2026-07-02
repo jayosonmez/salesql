@@ -1,0 +1,41 @@
+{
+  "uuid": "707ccacf-1986-4527-a2b4-edc6afb9223a",
+  "first_name": "Rem",
+  "last_name": "Darbinyan",
+  "full_name": "Rem Darbinyan",
+  "linkedin_url": "https://linkedin.com/in/remdarbinyan",
+  "emails": [
+    {
+      "email": "rem.darbinyan@forbestechcouncil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rem.darbinyan@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rem@rem.am",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rem@studio.am",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rem@smartclick.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rem@viralmango.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ViralMango - Influencer Marketing"
+}

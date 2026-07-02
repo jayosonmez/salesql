@@ -1,0 +1,23 @@
+{
+  "uuid": "1ce8d3b3-275b-41f1-b30d-eb50844a8fad",
+  "first_name": "Lucas",
+  "last_name": "Dailey",
+  "full_name": "Lucas Dailey",
+  "linkedin_url": "https://linkedin.com/in/lucas-dailey-609405169",
+  "emails": [
+    {
+      "email": "ldailey@broadinstitute.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-714-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Broad Institute of MIT and Harvard"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0afceb15-edc5-47a6-aaa3-bcfc786d7012",
+  "first_name": "Manideep",
+  "last_name": "Tummalapudi, Ph.D.",
+  "full_name": "Manideep Tummalapudi, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/manitdeep",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 559-278-4240",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "California State University, Fresno"
+}

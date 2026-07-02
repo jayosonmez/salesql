@@ -1,0 +1,28 @@
+{
+  "uuid": "0b0cba3b-366a-42fc-bb4e-53a3d43a9dfd",
+  "first_name": "Sean",
+  "last_name": "O'Sullivan",
+  "full_name": "Sean O'Sullivan",
+  "linkedin_url": "https://linkedin.com/in/sean-sosv",
+  "emails": [
+    {
+      "email": "sosventures@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sean.osullivan@sosv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-698-9600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SOSV"
+}

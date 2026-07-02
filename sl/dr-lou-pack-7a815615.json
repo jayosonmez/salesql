@@ -1,0 +1,16 @@
+{
+  "uuid": "7935da3b-1ccf-4163-a98a-50974c3b134c",
+  "first_name": "Dr. Lou",
+  "last_name": "Pack",
+  "full_name": "Dr. Lou Pack",
+  "linkedin_url": "https://linkedin.com/in/dr-lou-pack-7a815615",
+  "emails": [
+    {
+      "email": "dr.loupack@mindspring.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Arthritis Revolution, Staying Active Without Pain Medicatiion or Surgery"
+}

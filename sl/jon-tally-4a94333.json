@@ -1,0 +1,28 @@
+{
+  "uuid": "d2954bf3-9feb-44a0-9448-38f439f7cf97",
+  "first_name": "Jon",
+  "last_name": "Tally",
+  "full_name": "Jon Tally",
+  "linkedin_url": "https://linkedin.com/in/jon-tally-4a94333",
+  "emails": [
+    {
+      "email": "jonftally@netscape.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jon.tally@park.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 816-741-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Park University"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "ed04dba9-19cb-4f3c-ab5e-02108ecfcc48",
+  "first_name": "Sam",
+  "last_name": "Jazzo",
+  "full_name": "Sam Jazzo",
+  "linkedin_url": "https://linkedin.com/in/samjazzo",
+  "emails": [
+    {
+      "email": "sam.jazzo@validic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-267-7300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kaiser Permanente Ventures"
+}

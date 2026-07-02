@@ -1,0 +1,48 @@
+{
+  "uuid": "ca838e8f-cf97-4c27-9d6a-ce147b3ddc8a",
+  "first_name": "Mark",
+  "last_name": "Goldenson",
+  "full_name": "Mark Goldenson",
+  "linkedin_url": "https://linkedin.com/in/goldenson",
+  "emails": [
+    {
+      "email": "mjgold@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mark@venturekit.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "goldenson@google.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mjgold1@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mark@untoldapp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark@fluencetraining.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 574-252-5662",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth Startup"
+}

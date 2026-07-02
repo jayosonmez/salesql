@@ -1,0 +1,17 @@
+{
+  "uuid": "13b890b9-8059-4e02-9512-f099abe8d7cf",
+  "first_name": "MedHealthClaims",
+  "last_name": "LLC",
+  "full_name": "MedHealthClaims LLC",
+  "linkedin_url": "https://linkedin.com/in/medhealthclaims-llc-30b66895",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 732-917-0600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MedHealthClaims LLC"
+}

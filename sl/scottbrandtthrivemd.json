@@ -1,0 +1,16 @@
+{
+  "uuid": "2f846aa3-1874-4f87-95b9-8bb90b3476b7",
+  "first_name": "Scott",
+  "last_name": "Brandt, MD",
+  "full_name": "Scott Brandt, MD",
+  "linkedin_url": "https://linkedin.com/in/scottbrandtthrivemd",
+  "emails": [
+    {
+      "email": "scott@thrivemdvail.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ThriveMD - Clinic of Longevity and Regenerative Medicine"
+}

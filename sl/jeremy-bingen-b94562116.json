@@ -1,0 +1,23 @@
+{
+  "uuid": "23bcff7a-865c-47c7-a25a-89726eccbce3",
+  "first_name": "Jeremy",
+  "last_name": "Bingen",
+  "full_name": "Jeremy Bingen",
+  "linkedin_url": "https://linkedin.com/in/jeremy-bingen-b94562116",
+  "emails": [
+    {
+      "email": "jbingen@uic.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-996-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Illinois Chicago"
+}

@@ -1,0 +1,63 @@
+{
+  "uuid": "dad3c0a0-5a14-46f4-8ce0-829ed96c2ae0",
+  "first_name": "Philipp",
+  "last_name": "Pieper",
+  "full_name": "Philipp Pieper",
+  "linkedin_url": "https://linkedin.com/in/philipppieper",
+  "emails": [
+    {
+      "email": "philipph.pieper@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "pp@swarm.fund",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ppieper@swarm.fund",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "philipp.pieper@lighthou.se",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "philipp.pieper@loop.tv",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "philipp@swarm.markets",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "philipp.pieper@proximic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philipp@startx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philipp.pieper@su.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-704-7409",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Swarm"
+}

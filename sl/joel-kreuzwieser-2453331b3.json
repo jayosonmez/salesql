@@ -1,0 +1,23 @@
+{
+  "uuid": "b392a4ba-aecb-47ef-9e3a-e526f8076a9b",
+  "first_name": "Joel",
+  "last_name": "Kreuzwieser",
+  "full_name": "Joel Kreuzwieser",
+  "linkedin_url": "https://linkedin.com/in/joel-kreuzwieser-2453331b3",
+  "emails": [
+    {
+      "email": "joel.kreuzwieser@vanderbilt.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 615-322-7651",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vanderbilt University Graduate School"
+}

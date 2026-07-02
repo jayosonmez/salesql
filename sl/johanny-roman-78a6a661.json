@@ -1,0 +1,23 @@
+{
+  "uuid": "3830e595-5a00-4c74-85ed-471c8dd3e7be",
+  "first_name": "Johanny",
+  "last_name": "Roman",
+  "full_name": "Johanny Roman",
+  "linkedin_url": "https://linkedin.com/in/johanny-roman-78a6a661",
+  "emails": [
+    {
+      "email": "johanny.roman@regeneron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-347-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Regeneron"
+}

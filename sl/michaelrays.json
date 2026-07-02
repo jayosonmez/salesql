@@ -1,0 +1,16 @@
+{
+  "uuid": "af188909-64e9-4c24-a4c9-42c0f073d9fb",
+  "first_name": "Michael",
+  "last_name": "Ray",
+  "full_name": "Michael Ray",
+  "linkedin_url": "https://linkedin.com/in/michaelrays",
+  "emails": [
+    {
+      "email": "mike@yesplz.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "WILDER Hydration"
+}

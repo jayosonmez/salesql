@@ -1,0 +1,21 @@
+{
+  "uuid": "1944c1a9-61f3-499e-96d9-4a4a19f28c83",
+  "first_name": "Tricia",
+  "last_name": "Williams, MD",
+  "full_name": "Tricia Williams, MD",
+  "linkedin_url": "https://linkedin.com/in/tricia-williams-md-922825199",
+  "emails": [
+    {
+      "email": "twilliams@psychiatryredefined.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tricia.williams@athletico.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Endless Mountain Integrative Medicine, Tricia T Williams, MD Integrative Medicine"
+}

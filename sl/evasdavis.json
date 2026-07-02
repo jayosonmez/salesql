@@ -1,0 +1,48 @@
+{
+  "uuid": "19daf2d8-2aeb-4a70-8de9-fb5fde50c45f",
+  "first_name": "Eva Semple",
+  "last_name": "Davis",
+  "full_name": "Eva Semple Davis",
+  "linkedin_url": "https://linkedin.com/in/evasdavis",
+  "emails": [
+    {
+      "email": "eva.davis@pasadenaangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "evamsdavis@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "semple_davis@lavc.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eva.davis@calstatela.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eva@cvialife.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eva.davis@warnerbros.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 818-322-3306",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pasadena Angels"
+}

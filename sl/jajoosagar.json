@@ -1,0 +1,28 @@
+{
+  "uuid": "a77975de-adfc-4479-a2ad-1782a09271b5",
+  "first_name": "Sagar",
+  "last_name": "Jajoo",
+  "full_name": "Sagar Jajoo",
+  "linkedin_url": "https://linkedin.com/in/jajoosagar",
+  "emails": [
+    {
+      "email": "sagar.jajoo@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sjajoo@baincapitalventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-431-8855",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Silna"
+}

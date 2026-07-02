@@ -1,0 +1,16 @@
+{
+  "uuid": "e5adce7f-740d-4054-8c93-20fda21b5882",
+  "first_name": "Scott",
+  "last_name": "Gingold",
+  "full_name": "Scott Gingold",
+  "linkedin_url": "https://linkedin.com/in/scott-gingold-21802215",
+  "emails": [
+    {
+      "email": "scottgingold@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "PDO PIMPING"
+}

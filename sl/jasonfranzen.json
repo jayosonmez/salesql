@@ -1,0 +1,21 @@
+{
+  "uuid": "de4162ec-8fd0-4d5f-8d93-866225935bb4",
+  "first_name": "Jason",
+  "last_name": "Franzen",
+  "full_name": "Jason Franzen",
+  "linkedin_url": "https://linkedin.com/in/jasonfranzen",
+  "emails": [
+    {
+      "email": "jason@formationalliance.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jason@moresimple.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kindly Human"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "1b08a29d-10cd-4e73-b5a7-06e2cefb8213",
+  "first_name": "Aadil",
+  "last_name": "Mamujee",
+  "full_name": "Aadil Mamujee",
+  "linkedin_url": "https://linkedin.com/in/amamujee",
+  "emails": [
+    {
+      "email": "aadil.mamujee@automattic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aadil@stripe.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aadil.mamujee@opensea.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aadil@mushaventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "amamujee@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dansmigrod@wegetaroundnetwork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Bridge"
+}

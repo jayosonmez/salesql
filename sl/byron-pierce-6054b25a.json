@@ -1,0 +1,17 @@
+{
+  "uuid": "aaa6246f-fd89-463b-b9b9-19fee0dbbf1e",
+  "first_name": "Byron",
+  "last_name": "Pierce",
+  "full_name": "Byron Pierce",
+  "linkedin_url": "https://linkedin.com/in/byron-pierce-6054b25a",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 858-754-2900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Viridos"
+}

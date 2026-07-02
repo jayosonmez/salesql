@@ -1,0 +1,21 @@
+{
+  "uuid": "e04f9d1e-5fc1-4070-8f58-326dbe16f5c9",
+  "first_name": "Rinat",
+  "last_name": "Salikhov",
+  "full_name": "Rinat Salikhov",
+  "linkedin_url": "https://linkedin.com/in/rinat-salikhov-b742343b",
+  "emails": [
+    {
+      "email": "rinat.salikhov@kaspersky.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ul-techmaster@rambler.ru",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kaspersky"
+}

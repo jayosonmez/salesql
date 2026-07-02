@@ -1,0 +1,23 @@
+{
+  "uuid": "a1383494-8aee-4969-ad6f-3627b727a806",
+  "first_name": "faraz",
+  "last_name": "K.",
+  "full_name": "faraz K.",
+  "linkedin_url": "https://linkedin.com/in/faraz-k-30b599140",
+  "emails": [
+    {
+      "email": "faraz@WMCHealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-493-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Westchester Medical Center Health Network"
+}

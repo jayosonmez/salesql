@@ -1,0 +1,26 @@
+{
+  "uuid": "75a9ab81-30b3-44ef-8c1e-fab1b1a66a15",
+  "first_name": "Paul",
+  "last_name": "Dohrenwend",
+  "full_name": "Paul Dohrenwend",
+  "linkedin_url": "https://linkedin.com/in/pauldohrenwend",
+  "emails": [
+    {
+      "email": "paul.b.dohrenwend@kp.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "paul@safusake.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "paul.dohrenwend@massgeneral.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "SOUTHERN CALIFORNIA PERMANENTE MEDICAL GROUP"
+}

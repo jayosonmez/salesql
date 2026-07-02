@@ -1,0 +1,28 @@
+{
+  "uuid": "ec2825e8-9474-4644-bc1c-b7aacad08d75",
+  "first_name": "Madi",
+  "last_name": "Hawn",
+  "full_name": "Madi Hawn",
+  "linkedin_url": "https://linkedin.com/in/madi-hawn-883aa020",
+  "emails": [
+    {
+      "email": "mhawn@caringsolutions.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hawn@caringsolutions.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 314-942-7350",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Caring Solutions"
+}

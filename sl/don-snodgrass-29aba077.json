@@ -1,0 +1,23 @@
+{
+  "uuid": "0bdb0405-0437-4ab0-a148-5fb06d9dbbe6",
+  "first_name": "Don",
+  "last_name": "Snodgrass",
+  "full_name": "Don Snodgrass",
+  "linkedin_url": "https://linkedin.com/in/don-snodgrass-29aba077",
+  "emails": [
+    {
+      "email": "dsnodgrass@marylanning.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 402-463-4521",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mary Lanning Healthcare"
+}

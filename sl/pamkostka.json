@@ -1,0 +1,41 @@
+{
+  "uuid": "f333c309-0a48-444f-b3f7-8fb9af176330",
+  "first_name": "Pam",
+  "last_name": "Kostka",
+  "full_name": "Pam Kostka",
+  "linkedin_url": "https://linkedin.com/in/pamkostka",
+  "emails": [
+    {
+      "email": "pam@grahamwalker.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pam@acrewcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pkostka@virtuoz.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kpam@girlscrushingit.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "pam.kostka@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "pam@magnify.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Building_Something_New"
+}

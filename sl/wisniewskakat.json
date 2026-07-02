@@ -1,0 +1,17 @@
+{
+  "uuid": "5d4b8a15-903f-44bb-9b93-072fdec504af",
+  "first_name": "Katarzyna",
+  "last_name": "Wiśniewska",
+  "full_name": "Katarzyna Wiśniewska",
+  "linkedin_url": "https://linkedin.com/in/wisniewskakat",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+45 44 44 88 88",
+      "type": "Work",
+      "country_code": "DK",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Novo Nordisk"
+}

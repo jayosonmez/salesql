@@ -1,0 +1,48 @@
+{
+  "uuid": "d33a079b-4b1f-4b1d-8290-f530dddfa2eb",
+  "first_name": "Xina",
+  "last_name": "Quan",
+  "full_name": "Xina Quan",
+  "linkedin_url": "https://linkedin.com/in/xina-quan-1582336",
+  "emails": [
+    {
+      "email": "xquan@pyrameshealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "xquan@pacbell.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "xina.quan@artificialmuscle.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "xquan@cambrios.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "xquan@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "xina.quan@parker.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-216-0099",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PyrAmes"
+}

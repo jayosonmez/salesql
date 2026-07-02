@@ -1,0 +1,21 @@
+{
+  "uuid": "1fddbbad-8664-428b-9202-1e02b8c1c17d",
+  "first_name": "Joshua",
+  "last_name": "Ismin",
+  "full_name": "Joshua Ismin",
+  "linkedin_url": "https://linkedin.com/in/joshua-ismin",
+  "emails": [
+    {
+      "email": "joshua@psylo.bio",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "josh@thevideoplatform.tv",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Xylo Bio"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "1852526e-43d2-4434-893e-6f15208687d8",
+  "first_name": "Joan",
+  "last_name": "Tryzelaar",
+  "full_name": "Joan Tryzelaar",
+  "linkedin_url": "https://linkedin.com/in/joan-tryzelaar-2613a92",
+  "emails": [
+    {
+      "email": "doctort@cardiachealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Wound and Hyperbaric Medicine Center, Beverly Hospital"
+}

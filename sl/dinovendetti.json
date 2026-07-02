@@ -1,0 +1,48 @@
+{
+  "uuid": "a029cb9e-5276-45b3-9e1c-01607d8d637d",
+  "first_name": "Dino",
+  "last_name": "Vendetti",
+  "full_name": "Dino Vendetti",
+  "linkedin_url": "https://linkedin.com/in/dinovendetti",
+  "emails": [
+    {
+      "email": "dino@sevenpeaksventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dino@formative.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dino@crowdstreet.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dino.vendetti@lunaroutpost.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vd@stokespace.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dino.vendetti@1x.tech",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 541-999-9999",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Seven Peaks Ventures"
+}

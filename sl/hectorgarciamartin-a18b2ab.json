@@ -1,0 +1,21 @@
+{
+  "uuid": "c60fc7a9-bbc5-4567-96ce-b3e137a35390",
+  "first_name": "Héctor",
+  "last_name": "Garcia Martin, PhD",
+  "full_name": "Héctor Garcia Martin, PhD",
+  "linkedin_url": "https://linkedin.com/in/hectorgarciamartin-a18b2ab",
+  "emails": [
+    {
+      "email": "hgmartin@lbl.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hector.garcia@doe.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lawrence Berkeley National Laboratory"
+}

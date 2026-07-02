@@ -1,0 +1,33 @@
+{
+  "uuid": "4b15cd5d-cba4-40d2-84c7-f77d8ec67398",
+  "first_name": "Rodney F.",
+  "last_name": "Witcher, II",
+  "full_name": "Rodney F. Witcher, II",
+  "linkedin_url": "https://linkedin.com/in/rodneyfwitcher2",
+  "emails": [
+    {
+      "email": "fii@lbda.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rodney@pluckshot.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rfwit@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-829-4815",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Google"
+}

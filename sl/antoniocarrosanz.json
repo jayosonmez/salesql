@@ -1,0 +1,48 @@
+{
+  "uuid": "58036e29-e1e9-4f2e-b6b5-5ad8ea630cdb",
+  "first_name": "Antonio",
+  "last_name": "Carro Sanz",
+  "full_name": "Antonio Carro Sanz",
+  "linkedin_url": "https://linkedin.com/in/antoniocarrosanz",
+  "emails": [
+    {
+      "email": "acarrosanz@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "acshelios@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "acarro@letsfinance.es",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "antonio@eseedvc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "acarro@comillas.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "antonio.carro@novatalent.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-266-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Amazon"
+}

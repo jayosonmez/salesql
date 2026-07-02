@@ -1,0 +1,38 @@
+{
+  "uuid": "1d7b92f7-e97d-4d6b-829c-58d5638820c3",
+  "first_name": "Abdullah",
+  "last_name": "Saleh",
+  "full_name": "Abdullah Saleh",
+  "linkedin_url": "https://linkedin.com/in/abdullah-saleh-b713751ba",
+  "emails": [
+    {
+      "email": "saleh_abdullah@ufe.cz",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "abdullah.saleh@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "abdullah@youtube.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "asaleh@dukehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-684-3913",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Duke University School of Medicine"
+}

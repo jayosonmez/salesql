@@ -1,0 +1,41 @@
+{
+  "uuid": "b67527b6-bc2f-418e-892c-7c70b7cd7268",
+  "first_name": "Leonid",
+  "last_name": "Belkind",
+  "full_name": "Leonid Belkind",
+  "linkedin_url": "https://linkedin.com/in/leonidbelkind",
+  "emails": [
+    {
+      "email": "leonid@glilotcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonid@ylventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonid.belkind@forbestechcouncil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonid@enso.security",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonid@stackpulse.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "leonid.belkind@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Torq"
+}

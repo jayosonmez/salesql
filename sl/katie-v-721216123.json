@@ -1,0 +1,17 @@
+{
+  "uuid": "6c006d17-ffab-4c55-953a-e770ff4c011f",
+  "first_name": "Katie",
+  "last_name": "V.",
+  "full_name": "Katie V.",
+  "linkedin_url": "https://linkedin.com/in/katie-v-721216123",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 215-898-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Pennsylvania"
+}

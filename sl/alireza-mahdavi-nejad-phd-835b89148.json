@@ -1,0 +1,23 @@
+{
+  "uuid": "0bbc80e1-95f5-45a9-aa2e-ccbe0d760cee",
+  "first_name": "Alireza",
+  "last_name": "Mahdavi Nejad, PhD",
+  "full_name": "Alireza Mahdavi Nejad, PhD",
+  "linkedin_url": "https://linkedin.com/in/alireza-mahdavi-nejad-phd-835b89148",
+  "emails": [
+    {
+      "email": "mahdavinejada@wit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-989-4590",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wentworth Institute of Technology"
+}

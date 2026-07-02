@@ -1,0 +1,23 @@
+{
+  "uuid": "1ea4d837-880a-4c54-bc71-fc0cad305a80",
+  "first_name": "Ashton",
+  "last_name": "Ortiz",
+  "full_name": "Ashton Ortiz",
+  "linkedin_url": "https://linkedin.com/in/ashtonortiz",
+  "emails": [
+    {
+      "email": "ashton.ortiz@verista.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 317-849-0330",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Verista"
+}

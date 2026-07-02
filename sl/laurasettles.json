@@ -1,0 +1,23 @@
+{
+  "uuid": "5bd713eb-42d2-4014-9b4a-4b9207a30c9e",
+  "first_name": "Laura",
+  "last_name": "Settles, CPRP",
+  "full_name": "Laura Settles, CPRP",
+  "linkedin_url": "https://linkedin.com/in/laurasettles",
+  "emails": [
+    {
+      "email": "lsettle2@hfhs.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 313-282-4747",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Home Haven Real Estate Solutions"
+}

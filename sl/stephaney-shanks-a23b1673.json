@@ -1,0 +1,23 @@
+{
+  "uuid": "36f35dbd-fc23-4798-9ee3-96c2ebcbbeae",
+  "first_name": "Stephaney",
+  "last_name": "Shanks",
+  "full_name": "Stephaney Shanks",
+  "linkedin_url": "https://linkedin.com/in/stephaney-shanks-a23b1673",
+  "emails": [
+    {
+      "email": "sshanks@ues.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 937-426-6900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UES, A BlueHalo Company"
+}

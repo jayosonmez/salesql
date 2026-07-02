@@ -1,0 +1,23 @@
+{
+  "uuid": "bbe34b74-8d7d-43b5-bbab-1ab58e2fab81",
+  "first_name": "Marc",
+  "last_name": "Carruth",
+  "full_name": "Marc Carruth",
+  "linkedin_url": "https://linkedin.com/in/marc-carruth-b10b4a164",
+  "emails": [
+    {
+      "email": "mcarruth@ppsd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 828-328-3500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Piedmont Plastic Surgery & Dermatology"
+}

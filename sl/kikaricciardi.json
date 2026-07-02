@@ -1,0 +1,92 @@
+{
+  "uuid": "0d86a89d-55d1-4a17-a981-26adbc2177a3",
+  "first_name": "Maria Cristina",
+  "last_name": "(Kika) Ricciardi",
+  "full_name": "Maria Cristina (Kika) Ricciardi",
+  "linkedin_url": "https://linkedin.com/in/kikaricciardi",
+  "emails": [
+    {
+      "email": "mc.ricciardi@uol.com.br",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "maria@b2bstack.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria.kika@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria.kika@fishervb.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria.kika@europa.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria.kika@abcbrasil.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria.kika@a55.tech",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria@kultua.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria.kika@aladas.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria@top2you.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria@goliza.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria.kika@trackmob.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria.kika@ceolab.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mariakika@irani.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "maria.kika@atta.com.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 49 3527-5100",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Irani S.A."
+}

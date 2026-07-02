@@ -1,0 +1,43 @@
+{
+  "uuid": "92056e73-18d9-470a-b2fe-b024296a4b96",
+  "first_name": "Karim",
+  "last_name": "Bhalwani",
+  "full_name": "Karim Bhalwani",
+  "linkedin_url": "https://linkedin.com/in/karimbhalwani",
+  "emails": [
+    {
+      "email": "karim.bhalwani@amd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "karim.bhalwani@carta.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "karimb@remitly.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "karimbhalwani@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "karim@darwinai.ca",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-749-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AMD"
+}

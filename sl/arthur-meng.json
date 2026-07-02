@@ -1,0 +1,33 @@
+{
+  "uuid": "9a1bde60-0c39-4599-90c5-271f3fe570f9",
+  "first_name": "Arthur",
+  "last_name": "M.",
+  "full_name": "Arthur M.",
+  "linkedin_url": "https://linkedin.com/in/arthur-meng",
+  "emails": [
+    {
+      "email": "arthur.meng@lifo.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "arthur@lifo.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "arthur@startx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-862-8064",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hemera"
+}

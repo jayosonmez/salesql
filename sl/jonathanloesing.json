@@ -1,0 +1,31 @@
+{
+  "uuid": "c0104cba-5b99-4e0d-9224-cea90f4dc9c9",
+  "first_name": "Jonathan",
+  "last_name": "Loesing",
+  "full_name": "Jonathan Loesing",
+  "linkedin_url": "https://linkedin.com/in/jonathanloesing",
+  "emails": [
+    {
+      "email": "jonathan.loesing@forexfix.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan.loesing@hnu.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@calmstorm.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan.loesing@picuscap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Rex"
+}

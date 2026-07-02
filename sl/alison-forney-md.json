@@ -1,0 +1,38 @@
+{
+  "uuid": "b92629bc-b8b6-402d-b750-3e252fb951f3",
+  "first_name": "Alison J.",
+  "last_name": "Forney, MD, MPH",
+  "full_name": "Alison J. Forney, MD, MPH",
+  "linkedin_url": "https://linkedin.com/in/alison-forney-md",
+  "emails": [
+    {
+      "email": "alison.forney@healthpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "a.forney@army.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ajfmd@bresnan.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "alison.forney@tehikuhauora.nz",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+64 9 408 4024",
+      "type": "Work",
+      "country_code": "NZ",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Te Hiku Hauora"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "9e437a6a-5a01-4f8d-a7aa-3e26977375ad",
+  "first_name": "Dovydas",
+  "last_name": "Gabrielaitis",
+  "full_name": "Dovydas Gabrielaitis",
+  "linkedin_url": "https://linkedin.com/in/dovydas-gabrielaitis",
+  "emails": [
+    {
+      "email": "dovydas_gabrielaitis@brown.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Genie Biotech"
+}

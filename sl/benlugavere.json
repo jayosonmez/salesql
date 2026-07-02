@@ -1,0 +1,49 @@
+{
+  "uuid": "68da4319-95e8-41ec-90a2-804956f75f20",
+  "first_name": "Ben",
+  "last_name": "Lugavere",
+  "full_name": "Ben Lugavere",
+  "linkedin_url": "https://linkedin.com/in/benlugavere",
+  "emails": [
+    {
+      "email": "ben@trustandwill.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ben@boxed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "b.lugavere@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ben@wilder.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ben@wilderinnovation.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-915-0144",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 619-738-0546",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Trust & Will"
+}

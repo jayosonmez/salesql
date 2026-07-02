@@ -1,0 +1,23 @@
+{
+  "uuid": "90353e0e-b361-4c43-b58b-06a9cd7e7343",
+  "first_name": "Varvara",
+  "last_name": "Petrova",
+  "full_name": "Varvara Petrova",
+  "linkedin_url": "https://linkedin.com/in/varvara-petrova-5ab5b4242",
+  "emails": [
+    {
+      "email": "varvara_petrova@epam.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 267-759-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EPAM Systems"
+}

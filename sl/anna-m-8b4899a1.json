@@ -1,0 +1,16 @@
+{
+  "uuid": "ead35ce1-f553-4fa4-b4e5-b2e7a02c6ca4",
+  "first_name": "Anna",
+  "last_name": "M.",
+  "full_name": "Anna M.",
+  "linkedin_url": "https://linkedin.com/in/anna-m-8b4899a1",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "89218573047",
+      "type": "Personal",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Devhunt"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "d18e160d-58df-4100-852d-3395fa15e3e6",
+  "first_name": "Sean",
+  "last_name": "Parker",
+  "full_name": "Sean Parker",
+  "linkedin_url": "https://linkedin.com/in/parkersean",
+  "emails": [
+    {
+      "email": "sparker@parkerici.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sean@causes.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sean@iplabs.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stability AI"
+}

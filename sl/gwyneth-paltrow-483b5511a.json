@@ -1,0 +1,16 @@
+{
+  "uuid": "74f98782-fa84-4460-a758-188bc5b76fd5",
+  "first_name": "Gwyneth",
+  "last_name": "Paltrow",
+  "full_name": "Gwyneth Paltrow",
+  "linkedin_url": "https://linkedin.com/in/gwyneth-paltrow-483b5511a",
+  "emails": [
+    {
+      "email": "gpaltrow@goop.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kinship Ventures, LLC"
+}

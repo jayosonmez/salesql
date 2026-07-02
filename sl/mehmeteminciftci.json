@@ -1,0 +1,36 @@
+{
+  "uuid": "eb8ab8db-9445-492b-a5d8-ed7607108036",
+  "first_name": "Mehmet Emin",
+  "last_name": "Çiftçi",
+  "full_name": "Mehmet Emin Çiftçi",
+  "linkedin_url": "https://linkedin.com/in/mehmeteminciftci",
+  "emails": [
+    {
+      "email": "mehmet.ciftci@akkim.com.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mciftci@akkok.com.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mehmet.ciftci@aktekbilisim.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ciftcieminm@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mehmet@akisgyo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Akkök Holding"
+}

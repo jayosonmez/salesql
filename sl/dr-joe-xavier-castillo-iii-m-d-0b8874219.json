@@ -1,0 +1,23 @@
+{
+  "uuid": "de1eaf6f-92af-4aaa-802b-748f5c13b7ec",
+  "first_name": "Dr. Joe Xavier",
+  "last_name": "Castillo III, M.D.",
+  "full_name": "Dr. Joe Xavier Castillo III, M.D.",
+  "linkedin_url": "https://linkedin.com/in/dr-joe-xavier-castillo-iii-m-d-0b8874219",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 512-357-8180",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 512-886-4656",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AutoFinMed Ventures ®"
+}

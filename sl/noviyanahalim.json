@@ -1,0 +1,23 @@
+{
+  "uuid": "99cc3fd7-b453-4335-b9c7-87bfbdcb935d",
+  "first_name": "Noviyana",
+  "last_name": "Halim",
+  "full_name": "Noviyana Halim",
+  "linkedin_url": "https://linkedin.com/in/noviyanahalim",
+  "emails": [
+    {
+      "email": "noviyana.halim@antler.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 720-955-9211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Antler"
+}

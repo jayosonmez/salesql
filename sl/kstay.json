@@ -1,0 +1,33 @@
+{
+  "uuid": "6e0146f2-21f5-4992-aa24-66804949f059",
+  "first_name": "Kah Seng",
+  "last_name": "Tay",
+  "full_name": "Kah Seng Tay",
+  "linkedin_url": "https://linkedin.com/in/kstay",
+  "emails": [
+    {
+      "email": "tays@tgleaders.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kstay@live.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kah@perplexity.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 574-252-5662",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth Startup"
+}

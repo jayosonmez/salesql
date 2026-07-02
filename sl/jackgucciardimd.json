@@ -1,0 +1,28 @@
+{
+  "uuid": "d0ee653a-36f6-4c35-a620-cda3d7661b89",
+  "first_name": "Jack",
+  "last_name": "Gucciardi M.D.",
+  "full_name": "Jack Gucciardi M.D.",
+  "linkedin_url": "https://linkedin.com/in/jackgucciardimd",
+  "emails": [
+    {
+      "email": "admin@gucciardi.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jack.gucciardi@smallstepsforlife.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 262-928-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ProHealth Care"
+}

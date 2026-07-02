@@ -1,0 +1,17 @@
+{
+  "uuid": "ea2c5cdc-a2cb-4535-ba5b-e97fdfb4321f",
+  "first_name": "Charles",
+  "last_name": "C.",
+  "full_name": "Charles C.",
+  "linkedin_url": "https://linkedin.com/in/charaiabc",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 415-476-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, San Francisco"
+}

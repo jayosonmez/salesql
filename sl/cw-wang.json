@@ -1,0 +1,23 @@
+{
+  "uuid": "dccbce48-7bfd-4acf-bea2-0029fd9233b2",
+  "first_name": "Chun-Wei",
+  "last_name": "Wang",
+  "full_name": "Chun-Wei Wang",
+  "linkedin_url": "https://linkedin.com/in/cw-wang",
+  "emails": [
+    {
+      "email": "chun-wei.wang@abbott.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 714-247-8200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Abbott"
+}

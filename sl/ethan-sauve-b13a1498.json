@@ -1,0 +1,23 @@
+{
+  "uuid": "cfe10129-1310-4ca2-a9a2-d7a2c1f3a354",
+  "first_name": "Ethan",
+  "last_name": "Sauve",
+  "full_name": "Ethan Sauve",
+  "linkedin_url": "https://linkedin.com/in/ethan-sauve-b13a1498",
+  "emails": [
+    {
+      "email": "esauve@mit.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-253-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts Institute of Technology"
+}

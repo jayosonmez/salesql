@@ -1,0 +1,28 @@
+{
+  "uuid": "686fe3e9-810d-47b6-915b-bb9eb50bb55a",
+  "first_name": "Jens",
+  "last_name": "Möller",
+  "full_name": "Jens Möller",
+  "linkedin_url": "https://linkedin.com/in/jens-möller-65a39928",
+  "emails": [
+    {
+      "email": "jens.moller@fraunhofer.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jens.moeller@hest.ethz.ch",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 351 833910",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fraunhofer IWS"
+}

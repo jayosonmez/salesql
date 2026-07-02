@@ -1,0 +1,23 @@
+{
+  "uuid": "0deb103d-d56f-4d35-ad9f-cd66ab839493",
+  "first_name": "Janey",
+  "last_name": "Su",
+  "full_name": "Janey Su",
+  "linkedin_url": "https://linkedin.com/in/janey-su-1298a0184",
+  "emails": [
+    {
+      "email": "jsu@angelcapitalassociation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 913-894-4700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Angel Capital Association"
+}

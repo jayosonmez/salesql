@@ -1,0 +1,16 @@
+{
+  "uuid": "cb912f99-a373-49e4-b599-1924558a88fa",
+  "first_name": "Emily",
+  "last_name": "Costa",
+  "full_name": "Emily Costa",
+  "linkedin_url": "https://linkedin.com/in/emily-costa-57185632",
+  "emails": [
+    {
+      "email": "medicgc@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Freelancer"
+}

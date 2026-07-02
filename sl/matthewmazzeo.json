@@ -1,0 +1,21 @@
+{
+  "uuid": "18b24526-4cb0-4fa1-8a4d-10ef4881557c",
+  "first_name": "Matthew",
+  "last_name": "Mazzeo",
+  "full_name": "Matthew Mazzeo",
+  "linkedin_url": "https://linkedin.com/in/matthewmazzeo",
+  "emails": [
+    {
+      "email": "mazzeo@lowercasellc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mmazzeo@caa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

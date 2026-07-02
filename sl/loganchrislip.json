@@ -1,0 +1,39 @@
+{
+  "uuid": "d4f6e4d7-53b7-4f57-806e-9419b7fea89a",
+  "first_name": "Logan",
+  "last_name": "Chrislip",
+  "full_name": "Logan Chrislip",
+  "linkedin_url": "https://linkedin.com/in/loganchrislip",
+  "emails": [
+    {
+      "email": "chrislip.2@osu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chrislip@osu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chrislip@osu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 513-265-7473",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 614-292-2220",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Ohio State University College of Medicine"
+}

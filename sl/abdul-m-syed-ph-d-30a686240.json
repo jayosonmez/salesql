@@ -1,0 +1,23 @@
+{
+  "uuid": "3953f0af-c01f-42b2-8c0c-30a8f1063d60",
+  "first_name": "Abdul M.",
+  "last_name": "Syed, Ph.D.",
+  "full_name": "Abdul M. Syed, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/abdul-m-syed-ph-d-30a686240",
+  "emails": [
+    {
+      "email": "a.syed@snhu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 603-626-9100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Defense Client (Confidential) – RF and Applied Electromagnetics; Regulatory Compliance Certification"
+}

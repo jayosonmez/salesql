@@ -1,0 +1,39 @@
+{
+  "uuid": "087abe40-b395-4cc7-a6a4-4529f095e2a6",
+  "first_name": "Alex",
+  "last_name": "G.",
+  "full_name": "Alex G.",
+  "linkedin_url": "https://linkedin.com/in/aguastella",
+  "emails": [
+    {
+      "email": "alex.guastella@quickrcare.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alexanderguastella@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alex@sapna.foundation",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 407-906-7291",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 407-717-1122",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sympti"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "4a36c553-e36d-43ec-8b22-76be1fa8aa39",
+  "first_name": "John",
+  "last_name": "Shedletsky",
+  "full_name": "John Shedletsky",
+  "linkedin_url": "https://linkedin.com/in/shedletsky",
+  "emails": [
+    {
+      "email": "jshedletsky@roblox.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john@shedletsky.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Shedletsky"
+}

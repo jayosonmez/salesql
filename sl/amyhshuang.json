@@ -1,0 +1,33 @@
+{
+  "uuid": "c3a1bed7-0a1a-42f5-9127-3920f124ad76",
+  "first_name": "Amy",
+  "last_name": "Huang, MD",
+  "full_name": "Amy Huang, MD",
+  "linkedin_url": "https://linkedin.com/in/amyhshuang",
+  "emails": [
+    {
+      "email": "amy_huang@uwmedicine.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amy_huang@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amy.huang@uconn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 860-486-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Connecticut"
+}

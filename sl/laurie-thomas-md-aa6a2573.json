@@ -1,0 +1,16 @@
+{
+  "uuid": "1c4eba63-2d3c-496c-9053-af7107ecff24",
+  "first_name": "Laurie",
+  "last_name": "Thomas, MD",
+  "full_name": "Laurie Thomas, MD",
+  "linkedin_url": "https://linkedin.com/in/laurie-thomas-md-aa6a2573",
+  "emails": [
+    {
+      "email": "lthomas@cqch.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Retired in 2022"
+}

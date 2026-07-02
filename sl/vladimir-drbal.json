@@ -1,0 +1,16 @@
+{
+  "uuid": "8cced66d-138f-4ef5-a4bc-8a9739038a8b",
+  "first_name": "Vladimir",
+  "last_name": "Drbal",
+  "full_name": "Vladimir Drbal",
+  "linkedin_url": "https://linkedin.com/in/vladimir-drbal",
+  "emails": [
+    {
+      "email": "eurocal@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Eurocal R&D Consulting"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f984455b-6f65-463c-8405-0b53058755a2",
+  "first_name": "Yanira",
+  "last_name": "E.",
+  "full_name": "Yanira E.",
+  "linkedin_url": "https://linkedin.com/in/yaniraenriquez",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 317-276-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Eli Lilly and Company"
+}

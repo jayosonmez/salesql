@@ -1,0 +1,53 @@
+{
+  "uuid": "996430dd-989a-4ade-b2b3-51648fc4c6a7",
+  "first_name": "Halle",
+  "last_name": "Tecco, MPH, MBA",
+  "full_name": "Halle Tecco, MPH, MBA",
+  "linkedin_url": "https://linkedin.com/in/halletecco",
+  "emails": [
+    {
+      "email": "halletecco@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "halle@techammer.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "htecco@everlyhealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "halle@giant.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "halle.tecco@columbia.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "halle.tecco@collectivehealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "halle_tecco@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-854-1100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Columbia Business School"
+}

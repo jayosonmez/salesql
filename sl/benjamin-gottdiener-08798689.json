@@ -1,0 +1,21 @@
+{
+  "uuid": "7e3c3def-0b9b-4c84-98ea-61fa68360ed3",
+  "first_name": "Benjamin",
+  "last_name": "Gottdiener",
+  "full_name": "Benjamin Gottdiener",
+  "linkedin_url": "https://linkedin.com/in/benjamin-gottdiener-08798689",
+  "emails": [
+    {
+      "email": "benjamin@narrativ.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ben@sapic.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Narrativ"
+}

@@ -1,0 +1,36 @@
+{
+  "uuid": "1fe5a260-7019-4a42-a9c9-78cd1ceb10ee",
+  "first_name": "Gene",
+  "last_name": "Riechers",
+  "full_name": "Gene Riechers",
+  "linkedin_url": "https://linkedin.com/in/gene-riechers-7a137",
+  "emails": [
+    {
+      "email": "generiechers@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "gene.riechers@tellius.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gene@pgedge.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gene@1855capital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "griechers@sandscapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "pgEdge"
+}

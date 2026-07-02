@@ -1,0 +1,21 @@
+{
+  "uuid": "f93bccce-0257-42c5-9eae-81d980814765",
+  "first_name": "Dayton",
+  "last_name": "Thorpe",
+  "full_name": "Dayton Thorpe",
+  "linkedin_url": "https://linkedin.com/in/dayton-thorpe",
+  "emails": [
+    {
+      "email": "dayton@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dayton@mercator.tech",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Mercator"
+}

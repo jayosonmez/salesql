@@ -1,0 +1,33 @@
+{
+  "uuid": "0b3ff586-60fe-4bf7-b4c0-d8e43a85ad31",
+  "first_name": "Mark M.",
+  "last_name": "Whelan",
+  "full_name": "Mark M. Whelan",
+  "linkedin_url": "https://linkedin.com/in/markwhelan",
+  "emails": [
+    {
+      "email": "mark.whelan@loquar.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark@coingryphon.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mark@humancenteredleaders.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-687-7749",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Future Center Ventures"
+}

@@ -1,0 +1,46 @@
+{
+  "uuid": "7d9f5909-4fd3-4bb7-bffa-8d23af438ea3",
+  "first_name": "Yoav",
+  "last_name": "Lurie",
+  "full_name": "Yoav Lurie",
+  "linkedin_url": "https://linkedin.com/in/yoavlurie",
+  "emails": [
+    {
+      "email": "yoav@ehf.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ylurie@ypo.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yoav.lurie@techstars.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yoav@southparkcommons.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yoav@wattbuy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yoav@simpleenergy.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yoavlurie@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "WattBuy (acquired by Schneider Electric)"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "524702e0-eabe-4edd-b938-2751f7d1b15f",
+  "first_name": "Greg",
+  "last_name": "Williams",
+  "full_name": "Greg Williams",
+  "linkedin_url": "https://linkedin.com/in/greg-williams-a425523",
+  "emails": [
+    {
+      "email": "greg@dagventures.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "DAG Ventures"
+}

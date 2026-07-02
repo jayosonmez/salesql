@@ -1,0 +1,23 @@
+{
+  "uuid": "8b79d2d6-7643-45f3-8160-f453c13d8bd4",
+  "first_name": "Qing",
+  "last_name": "Cai",
+  "full_name": "Qing Cai",
+  "linkedin_url": "https://linkedin.com/in/qing-cai-63594565",
+  "emails": [
+    {
+      "email": "qing.cai@liu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 718-488-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "6c1dee93-869d-47ea-821c-119b98bd3232",
+  "first_name": "Paul",
+  "last_name": "Blanco, LUTCF",
+  "full_name": "Paul Blanco, LUTCF",
+  "linkedin_url": "https://linkedin.com/in/paulblanco",
+  "emails": [
+    {
+      "email": "pblanco@barnumfg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pblanco@metlife.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 203-513-6131",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 203-513-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Barnum Financial Group"
+}

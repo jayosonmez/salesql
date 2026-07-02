@@ -1,0 +1,36 @@
+{
+  "uuid": "28737df2-66f3-4d05-93ae-61bfe4ba8648",
+  "first_name": "Laura",
+  "last_name": "Palmer",
+  "full_name": "Laura Palmer",
+  "linkedin_url": "https://linkedin.com/in/laura-r-palmer",
+  "emails": [
+    {
+      "email": "lpalmer@google.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "laurap@unity3d.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "laura@operatorcollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lpalmer@anthoscapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "laura@minoa.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Rula"
+}

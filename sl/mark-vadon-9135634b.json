@@ -1,0 +1,16 @@
+{
+  "uuid": "841566ec-321e-4182-9af5-5eb3e8809600",
+  "first_name": "Mark",
+  "last_name": "Vadon",
+  "full_name": "Mark Vadon",
+  "linkedin_url": "https://linkedin.com/in/mark-vadon-9135634b",
+  "emails": [
+    {
+      "email": "mark@zulily.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self Employed"
+}

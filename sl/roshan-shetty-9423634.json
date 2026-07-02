@@ -1,0 +1,33 @@
+{
+  "uuid": "81e6ee3f-d400-4a4b-8494-349a342177c8",
+  "first_name": "Roshan",
+  "last_name": "Shetty",
+  "full_name": "Roshan Shetty",
+  "linkedin_url": "https://linkedin.com/in/roshan-shetty-9423634",
+  "emails": [
+    {
+      "email": "roshan@photothermal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "roshan@anasysinstruments.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rshetty@veeco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 805-845-6568",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Photothermal Spectroscopy Corp"
+}

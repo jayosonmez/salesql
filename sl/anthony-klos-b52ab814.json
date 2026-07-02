@@ -1,0 +1,32 @@
+{
+  "uuid": "736fe9f2-80f4-4318-8cdb-7a86f74cf0d6",
+  "first_name": "Anthony",
+  "last_name": "Klos",
+  "full_name": "Anthony Klos",
+  "linkedin_url": "https://linkedin.com/in/anthony-klos-b52ab814",
+  "emails": [
+    {
+      "email": "amklos@earthlink.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anthony.klos@grifols.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anthony.klos@grifols.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+34 935 71 05 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Grifols"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4790d400-29a7-49c2-ae52-f3957235cc55",
+  "first_name": "Marianna",
+  "last_name": "Strakhan",
+  "full_name": "Marianna Strakhan",
+  "linkedin_url": "https://linkedin.com/in/marianna-strakhan-928a072",
+  "emails": [
+    {
+      "email": "mstrakhan@linkedin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mstrakhan@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 908-273-4300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Summit Medical Group of New Jersey"
+}

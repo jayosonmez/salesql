@@ -1,0 +1,16 @@
+{
+  "uuid": "78c458ee-6414-467f-a5b5-7825eb74d3d2",
+  "first_name": "Edward",
+  "last_name": "Goldberg",
+  "full_name": "Edward Goldberg",
+  "linkedin_url": "https://linkedin.com/in/edward-goldberg-4b925380",
+  "emails": [
+    {
+      "email": "goldberge@mskcc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Edward S. Goldberg, MD PC"
+}

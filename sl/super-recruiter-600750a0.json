@@ -1,0 +1,16 @@
+{
+  "uuid": "a08e2386-fb6b-4a7e-93a9-f3acf26f4296",
+  "first_name": "Super",
+  "last_name": "Recruiter",
+  "full_name": "Super Recruiter",
+  "linkedin_url": "https://linkedin.com/in/super-recruiter-600750a0",
+  "emails": [
+    {
+      "email": "super.recruiter@royandteddy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Roy+Teddy"
+}

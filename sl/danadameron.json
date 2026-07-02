@@ -1,0 +1,28 @@
+{
+  "uuid": "dfa02037-7906-473f-8fd7-f892623d8fc8",
+  "first_name": "Dana",
+  "last_name": "Dameron",
+  "full_name": "Dana Dameron",
+  "linkedin_url": "https://linkedin.com/in/danadameron",
+  "emails": [
+    {
+      "email": "dana.dameron@valorhealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ddameron@healthyresultsflorida.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 844-296-6567",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Valor Healthcare"
+}

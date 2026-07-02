@@ -1,0 +1,23 @@
+{
+  "uuid": "b9dab4e1-f56b-4581-be69-6dbc6a912851",
+  "first_name": "Charles",
+  "last_name": "Callahan",
+  "full_name": "Charles Callahan",
+  "linkedin_url": "https://linkedin.com/in/charles-callahan-045114",
+  "emails": [
+    {
+      "email": "charlie@triangleventures.net",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-918-7850",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Triangle Venture Partners, LLC"
+}

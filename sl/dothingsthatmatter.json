@@ -1,0 +1,33 @@
+{
+  "uuid": "d7d126f2-1c33-4f73-b238-36799afe1e93",
+  "first_name": "Anand",
+  "last_name": "Shah",
+  "full_name": "Anand Shah",
+  "linkedin_url": "https://linkedin.com/in/dothingsthatmatter",
+  "emails": [
+    {
+      "email": "anand@eventedge.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anand@post.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anand@indicorps.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 202-350-3200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Asia Group"
+}

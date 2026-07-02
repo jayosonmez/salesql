@@ -1,0 +1,29 @@
+{
+  "uuid": "f06be68a-4c63-42fe-a772-7f72ba0c998e",
+  "first_name": "Achut",
+  "last_name": "Silwal",
+  "full_name": "Achut Silwal",
+  "linkedin_url": "https://linkedin.com/in/achut-silwal-b02688a0",
+  "emails": [
+    {
+      "email": "achutsilwal@columbia.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 419-494-5693",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 212-854-1754",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Columbia University"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "cc0d0e56-c90a-4ddd-8efa-8da5016225ef",
+  "first_name": "Tim",
+  "last_name": "Ioannides MD",
+  "full_name": "Tim Ioannides MD",
+  "linkedin_url": "https://linkedin.com/in/tim-ioannides-md",
+  "emails": [
+    {
+      "email": "linkedin.drtim@tcdermatology.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 772-221-3330",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Treasure Coast Dermatology"
+}

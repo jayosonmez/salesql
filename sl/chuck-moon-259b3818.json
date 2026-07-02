@@ -1,0 +1,33 @@
+{
+  "uuid": "78048837-6e18-4e55-86a7-0d079753e578",
+  "first_name": "Chuck",
+  "last_name": "Moon",
+  "full_name": "Chuck Moon",
+  "linkedin_url": "https://linkedin.com/in/chuck-moon-259b3818",
+  "emails": [
+    {
+      "email": "cmoon@d3engineering.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cmoon@d3embedded.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "chuck@ablecreationsinc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 585-329-7592",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Able Creations Inc"
+}

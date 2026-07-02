@@ -1,0 +1,17 @@
+{
+  "uuid": "f94c7957-9dc1-4374-b019-ce49b569e239",
+  "first_name": "Hye Jung",
+  "last_name": "Han",
+  "full_name": "Hye Jung Han",
+  "linkedin_url": "https://linkedin.com/in/hye-jung-han-06a2b187",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 603-643-7606",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lodestone Biomedical Inc."
+}

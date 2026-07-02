@@ -1,0 +1,43 @@
+{
+  "uuid": "5ea99d51-c0ba-4643-9590-72f366d11d14",
+  "first_name": "Jonathan L.",
+  "last_name": "Hua",
+  "full_name": "Jonathan L. Hua",
+  "linkedin_url": "https://linkedin.com/in/jonathanhua",
+  "emails": [
+    {
+      "email": "jlh494@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@500.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@scrum.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@alchemistaccelerator.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jhua@grubmarket.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 713-818-2934",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Jonathan Hua"
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "0e47db61-be2d-45c6-9461-b04193078ffd",
+  "first_name": "Wes",
+  "last_name": "Saade, M.D.",
+  "full_name": "Wes Saade, M.D.",
+  "linkedin_url": "https://linkedin.com/in/wessaade",
+  "emails": [
+    {
+      "email": "w@totalcareclinic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wes.saade@aspireonline.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 866-634-5873",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 813-874-0671",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Aspire Financial Services, LLC"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "8fcc86b8-fb43-41b5-a73d-40e22f848187",
+  "first_name": "Yagnesh",
+  "last_name": "Dave, MD",
+  "full_name": "Yagnesh Dave, MD",
+  "linkedin_url": "https://linkedin.com/in/yagnesh-dave-md-b3969886",
+  "emails": [
+    {
+      "email": "yagnesh.dave@northside.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Veterans Administration"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "3cf46be7-01f3-41d8-8058-62d21253b504",
+  "first_name": "Daniel",
+  "last_name": "Cohenca",
+  "full_name": "Daniel Cohenca",
+  "linkedin_url": "https://linkedin.com/in/daniel-cohenca-20769014a",
+  "emails": [
+    {
+      "email": "dcohenca@evergreenhealth.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 425-899-2621",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EvergreenHealth"
+}

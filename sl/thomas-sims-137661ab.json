@@ -1,0 +1,16 @@
+{
+  "uuid": "0be9d8db-23c8-4331-a0a9-1a91b010bcc3",
+  "first_name": "Thomas",
+  "last_name": "Sims",
+  "full_name": "Thomas Sims",
+  "linkedin_url": "https://linkedin.com/in/thomas-sims-137661ab",
+  "emails": [
+    {
+      "email": "tjsims@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Author"
+}

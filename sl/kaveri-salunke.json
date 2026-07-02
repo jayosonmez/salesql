@@ -1,0 +1,23 @@
+{
+  "uuid": "262b376d-2e3d-421c-80dd-4aeab541daa5",
+  "first_name": "Kaveri",
+  "last_name": "Salunke",
+  "full_name": "Kaveri Salunke",
+  "linkedin_url": "https://linkedin.com/in/kaveri-salunke",
+  "emails": [
+    {
+      "email": "kaveri.salunke@swe.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-596-5223",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Society of Women Engineers"
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "5a505c94-3051-480c-af62-abcf9f1a90c3",
+  "first_name": "Sergio",
+  "last_name": "Fogel",
+  "full_name": "Sergio Fogel",
+  "linkedin_url": "https://linkedin.com/in/sergiofogel",
+  "emails": [
+    {
+      "email": "sfogel@dlocal.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sfogel@uniotel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fogel-s@ort.edu.uy",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sfogel@datanomik.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Datanomik"
+}

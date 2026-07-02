@@ -1,0 +1,39 @@
+{
+  "uuid": "852ad003-4624-4ec0-8b02-1e99358c83a7",
+  "first_name": "Sean",
+  "last_name": "Black",
+  "full_name": "Sean Black",
+  "linkedin_url": "https://linkedin.com/in/seanblack",
+  "emails": [
+    {
+      "email": "seanblack@knock.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sean@salescrunch.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sean@seanblack.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-300-9145",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 470-485-6625",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Knock"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "b05aaf8f-4446-4c93-86fc-575818a0b2e4",
+  "first_name": "Candice",
+  "last_name": "Crichlow",
+  "full_name": "Candice Crichlow",
+  "linkedin_url": "https://linkedin.com/in/candice-crichlow-7b8816117",
+  "emails": [
+    {
+      "email": "candice.crichlow@sanfordhealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "crichlow@grifols.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "VIBRA HOSPITAL OF CENTRAL DAKOTAS LLC"
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "53f69949-8ce7-4d11-8953-47730b7a90e9",
+  "first_name": "Rob",
+  "last_name": "Knight",
+  "full_name": "Rob Knight",
+  "linkedin_url": "https://linkedin.com/in/rob-knight-65a1b5aa",
+  "emails": [
+    {
+      "email": "robknight@ucsd.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rob@biota.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rob.knight@micronoma.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rknight@rchsd.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 760-944-5545",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rady Children's Hospital-San Diego"
+}

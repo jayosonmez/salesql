@@ -1,0 +1,28 @@
+{
+  "uuid": "acb9487f-8bff-4feb-a4dc-d0ee1e6293c4",
+  "first_name": "Mary-Emma",
+  "last_name": "Beres",
+  "full_name": "Mary-Emma Beres",
+  "linkedin_url": "https://linkedin.com/in/mary-emma-beres-45958a43",
+  "emails": [
+    {
+      "email": "drberes@graysonhighlands.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mberes@hughchatham.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 336-527-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hugh Chatham Health"
+}

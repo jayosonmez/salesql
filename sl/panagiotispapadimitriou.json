@@ -1,0 +1,48 @@
+{
+  "uuid": "4569a3ab-d56f-4349-ad42-2fd60f24fe4b",
+  "first_name": "Panagiotis",
+  "last_name": "Papadimitriou",
+  "full_name": "Panagiotis Papadimitriou",
+  "linkedin_url": "https://linkedin.com/in/panagiotispapadimitriou",
+  "emails": [
+    {
+      "email": "ppapadim@stanford.edu",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ppapadim@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "panagiotis@wikifarmer.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "panagiotis@delian.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "panagiotis@edra.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "panagiotis.papadimitriou@ergeon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-774-0454",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Meta"
+}

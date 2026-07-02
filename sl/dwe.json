@@ -1,0 +1,49 @@
+{
+  "uuid": "a4efb7d8-8b6c-4af5-be53-b7aff9912b42",
+  "first_name": "Daniel",
+  "last_name": "Edwards",
+  "full_name": "Daniel Edwards",
+  "linkedin_url": "https://linkedin.com/in/dwe",
+  "emails": [
+    {
+      "email": "daniel.edwards@ftpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "e-d@dadavidson.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dan.edwards88@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dedwards@angelrush.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dedwards@cashbet.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 541-324-3268",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 510-419-0545",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CashBet"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "6730f72f-8590-4ca2-b750-3912bb6b9319",
+  "first_name": "Stepan",
+  "last_name": "Shirobokov",
+  "full_name": "Stepan Shirobokov",
+  "linkedin_url": "https://linkedin.com/in/stepan-shirobokov-03754a210",
+  "emails": [
+    {
+      "email": "stepan@mayflower.work",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Mayflower"
+}

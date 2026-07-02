@@ -1,0 +1,23 @@
+{
+  "uuid": "1c322e1b-8684-4a62-a018-396a4618015f",
+  "first_name": "Agam",
+  "last_name": "Patel",
+  "full_name": "Agam Patel",
+  "linkedin_url": "https://linkedin.com/in/agam-patel-822a05194",
+  "emails": [
+    {
+      "email": "apatel@texasheart.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 832-355-3792",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Texas Heart Institute at Baylor College of Medicine"
+}

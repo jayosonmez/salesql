@@ -1,0 +1,38 @@
+{
+  "uuid": "960aa8f8-b286-4aae-a266-ef7fcca9a224",
+  "first_name": "Shane",
+  "last_name": "Battier",
+  "full_name": "Shane Battier",
+  "linkedin_url": "https://linkedin.com/in/shanebattier",
+  "emails": [
+    {
+      "email": "shane@battier.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "shane@authenticrb.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "battier@garnettstation.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sbattier@pollotropical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-339-1831",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Palmetto"
+}

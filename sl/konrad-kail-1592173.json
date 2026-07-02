@@ -1,0 +1,16 @@
+{
+  "uuid": "220e2a9a-5f85-41b6-9abe-493d595c1c17",
+  "first_name": "Konrad",
+  "last_name": "Kail",
+  "full_name": "Konrad Kail",
+  "linkedin_url": "https://linkedin.com/in/konrad-kail-1592173",
+  "emails": [
+    {
+      "email": "kkail@cox.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Arizona Advanced Medicine"
+}

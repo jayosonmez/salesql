@@ -1,0 +1,23 @@
+{
+  "uuid": "33056d3a-5155-4ec2-ab07-bee6e0ebee4f",
+  "first_name": "Pieter",
+  "last_name": "Kark, MD",
+  "full_name": "Pieter Kark, MD",
+  "linkedin_url": "https://linkedin.com/in/pieterkark",
+  "emails": [
+    {
+      "email": "pieterk@post.harvard.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-762-6755",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Region 5 Medical Response Team"
+}

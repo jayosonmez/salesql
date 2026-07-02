@@ -1,0 +1,21 @@
+{
+  "uuid": "798d9284-ea73-487b-b3ea-65904b423344",
+  "first_name": "Janet",
+  "last_name": "Kosloff",
+  "full_name": "Janet Kosloff",
+  "linkedin_url": "https://linkedin.com/in/janetkosloff",
+  "emails": [
+    {
+      "email": "janet@viascientific.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "janet.kosloff@incrowdnow.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Via Scientific, Inc."
+}

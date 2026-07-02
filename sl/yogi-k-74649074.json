@@ -1,0 +1,21 @@
+{
+  "uuid": "41b2b9b4-c0ca-4dea-ba99-de8a499d075e",
+  "first_name": "Yogi",
+  "last_name": "K.",
+  "full_name": "Yogi K.",
+  "linkedin_url": "https://linkedin.com/in/yogi-k-74649074",
+  "emails": [
+    {
+      "email": "yogi@shawspring.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yogi@east.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Various Startups"
+}

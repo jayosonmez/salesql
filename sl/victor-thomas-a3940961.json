@@ -1,0 +1,17 @@
+{
+  "uuid": "39ca3460-515a-4f0f-87ef-9d10c6155a7f",
+  "first_name": "Victor",
+  "last_name": "Thomas",
+  "full_name": "Victor Thomas",
+  "linkedin_url": "https://linkedin.com/in/victor-thomas-a3940961",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 773-233-4100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Christian Community Health Center"
+}

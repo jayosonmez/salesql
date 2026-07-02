@@ -1,0 +1,16 @@
+{
+  "uuid": "958e2513-bfc5-4e3c-b5d0-56a9dbe30bec",
+  "first_name": "Lara",
+  "last_name": "Basakinci",
+  "full_name": "Lara Basakinci",
+  "linkedin_url": "https://linkedin.com/in/lara-basakinci",
+  "emails": [
+    {
+      "email": "lara@snapmuse.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Snapmuse.com"
+}

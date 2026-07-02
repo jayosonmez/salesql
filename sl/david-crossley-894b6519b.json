@@ -1,0 +1,23 @@
+{
+  "uuid": "54ca4c95-2d04-42ea-8857-ddcb668060ce",
+  "first_name": "David",
+  "last_name": "Crossley",
+  "full_name": "David Crossley",
+  "linkedin_url": "https://linkedin.com/in/david-crossley-894b6519b",
+  "emails": [
+    {
+      "email": "david.crossley@voya.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-309-8200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Voya Investment Management"
+}

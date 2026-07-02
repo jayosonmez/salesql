@@ -1,0 +1,16 @@
+{
+  "uuid": "b5b7637b-68ae-4d06-a476-e6af5c2d4148",
+  "first_name": "Michael",
+  "last_name": "Land",
+  "full_name": "Michael Land",
+  "linkedin_url": "https://linkedin.com/in/michael-land-673118b1",
+  "emails": [
+    {
+      "email": "m.l@newporturgentcare.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Water Saving Granules"
+}

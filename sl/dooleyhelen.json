@@ -1,0 +1,33 @@
+{
+  "uuid": "5b9c5b52-8728-4b81-831f-e4b5ebfb382c",
+  "first_name": "Helen",
+  "last_name": "Dooley",
+  "full_name": "Helen Dooley",
+  "linkedin_url": "https://linkedin.com/in/dooleyhelen",
+  "emails": [
+    {
+      "email": "dooleyh@wyeth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "h.dooley@abdn.ac.uk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hdooley@umaryland.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 1224 272000",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Aberdeen"
+}

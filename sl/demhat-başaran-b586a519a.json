@@ -1,0 +1,23 @@
+{
+  "uuid": "fbe46129-d648-4427-9e9a-83fc452c364a",
+  "first_name": "Demhat",
+  "last_name": "Başaran",
+  "full_name": "Demhat Başaran",
+  "linkedin_url": "https://linkedin.com/in/demhat-başaran-b586a519a",
+  "emails": [
+    {
+      "email": "demhat.basaran@flypgs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 216 560 70 00",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pegasus Airlines"
+}

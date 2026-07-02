@@ -1,0 +1,22 @@
+{
+  "uuid": "3f808771-c49e-4149-9eca-816a816c4103",
+  "first_name": "Nicolas",
+  "last_name": "Schierbaum",
+  "full_name": "Nicolas Schierbaum",
+  "linkedin_url": "https://linkedin.com/in/nicolas-schierbaum-a54561168",
+  "emails": [
+    {
+      "email": "nicolas.schierbaum@fraunhofer.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 421 2184236",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fraunhofer-Institute for Microelectronic Circuits and Systems"
+}

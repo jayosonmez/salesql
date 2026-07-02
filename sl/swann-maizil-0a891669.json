@@ -1,0 +1,23 @@
+{
+  "uuid": "b33b84e3-d96e-4c86-b8c6-64ae7b6fd85f",
+  "first_name": "Swann",
+  "last_name": "Maizil",
+  "full_name": "Swann Maizil",
+  "linkedin_url": "https://linkedin.com/in/swann-maizil-0a891669",
+  "emails": [
+    {
+      "email": "swann@kelinetwork.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 562-657-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Jellysmack"
+}

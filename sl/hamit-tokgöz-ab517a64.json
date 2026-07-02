@@ -1,0 +1,28 @@
+{
+  "uuid": "ab8bb331-8f33-4bac-afb9-afe2884600f7",
+  "first_name": "Hamit",
+  "last_name": "TOKGÖZ",
+  "full_name": "Hamit TOKGÖZ",
+  "linkedin_url": "https://linkedin.com/in/hamit-tokgöz-ab517a64",
+  "emails": [
+    {
+      "email": "htokgoz@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "hamit@artiitibar.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 507 751 75 72",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Arti İtibar Yönetimi"
+}

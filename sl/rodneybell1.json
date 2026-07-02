@@ -1,0 +1,21 @@
+{
+  "uuid": "ab9e21e4-d5a8-44e8-9263-f2cbc8c9c81f",
+  "first_name": "RODNEY",
+  "last_name": "BELL",
+  "full_name": "RODNEY BELL",
+  "linkedin_url": "https://linkedin.com/in/rodneybell1",
+  "emails": [
+    {
+      "email": "rodney@thefourtheffect.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rodney@honeandstrop.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Azadi Health, Inc"
+}

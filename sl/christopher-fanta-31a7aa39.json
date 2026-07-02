@@ -1,0 +1,28 @@
+{
+  "uuid": "30dceb11-7c0f-4aca-9cd5-9ec5d2607a91",
+  "first_name": "Christopher",
+  "last_name": "Fanta",
+  "full_name": "Christopher Fanta",
+  "linkedin_url": "https://linkedin.com/in/christopher-fanta-31a7aa39",
+  "emails": [
+    {
+      "email": "christopher_fanta@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "asthmalearning@partners.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-983-4131",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Partners Asthma Center"
+}

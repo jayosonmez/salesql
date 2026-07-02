@@ -1,0 +1,16 @@
+{
+  "uuid": "c6a7b235-d260-47c6-b0f5-7fe8df97f874",
+  "first_name": "Dan",
+  "last_name": "Einstein",
+  "full_name": "Dan Einstein",
+  "linkedin_url": "https://linkedin.com/in/dan-einstein-5b0b1132",
+  "emails": [
+    {
+      "email": "dpe@case.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "CamCare.org"
+}

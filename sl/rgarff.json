@@ -1,0 +1,49 @@
+{
+  "uuid": "83c730aa-5b51-4c32-9f65-c257a58ea901",
+  "first_name": "Rocky",
+  "last_name": "Garff",
+  "full_name": "Rocky Garff",
+  "linkedin_url": "https://linkedin.com/in/rgarff",
+  "emails": [
+    {
+      "email": "rgarff@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rocky.garff@podium.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rgarff@waymo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rocky@reperiohealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rocky@zolidar.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-861-1326",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-253-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Waymo"
+}

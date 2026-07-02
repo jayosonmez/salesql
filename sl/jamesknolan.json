@@ -1,0 +1,23 @@
+{
+  "uuid": "4e7b08f6-72c6-4624-8b6a-844b2ee86d53",
+  "first_name": "James",
+  "last_name": "Nolan",
+  "full_name": "James Nolan",
+  "linkedin_url": "https://linkedin.com/in/jamesknolan",
+  "emails": [
+    {
+      "email": "jnolan@purdue.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 765-494-4600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Purdue University"
+}

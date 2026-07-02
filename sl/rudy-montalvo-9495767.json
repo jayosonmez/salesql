@@ -1,0 +1,16 @@
+{
+  "uuid": "0f6a1822-d91d-4662-b100-c09959d81ba1",
+  "first_name": "Rudy",
+  "last_name": "Montalvo",
+  "full_name": "Rudy Montalvo",
+  "linkedin_url": "https://linkedin.com/in/rudy-montalvo-9495767",
+  "emails": [
+    {
+      "email": "rudymontalvo@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "McConnell Montalvo & Associates, Inc."
+}

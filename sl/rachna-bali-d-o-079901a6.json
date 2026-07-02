@@ -1,0 +1,28 @@
+{
+  "uuid": "80ae9bed-917f-4c27-93d9-a280b6154373",
+  "first_name": "Rachna",
+  "last_name": "Bali, D.O.",
+  "full_name": "Rachna Bali, D.O.",
+  "linkedin_url": "https://linkedin.com/in/rachna-bali-d-o-079901a6",
+  "emails": [
+    {
+      "email": "balir@sutterhealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rachna.bali@sutterhealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 916-478-6590",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "RB Healthcare"
+}

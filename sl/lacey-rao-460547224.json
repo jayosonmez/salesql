@@ -1,0 +1,23 @@
+{
+  "uuid": "dc9bdd0f-611a-4343-b04f-4fb6addc8b92",
+  "first_name": "Lacey",
+  "last_name": "Rao",
+  "full_name": "Lacey Rao",
+  "linkedin_url": "https://linkedin.com/in/lacey-rao-460547224",
+  "emails": [
+    {
+      "email": "lacey.rao@tenethealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 469-893-2200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BFC Med"
+}

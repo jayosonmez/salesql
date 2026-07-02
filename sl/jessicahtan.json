@@ -1,0 +1,16 @@
+{
+  "uuid": "f6732b00-2905-49bb-8d67-5a5cf15b55ed",
+  "first_name": "Jessica",
+  "last_name": "H. Tan",
+  "full_name": "Jessica H. Tan",
+  "linkedin_url": "https://linkedin.com/in/jessicahtan",
+  "emails": [
+    {
+      "email": "jessica@tan.id",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

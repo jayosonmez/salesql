@@ -1,0 +1,16 @@
+{
+  "uuid": "99f2450c-35be-4c31-9f74-978f09fc325b",
+  "first_name": "Stephan",
+  "last_name": "Fuechtenhans",
+  "full_name": "Stephan Fuechtenhans",
+  "linkedin_url": "https://linkedin.com/in/fuechtenhans",
+  "emails": [
+    {
+      "email": "stephan@ceezer.earth",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "CEEZER"
+}

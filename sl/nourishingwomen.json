@@ -1,0 +1,16 @@
+{
+  "uuid": "f0e6ab2f-d441-4662-8d16-7e45825cc11c",
+  "first_name": "Dr.Leonor",
+  "last_name": "Murciano",
+  "full_name": "Dr.Leonor Murciano",
+  "linkedin_url": "https://linkedin.com/in/nourishingwomen",
+  "emails": [
+    {
+      "email": "dr.mluna@nourishingwomen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Nourishing Women Corp."
+}

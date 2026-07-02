@@ -1,0 +1,26 @@
+{
+  "uuid": "431c508f-770a-46cc-a783-f6b3b46194e0",
+  "first_name": "Lauren (LaurDIY)",
+  "last_name": "Riihimaki",
+  "full_name": "Lauren (LaurDIY) Riihimaki",
+  "linkedin_url": "https://linkedin.com/in/lriihimaki",
+  "emails": [
+    {
+      "email": "lauren.riihimaki@ryerson.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lauren@laurdiy.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lriihimaki@community.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Fuzzboy Originals"
+}

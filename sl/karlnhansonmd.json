@@ -1,0 +1,16 @@
+{
+  "uuid": "84dd4c22-e9a5-492f-b7d6-a751447b094a",
+  "first_name": "Karl N.",
+  "last_name": "Hanson, MD",
+  "full_name": "Karl N. Hanson, MD",
+  "linkedin_url": "https://linkedin.com/in/karlnhansonmd",
+  "emails": [
+    {
+      "email": "karl@hpec.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "HPEC"
+}

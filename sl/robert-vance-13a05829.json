@@ -1,0 +1,16 @@
+{
+  "uuid": "a6028ce3-3620-4980-9747-86320728336f",
+  "first_name": "Robert",
+  "last_name": "Vance",
+  "full_name": "Robert Vance",
+  "linkedin_url": "https://linkedin.com/in/robert-vance-13a05829",
+  "emails": [
+    {
+      "email": "drvance@cox.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ADVANCED Medical & Wellness"
+}

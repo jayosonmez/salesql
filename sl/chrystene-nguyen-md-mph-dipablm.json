@@ -1,0 +1,36 @@
+{
+  "uuid": "61f3828c-e3dd-4ec8-a5f9-b0dafc2fd9d8",
+  "first_name": "Chrystene",
+  "last_name": "Nguyen, MD, MPH, DipABLM",
+  "full_name": "Chrystene Nguyen, MD, MPH, DipABLM",
+  "linkedin_url": "https://linkedin.com/in/chrystene-nguyen-md-mph-dipablm",
+  "emails": [
+    {
+      "email": "chrysteneng@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "chrystene@whitecoatmingle.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "chrystenen@networkofvirtualphysicians.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chrystene@clinxacademy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "n-c@hoagmedicalgroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ClinX Academy"
+}

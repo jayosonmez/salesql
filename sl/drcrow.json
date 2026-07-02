@@ -1,0 +1,34 @@
+{
+  "uuid": "9b4c002d-a148-46b1-aee0-b9be61c3d438",
+  "first_name": "Christopher",
+  "last_name": "Crow, MD, MBA",
+  "full_name": "Christopher Crow, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/drcrow",
+  "emails": [
+    {
+      "email": "crowchristopher@villagehealthpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christophercrow@catalysthealthnetwork.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 972-599-9600",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 972-384-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Catalyst Health Group"
+}

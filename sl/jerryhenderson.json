@@ -1,0 +1,23 @@
+{
+  "uuid": "1e4fc5c2-9856-46b3-84c3-a33b0e8d3715",
+  "first_name": "Jerry",
+  "last_name": "Henderson",
+  "full_name": "Jerry Henderson",
+  "linkedin_url": "https://linkedin.com/in/jerryhenderson",
+  "emails": [
+    {
+      "email": "jhenderson@clinicient.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 503-928-3233",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Clinicient"
+}

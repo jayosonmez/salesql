@@ -1,0 +1,48 @@
+{
+  "uuid": "a82356ce-6c58-4b3a-af8d-f04fbee4ce88",
+  "first_name": "Tom",
+  "last_name": "Kosnik",
+  "full_name": "Tom Kosnik",
+  "linkedin_url": "https://linkedin.com/in/tomkosnik",
+  "emails": [
+    {
+      "email": "tom@foundersxfund.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tomk@r3iventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kosnik.tom@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "tomk@orbillion.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tkosnik@turionspace.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "t.kosnik@kapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-450-3330",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FoundersX Ventures"
+}

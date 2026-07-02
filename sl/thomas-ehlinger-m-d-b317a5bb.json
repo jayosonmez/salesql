@@ -1,0 +1,16 @@
+{
+  "uuid": "e2e5fad2-e798-4252-9e63-809394c4a201",
+  "first_name": "Thomas",
+  "last_name": "Ehlinger, M.D.",
+  "full_name": "Thomas Ehlinger, M.D.",
+  "linkedin_url": "https://linkedin.com/in/thomas-ehlinger-m-d-b317a5bb",
+  "emails": [
+    {
+      "email": "thomas.ehlingermd@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Case Law Witha Physician"
+}

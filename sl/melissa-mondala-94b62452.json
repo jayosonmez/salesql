@@ -1,0 +1,48 @@
+{
+  "uuid": "ba8b42d8-1762-4a3d-854b-44025c804b4b",
+  "first_name": "Melissa",
+  "last_name": "Mondala",
+  "full_name": "Melissa Mondala",
+  "linkedin_url": "https://linkedin.com/in/melissa-mondala-94b62452",
+  "emails": [
+    {
+      "email": "mmondala@plantricianproject.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "melissa@learnskin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "melissa@spondylitis.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mmondala@lifestylemedicine.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "melissa.mondala@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mmondala@rheumission.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 971-983-5383",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "American College of Lifestyle Medicine"
+}

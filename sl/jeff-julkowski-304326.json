@@ -1,0 +1,28 @@
+{
+  "uuid": "581da681-e019-4e7a-98c5-b4d74eb85079",
+  "first_name": "Jeff",
+  "last_name": "Julkowski",
+  "full_name": "Jeff Julkowski",
+  "linkedin_url": "https://linkedin.com/in/jeff-julkowski-304326",
+  "emails": [
+    {
+      "email": "jjulkowski@vergentbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeff@theseedpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 562-657-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vergent Bioscience"
+}

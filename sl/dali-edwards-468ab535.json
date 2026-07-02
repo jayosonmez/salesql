@@ -1,0 +1,22 @@
+{
+  "uuid": "a2682c8e-75ac-433a-96d7-823f157311ef",
+  "first_name": "Dali",
+  "last_name": "Edwards",
+  "full_name": "Dali Edwards",
+  "linkedin_url": "https://linkedin.com/in/dali-edwards-468ab535",
+  "emails": [
+    {
+      "email": "dali.edwards@parexcellencemagazine.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 1252 542029",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Par Excellence Magazine"
+}

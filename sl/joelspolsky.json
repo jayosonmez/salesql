@@ -1,0 +1,39 @@
+{
+  "uuid": "1dee53ec-a532-49b1-905b-8650dd118e96",
+  "first_name": "Joel",
+  "last_name": "Spolsky",
+  "full_name": "Joel Spolsky",
+  "linkedin_url": "https://linkedin.com/in/joelspolsky",
+  "emails": [
+    {
+      "email": "joel@joelonsoftware.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joel@spolsky.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "js@hash.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 866-364-2733",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 917-979-5539",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HASH"
+}

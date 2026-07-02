@@ -1,0 +1,48 @@
+{
+  "uuid": "76655546-5f79-4614-94c3-549159289ce2",
+  "first_name": "Ron",
+  "last_name": "Wohl",
+  "full_name": "Ron Wohl",
+  "linkedin_url": "https://linkedin.com/in/ron-wohl-b02065a",
+  "emails": [
+    {
+      "email": "ron.wohl@nanoscalecomp.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rwohl1@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron.wohl@incorta.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron.wohl@oracle.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron.wohl@iongroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron.wohl@ukg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-250-1481",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Incorta"
+}

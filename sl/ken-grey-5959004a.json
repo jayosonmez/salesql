@@ -1,0 +1,54 @@
+{
+  "uuid": "9b0f8d55-a664-42a9-9004-70a05576798c",
+  "first_name": "Ken",
+  "last_name": "Grey",
+  "full_name": "Ken Grey",
+  "linkedin_url": "https://linkedin.com/in/ken-grey-5959004a",
+  "emails": [
+    {
+      "email": "ken.grey@jupitermed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kgrey@npr.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ken@affpc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ken.grey@vellhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ken.grey@BPGbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "drken@drkengrey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 561-746-7300",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 561-746-7300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VELL"
+}

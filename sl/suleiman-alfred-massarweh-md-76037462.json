@@ -1,0 +1,28 @@
+{
+  "uuid": "3a2fa36e-0178-484c-b688-fc04cd8746f6",
+  "first_name": "Suleiman Alfred",
+  "last_name": "Massarweh, MD",
+  "full_name": "Suleiman Alfred Massarweh, MD",
+  "linkedin_url": "https://linkedin.com/in/suleiman-alfred-massarweh-md-76037462",
+  "emails": [
+    {
+      "email": "suleiman.massarweh@includedhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "smassarweh@teladochealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-929-0926",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Grand Rounds Health, now part of Included Health"
+}

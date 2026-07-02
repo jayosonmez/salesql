@@ -1,0 +1,23 @@
+{
+  "uuid": "02e3a0b4-41f7-420d-bea6-0fcd572fb2a5",
+  "first_name": "Violetta",
+  "last_name": "Oshano",
+  "full_name": "Violetta Oshano",
+  "linkedin_url": "https://linkedin.com/in/violetta-oshano-972411247",
+  "emails": [
+    {
+      "email": "violetta.oshano@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 562-657-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Holland & Barrett"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "b21d7f62-57f8-499f-9f06-feb72fc7660d",
+  "first_name": "Amruta",
+  "last_name": "Karbelkar",
+  "full_name": "Amruta Karbelkar",
+  "linkedin_url": "https://linkedin.com/in/amruta-karbelkar-8426aa64",
+  "emails": [
+    {
+      "email": "akarbelkar@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-253-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts Institute of Technology"
+}

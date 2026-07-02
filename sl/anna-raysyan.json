@@ -1,0 +1,16 @@
+{
+  "uuid": "66a6ebd6-3316-4b09-9919-798ba20a2aa7",
+  "first_name": "Anna",
+  "last_name": "R.",
+  "full_name": "Anna R.",
+  "linkedin_url": "https://linkedin.com/in/anna-raysyan",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+32 2 320 39 95",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Jefferson Wells Belgium"
+}

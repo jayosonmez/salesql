@@ -1,0 +1,38 @@
+{
+  "uuid": "12386a10-d3d8-49bb-b0b7-025d434aa5b4",
+  "first_name": "Joe",
+  "last_name": "Kraus",
+  "full_name": "Joe Kraus",
+  "linkedin_url": "https://linkedin.com/in/jkraus",
+  "emails": [
+    {
+      "email": "joe@li.me",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jkraus@digitalconsumer.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jkraus@google.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joe.kraus@limebike.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-710-2684",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lime"
+}

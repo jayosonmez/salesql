@@ -1,0 +1,23 @@
+{
+  "uuid": "2d91a638-a648-4806-80a2-5a3df177310f",
+  "first_name": "Nilay",
+  "last_name": "Turhan",
+  "full_name": "Nilay Turhan",
+  "linkedin_url": "https://linkedin.com/in/nilay-turhan-190291110",
+  "emails": [
+    {
+      "email": "nilay.turhan@turkishairlines.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 850 333 0849",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Turkish Airlines"
+}

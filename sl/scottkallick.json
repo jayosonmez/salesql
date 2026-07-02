@@ -1,0 +1,58 @@
+{
+  "uuid": "c1a9a651-3988-4e6b-816b-1e2178189277",
+  "first_name": "Scott",
+  "last_name": "Kallick",
+  "full_name": "Scott Kallick",
+  "linkedin_url": "https://linkedin.com/in/scottkallick",
+  "emails": [
+    {
+      "email": "skallick58@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "scottk58@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "scott@joinentre.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "scott@radivision.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "scott@joinanswerable.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "scott@hellobaru.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "scott@npkn.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "scott@clotheslyne.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 412-979-5367",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Radivision®"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "c0a38635-e1c6-4c22-9746-9d1740ebe03c",
+  "first_name": "Mark",
+  "last_name": "Dhillon",
+  "full_name": "Mark Dhillon",
+  "linkedin_url": "https://linkedin.com/in/markdhillon",
+  "emails": [
+    {
+      "email": "mark.s.dhillon@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "deals@fog.ventures",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark.dhillon@techstars.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark@operators-guild.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark@akidolabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 866-279-7837",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Akido Labs"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "0c3bfbc9-2ea5-4d25-bb6f-4123aa16bbb9",
+  "first_name": "Claudette",
+  "last_name": "Shephard MD, MBA, FACOG",
+  "full_name": "Claudette Shephard MD, MBA, FACOG",
+  "linkedin_url": "https://linkedin.com/in/cjshephard",
+  "emails": [
+    {
+      "email": "cshephard@frayserca.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cshephard@regionalonehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 901-217-3365",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Oasis Foundation, Inc."
+}

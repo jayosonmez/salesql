@@ -1,0 +1,16 @@
+{
+  "uuid": "29c9b943-436c-43e9-93ad-d9f807ce6163",
+  "first_name": "Dr. Anthony",
+  "last_name": "Borgia",
+  "full_name": "Dr. Anthony Borgia",
+  "linkedin_url": "https://linkedin.com/in/dr-anthony-borgia-59243ba",
+  "emails": [
+    {
+      "email": "dranthonyborgia@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Anthony V. Borgia, DPM, PLLC"
+}

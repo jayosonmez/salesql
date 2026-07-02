@@ -1,0 +1,43 @@
+{
+  "uuid": "3751d2d3-dd43-4a65-94aa-ed0ad106c4e5",
+  "first_name": "Vic",
+  "last_name": "Pellicano",
+  "full_name": "Vic Pellicano",
+  "linkedin_url": "https://linkedin.com/in/victoriopellicano",
+  "emails": [
+    {
+      "email": "vpellicano@verenia.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vpellicano@rilecpq.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vpellicano@serafai.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vpellicano@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "vic@hpa.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-720-8662",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pellicano Family Foundation"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "a0afb54c-00e0-4809-afc5-cf63731bf7b8",
+  "first_name": "Matthew",
+  "last_name": "Chan",
+  "full_name": "Matthew Chan",
+  "linkedin_url": "https://linkedin.com/in/matthew-chan22",
+  "emails": [
+    {
+      "email": "matthew_chan@kgi.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 909-607-7855",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Keck Graduate Institute"
+}

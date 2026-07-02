@@ -1,0 +1,29 @@
+{
+  "uuid": "cc7fb99b-8ffa-457f-8158-77e6b7c7749b",
+  "first_name": "Phil",
+  "last_name": "Fernandes",
+  "full_name": "Phil Fernandes",
+  "linkedin_url": "https://linkedin.com/in/phil-fernandes-39867553",
+  "emails": [
+    {
+      "email": "phil.fernandes@att.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 925-278-9381",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 210-821-4105",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AT&T"
+}

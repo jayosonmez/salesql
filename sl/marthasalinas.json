@@ -1,0 +1,49 @@
+{
+  "uuid": "b461b5a3-bff0-4116-864b-5fd0270e1793",
+  "first_name": "Martha",
+  "last_name": "Salinas",
+  "full_name": "Martha Salinas",
+  "linkedin_url": "https://linkedin.com/in/marthasalinas",
+  "emails": [
+    {
+      "email": "msalinas@kcgpa.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "msalinas@multiservice.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "salinasm105@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "msalinas@msts.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "m.s@alt-cap.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 913-663-9491",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 913-451-2400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "TreviPay"
+}

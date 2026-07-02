@@ -1,0 +1,63 @@
+{
+  "uuid": "9aad392d-77ec-4cf2-85e3-c283cb506a4c",
+  "first_name": "Ron",
+  "last_name": "Gross",
+  "full_name": "Ron Gross",
+  "linkedin_url": "https://linkedin.com/in/ripper234",
+  "emails": [
+    {
+      "email": "ron.gross@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ron@practicalVC.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron@bzigo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron@nym.health",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rong@neureality.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron@baseshift.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron@any.do",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron@substrata.me",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron@illumex.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+972 52-655-8841",
+      "type": "Personal",
+      "country_code": "IL",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Baseshift"
+}

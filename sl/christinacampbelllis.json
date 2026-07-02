@@ -1,0 +1,21 @@
+{
+  "uuid": "99c185ab-bcf0-4fd0-9f6d-3a2b514c326c",
+  "first_name": "Christina",
+  "last_name": "Campbell, DO, FACEP, FMCP",
+  "full_name": "Christina Campbell, DO, FACEP, FMCP",
+  "linkedin_url": "https://linkedin.com/in/christinacampbelllis",
+  "emails": [
+    {
+      "email": "gatornchamp@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christina@accumedradial.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sixth Society"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "8c3542f4-10e4-44b3-a5d3-8d15167964bb",
+  "first_name": "Benjamin",
+  "last_name": "Terry",
+  "full_name": "Benjamin Terry",
+  "linkedin_url": "https://linkedin.com/in/benjamin-terry-8b066643",
+  "emails": [
+    {
+      "email": "benjamin.terry@unl.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 402-472-7211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Nebraska-Lincoln"
+}

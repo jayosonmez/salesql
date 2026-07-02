@@ -1,0 +1,28 @@
+{
+  "uuid": "f87d739c-d40b-4b5e-87a0-89d5cce2d690",
+  "first_name": "Albert A.",
+  "last_name": "Koenig",
+  "full_name": "Albert A. Koenig",
+  "linkedin_url": "https://linkedin.com/in/albert-a-koenig-392481",
+  "emails": [
+    {
+      "email": "al@sep.benfranklin.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "albertkoenig@benfranklin.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 610-758-5200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ben Franklin Technology Partners"
+}

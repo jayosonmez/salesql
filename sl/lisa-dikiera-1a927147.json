@@ -1,0 +1,28 @@
+{
+  "uuid": "b3797225-274a-4c54-baca-c484518b8517",
+  "first_name": "Lisa",
+  "last_name": "Dikiera",
+  "full_name": "Lisa Dikiera",
+  "linkedin_url": "https://linkedin.com/in/lisa-dikiera-1a927147",
+  "emails": [
+    {
+      "email": "lisa.dikiera@umich.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "condo807-807@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 734-764-3490",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Self-employed"
+}

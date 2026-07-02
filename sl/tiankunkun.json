@@ -1,0 +1,23 @@
+{
+  "uuid": "ac881afc-4dd1-4f1e-821f-972cc802a277",
+  "first_name": "Kun",
+  "last_name": "Tian",
+  "full_name": "Kun Tian",
+  "linkedin_url": "https://linkedin.com/in/tiankunkun",
+  "emails": [
+    {
+      "email": "kun.tian@intel.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-765-8080",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Intel"
+}

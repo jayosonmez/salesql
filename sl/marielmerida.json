@@ -1,0 +1,17 @@
+{
+  "uuid": "8348c9f0-26dd-4c09-a7c0-68ab14ec3d1a",
+  "first_name": "Mariel",
+  "last_name": "Merida, LME, RMA, MD",
+  "full_name": "Mariel Merida, LME, RMA, MD",
+  "linkedin_url": "https://linkedin.com/in/marielmerida",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 540-450-5117",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Virginia Wellness and Aesthetics"
+}

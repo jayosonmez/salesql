@@ -1,0 +1,31 @@
+{
+  "uuid": "12ccf4a8-9f13-467f-8116-6587a141aedf",
+  "first_name": "Adam",
+  "last_name": "Blue",
+  "full_name": "Adam Blue",
+  "linkedin_url": "https://linkedin.com/in/adam-blue-537810",
+  "emails": [
+    {
+      "email": "adam.blue@hartehanks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adam.blue@s1.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aanderson@q2software.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adam.blue@q2.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Q2"
+}

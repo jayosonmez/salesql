@@ -1,0 +1,21 @@
+{
+  "uuid": "bae3df5a-5b36-4d6a-b586-a366e7c81eab",
+  "first_name": "Matthew J.",
+  "last_name": "N.",
+  "full_name": "Matthew J. N.",
+  "linkedin_url": "https://linkedin.com/in/mattnordgren",
+  "emails": [
+    {
+      "email": "matthew@arcadiancap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mattnordgren@msn.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Arcadian Capital"
+}

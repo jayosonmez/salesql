@@ -1,0 +1,28 @@
+{
+  "uuid": "56bfd299-2318-4cbe-80aa-47dcf305ed0c",
+  "first_name": "Charles",
+  "last_name": "Cammarata, MBA",
+  "full_name": "Charles Cammarata, MBA",
+  "linkedin_url": "https://linkedin.com/in/charles-cammarata-mba-b17046a",
+  "emails": [
+    {
+      "email": "cammarata_c@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "cammarata.charles@gene.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-225-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Genentech"
+}

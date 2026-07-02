@@ -1,0 +1,23 @@
+{
+  "uuid": "0b0779a1-c059-4020-b738-def575557f07",
+  "first_name": "Jeff",
+  "last_name": "Manheimer",
+  "full_name": "Jeff Manheimer",
+  "linkedin_url": "https://linkedin.com/in/jeff-manheimer-4191532",
+  "emails": [
+    {
+      "email": "jeff@tripping.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 301-906-8822",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

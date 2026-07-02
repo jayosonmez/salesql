@@ -1,0 +1,51 @@
+{
+  "uuid": "60ce55ec-dbce-4886-a5d4-3c80ff214fd2",
+  "first_name": "Dylan",
+  "last_name": "Gale",
+  "full_name": "Dylan Gale",
+  "linkedin_url": "https://linkedin.com/in/dylan-gale-12901513",
+  "emails": [
+    {
+      "email": "dylan@kiwicrate.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "g-d@relativityspace.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dylanmgale@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dylan@attabotics.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dylan@openphone.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dmgale@calpoly.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dylan.gale@modernanimal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dylan.gale@quo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Quo"
+}

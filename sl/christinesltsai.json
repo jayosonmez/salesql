@@ -1,0 +1,46 @@
+{
+  "uuid": "5d03892a-43eb-4c0c-ad32-f7bf0416c23d",
+  "first_name": "Christine",
+  "last_name": "Tsai",
+  "full_name": "Christine Tsai",
+  "linkedin_url": "https://linkedin.com/in/christinesltsai",
+  "emails": [
+    {
+      "email": "christinesltsai@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "christine.tsai@500.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ctsai@500.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christine@goldhouse.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ct@berkeleyfrontier.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ctsai@ypo.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christine.tsai@aaaim.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "500 Global"
+}

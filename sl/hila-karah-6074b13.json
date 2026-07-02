@@ -1,0 +1,48 @@
+{
+  "uuid": "d68923c3-cbe8-4481-a310-93d18bf52daf",
+  "first_name": "Hila",
+  "last_name": "Karah",
+  "full_name": "Hila Karah",
+  "linkedin_url": "https://linkedin.com/in/hila-karah-6074b13",
+  "emails": [
+    {
+      "email": "hila007@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "hila.k@pitango.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hila.karah@dariohealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hila@eurotrust.co.il",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hila.karah@variantyx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hilak@oncohost.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-322-2201",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pitango"
+}

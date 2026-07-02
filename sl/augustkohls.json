@@ -1,0 +1,23 @@
+{
+  "uuid": "9f9abbea-efda-4742-af75-e3f1092da875",
+  "first_name": "August",
+  "last_name": "Kohls",
+  "full_name": "August Kohls",
+  "linkedin_url": "https://linkedin.com/in/augustkohls",
+  "emails": [
+    {
+      "email": "august@cmu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 412-268-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Carnegie Mellon University"
+}

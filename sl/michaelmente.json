@@ -1,0 +1,31 @@
+{
+  "uuid": "1f9dce04-5509-4085-9089-65374dabefaf",
+  "first_name": "Michael",
+  "last_name": "Mente",
+  "full_name": "Michael Mente",
+  "linkedin_url": "https://linkedin.com/in/michaelmente",
+  "emails": [
+    {
+      "email": "michael@revolveclothing.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mmente@revolveclothing.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "michael@revolve.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "michael.mente@farfetch.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Forward (Forward-Forward.com)"
+}

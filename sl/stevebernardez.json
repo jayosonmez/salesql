@@ -1,0 +1,33 @@
+{
+  "uuid": "dcfd9933-e89d-4703-a004-e6924c41ca18",
+  "first_name": "Steve",
+  "last_name": "Bernardez",
+  "full_name": "Steve Bernardez",
+  "linkedin_url": "https://linkedin.com/in/stevebernardez",
+  "emails": [
+    {
+      "email": "stephen@onset.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steve@avantaventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steve@pegasustechventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-645-5532",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pegasus Tech Ventures"
+}

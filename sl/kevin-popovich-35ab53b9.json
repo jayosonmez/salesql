@@ -1,0 +1,23 @@
+{
+  "uuid": "2beb261a-fd8b-4c00-b557-e32bde89fbc4",
+  "first_name": "Kevin",
+  "last_name": "Popovich",
+  "full_name": "Kevin Popovich",
+  "linkedin_url": "https://linkedin.com/in/kevin-popovich-35ab53b9",
+  "emails": [
+    {
+      "email": "kpopovich@donlevylab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 219-226-0001",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Donlevy Laboratories Inc."
+}

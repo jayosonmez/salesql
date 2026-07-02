@@ -1,0 +1,28 @@
+{
+  "uuid": "6de24b14-583d-4749-9e97-638d769fddc8",
+  "first_name": "Daniel",
+  "last_name": "Saurborn, MD",
+  "full_name": "Daniel Saurborn, MD",
+  "linkedin_url": "https://linkedin.com/in/danielsaurbornmd",
+  "emails": [
+    {
+      "email": "dsaurborn@stanfordhealthcare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sdaniel@stanfordhealthcare.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-266-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PrayerSpark"
+}

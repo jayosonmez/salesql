@@ -1,0 +1,48 @@
+{
+  "uuid": "08d3461f-1fa2-4de3-93b8-c78e2dc4af02",
+  "first_name": "Erik",
+  "last_name": "Raudsepp",
+  "full_name": "Erik Raudsepp",
+  "linkedin_url": "https://linkedin.com/in/eraudsepp",
+  "emails": [
+    {
+      "email": "erik@montonio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "erik.raudsepp@superangel.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "erik@saeloun.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "erikraudsepp@pactum.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "erik@value.space",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "erik.raudsepp@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-939-3861",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pactum AI"
+}

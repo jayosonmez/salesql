@@ -1,0 +1,28 @@
+{
+  "uuid": "8a1936f7-e375-481d-9d68-a3d067307829",
+  "first_name": "Hilary",
+  "last_name": "McClafferty",
+  "full_name": "Hilary McClafferty",
+  "linkedin_url": "https://linkedin.com/in/hilary-mcclafferty-373a4297",
+  "emails": [
+    {
+      "email": "hilary_mcclafferty@coachingfederation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hmcclafferty@email.arizona.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 859-219-3580",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "International Coaching Federation"
+}

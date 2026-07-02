@@ -1,0 +1,28 @@
+{
+  "uuid": "817649ac-c03a-42e8-b9b9-1f8364d5d171",
+  "first_name": "Michael",
+  "last_name": "Jackowitz",
+  "full_name": "Michael Jackowitz",
+  "linkedin_url": "https://linkedin.com/in/michael-jackowitz-2753505",
+  "emails": [
+    {
+      "email": "michaeljackowitz@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "michael@minitmed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 808-667-6161",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hawaiian Goddess"
+}

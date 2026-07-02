@@ -1,0 +1,28 @@
+{
+  "uuid": "fed1b634-c691-4d6d-8ff3-a0402f248651",
+  "first_name": "Sebastian",
+  "last_name": "Stoddart",
+  "full_name": "Sebastian Stoddart",
+  "linkedin_url": "https://linkedin.com/in/sebastianstoddart",
+  "emails": [
+    {
+      "email": "sebastian@stoddart.uk.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sebastians@amazon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-266-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Amazon Web Services (AWS)"
+}

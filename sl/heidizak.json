@@ -1,0 +1,43 @@
+{
+  "uuid": "d6d7b398-edee-44b3-9b71-8ff714208a76",
+  "first_name": "Heidi",
+  "last_name": "Zak",
+  "full_name": "Heidi Zak",
+  "linkedin_url": "https://linkedin.com/in/heidizak",
+  "emails": [
+    {
+      "email": "heidizak@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "heidiz@thirdlove.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hzak@cricut.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "heidi@intro.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "heidi.zak@aspeninstitute.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-727-4288",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cricut"
+}

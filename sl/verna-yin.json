@@ -1,0 +1,28 @@
+{
+  "uuid": "f1109117-c3bd-4287-afec-0e5a35afcdaa",
+  "first_name": "Verna",
+  "last_name": "Yin",
+  "full_name": "Verna Yin",
+  "linkedin_url": "https://linkedin.com/in/verna-yin",
+  "emails": [
+    {
+      "email": "vyin@brightquest.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "verna@thisishappyhour.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-904-2171",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BrightQuest Treatment Centers"
+}

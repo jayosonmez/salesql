@@ -1,0 +1,23 @@
+{
+  "uuid": "a177d449-7b5c-4170-b362-fe50a763d82c",
+  "first_name": "Ethan",
+  "last_name": "Casey",
+  "full_name": "Ethan Casey",
+  "linkedin_url": "https://linkedin.com/in/ethan-casey-166b9510b",
+  "emails": [
+    {
+      "email": "ecasey@presby.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 231-487-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Advanced Dermatology and Cosmetic Surgery"
+}

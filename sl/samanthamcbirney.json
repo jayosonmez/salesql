@@ -1,0 +1,28 @@
+{
+  "uuid": "8dba5132-9d45-4a00-8d02-8b8f4bfb0bb8",
+  "first_name": "Samantha",
+  "last_name": "McBirney",
+  "full_name": "Samantha McBirney",
+  "linkedin_url": "https://linkedin.com/in/samanthamcbirney",
+  "emails": [
+    {
+      "email": "smcbirney@rand.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mcbirney@prgs.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-393-0411",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "RAND School of Public Policy"
+}

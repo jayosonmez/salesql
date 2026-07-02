@@ -1,0 +1,17 @@
+{
+  "uuid": "10929d05-e1c0-441d-b202-50898af2644d",
+  "first_name": "Marjorie",
+  "last_name": "Viscardi",
+  "full_name": "Marjorie Viscardi",
+  "linkedin_url": "https://linkedin.com/in/marjorie-viscardi-b946b4a4",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 888-506-2660",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Medivo"
+}

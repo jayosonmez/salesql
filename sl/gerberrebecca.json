@@ -1,0 +1,23 @@
+{
+  "uuid": "f02a3d34-e485-4d60-af5d-eb431bfebfc4",
+  "first_name": "Rebecca",
+  "last_name": "Gerber",
+  "full_name": "Rebecca Gerber",
+  "linkedin_url": "https://linkedin.com/in/gerberrebecca",
+  "emails": [
+    {
+      "email": "rebecca.gerber@epsilon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 469-262-0600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Epsilon"
+}

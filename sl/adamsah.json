@@ -1,0 +1,48 @@
+{
+  "uuid": "1e7cbdda-4e59-4e9b-a119-3c2386233df4",
+  "first_name": "Adam",
+  "last_name": "Sah",
+  "full_name": "Adam Sah",
+  "linkedin_url": "https://linkedin.com/in/adamsah",
+  "emails": [
+    {
+      "email": "adam@distilldating.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adam.sah@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "asah@bbfdirect.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "a_sah@tgleaders.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "asah@eltonai.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "adam@zerocapital.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-708-6854",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Zero Capital"
+}

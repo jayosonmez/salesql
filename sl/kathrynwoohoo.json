@@ -1,0 +1,36 @@
+{
+  "uuid": "5ad79ccf-b42b-4178-8c7d-4c3a100e8df5",
+  "first_name": "Kathryn",
+  "last_name": "Wu",
+  "full_name": "Kathryn Wu",
+  "linkedin_url": "https://linkedin.com/in/kathrynwoohoo",
+  "emails": [
+    {
+      "email": "kwu@pinterest.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kathryn@openmart.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kathrynwuqy@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kathryn@openmart.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kathryn@aibpo.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Openmart"
+}

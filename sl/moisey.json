@@ -1,0 +1,41 @@
+{
+  "uuid": "88fca150-38a4-4336-953f-8e4b9d31e685",
+  "first_name": "Moisey",
+  "last_name": "Uretsky",
+  "full_name": "Moisey Uretsky",
+  "linkedin_url": "https://linkedin.com/in/moisey",
+  "emails": [
+    {
+      "email": "moisey@digitalocean.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "moisey@realitychecknetwork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "moisey@panoply.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "moisey@cockroachlabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "moisey@pluralpolicy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "moisey.uretsky@algolia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Statype"
+}

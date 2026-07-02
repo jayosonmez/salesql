@@ -1,0 +1,38 @@
+{
+  "uuid": "4674df50-9b6c-4db4-b460-8010afb1a1f6",
+  "first_name": "Christian (Chris)",
+  "last_name": "Bach",
+  "full_name": "Christian (Chris) Bach",
+  "linkedin_url": "https://linkedin.com/in/christianbachdk",
+  "emails": [
+    {
+      "email": "cb@synergyxr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cb@capsize.dk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chris@netlify.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+14153102048+4525362323",
+      "type": "Personal",
+      "is_valid": false
+    },
+    {
+      "phone": "+1 415-310-2478",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth"
+}

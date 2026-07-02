@@ -1,0 +1,23 @@
+{
+  "uuid": "5df90325-16c2-44fb-8f9e-0b8fa16e2989",
+  "first_name": "Yi",
+  "last_name": "Xiao",
+  "full_name": "Yi Xiao",
+  "linkedin_url": "https://linkedin.com/in/yi-xiao-23511470",
+  "emails": [
+    {
+      "email": "yi@ncsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-515-2011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "North Carolina State University"
+}

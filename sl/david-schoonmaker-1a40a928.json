@@ -1,0 +1,28 @@
+{
+  "uuid": "3059f1e8-798a-4f7e-ba5f-632a645ef5c7",
+  "first_name": "David",
+  "last_name": "Schoonmaker",
+  "full_name": "David Schoonmaker",
+  "linkedin_url": "https://linkedin.com/in/david-schoonmaker-1a40a928",
+  "emails": [
+    {
+      "email": "dschoonmaker@drlathian.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@drcommunications.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-460-2500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "D+R LATHIAN"
+}

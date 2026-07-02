@@ -1,0 +1,23 @@
+{
+  "uuid": "7c63e7f6-bdb5-4dc1-8330-acea06b04c2c",
+  "first_name": "Meaghan",
+  "last_name": "Tigh Dearwester",
+  "full_name": "Meaghan Tigh Dearwester",
+  "linkedin_url": "https://linkedin.com/in/meaghan-tigh-2021",
+  "emails": [
+    {
+      "email": "mtigh12@amherst.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 203-688-2333",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Yale New Haven Health"
+}

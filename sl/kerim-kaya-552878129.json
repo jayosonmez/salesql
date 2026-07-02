@@ -1,0 +1,21 @@
+{
+  "uuid": "38dc92f9-7e2e-4595-a6f4-e65962dffd97",
+  "first_name": "Kerim",
+  "last_name": "Kaya",
+  "full_name": "Kerim Kaya",
+  "linkedin_url": "https://linkedin.com/in/kerim-kaya-552878129",
+  "emails": [
+    {
+      "email": "kerim.kaya@vircongroup.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kerim@usealbus.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dria"
+}

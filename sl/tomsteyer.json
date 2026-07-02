@@ -1,0 +1,21 @@
+{
+  "uuid": "3d77a56d-0f18-4296-ae96-7495460735e3",
+  "first_name": "Tom",
+  "last_name": "Steyer",
+  "full_name": "Tom Steyer",
+  "linkedin_url": "https://linkedin.com/in/tomsteyer",
+  "emails": [
+    {
+      "email": "tom.steyer@tomsteyer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tom@steyer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Steyer For Governor"
+}

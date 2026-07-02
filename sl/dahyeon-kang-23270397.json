@@ -1,0 +1,28 @@
+{
+  "uuid": "a88adeaa-7345-4fd0-b393-1ee29c7d4b3f",
+  "first_name": "Dahyeon",
+  "last_name": "Kang",
+  "full_name": "Dahyeon Kang",
+  "linkedin_url": "https://linkedin.com/in/dahyeon-kang-23270397",
+  "emails": [
+    {
+      "email": "dkang@illinois.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dkang@uw.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-543-2100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Washington"
+}

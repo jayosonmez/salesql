@@ -1,0 +1,23 @@
+{
+  "uuid": "986a1fde-da19-47cc-9463-593681f47846",
+  "first_name": "Oumar F.",
+  "last_name": "Abakar",
+  "full_name": "Oumar F. Abakar",
+  "linkedin_url": "https://linkedin.com/in/oumar-f-abakar-569883293",
+  "emails": [
+    {
+      "email": "oumar.abakar@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-684-2813",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Duke University"
+}

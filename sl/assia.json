@@ -1,0 +1,31 @@
+{
+  "uuid": "46f4251e-8905-47b5-b7b8-7e51bc378a7f",
+  "first_name": "Assia",
+  "last_name": "Grazioli-Venier",
+  "full_name": "Assia Grazioli-Venier",
+  "linkedin_url": "https://linkedin.com/in/assia",
+  "emails": [
+    {
+      "email": "assia@flypaper.tv",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "assia@musecapitallabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "assia@sportsilab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "assia.grazioli-venier@redbull.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Muse Capital"
+}

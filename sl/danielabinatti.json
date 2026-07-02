@@ -1,0 +1,39 @@
+{
+  "uuid": "ef4957bb-c85c-44b7-81a2-97c6408e5826",
+  "first_name": "Daniela",
+  "last_name": "Binatti",
+  "full_name": "Daniela Binatti",
+  "linkedin_url": "https://linkedin.com/in/danielabinatti",
+  "emails": [
+    {
+      "email": "daniela.binatti@conductor.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "daniela.binatti@pismo.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dbinatti@visa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 11 99140-0304",
+      "type": "Personal",
+      "country_code": "BR",
+      "is_valid": true
+    },
+    {
+      "phone": "+55 11 3168-1873",
+      "type": "Work",
+      "country_code": "BR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pismo"
+}

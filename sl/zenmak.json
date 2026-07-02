@@ -1,0 +1,48 @@
+{
+  "uuid": "c6295fe4-ec4c-40b0-89da-12ca19156e62",
+  "first_name": "Zen",
+  "last_name": "Mak",
+  "full_name": "Zen Mak",
+  "linkedin_url": "https://linkedin.com/in/zenmak",
+  "emails": [
+    {
+      "email": "zen.mak@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "zen@rallyworks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zen@livezero.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "zen@gaingels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zen@ministryofawesome.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zen@chasingrainbows.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-762-9010",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "RallyWorks"
+}

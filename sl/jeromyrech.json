@@ -1,0 +1,16 @@
+{
+  "uuid": "2912df87-94a5-4d17-9e58-0d10ffcf6d24",
+  "first_name": "Jeromy",
+  "last_name": "Rech",
+  "full_name": "Jeromy Rech",
+  "linkedin_url": "https://linkedin.com/in/jeromyrech",
+  "emails": [
+    {
+      "email": "jeromy@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "UNC - University of North Carolina at Asheville"
+}

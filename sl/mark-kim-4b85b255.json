@@ -1,0 +1,16 @@
+{
+  "uuid": "5d876749-f3ff-4653-9302-8c0dce83b9eb",
+  "first_name": "Mark",
+  "last_name": "Kim",
+  "full_name": "Mark Kim",
+  "linkedin_url": "https://linkedin.com/in/mark-kim-4b85b255",
+  "emails": [
+    {
+      "email": "mark@pacificvascular.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Eterna Vein and Medical Aesthetics"
+}

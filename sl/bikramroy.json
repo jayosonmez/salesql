@@ -1,0 +1,43 @@
+{
+  "uuid": "ae6a4a37-3f02-4a96-a85d-1334ddf6adb1",
+  "first_name": "Bikram",
+  "last_name": "Roy",
+  "full_name": "Bikram Roy",
+  "linkedin_url": "https://linkedin.com/in/bikramroy",
+  "emails": [
+    {
+      "email": "bikram@parenthoodventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "broy@igschools.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bikram.roy76@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bikram@paintechnology.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bikram@bonfiredw.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 216-800-5181",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Intergenerational Schools"
+}

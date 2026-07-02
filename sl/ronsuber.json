@@ -1,0 +1,69 @@
+{
+  "uuid": "bff074e0-b8a8-4672-b92b-308736a59e5e",
+  "first_name": "Ron",
+  "last_name": "Suber",
+  "full_name": "Ron Suber",
+  "linkedin_url": "https://linkedin.com/in/ronsuber",
+  "emails": [
+    {
+      "email": "ron@matchstick.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron@3imembers.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron.suber@colorado.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rsuber@edisonpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ron.suber@icloud.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rsuber2004@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sron@monroecap.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rsuber@prosper.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "r.s@ucdenver.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-544-9377",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 303-492-6515",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Colorado Boulder - Leeds School of Business"
+}

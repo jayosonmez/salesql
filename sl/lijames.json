@@ -1,0 +1,53 @@
+{
+  "uuid": "f0c8c43c-af2b-4577-9303-19dbfa37a47a",
+  "first_name": "James",
+  "last_name": "Li",
+  "full_name": "James Li",
+  "linkedin_url": "https://linkedin.com/in/lijames",
+  "emails": [
+    {
+      "email": "james@nextgenvp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jli@risenow.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jli.fbla@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "li@500.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "james.li@meltwater.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "james@encorealert.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "james@reactionstrategygroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 714-873-6202",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Angel Investor"
+}

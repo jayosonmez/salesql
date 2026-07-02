@@ -1,0 +1,16 @@
+{
+  "uuid": "c64a40e8-c5c3-43c9-9b67-cd710bbf621a",
+  "first_name": "Susan",
+  "last_name": "Kim",
+  "full_name": "Susan Kim",
+  "linkedin_url": "https://linkedin.com/in/kimsusan",
+  "emails": [
+    {
+      "email": "susankim@post.harvard.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

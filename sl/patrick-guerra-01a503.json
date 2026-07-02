@@ -1,0 +1,32 @@
+{
+  "uuid": "a45342c2-8396-404c-a95e-68861eb0da1e",
+  "first_name": "Patrick",
+  "last_name": "Guerra",
+  "full_name": "Patrick Guerra",
+  "linkedin_url": "https://linkedin.com/in/patrick-guerra-01a503",
+  "emails": [
+    {
+      "email": "guerra@bandangels.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "patrick.guerra@nevasgr.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "patrick@lionspeak.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+39 011 5551",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NEVA SGR"
+}

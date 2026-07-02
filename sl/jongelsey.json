@@ -1,0 +1,41 @@
+{
+  "uuid": "b227cb62-6aad-45b5-bb2d-aaad26da6e8c",
+  "first_name": "Jon",
+  "last_name": "Gelsey",
+  "full_name": "Jon Gelsey",
+  "linkedin_url": "https://linkedin.com/in/jongelsey",
+  "emails": [
+    {
+      "email": "jon@symmetry-systems.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jon.gelsey@duendesoftware.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jon@gelsey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jon.gelsey@xnor.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jon@elastix.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "linkedin@gelsey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ElastixAI"
+}

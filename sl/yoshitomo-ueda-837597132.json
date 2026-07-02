@@ -1,0 +1,23 @@
+{
+  "uuid": "f2203a03-da25-4a88-bf46-729cb0ada07a",
+  "first_name": "Yoshitomo",
+  "last_name": "Ueda",
+  "full_name": "Yoshitomo Ueda",
+  "linkedin_url": "https://linkedin.com/in/yoshitomo-ueda-837597132",
+  "emails": [
+    {
+      "email": "yueda@iu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 317-274-8828",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Indiana University School of Medicine"
+}

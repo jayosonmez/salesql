@@ -1,0 +1,43 @@
+{
+  "uuid": "7f1c4eb2-faec-4e8c-94d0-b90840a518a2",
+  "first_name": "David",
+  "last_name": "Feldsott",
+  "full_name": "David Feldsott",
+  "linkedin_url": "https://linkedin.com/in/davidfeldsott",
+  "emails": [
+    {
+      "email": "d.feldsott@pantrek.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.feldsott@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.feldsott@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "david@startupchile.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.feldsott@pnc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 630-879-9528",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Oneday"
+}

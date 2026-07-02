@@ -1,0 +1,16 @@
+{
+  "uuid": "6c2f2c78-11de-4ffd-89f7-9aaf0a219012",
+  "first_name": "Ray",
+  "last_name": "Dalio",
+  "full_name": "Ray Dalio",
+  "linkedin_url": "https://linkedin.com/in/raydalio",
+  "emails": [
+    {
+      "email": "dalio@bwater.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

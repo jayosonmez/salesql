@@ -1,0 +1,41 @@
+{
+  "uuid": "f66a6f9b-97b9-4fb7-8443-50a2015c8ee0",
+  "first_name": "Dianthe",
+  "last_name": "(Harris) Skurko",
+  "full_name": "Dianthe (Harris) Skurko",
+  "linkedin_url": "https://linkedin.com/in/dianthe",
+  "emails": [
+    {
+      "email": "dianthe@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dianthe@thegrowthwarrior.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "harris@faradaic.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dianthe@richuel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dianthe@goingvc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dianthe@endiatx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Richuel"
+}

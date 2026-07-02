@@ -1,0 +1,17 @@
+{
+  "uuid": "43f2205a-18d2-4105-9c21-42f7c884d8c7",
+  "first_name": "Peter",
+  "last_name": "Grote",
+  "full_name": "Peter Grote",
+  "linkedin_url": "https://linkedin.com/in/peter-grote-246658155",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 206-267-7300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GROTE PETER N"
+}

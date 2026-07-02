@@ -1,0 +1,29 @@
+{
+  "uuid": "dde688c4-5204-4cf8-977a-57a08497d9b7",
+  "first_name": "Mario",
+  "last_name": "Varon",
+  "full_name": "Mario Varon",
+  "linkedin_url": "https://linkedin.com/in/mario-varon-8b2a4249",
+  "emails": [
+    {
+      "email": "mario.varon@imagine-x.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 318-806-9567",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+8605971388",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "ImagineX"
+}

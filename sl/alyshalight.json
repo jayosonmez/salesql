@@ -1,0 +1,49 @@
+{
+  "uuid": "3458e7ca-e958-4d8d-b0ee-03065664c6ac",
+  "first_name": "Alysha",
+  "last_name": "Light",
+  "full_name": "Alysha Light",
+  "linkedin_url": "https://linkedin.com/in/alyshalight",
+  "emails": [
+    {
+      "email": "alysha@klovercity.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alysha@flightpr.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alyshanw@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alyshalight@capitalfactory.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alight@thepearl.fund",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-740-7539",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 310-439-8350",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Flight PR"
+}

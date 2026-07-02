@@ -1,0 +1,22 @@
+{
+  "uuid": "fa02dd6c-da99-42b8-979f-73a6e1b9035a",
+  "first_name": "Amanda",
+  "last_name": "Noel",
+  "full_name": "Amanda Noel",
+  "linkedin_url": "https://linkedin.com/in/amanda-noel-608344123",
+  "emails": [
+    {
+      "email": "amanda.noel@brainlab.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 89 9915680",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Brainlab"
+}

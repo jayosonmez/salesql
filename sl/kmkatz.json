@@ -1,0 +1,48 @@
+{
+  "uuid": "097865eb-2677-4c9a-a57e-90a9e958564c",
+  "first_name": "Kara",
+  "last_name": "Katz",
+  "full_name": "Kara Katz",
+  "linkedin_url": "https://linkedin.com/in/kmkatz",
+  "emails": [
+    {
+      "email": "karen@startx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "karen@playlist.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kmkatz@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kara@joinriff.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kara.katz@playlist.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kara@womenstartuplab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-740-2907",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AI Startup in Stealth-Mode"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8d63037c-c1cb-44d5-8da6-eede6088ea4e",
+  "first_name": "Ritwik",
+  "last_name": "S.",
+  "full_name": "Ritwik S.",
+  "linkedin_url": "https://linkedin.com/in/ritwik-s",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 612-291-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Best Buy"
+}

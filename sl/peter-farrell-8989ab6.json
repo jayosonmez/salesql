@@ -1,0 +1,29 @@
+{
+  "uuid": "d1b73f10-f5ff-41f1-88d0-019f98e70e7f",
+  "first_name": "Peter",
+  "last_name": "Farrell",
+  "full_name": "Peter Farrell",
+  "linkedin_url": "https://linkedin.com/in/peter-farrell-8989ab6",
+  "emails": [
+    {
+      "email": "peterf@resmed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-335-8077",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 858-746-2400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Resmed"
+}

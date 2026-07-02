@@ -1,0 +1,23 @@
+{
+  "uuid": "1da120ea-f11d-4972-b732-6c3e6557db0d",
+  "first_name": "Erica",
+  "last_name": "Lynne",
+  "full_name": "Erica Lynne",
+  "linkedin_url": "https://linkedin.com/in/erica-at-vipecloud",
+  "emails": [
+    {
+      "email": "erica@vipecloud.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-308-8473",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VipeCloud"
+}

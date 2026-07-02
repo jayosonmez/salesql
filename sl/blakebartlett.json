@@ -1,0 +1,33 @@
+{
+  "uuid": "bf301471-8bd7-4019-98b4-2e20c810a18d",
+  "first_name": "Blake",
+  "last_name": "Bartlett",
+  "full_name": "Blake Bartlett",
+  "linkedin_url": "https://linkedin.com/in/blakebartlett",
+  "emails": [
+    {
+      "email": "blake@battery.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "blake@youtube.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bbartlett@zipwhip.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-253-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Zipwhip"
+}

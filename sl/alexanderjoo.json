@@ -1,0 +1,31 @@
+{
+  "uuid": "14233fcb-0787-49c9-892d-66924f52c3a4",
+  "first_name": "Alexander",
+  "last_name": "Joo",
+  "full_name": "Alexander Joo",
+  "linkedin_url": "https://linkedin.com/in/alexanderjoo",
+  "emails": [
+    {
+      "email": "alexanderjoo@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ajoo@trusaic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexander.joo@cadillacfairview.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexanderj@nowtoronto.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Alexander Joo Creative"
+}

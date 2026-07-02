@@ -1,0 +1,21 @@
+{
+  "uuid": "ac32cc2f-6786-46f4-be23-cbc8affd8ce7",
+  "first_name": "Breno",
+  "last_name": "Gomes",
+  "full_name": "Breno Gomes",
+  "linkedin_url": "https://linkedin.com/in/breno-gomes-a7792433",
+  "emails": [
+    {
+      "email": "breno@atentia.com.br",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "breno.gomes@jobconvo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "FHE Ventures "
+}

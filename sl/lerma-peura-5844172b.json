@@ -1,0 +1,28 @@
+{
+  "uuid": "a05c2e5f-b350-4e7d-8596-983b044bc14b",
+  "first_name": "Lerma",
+  "last_name": "Peura",
+  "full_name": "Lerma Peura",
+  "linkedin_url": "https://linkedin.com/in/lerma-peura-5844172b",
+  "emails": [
+    {
+      "email": "lerma.peura@thermofisher.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "elixah@netzero.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-622-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Thermo Fisher Scientific"
+}

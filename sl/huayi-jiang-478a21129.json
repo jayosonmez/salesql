@@ -1,0 +1,23 @@
+{
+  "uuid": "21e5a81c-228a-44bc-af10-5b0773b33ecc",
+  "first_name": "Huayi",
+  "last_name": "Jiang",
+  "full_name": "Huayi Jiang",
+  "linkedin_url": "https://linkedin.com/in/huayi-jiang-478a21129",
+  "emails": [
+    {
+      "email": "hjiang@uw.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-543-2100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Washington Department of Biochemistry"
+}

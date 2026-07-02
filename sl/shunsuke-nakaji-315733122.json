@@ -1,0 +1,31 @@
+{
+  "uuid": "a646da1e-c01a-4480-9380-c282d0be5c3f",
+  "first_name": "Shunsuke",
+  "last_name": "Nakaji",
+  "full_name": "Shunsuke Nakaji",
+  "linkedin_url": "https://linkedin.com/in/shunsuke-nakaji-315733122",
+  "emails": [
+    {
+      "email": "shunsuke.nakaji@dinii.jp",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nakaji@anri.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shunsuke@kyuzan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shunsuken@ambr.co.jp",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ANRI"
+}

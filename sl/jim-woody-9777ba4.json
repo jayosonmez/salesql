@@ -1,0 +1,16 @@
+{
+  "uuid": "7392b5f8-2b0c-41c7-abe6-fd80a2480e2e",
+  "first_name": "Jim",
+  "last_name": "Woody",
+  "full_name": "Jim Woody",
+  "linkedin_url": "https://linkedin.com/in/jim-woody-9777ba4",
+  "emails": [
+    {
+      "email": "jrw11@columbia.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Trinity Healthcare, LLC"
+}

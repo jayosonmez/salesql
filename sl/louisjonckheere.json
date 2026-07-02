@@ -1,0 +1,36 @@
+{
+  "uuid": "6b6479a7-1b8a-4cc3-b290-23b3db3a66bf",
+  "first_name": "Louis",
+  "last_name": "Jonckheere",
+  "full_name": "Louis Jonckheere",
+  "linkedin_url": "https://linkedin.com/in/louisjonckheere",
+  "emails": [
+    {
+      "email": "louis.jonckheere@wintercircus.gent",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "l.jonckheere@vlerick.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "louisjonckheere@inthepocket.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jl@hbs.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "louisjonckheere@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Aikido Security"
+}

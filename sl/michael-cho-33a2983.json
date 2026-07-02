@@ -1,0 +1,29 @@
+{
+  "uuid": "8a728108-d15e-4dcf-9edc-8275aa35ae6c",
+  "first_name": "Michael",
+  "last_name": "Cho",
+  "full_name": "Michael Cho",
+  "linkedin_url": "https://linkedin.com/in/michael-cho-33a2983",
+  "emails": [
+    {
+      "email": "michaelcho@mymedicarebot.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-459-6750",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 866-636-8486",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MyMedicareBot"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "c322cf0a-445e-4300-9dd6-d687383fba4a",
+  "first_name": "Robert",
+  "last_name": "Taub",
+  "full_name": "Robert Taub",
+  "linkedin_url": "https://linkedin.com/in/robert-taub-856bb15",
+  "emails": [
+    {
+      "email": "robert@nyxoah.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "robert@taub.be",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robert.taub@ayagoldsilver.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "MAN & SCIENCE"
+}

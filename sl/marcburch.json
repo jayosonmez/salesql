@@ -1,0 +1,23 @@
+{
+  "uuid": "a3cbc30f-c66f-45c6-935b-d52330550e14",
+  "first_name": "Marc",
+  "last_name": "Burch",
+  "full_name": "Marc Burch",
+  "linkedin_url": "https://linkedin.com/in/marcburch",
+  "emails": [
+    {
+      "email": "marcrb@attglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-232-7599",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Collaborativ AI"
+}

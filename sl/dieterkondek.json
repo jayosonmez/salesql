@@ -1,0 +1,81 @@
+{
+  "uuid": "9483961d-c45e-4732-b65c-949c26f6d981",
+  "first_name": "Dieter",
+  "last_name": "Kondek",
+  "full_name": "Dieter Kondek",
+  "linkedin_url": "https://linkedin.com/in/dieterkondek",
+  "emails": [
+    {
+      "email": "dieter@mergingminds.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dkfl@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dieter@dkflcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dieter@tavp.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dkondek@blockspaces.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dieter@therocketlounge.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dieter@gbv.fund",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dieter.kondek@eduportle.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dkondek@moonlight-inc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dieter.kondek@tacp.capital",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dieter@afoa.club",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dieter.kondek@realizer.ag",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dieter@gatsbyusa.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dieter@transatlantic-bridge.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "K4 Group"
+}

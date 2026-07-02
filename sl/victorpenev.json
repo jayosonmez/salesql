@@ -1,0 +1,23 @@
+{
+  "uuid": "1cb67a80-7eb2-418e-8306-9dedf2bfca18",
+  "first_name": "Victor",
+  "last_name": "Penev",
+  "full_name": "Victor Penev",
+  "linkedin_url": "https://linkedin.com/in/victorpenev",
+  "emails": [
+    {
+      "email": "victor@edamam.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-378-8317",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Edamam"
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "email": "anilkaya2591@gmail.com",
+    "linkedin_profile": "https://linkedin.com/in/anilkaya25",
+    "email_type": "Direct",
+    "quality": "good",
+    "result": "ok",
+    "free": true,
+    "role": false
+  },
+  {
+    "email": "deepbarot@gmail.com",
+    "linkedin_profile": "https://linkedin.com/in/deep-barot-a3225729",
+    "email_type": "Direct",
+    "quality": "bad",
+    "result": "invalid",
+    "free": true,
+    "role": false
+  },
+  {
+    "email": "dieter@mergingminds.io",
+    "linkedin_profile": "https://linkedin.com/in/dieterkondek",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "dkfl@mac.com",
+    "linkedin_profile": "https://linkedin.com/in/dieterkondek",
+    "email_type": "Direct",
+    "quality": "risky",
+    "result": "unknown",
+    "free": true,
+    "role": false
+  },
+  {
+    "email": "dieter@dkflcapital.com",
+    "linkedin_profile": "https://linkedin.com/in/dieterkondek",
+    "email_type": "Work",
+    "quality": "good",
+    "result": "ok",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "dieter@tavp.vc",
+    "linkedin_profile": "https://linkedin.com/in/dieterkondek",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "dkondek@blockspaces.com",
+    "linkedin_profile": "https://linkedin.com/in/dieterkondek",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "dieter@therocketlounge.com",
+    "linkedin_profile": "https://linkedin.com/in/dieterkondek",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "dieter@gbv.fund",
+    "linkedin_profile": "https://linkedin.com/in/dieterkondek",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "dieter.kondek@eduportle.com",
+    "linkedin_profile": "https://linkedin.com/in/dieterkondek",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "dkondek@moonlight-inc.com",
+    "linkedin_profile": "https://linkedin.com/in/dieterkondek",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "dieter.kondek@tacp.capital",
+    "linkedin_profile": "https://linkedin.com/in/dieterkondek",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "eric@pediatricsinpajamas.com",
+    "linkedin_profile": "https://linkedin.com/in/ericscheier",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "glenn.johnson@tyndall.af.mil",
+    "linkedin_profile": "https://linkedin.com/in/glenn-johnson-b85b844",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "gwesner@receptorlife.com",
+    "linkedin_profile": "https://linkedin.com/in/gregory-wesner-20aa263",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "egario@cruzio.com",
+    "linkedin_profile": "https://linkedin.com/in/john-egar-42a71540",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "ken@joyflips.com",
+    "linkedin_profile": "https://linkedin.com/in/ken-leonard-55879811",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "laura@hackersandfounders.com",
+    "linkedin_profile": "https://linkedin.com/in/laura-nelson-hf",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "docg@nouvelleweightlosssystems.com",
+    "linkedin_profile": "https://linkedin.com/in/les-griffith-20294642",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "lisa.hasty@acrm.com",
+    "linkedin_profile": "https://linkedin.com/in/lisa-hasty-17b46643",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "mitenmehta@msn.com",
+    "linkedin_profile": "https://linkedin.com/in/mitenmehta",
+    "email_type": "Direct",
+    "quality": "good",
+    "result": "ok",
+    "free": true,
+    "role": false
+  },
+  {
+    "email": "info@riobeintegrativemedicine.com",
+    "linkedin_profile": "https://linkedin.com/in/mylaine-riobe",
+    "email_type": "Work",
+    "quality": "good",
+    "result": "ok",
+    "free": false,
+    "role": true
+  },
+  {
+    "email": "sharahernandez@mergenetsolutions.com",
+    "linkedin_profile": "https://linkedin.com/in/shara-hernandez-35849b13",
+    "email_type": "Work",
+    "quality": "risky",
+    "result": "catch_all",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "terry@tescoplc.com",
+    "linkedin_profile": "https://linkedin.com/in/terry-leahy-954429a5",
+    "email_type": "Work",
+    "quality": "bad",
+    "result": "invalid",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "wayne@waynechang.com",
+    "linkedin_profile": "https://linkedin.com/in/waynechang",
+    "email_type": "Work",
+    "quality": "good",
+    "result": "ok",
+    "free": false,
+    "role": false
+  },
+  {
+    "email": "waynechang@crashlytics.com",
+    "linkedin_profile": "https://linkedin.com/in/waynechang",
+    "email_type": "Work",
+    "quality": "good",
+    "result": "ok",
+    "free": false,
+    "role": false
+  }
+]

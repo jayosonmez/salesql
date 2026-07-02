@@ -1,0 +1,41 @@
+{
+  "uuid": "df5ce8b9-0137-4f0b-9a46-af3d31fdb92e",
+  "first_name": "Gary",
+  "last_name": "Gershony",
+  "full_name": "Gary Gershony",
+  "linkedin_url": "https://linkedin.com/in/garygershony",
+  "emails": [
+    {
+      "email": "gary.gershony@appendmedical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "garyg@trisol-medical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gary@atacor.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ggershony@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "gary-g@valfixmed.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "g_gershony@deepbluemedical.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "BayMed Venture Partners "
+}

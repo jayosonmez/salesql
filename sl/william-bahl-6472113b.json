@@ -1,0 +1,33 @@
+{
+  "uuid": "177cb812-cae9-4338-9ff8-a31e10840a8d",
+  "first_name": "William",
+  "last_name": "Bahl",
+  "full_name": "William Bahl",
+  "linkedin_url": "https://linkedin.com/in/william-bahl-6472113b",
+  "emails": [
+    {
+      "email": "mbahl70@att.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "william@industrialspring.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wbahl@fandp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 706-291-7550",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "F & P America"
+}

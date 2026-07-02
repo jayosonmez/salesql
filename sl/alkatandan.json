@@ -1,0 +1,21 @@
+{
+  "uuid": "169a6cae-1fee-464e-92a4-8efd21f350d8",
+  "first_name": "Alka",
+  "last_name": "Tandan",
+  "full_name": "Alka Tandan",
+  "linkedin_url": "https://linkedin.com/in/alkatandan",
+  "emails": [
+    {
+      "email": "alka@fsuite.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alka@operatorcollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The F Suite"
+}

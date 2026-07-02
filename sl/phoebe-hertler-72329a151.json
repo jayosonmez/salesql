@@ -1,0 +1,23 @@
+{
+  "uuid": "de48ce86-f2ed-4729-9810-1dc7b559d0dc",
+  "first_name": "Phoebe",
+  "last_name": "Hertler",
+  "full_name": "Phoebe Hertler",
+  "linkedin_url": "https://linkedin.com/in/phoebe-hertler-72329a151",
+  "emails": [
+    {
+      "email": "phertler@ucsb.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 805-893-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC Santa Barbara"
+}

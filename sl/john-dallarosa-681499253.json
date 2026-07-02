@@ -1,0 +1,16 @@
+{
+  "uuid": "3601a779-521e-4136-94e6-6ff7fe1f2c4b",
+  "first_name": "John",
+  "last_name": "DallaRosa",
+  "full_name": "John DallaRosa",
+  "linkedin_url": "https://linkedin.com/in/john-dallarosa-681499253",
+  "emails": [
+    {
+      "email": "jdallarosa@guden.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Company"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "23748ccf-c625-48a7-a799-5bd807565239",
+  "first_name": "Jihyun",
+  "last_name": "Hwang",
+  "full_name": "Jihyun Hwang",
+  "linkedin_url": "https://linkedin.com/in/jihyun-hwang-68a12491",
+  "emails": [
+    {
+      "email": "jhwang@brenau.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-252-5119",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Brenau University"
+}

@@ -1,0 +1,58 @@
+{
+  "uuid": "39810d88-5fef-467b-9e11-e285ae557cf1",
+  "first_name": "Kyle",
+  "last_name": "Duffy",
+  "full_name": "Kyle Duffy",
+  "linkedin_url": "https://linkedin.com/in/kylerduffy",
+  "emails": [
+    {
+      "email": "kyle.duffy@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kyleduffy@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kduffy@unitq.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kyle.duffy@vaultplatform.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kduffy@dyndrite.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kyle@useanvil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kyle@charm.sh",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kyle@gradient.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-912-9637",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Gradient"
+}

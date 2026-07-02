@@ -1,0 +1,16 @@
+{
+  "uuid": "cc7f4898-b456-4a3e-a242-048b6adfc650",
+  "first_name": "Audrey",
+  "last_name": "MacLean",
+  "full_name": "Audrey MacLean",
+  "linkedin_url": "https://linkedin.com/in/audrey-maclean-ab95ab",
+  "emails": [
+    {
+      "email": "audreymaclean@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stanford Univ. Sch.of Engr."
+}

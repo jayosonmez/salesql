@@ -1,0 +1,26 @@
+{
+  "uuid": "115ac031-b9c6-44de-a5ad-5d5c1182e331",
+  "first_name": "Amr",
+  "last_name": "Zoul, Ph.D.",
+  "full_name": "Amr Zoul, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/alzoul",
+  "emails": [
+    {
+      "email": "amr.zoul@swanimpact.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amr@ni.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "al.zoul@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ZOUL LABS"
+}

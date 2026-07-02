@@ -1,0 +1,34 @@
+{
+  "uuid": "add25eb2-22ce-4360-ae7e-b27faf04df29",
+  "first_name": "Henry",
+  "last_name": "Swieca",
+  "full_name": "Henry Swieca",
+  "linkedin_url": "https://linkedin.com/in/henryswieca",
+  "emails": [
+    {
+      "email": "mrhenryswieca@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "henry.swieca@highbridge.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-735-5260",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 212-287-4900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Highbridge Capital Management"
+}

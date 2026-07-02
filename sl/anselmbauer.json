@@ -1,0 +1,33 @@
+{
+  "uuid": "42516975-08e7-47e1-b190-0cf1878bb71f",
+  "first_name": "Anselm",
+  "last_name": "Bauer-Wohlleb",
+  "full_name": "Anselm Bauer-Wohlleb",
+  "linkedin_url": "https://linkedin.com/in/anselmbauer",
+  "emails": [
+    {
+      "email": "anselm.bauer@alasco.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anselm.bauer@stylight.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anselm.bauer-wohlleb@personio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 89 248867750",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Alasco"
+}

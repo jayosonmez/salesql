@@ -1,0 +1,38 @@
+{
+  "uuid": "0513d45c-cf9d-4586-af4a-38f8c7ec3c88",
+  "first_name": "André J.",
+  "last_name": "Mota",
+  "full_name": "André J. Mota",
+  "linkedin_url": "https://linkedin.com/in/andrejmota",
+  "emails": [
+    {
+      "email": "amota@406ventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrejmota1@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "andrem@upenn.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "andre.mota@carebridgehealth.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 615-679-9087",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CareBridge"
+}

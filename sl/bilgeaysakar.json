@@ -1,0 +1,22 @@
+{
+  "uuid": "427b38fd-2deb-455c-a304-b918ad724e72",
+  "first_name": "Bilge",
+  "last_name": "Aysakar",
+  "full_name": "Bilge Aysakar",
+  "linkedin_url": "https://linkedin.com/in/bilgeaysakar",
+  "emails": [
+    {
+      "email": "bilge.aysakar@adeccogroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+41 44 878 88 88",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Adecco Group"
+}

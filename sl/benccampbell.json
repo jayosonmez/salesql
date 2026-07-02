@@ -1,0 +1,28 @@
+{
+  "uuid": "b51357ae-c0ca-4895-ac73-5da95ac36a92",
+  "first_name": "Ben",
+  "last_name": "Campbell",
+  "full_name": "Ben Campbell",
+  "linkedin_url": "https://linkedin.com/in/benccampbell",
+  "emails": [
+    {
+      "email": "ness2616@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bcampbell@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-534-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC San Diego"
+}

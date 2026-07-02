@@ -1,0 +1,16 @@
+{
+  "uuid": "61f57b5a-bce2-4447-9fbe-3642894da7d4",
+  "first_name": "Joe",
+  "last_name": "Proto",
+  "full_name": "Joe Proto",
+  "linkedin_url": "https://linkedin.com/in/joproto",
+  "emails": [
+    {
+      "email": "jproto@transactis.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Green Check; Finexio; Identifee; LendKey; Photon Commerce; Google Cloud EAB"
+}

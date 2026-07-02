@@ -1,0 +1,16 @@
+{
+  "uuid": "bbc3b084-96fe-4605-8916-df966d50ad7b",
+  "first_name": "Chris",
+  "last_name": "Dewar",
+  "full_name": "Chris Dewar",
+  "linkedin_url": "https://linkedin.com/in/chris-dewar-012b47",
+  "emails": [
+    {
+      "email": "chris.dewar@alumni.vanderbilt.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

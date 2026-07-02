@@ -1,0 +1,23 @@
+{
+  "uuid": "f5c63498-98e0-42d4-ba18-b01da834dbf2",
+  "first_name": "Jonathan",
+  "last_name": "Dahan",
+  "full_name": "Jonathan Dahan",
+  "linkedin_url": "https://linkedin.com/in/jonathan1dahan",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+33 6 34 69 07 32",
+      "type": "Personal",
+      "country_code": "FR",
+      "is_valid": true
+    },
+    {
+      "phone": "+44 7725 562178",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The AI Journal"
+}

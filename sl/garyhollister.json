@@ -1,0 +1,16 @@
+{
+  "uuid": "8bff0fb8-ebe4-4757-95eb-521193618f56",
+  "first_name": "Gary",
+  "last_name": "Hollister",
+  "full_name": "Gary Hollister",
+  "linkedin_url": "https://linkedin.com/in/garyhollister",
+  "emails": [
+    {
+      "email": "garyhollister@ymail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Xango"
+}

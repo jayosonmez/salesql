@@ -1,0 +1,17 @@
+{
+  "uuid": "736dcfd2-1e19-4c0f-9b41-b859aed9b67d",
+  "first_name": "Kathryn",
+  "last_name": "Arendt",
+  "full_name": "Kathryn Arendt",
+  "linkedin_url": "https://linkedin.com/in/kathryn-arendt-749096167",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 425-454-8016",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Washington Urology & Urogynecology Associates, PLLC & NW Institute for Healthy Sexuality"
+}

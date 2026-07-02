@@ -1,0 +1,21 @@
+{
+  "uuid": "d146cbe2-2b19-45be-a010-619247e5a469",
+  "first_name": "Adam",
+  "last_name": "Pearsall",
+  "full_name": "Adam Pearsall",
+  "linkedin_url": "https://linkedin.com/in/pearsalladam",
+  "emails": [
+    {
+      "email": "pearsall@bsbox.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "apearsall@implistic.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Implistic Capital"
+}

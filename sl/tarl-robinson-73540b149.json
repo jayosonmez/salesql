@@ -1,0 +1,23 @@
+{
+  "uuid": "55cc7300-ebab-4c19-a000-58a937e1afc4",
+  "first_name": "Tarl",
+  "last_name": "Robinson",
+  "full_name": "Tarl Robinson",
+  "linkedin_url": "https://linkedin.com/in/tarl-robinson-73540b149",
+  "emails": [
+    {
+      "email": "tarl.robinson@plexusworldwide.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 480-998-3490",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Plexus Worldwide"
+}

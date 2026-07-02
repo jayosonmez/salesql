@@ -1,0 +1,17 @@
+{
+  "uuid": "cb81b03e-b2da-454f-a80c-996fc0b880a1",
+  "first_name": "Christine",
+  "last_name": "Hsu",
+  "full_name": "Christine Hsu",
+  "linkedin_url": "https://linkedin.com/in/christinehsu1222",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 858-534-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC San Diego"
+}

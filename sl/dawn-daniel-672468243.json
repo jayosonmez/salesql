@@ -1,0 +1,16 @@
+{
+  "uuid": "be7ef970-6218-4475-832e-968e331db97e",
+  "first_name": "Dawn",
+  "last_name": "Daniel",
+  "full_name": "Dawn Daniel",
+  "linkedin_url": "https://linkedin.com/in/dawn-daniel-672468243",
+  "emails": [
+    {
+      "email": "dawn@mdverse.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "MDVerse"
+}

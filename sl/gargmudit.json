@@ -1,0 +1,43 @@
+{
+  "uuid": "12dbbaaa-3ec7-401c-b97d-3bef14cfe108",
+  "first_name": "Mudit",
+  "last_name": "Garg",
+  "full_name": "Mudit Garg",
+  "linkedin_url": "https://linkedin.com/in/gargmudit",
+  "emails": [
+    {
+      "email": "mgarg@qventus.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "muditgarg@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mudit@analyticsmd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mudit.garg@citadel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mudit_garg@mckinsey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-386-0312",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Qventus, Inc"
+}

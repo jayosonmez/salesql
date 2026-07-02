@@ -1,0 +1,21 @@
+{
+  "uuid": "dcca509d-70ad-4d80-b156-237e05a17412",
+  "first_name": "Eric",
+  "last_name": "Uhrhane",
+  "full_name": "Eric Uhrhane",
+  "linkedin_url": "https://linkedin.com/in/eric-uhrhane",
+  "emails": [
+    {
+      "email": "eric.uhrhane@elemenohealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eric_uhrhane@broadcom.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Fillmore Trust"
+}

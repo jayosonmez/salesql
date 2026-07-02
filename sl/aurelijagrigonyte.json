@@ -1,0 +1,17 @@
+{
+  "uuid": "499a9e7f-1cdb-45a2-877e-3125fce20b96",
+  "first_name": "Aurelija",
+  "last_name": "Grigonyte",
+  "full_name": "Aurelija Grigonyte",
+  "linkedin_url": "https://linkedin.com/in/aurelijagrigonyte",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 877-422-5362",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ginkgo Bioworks"
+}

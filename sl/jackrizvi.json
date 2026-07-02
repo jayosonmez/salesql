@@ -1,0 +1,36 @@
+{
+  "uuid": "72f53222-a551-4860-9cd2-33892f88fd96",
+  "first_name": "Raza Jack",
+  "last_name": "Rizvi",
+  "full_name": "Raza Jack Rizvi",
+  "linkedin_url": "https://linkedin.com/in/jackrizvi",
+  "emails": [
+    {
+      "email": "raza.rizvi@rocket-internet.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "raza.rizvi@spenmo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "raza.rizvi@hometogo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "raza@lakestar.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jack@riz.vi",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stealth"
+}

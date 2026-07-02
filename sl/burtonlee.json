@@ -1,0 +1,21 @@
+{
+  "uuid": "172d08dc-3115-4beb-a0a6-73139ac58e63",
+  "first_name": "Burton",
+  "last_name": "Lee Ph.D.",
+  "full_name": "Burton Lee Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/burtonlee",
+  "emails": [
+    {
+      "email": "burton.lee@innovarium.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "burtonlee@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Career Break"
+}

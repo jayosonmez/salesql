@@ -1,0 +1,23 @@
+{
+  "uuid": "c23d2aae-bdf9-4efa-8504-02fa5452ac31",
+  "first_name": "Dr. DJ",
+  "last_name": "Polzin",
+  "full_name": "Dr. DJ Polzin",
+  "linkedin_url": "https://linkedin.com/in/dr-dj-polzin-8a965242",
+  "emails": [
+    {
+      "email": "polzi007@uwp.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 844-620-6317",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Praxis Health"
+}

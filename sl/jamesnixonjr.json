@@ -1,0 +1,54 @@
+{
+  "uuid": "e38c8862-51f3-4b80-9e4c-5aedaabea56c",
+  "first_name": "James",
+  "last_name": "Nixon, MBA",
+  "full_name": "James Nixon, MBA",
+  "linkedin_url": "https://linkedin.com/in/jamesnixonjr",
+  "emails": [
+    {
+      "email": "jamesnixonjr@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jmnixonjr@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "james@officedepot.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james.nixon@citizensbank.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james.nixon@jnj.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james.nixon@hilton.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 240-550-0110",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 401-456-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Citizens"
+}

@@ -1,0 +1,48 @@
+{
+  "uuid": "6c344399-7ba9-418c-a78c-ed709a1621d1",
+  "first_name": "Thomas",
+  "last_name": "Ryge Mikkelsen",
+  "full_name": "Thomas Ryge Mikkelsen",
+  "linkedin_url": "https://linkedin.com/in/thomas-ryge-mikkelsen-831987",
+  "emails": [
+    {
+      "email": "thomasr@wearandcare.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "thomas@sonofatailor.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "th.ryge@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "thomas@pandora.dk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "thomas@r8dio.dk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "thomas@noie.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+45 26 32 64 16",
+      "type": "Personal",
+      "country_code": "DK",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Joso Invest"
+}

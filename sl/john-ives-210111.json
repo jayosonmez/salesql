@@ -1,0 +1,31 @@
+{
+  "uuid": "68b0b474-69c4-4832-bac6-c5cde06fa1c5",
+  "first_name": "John",
+  "last_name": "Ives",
+  "full_name": "John Ives",
+  "linkedin_url": "https://linkedin.com/in/john-ives-210111",
+  "emails": [
+    {
+      "email": "john.ives@me.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john@companysix.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "john.ives@automox.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john.ives@ironcorelabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Tahoma Ventures I Continuity Fund"
+}

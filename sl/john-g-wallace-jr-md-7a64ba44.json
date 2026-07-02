@@ -1,0 +1,33 @@
+{
+  "uuid": "bfdf7ebf-26c6-47cd-a702-ae947fa450c7",
+  "first_name": "John G.",
+  "last_name": "Wallace, Jr. MD",
+  "full_name": "John G. Wallace, Jr. MD",
+  "linkedin_url": "https://linkedin.com/in/john-g-wallace-jr-md-7a64ba44",
+  "emails": [
+    {
+      "email": "john.wallace@providence.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john.wallace@teladochealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wallyjohn.md@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 907-835-2249",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Providence"
+}

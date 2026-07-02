@@ -1,0 +1,46 @@
+{
+  "uuid": "e0928e70-5ba9-4174-9979-16a0591003ee",
+  "first_name": "Avi (Abraham)",
+  "last_name": "Rosenbaum, Ph.D.",
+  "full_name": "Avi (Abraham) Rosenbaum, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/abraham-rosenbaum",
+  "emails": [
+    {
+      "email": "avi@advisors.bio",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rosenbaum4@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "abrahamphd@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "avi@envoyabio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "avi@aclid.bio",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "avi@novoslabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ar@starlight.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Cornucopian Capital"
+}

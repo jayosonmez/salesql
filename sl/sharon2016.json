@@ -1,0 +1,38 @@
+{
+  "uuid": "bfd7b6f9-7f6f-40d5-9484-6e094c41e0af",
+  "first_name": "Sharon",
+  "last_name": "Kan",
+  "full_name": "Sharon Kan",
+  "linkedin_url": "https://linkedin.com/in/sharon2016",
+  "emails": [
+    {
+      "email": "sharon.kan@yale.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sharon.kan@tikatok.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sharon@pepperlane.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sharon.kan@att.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 203-432-4771",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Yale University"
+}

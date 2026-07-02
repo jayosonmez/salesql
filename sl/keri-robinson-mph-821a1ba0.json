@@ -1,0 +1,23 @@
+{
+  "uuid": "69ec1a7e-46bf-46fa-bda3-a479decd17ea",
+  "first_name": "Keri",
+  "last_name": "Robinson, MPH",
+  "full_name": "Keri Robinson, MPH",
+  "linkedin_url": "https://linkedin.com/in/keri-robinson-mph-821a1ba0",
+  "emails": [
+    {
+      "email": "krobinson@cdc.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 718-392-0033",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Centers for Disease Control and Prevention"
+}

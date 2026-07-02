@@ -1,0 +1,21 @@
+{
+  "uuid": "9537f3b9-efba-4dca-ac26-8eed102df518",
+  "first_name": "Richard",
+  "last_name": "Blau, M.D., F.A.C.R.",
+  "full_name": "Richard Blau, M.D., F.A.C.R.",
+  "linkedin_url": "https://linkedin.com/in/richardblau",
+  "emails": [
+    {
+      "email": "rblau@arthritisinstitute.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rblau@northwell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Arthritis Institute of Long Island"
+}

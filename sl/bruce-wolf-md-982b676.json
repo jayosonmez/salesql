@@ -1,0 +1,16 @@
+{
+  "uuid": "727de993-72e9-4bf9-9c54-dadbe43ccf56",
+  "first_name": "Bruce",
+  "last_name": "Wolf, MD",
+  "full_name": "Bruce Wolf, MD",
+  "linkedin_url": "https://linkedin.com/in/bruce-wolf-md-982b676",
+  "emails": [
+    {
+      "email": "wolfatthelair@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "allergy and asthma specialists"
+}

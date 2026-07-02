@@ -1,0 +1,29 @@
+{
+  "uuid": "a1b42fed-ea45-43aa-985c-45918293db01",
+  "first_name": "Sidney",
+  "last_name": "Locke",
+  "full_name": "Sidney Locke",
+  "linkedin_url": "https://linkedin.com/in/sidney-locke-6784a11",
+  "emails": [
+    {
+      "email": "sslocke@bellsouth.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 864-630-8999",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 248-355-9055",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sage Automotive Interiors"
+}

@@ -1,0 +1,36 @@
+{
+  "uuid": "72cd4301-1fd6-408c-91c9-92df92b58772",
+  "first_name": "Yusuke",
+  "last_name": "Miyazaki",
+  "full_name": "Yusuke Miyazaki",
+  "linkedin_url": "https://linkedin.com/in/yusukemiyazaki",
+  "emails": [
+    {
+      "email": "yusuke.miyazaki@xforestx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "miyazaki@anri.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ymiyazaki@cosomil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yusuke@universal-brain.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yusuke@typewritertx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ANRI"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "67162c3f-84da-43c3-a949-186b2c580720",
+  "first_name": "Naz Deniz",
+  "last_name": "Yıldırım",
+  "full_name": "Naz Deniz Yıldırım",
+  "linkedin_url": "https://linkedin.com/in/naz-deniz-yıldırım-527b0016b",
+  "emails": [
+    {
+      "email": "nazdenizyildirim@michaelpage.com.tr",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "naz.yildirim@rollicgames.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Rollic"
+}

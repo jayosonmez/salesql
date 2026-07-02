@@ -1,0 +1,16 @@
+{
+  "uuid": "63742e25-b917-478e-b3c3-f64a0b32cc34",
+  "first_name": "Nick",
+  "last_name": "Boyle",
+  "full_name": "Nick Boyle",
+  "linkedin_url": "https://linkedin.com/in/nick-boyle-a2b7a589",
+  "emails": [
+    {
+      "email": "nick.boyle@lightsource-re.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "NTB Group"
+}

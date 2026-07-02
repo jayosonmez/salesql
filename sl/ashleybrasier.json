@@ -1,0 +1,53 @@
+{
+  "uuid": "b41c50fc-4f45-425b-a3cd-1213d2c43ec7",
+  "first_name": "Ashley",
+  "last_name": "Brasier",
+  "full_name": "Ashley Brasier",
+  "linkedin_url": "https://linkedin.com/in/ashleybrasier",
+  "emails": [
+    {
+      "email": "ashley.brasier@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "abrasier@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ashley.brasier@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ashley.brasier@faire.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ashley@thumbtack.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ashley.brasier@bain.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ashley@lsvp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 405-850-6134",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Faire"
+}

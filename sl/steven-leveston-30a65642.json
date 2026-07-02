@@ -1,0 +1,16 @@
+{
+  "uuid": "89dd41b9-c7cd-46ff-8824-fe7ac10b71e3",
+  "first_name": "Steven",
+  "last_name": "Leveston",
+  "full_name": "Steven Leveston",
+  "linkedin_url": "https://linkedin.com/in/steven-leveston-30a65642",
+  "emails": [
+    {
+      "email": "steven.leveston@cox.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Independant"
+}

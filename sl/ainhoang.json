@@ -1,0 +1,28 @@
+{
+  "uuid": "92586f98-1de1-42dc-a619-ae2312c8a7fe",
+  "first_name": "Ainhoa",
+  "last_name": "Nieto Gutiérrez",
+  "full_name": "Ainhoa Nieto Gutiérrez",
+  "linkedin_url": "https://linkedin.com/in/ainhoang",
+  "emails": [
+    {
+      "email": "ainhoa.nieto@pfizer.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 561-506-4097",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+44 333 555 2526",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pfizer"
+}

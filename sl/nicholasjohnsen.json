@@ -1,0 +1,21 @@
+{
+  "uuid": "e47316b1-9979-4581-8a20-ee84db4819fd",
+  "first_name": "Nicholas",
+  "last_name": "Johnsen",
+  "full_name": "Nicholas Johnsen",
+  "linkedin_url": "https://linkedin.com/in/nicholasjohnsen",
+  "emails": [
+    {
+      "email": "njohnsen@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nicholas@amdilabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Autonomous Medical Devices Incorporated"
+}

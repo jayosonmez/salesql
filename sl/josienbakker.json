@@ -1,0 +1,43 @@
+{
+  "uuid": "f0161dc4-8efd-4feb-93a5-a7c6a1cbf342",
+  "first_name": "Josien",
+  "last_name": "Bakker",
+  "full_name": "Josien Bakker",
+  "linkedin_url": "https://linkedin.com/in/josienbakker",
+  "emails": [
+    {
+      "email": "josienbakker@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "josien@aqua-spark.nl",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bakkerj@aceaquatec.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "josien@swedishalgaefactory.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "josien@sea6energy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+31 30 820 0369",
+      "type": "Work",
+      "country_code": "NL",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Aqua-Spark"
+}

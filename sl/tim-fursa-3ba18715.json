@@ -1,0 +1,16 @@
+{
+  "uuid": "f1e379c4-bf27-43d6-9610-78cd11bd1f68",
+  "first_name": "Tim",
+  "last_name": "Fursa",
+  "full_name": "Tim Fursa",
+  "linkedin_url": "https://linkedin.com/in/tim-fursa-3ba18715",
+  "emails": [
+    {
+      "email": "browncowprop@att.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "TLF Investment Group"
+}

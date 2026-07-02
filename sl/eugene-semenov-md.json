@@ -1,0 +1,33 @@
+{
+  "uuid": "0a735e5c-e9fe-4a3e-9e71-199ac47e1351",
+  "first_name": "Yevgeniy",
+  "last_name": "Semenov, M.D., M.A.",
+  "full_name": "Yevgeniy Semenov, M.D., M.A.",
+  "linkedin_url": "https://linkedin.com/in/eugene-semenov-md",
+  "emails": [
+    {
+      "email": "ysemeno1@johnshopkins.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yevgeniy_semenov@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yevgeniy.semenov@massgeneral.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-524-1718",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard Medical School"
+}

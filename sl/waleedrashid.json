@@ -1,0 +1,36 @@
+{
+  "uuid": "59219850-55ba-4838-a8ec-8b39940a0bf4",
+  "first_name": "Waleed",
+  "last_name": "Rashid, MBA",
+  "full_name": "Waleed Rashid, MBA",
+  "linkedin_url": "https://linkedin.com/in/waleedrashid",
+  "emails": [
+    {
+      "email": "waleed.rashid@quanticmind.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "waleed@awrmining.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "waleed.rashid@acquia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "waleed.rashid@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "waleed@productpath.us",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ProductPath.us"
+}

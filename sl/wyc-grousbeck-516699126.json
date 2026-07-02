@@ -1,0 +1,23 @@
+{
+  "uuid": "135d77dd-5ded-4df8-a2fd-dc4c82b7667c",
+  "first_name": "Wyc",
+  "last_name": "Grousbeck",
+  "full_name": "Wyc Grousbeck",
+  "linkedin_url": "https://linkedin.com/in/wyc-grousbeck-516699126",
+  "emails": [
+    {
+      "email": "wgrousbeck@celtics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-854-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Boston Celtics"
+}

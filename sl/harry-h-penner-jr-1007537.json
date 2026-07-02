@@ -1,0 +1,36 @@
+{
+  "uuid": "46e3f6b1-9544-49a1-a3b4-9d362bc60fad",
+  "first_name": "Harry H.",
+  "last_name": "Penner, Jr.",
+  "full_name": "Harry H. Penner, Jr.",
+  "linkedin_url": "https://linkedin.com/in/harry-h-penner-jr-1007537",
+  "emails": [
+    {
+      "email": "hpenner@celldex.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hhhpenner@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "hpenner@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "hpenner@nascentbioscience.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hpenner@affinimark.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "WellCyte Innovations, Inc."
+}

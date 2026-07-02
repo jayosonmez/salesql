@@ -1,0 +1,23 @@
+{
+  "uuid": "b213d736-a39e-4325-9b3a-0af3cabad42b",
+  "first_name": "Rotem",
+  "last_name": "Amir",
+  "full_name": "Rotem Amir",
+  "linkedin_url": "https://linkedin.com/in/rotem-amir-a98b7a99",
+  "emails": [
+    {
+      "email": "ramir@mitral.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 954-302-8161",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Dr. Amir’s Weight Loss and Metabolism Center"
+}

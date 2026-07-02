@@ -1,0 +1,26 @@
+{
+  "uuid": "91014dc2-44aa-4099-a590-ffefce5ac12c",
+  "first_name": "Sami",
+  "last_name": "Tandogdu",
+  "full_name": "Sami Tandogdu",
+  "linkedin_url": "https://linkedin.com/in/samican-tandogdu",
+  "emails": [
+    {
+      "email": "sami@startx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sami.tandogdu@synnada.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sami@metu.edu.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Synnada"
+}

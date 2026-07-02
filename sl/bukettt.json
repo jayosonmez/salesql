@@ -1,0 +1,23 @@
+{
+  "uuid": "580867c4-2f9c-44de-9984-fcb52ac2e80e",
+  "first_name": "Buket",
+  "last_name": "Kula",
+  "full_name": "Buket Kula",
+  "linkedin_url": "https://linkedin.com/in/bukettt",
+  "emails": [
+    {
+      "email": "buket@talenthaus.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "02166065948",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Talenthaus"
+}

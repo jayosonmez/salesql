@@ -1,0 +1,23 @@
+{
+  "uuid": "36a9ed07-f8c4-4113-801e-9ce34d457510",
+  "first_name": "Tricia",
+  "last_name": "Conti",
+  "full_name": "Tricia Conti",
+  "linkedin_url": "https://linkedin.com/in/tricia-conti-331b15173",
+  "emails": [
+    {
+      "email": "tconti@ifyber.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 607-374-8868",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "iFyber"
+}

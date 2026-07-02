@@ -1,0 +1,23 @@
+{
+  "uuid": "fae94af4-cf3e-453a-869c-ca66baa9837d",
+  "first_name": "Tobias",
+  "last_name": "Lütke",
+  "full_name": "Tobias Lütke",
+  "linkedin_url": "https://linkedin.com/in/tobiaslutke",
+  "emails": [
+    {
+      "email": "tobias.lutke@shopify.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 613-241-2828",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Shopify"
+}

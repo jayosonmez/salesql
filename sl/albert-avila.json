@@ -1,0 +1,23 @@
+{
+  "uuid": "9cf8214a-a70b-43b2-a842-51751ab20aa3",
+  "first_name": "Albert",
+  "last_name": "A.",
+  "full_name": "Albert A.",
+  "linkedin_url": "https://linkedin.com/in/albert-avila",
+  "emails": [
+    {
+      "email": "info@absolutebioservice.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-421-6811",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Absolute BioService"
+}

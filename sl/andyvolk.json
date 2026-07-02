@@ -1,0 +1,31 @@
+{
+  "uuid": "cea4b1cd-be19-46f5-8dee-288581c70cd0",
+  "first_name": "Andy",
+  "last_name": "Volk",
+  "full_name": "Andy Volk",
+  "linkedin_url": "https://linkedin.com/in/andyvolk",
+  "emails": [
+    {
+      "email": "andy@microtraction.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andy@itana.africa",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andy@andyvolk.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "andy@angellist.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Andy[x]"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "af7f8d4a-0388-41f5-9341-cce379bb34ea",
+  "first_name": "Peter",
+  "last_name": "Rive",
+  "full_name": "Peter Rive",
+  "linkedin_url": "https://linkedin.com/in/peter-rive-8126421",
+  "emails": [
+    {
+      "email": "peter@everdreamcorp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "prive@solarcity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pr@everdream.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

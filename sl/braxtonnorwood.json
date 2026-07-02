@@ -1,0 +1,21 @@
+{
+  "uuid": "c7d54933-d275-4839-825c-22d622ab81d6",
+  "first_name": "Braxton",
+  "last_name": "Norwood PhD",
+  "full_name": "Braxton Norwood PhD",
+  "linkedin_url": "https://linkedin.com/in/braxtonnorwood",
+  "emails": [
+    {
+      "email": "braxton@lutrooimaging.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "braxton@renobclimbing.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lutroo Imaging"
+}

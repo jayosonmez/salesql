@@ -1,0 +1,33 @@
+{
+  "uuid": "3889c198-f315-4653-8beb-e5b0a7b99fb4",
+  "first_name": "Racquel",
+  "last_name": "Carranza, MD FACOG",
+  "full_name": "Racquel Carranza, MD FACOG",
+  "linkedin_url": "https://linkedin.com/in/rcarranzamd",
+  "emails": [
+    {
+      "email": "rcarranza@centene.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "racquel@openai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "racquel.carranza@tmcaz.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 314-725-4477",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Centene Corporation"
+}

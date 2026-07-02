@@ -1,0 +1,33 @@
+{
+  "uuid": "e038c6cc-0a8f-4a66-ac33-2c15f3601ade",
+  "first_name": "Sadasia",
+  "last_name": "McCutchen",
+  "full_name": "Sadasia McCutchen",
+  "linkedin_url": "https://linkedin.com/in/sadasia",
+  "emails": [
+    {
+      "email": "sadasia@blackambitionprize.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sadasia@signalfire.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sm3045@trevor.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-850-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SignalFire"
+}

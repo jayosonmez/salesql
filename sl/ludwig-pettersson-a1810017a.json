@@ -1,0 +1,21 @@
+{
+  "uuid": "31c34c8b-431d-4f8d-99df-b81999d4a678",
+  "first_name": "Ludwig",
+  "last_name": "Pettersson",
+  "full_name": "Ludwig Pettersson",
+  "linkedin_url": "https://linkedin.com/in/ludwig-pettersson-a1810017a",
+  "emails": [
+    {
+      "email": "ludwig@stripe.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ludwig@openai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Quill"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "d7111e27-f4bd-426d-91b5-b5185a7562c4",
+  "first_name": "Jason",
+  "last_name": "Clendenin",
+  "full_name": "Jason Clendenin",
+  "linkedin_url": "https://linkedin.com/in/jason-clendenin-b6886365",
+  "emails": [
+    {
+      "email": "jclendenin@nanomatronix.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 479-575-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Arkansas"
+}

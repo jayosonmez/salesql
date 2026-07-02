@@ -1,0 +1,28 @@
+{
+  "uuid": "fb508c32-f461-4adf-b934-a4251ce41796",
+  "first_name": "LK",
+  "last_name": "Ferrell",
+  "full_name": "LK Ferrell",
+  "linkedin_url": "https://linkedin.com/in/lk-ferrell-40aa14100",
+  "emails": [
+    {
+      "email": "lk.ferrell@owensborohealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lk.ferrell@owensborohealth.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 270-417-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Owensboro Health"
+}

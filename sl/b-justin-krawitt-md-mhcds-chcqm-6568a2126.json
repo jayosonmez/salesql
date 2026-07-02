@@ -1,0 +1,23 @@
+{
+  "uuid": "917a8d15-e130-4604-a74d-8c3af00e4e73",
+  "first_name": "B. Justin",
+  "last_name": "Krawitt MD, MHCDS, CHCQM",
+  "full_name": "B. Justin Krawitt MD, MHCDS, CHCQM",
+  "linkedin_url": "https://linkedin.com/in/b-justin-krawitt-md-mhcds-chcqm-6568a2126",
+  "emails": [
+    {
+      "email": "bkrawitt@hospitalmedicine.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 603-646-5200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Geisel School of Medicine at Dartmouth"
+}

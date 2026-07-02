@@ -1,0 +1,33 @@
+{
+  "uuid": "af10d5cd-112b-4492-8954-b178d85b364d",
+  "first_name": "Jerry",
+  "last_name": "Bruggeman, MD, MBA, CMD",
+  "full_name": "Jerry Bruggeman, MD, MBA, CMD",
+  "linkedin_url": "https://linkedin.com/in/jerry-bruggeman-md-mba-cmd-802a66265",
+  "emails": [
+    {
+      "email": "bruggeman@thirdbridge.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jerry.bruggeman@hcahealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jerry@jbmedical.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 804-483-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Advanced Senior Care, Inc."
+}

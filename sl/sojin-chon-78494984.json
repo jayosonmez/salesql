@@ -1,0 +1,17 @@
+{
+  "uuid": "7b126da3-1d7b-4b79-b7be-5cf515346e0d",
+  "first_name": "Sojin",
+  "last_name": "Chon",
+  "full_name": "Sojin Chon",
+  "linkedin_url": "https://linkedin.com/in/sojin-chon-78494984",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 212-434-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northwell Health"
+}

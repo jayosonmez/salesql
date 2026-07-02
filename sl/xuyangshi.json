@@ -1,0 +1,17 @@
+{
+  "uuid": "cf2336c3-9c01-43ce-a19d-22747513ca4b",
+  "first_name": "Xuyang",
+  "last_name": "Shi",
+  "full_name": "Xuyang Shi",
+  "linkedin_url": "https://linkedin.com/in/xuyangshi",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 252-328-6131",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "East Carolina University"
+}

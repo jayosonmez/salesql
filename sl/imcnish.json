@@ -1,0 +1,31 @@
+{
+  "uuid": "25ed91a1-354f-4a24-8490-7bd2038ce7bf",
+  "first_name": "Ian",
+  "last_name": "McNish",
+  "full_name": "Ian McNish",
+  "linkedin_url": "https://linkedin.com/in/imcnish",
+  "emails": [
+    {
+      "email": "ian@ians.net",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ian@inovexus.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ian@seedstars.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "imcnish@gudens.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Angel Collective"
+}

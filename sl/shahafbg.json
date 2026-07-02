@@ -1,0 +1,26 @@
+{
+  "uuid": "d3966999-ca7f-4be5-843c-54df87af89a7",
+  "first_name": "Shahaf",
+  "last_name": "Bar-Geffen",
+  "full_name": "Shahaf Bar-Geffen",
+  "linkedin_url": "https://linkedin.com/in/shahafbg",
+  "emails": [
+    {
+      "email": "shahaf@web3.co.il",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shahaf@coti.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "shahaf@unkjd.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lineup Games"
+}

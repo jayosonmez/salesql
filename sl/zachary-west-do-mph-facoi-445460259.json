@@ -1,0 +1,23 @@
+{
+  "uuid": "49705c5f-125b-4633-b01a-48b8abb83fd1",
+  "first_name": "Zachary",
+  "last_name": "West, DO, MPH, FACOI",
+  "full_name": "Zachary West, DO, MPH, FACOI",
+  "linkedin_url": "https://linkedin.com/in/zachary-west-do-mph-facoi-445460259",
+  "emails": [
+    {
+      "email": "zachary@acoi.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 567-804-5777",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ohio Institute of Osteopathic Medicine, LLC"
+}

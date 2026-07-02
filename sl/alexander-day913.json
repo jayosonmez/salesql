@@ -1,0 +1,23 @@
+{
+  "uuid": "9c0077fb-9b73-4043-846f-a296453f1318",
+  "first_name": "Alexander",
+  "last_name": "Day, PhD",
+  "full_name": "Alexander Day, PhD",
+  "linkedin_url": "https://linkedin.com/in/alexander-day913",
+  "emails": [
+    {
+      "email": "day.alexander@gene.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-225-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Genentech"
+}

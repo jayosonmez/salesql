@@ -1,0 +1,28 @@
+{
+  "uuid": "4fc44216-825d-4e50-ac3a-33e0a02b0956",
+  "first_name": "Bingchen",
+  "last_name": "Li, PhD",
+  "full_name": "Bingchen Li, PhD",
+  "linkedin_url": "https://linkedin.com/in/bingchen-li",
+  "emails": [
+    {
+      "email": "bli@broadinstitute.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bingchen_li@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-495-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard University"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "1d14869d-35f2-4ecc-a5af-223654fa5bb1",
+  "first_name": "Luke",
+  "last_name": "Byrne",
+  "full_name": "Luke Byrne",
+  "linkedin_url": "https://linkedin.com/in/byrnel",
+  "emails": [
+    {
+      "email": "luke@pebblebed.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "luke@amaranthine.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "pebblebed"
+}

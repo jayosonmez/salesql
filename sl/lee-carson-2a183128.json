@@ -1,0 +1,16 @@
+{
+  "uuid": "a9a25344-0db9-420d-be79-cef7b525aecd",
+  "first_name": "Lee",
+  "last_name": "Carson",
+  "full_name": "Lee Carson",
+  "linkedin_url": "https://linkedin.com/in/lee-carson-2a183128",
+  "emails": [
+    {
+      "email": "skindoccarson@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Northeast Dermatology, LLC"
+}

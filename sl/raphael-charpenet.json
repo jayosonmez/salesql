@@ -1,0 +1,28 @@
+{
+  "uuid": "9e448425-c22e-43c0-9bcf-8cdf005d542a",
+  "first_name": "Raphaël",
+  "last_name": "Charpenet",
+  "full_name": "Raphaël Charpenet",
+  "linkedin_url": "https://linkedin.com/in/raphael-charpenet",
+  "emails": [
+    {
+      "email": "r.charpenet@free.fr",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "raphael@li.me",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-710-2684",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lime"
+}

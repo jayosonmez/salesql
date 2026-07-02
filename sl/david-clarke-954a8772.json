@@ -1,0 +1,23 @@
+{
+  "uuid": "7184acaf-e055-436f-a640-8fde27ce7f6f",
+  "first_name": "David",
+  "last_name": "Clarke",
+  "full_name": "David Clarke",
+  "linkedin_url": "https://linkedin.com/in/david-clarke-954a8772",
+  "emails": [
+    {
+      "email": "clarke@kp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-987-3118",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kaiser Permanente"
+}

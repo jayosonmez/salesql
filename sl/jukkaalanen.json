@@ -1,0 +1,41 @@
+{
+  "uuid": "1ea99a6a-53be-4193-b37d-1c03171f92f1",
+  "first_name": "Jukka",
+  "last_name": "Alanen",
+  "full_name": "Jukka Alanen",
+  "linkedin_url": "https://linkedin.com/in/jukkaalanen",
+  "emails": [
+    {
+      "email": "jalanen@pagerduty.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jukka_alanen@broadcom.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jukka.alanen@digital.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jukka.alanen@blackduck.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jukka.alanen@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jukka@rebellionvc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Rebellion Ventures"
+}

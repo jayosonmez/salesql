@@ -1,0 +1,23 @@
+{
+  "uuid": "f2282fcb-52ac-4c7f-991a-9bec24525477",
+  "first_name": "Hyun Soo (Eric)",
+  "last_name": "Han",
+  "full_name": "Hyun Soo (Eric) Han",
+  "linkedin_url": "https://linkedin.com/in/erichan729",
+  "emails": [
+    {
+      "email": "hhan@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-723-2300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stanford University"
+}

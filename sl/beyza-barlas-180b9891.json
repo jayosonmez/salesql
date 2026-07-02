@@ -1,0 +1,28 @@
+{
+  "uuid": "fcb52522-edf7-46b1-804f-546ec8505514",
+  "first_name": "Beyza",
+  "last_name": "Barlas",
+  "full_name": "Beyza Barlas",
+  "linkedin_url": "https://linkedin.com/in/beyza-barlas-180b9891",
+  "emails": [
+    {
+      "email": "beyzabarlas@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "beyza.barlas@flypgs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 216 560 70 00",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pegasus Airlines"
+}

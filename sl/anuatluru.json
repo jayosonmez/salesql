@@ -1,0 +1,16 @@
+{
+  "uuid": "133f4af4-7bce-4d06-b474-2b4a672ec8f1",
+  "first_name": "Anu",
+  "last_name": "A.",
+  "full_name": "Anu A.",
+  "linkedin_url": "https://linkedin.com/in/anuatluru",
+  "emails": [
+    {
+      "email": "anu@firstround.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "TBA"
+}

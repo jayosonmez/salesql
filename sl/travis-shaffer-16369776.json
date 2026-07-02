@@ -1,0 +1,23 @@
+{
+  "uuid": "bcda6361-2cc6-4394-9629-5c016aa211d9",
+  "first_name": "Travis",
+  "last_name": "Shaffer",
+  "full_name": "Travis Shaffer",
+  "linkedin_url": "https://linkedin.com/in/travis-shaffer-16369776",
+  "emails": [
+    {
+      "email": "travis.shaffer@regeneron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-347-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Regeneron"
+}

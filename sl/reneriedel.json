@@ -1,0 +1,23 @@
+{
+  "uuid": "f8153e70-82f7-4f9c-9767-cdafa6032cc7",
+  "first_name": "Dr René",
+  "last_name": "Riedel",
+  "full_name": "Dr René Riedel",
+  "linkedin_url": "https://linkedin.com/in/reneriedel",
+  "emails": [
+    {
+      "email": "rene.riedel@uni.lu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+352 46 66 44 1",
+      "type": "Work",
+      "country_code": "LU",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Luxembourg"
+}

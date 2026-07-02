@@ -1,0 +1,23 @@
+{
+  "uuid": "f2b47b02-b948-41cb-81f1-6dc4b61af1a3",
+  "first_name": "Xiaozhou",
+  "last_name": "Ji",
+  "full_name": "Xiaozhou Ji",
+  "linkedin_url": "https://linkedin.com/in/xiaozhou-ji",
+  "emails": [
+    {
+      "email": "xji@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-723-2300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stanford University"
+}

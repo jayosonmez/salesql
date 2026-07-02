@@ -1,0 +1,23 @@
+{
+  "uuid": "5a654f39-8934-4707-bf46-e68d1dbd4f8c",
+  "first_name": "Karla",
+  "last_name": "Robinson",
+  "full_name": "Karla Robinson",
+  "linkedin_url": "https://linkedin.com/in/karla-robinson-md",
+  "emails": [
+    {
+      "email": "karla@goodrx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-799-2553",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GoodRx"
+}

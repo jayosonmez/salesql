@@ -1,0 +1,34 @@
+{
+  "uuid": "c0c69dd3-3076-4f67-95d2-23e60a443fa5",
+  "first_name": "David",
+  "last_name": "Baszucki",
+  "full_name": "David Baszucki",
+  "linkedin_url": "https://linkedin.com/in/davidbaszucki",
+  "emails": [
+    {
+      "email": "dbaszucki@paleycenter.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@roblox.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-701-0101",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 888-858-2569",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Roblox"
+}

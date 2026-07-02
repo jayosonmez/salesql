@@ -1,0 +1,36 @@
+{
+  "uuid": "73d0656b-47f0-4816-be12-01ca213fac1b",
+  "first_name": "Steven",
+  "last_name": "Welch",
+  "full_name": "Steven Welch",
+  "linkedin_url": "https://linkedin.com/in/livefreeordie",
+  "emails": [
+    {
+      "email": "steven@dreamit.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steve@dreamitventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steve@sxsw.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "steve@restorecryotherapy.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sw@restore.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Restore Hyper Wellness"
+}

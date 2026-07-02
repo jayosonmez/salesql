@@ -1,0 +1,16 @@
+{
+  "uuid": "c53ad2ba-f195-4e15-9666-ce60c06a1fe6",
+  "first_name": "Chris",
+  "last_name": "Uhegbu",
+  "full_name": "Chris Uhegbu",
+  "linkedin_url": "https://linkedin.com/in/chris-uhegbu-99365995",
+  "emails": [
+    {
+      "email": "cuhegbu@persperiontech.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Persperion Diagnostics Inc."
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "1e19b2b7-e8c8-4666-b016-b85bd6c538b6",
+  "first_name": "Eric",
+  "last_name": "Fleegler",
+  "full_name": "Eric Fleegler",
+  "linkedin_url": "https://linkedin.com/in/eric-fleegler",
+  "emails": [
+    {
+      "email": "eric.fleegler@childrens.harvard.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eric_fleegler@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric.fleegler@massgeneral.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-242-1100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts General Hospital"
+}

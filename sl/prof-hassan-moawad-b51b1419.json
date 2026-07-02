@@ -1,0 +1,16 @@
+{
+  "uuid": "fba50820-b5b4-4c5f-a3a9-b141486c350f",
+  "first_name": "Prof. Hassan",
+  "last_name": "Moawad",
+  "full_name": "Prof. Hassan Moawad",
+  "linkedin_url": "https://linkedin.com/in/prof-hassan-moawad-b51b1419",
+  "emails": [
+    {
+      "email": "hassanmoawad@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "National Research Center"
+}

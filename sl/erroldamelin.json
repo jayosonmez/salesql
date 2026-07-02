@@ -1,0 +1,26 @@
+{
+  "uuid": "a9f9b929-b0e3-4812-b012-4cb516fe9a9e",
+  "first_name": "Errol",
+  "last_name": "Damelin",
+  "full_name": "Errol Damelin",
+  "linkedin_url": "https://linkedin.com/in/erroldamelin",
+  "emails": [
+    {
+      "email": "ed@nested.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ed@habito.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "errol.damelin@wonga.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dust Road Ventures"
+}

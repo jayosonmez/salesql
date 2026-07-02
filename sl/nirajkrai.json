@@ -1,0 +1,16 @@
+{
+  "uuid": "aa5f22b4-c14d-433d-843d-5f9ecef6c6df",
+  "first_name": "Niraj",
+  "last_name": "R.",
+  "full_name": "Niraj R.",
+  "linkedin_url": "https://linkedin.com/in/nirajkrai",
+  "emails": [
+    {
+      "email": "niraj@sproutsai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "SproutsAI"
+}

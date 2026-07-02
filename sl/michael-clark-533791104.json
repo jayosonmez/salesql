@@ -1,0 +1,28 @@
+{
+  "uuid": "d5f61b3d-a42d-478a-bc69-717529cb1898",
+  "first_name": "Michael",
+  "last_name": "Clark",
+  "full_name": "Michael Clark",
+  "linkedin_url": "https://linkedin.com/in/michael-clark-533791104",
+  "emails": [
+    {
+      "email": "ms_clark@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mclark@mdsiphysicians.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-627-1093",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MDSI Physician Services"
+}

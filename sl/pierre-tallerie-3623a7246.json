@@ -1,0 +1,17 @@
+{
+  "uuid": "c919c230-5fdb-4086-a8e5-ebd1de301bca",
+  "first_name": "Pierre",
+  "last_name": "Tallerie",
+  "full_name": "Pierre Tallerie",
+  "linkedin_url": "https://linkedin.com/in/pierre-tallerie-3623a7246",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 561-752-2323",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Boynton Beach Medical Center, Inc"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "5a18ae32-1917-43dc-95cd-9db2cb70b181",
+  "first_name": "Dr. Scot",
+  "last_name": "Bertolo, DPM",
+  "full_name": "Dr. Scot Bertolo, DPM",
+  "linkedin_url": "https://linkedin.com/in/dr-scot-bertolo-dpm-a10b0914",
+  "emails": [
+    {
+      "email": "scot@urbanpodiatry.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr@urbanpodiatry.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Urban Podiatry"
+}

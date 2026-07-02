@@ -1,0 +1,17 @@
+{
+  "uuid": "cd95907f-cbe1-4f18-9a97-6691a4ce714f",
+  "first_name": "Carla",
+  "last_name": "Dent",
+  "full_name": "Carla Dent",
+  "linkedin_url": "https://linkedin.com/in/carla-dent-30596058",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 301-846-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Frederick National Laboratory for Cancer Research"
+}

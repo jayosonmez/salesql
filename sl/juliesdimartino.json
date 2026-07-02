@@ -1,0 +1,23 @@
+{
+  "uuid": "454337c3-83cd-4d2b-af4c-f7277e210c78",
+  "first_name": "Julie Sandra",
+  "last_name": "Di Martino",
+  "full_name": "Julie Sandra Di Martino",
+  "linkedin_url": "https://linkedin.com/in/juliesdimartino",
+  "emails": [
+    {
+      "email": "julie_di@nymc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-594-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "New York Medical College"
+}

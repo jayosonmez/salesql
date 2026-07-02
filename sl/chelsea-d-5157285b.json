@@ -1,0 +1,17 @@
+{
+  "uuid": "78041982-d4b2-4475-b033-471b89cb3c83",
+  "first_name": "Chelsea",
+  "last_name": "D.",
+  "full_name": "Chelsea D.",
+  "linkedin_url": "https://linkedin.com/in/chelsea-d-5157285b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 804-483-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HCA Healthcare"
+}

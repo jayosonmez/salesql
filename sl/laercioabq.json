@@ -1,0 +1,28 @@
+{
+  "uuid": "ee2f7fc9-31f7-4f26-8e73-ae442883ca3c",
+  "first_name": "Laércio",
+  "last_name": "Albuquerque",
+  "full_name": "Laércio Albuquerque",
+  "linkedin_url": "https://linkedin.com/in/laercioabq",
+  "emails": [
+    {
+      "email": "lalbuque@cisco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "laercio.albuquerque@ca.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-526-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cisco"
+}

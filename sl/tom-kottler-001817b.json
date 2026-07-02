@@ -1,0 +1,23 @@
+{
+  "uuid": "0d1b4f78-4177-4dc2-a098-0e40adb1f31e",
+  "first_name": "Tom",
+  "last_name": "Kottler",
+  "full_name": "Tom Kottler",
+  "linkedin_url": "https://linkedin.com/in/tom-kottler-001817b",
+  "emails": [
+    {
+      "email": "tkottler@healthprize.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 203-543-3201",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "A28 Therapeutics"
+}

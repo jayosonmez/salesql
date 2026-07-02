@@ -1,0 +1,21 @@
+{
+  "uuid": "ec4f2613-6d85-4039-b8d0-06a0a8799e26",
+  "first_name": "Barbara",
+  "last_name": "Kandemir",
+  "full_name": "Barbara Kandemir",
+  "linkedin_url": "https://linkedin.com/in/kandemirbarbara",
+  "emails": [
+    {
+      "email": "bk@hc9.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "barbara@kandemir.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "HC9 Ventures"
+}

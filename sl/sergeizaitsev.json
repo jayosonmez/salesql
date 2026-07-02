@@ -1,0 +1,21 @@
+{
+  "uuid": "9797baa9-0031-44f8-b88e-408f75f57878",
+  "first_name": "Sergei",
+  "last_name": "Zaitsev",
+  "full_name": "Sergei Zaitsev",
+  "linkedin_url": "https://linkedin.com/in/sergeizaitsev",
+  "emails": [
+    {
+      "email": "sergei@pragma.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sz@cyber.fund",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "cyber•Fund"
+}

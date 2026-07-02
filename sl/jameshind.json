@@ -1,0 +1,26 @@
+{
+  "uuid": "238fbd3d-5b2b-445b-8e82-b87c6861f14f",
+  "first_name": "James",
+  "last_name": "Hind",
+  "full_name": "James Hind",
+  "linkedin_url": "https://linkedin.com/in/jameshind",
+  "emails": [
+    {
+      "email": "accounts@carbuzz.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james@carwow.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james.hind@bumper.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Something new...."
+}

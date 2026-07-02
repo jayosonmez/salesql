@@ -1,0 +1,17 @@
+{
+  "uuid": "67259ec1-9b65-4999-87fd-68b15c0b4955",
+  "first_name": "Kirstie",
+  "last_name": "Swingle",
+  "full_name": "Kirstie Swingle",
+  "linkedin_url": "https://linkedin.com/in/kirstie-swingle-844674194",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 910-251-0081",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PPD"
+}

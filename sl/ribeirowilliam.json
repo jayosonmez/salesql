@@ -1,0 +1,16 @@
+{
+  "uuid": "c5c15fa7-df57-4b85-b0e5-9711a79ccec0",
+  "first_name": "William",
+  "last_name": "Ribeiro",
+  "full_name": "William Ribeiro",
+  "linkedin_url": "https://linkedin.com/in/ribeirowilliam",
+  "emails": [
+    {
+      "email": "wr@g2capital.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dinheiro Com Você"
+}

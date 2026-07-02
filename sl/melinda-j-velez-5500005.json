@@ -1,0 +1,26 @@
+{
+  "uuid": "0b910c04-8f75-4661-ae43-61b7160b74e2",
+  "first_name": "Melinda J",
+  "last_name": "Velez",
+  "full_name": "Melinda J Velez",
+  "linkedin_url": "https://linkedin.com/in/melinda-j-velez-5500005",
+  "emails": [
+    {
+      "email": "mvelez@nmrco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mvelez@amfs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "melvel@earthlink.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Solomon Medical Legal Consulting"
+}

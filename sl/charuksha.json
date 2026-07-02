@@ -1,0 +1,23 @@
+{
+  "uuid": "3b94f2e3-8c42-4b19-ade1-f99b17dbe9db",
+  "first_name": "Charuksha",
+  "last_name": "Walgama",
+  "full_name": "Charuksha Walgama",
+  "linkedin_url": "https://linkedin.com/in/charuksha",
+  "emails": [
+    {
+      "email": "walgama@uhcl.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 281-283-7600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Houston-Clear Lake"
+}

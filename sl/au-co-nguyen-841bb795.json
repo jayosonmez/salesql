@@ -1,0 +1,23 @@
+{
+  "uuid": "3df1f580-5c20-44b2-b57f-cea3ae82e18c",
+  "first_name": "Au-Co",
+  "last_name": "Nguyen",
+  "full_name": "Au-Co Nguyen",
+  "linkedin_url": "https://linkedin.com/in/au-co-nguyen-841bb795",
+  "emails": [
+    {
+      "email": "anguyen@memorialcare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 714-378-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MemorialCare Medical Group"
+}

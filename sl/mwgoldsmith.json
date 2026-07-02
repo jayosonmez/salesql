@@ -1,0 +1,28 @@
+{
+  "uuid": "aecf1104-f933-455e-a7c1-1a247401d29c",
+  "first_name": "Michael",
+  "last_name": "Goldsmith",
+  "full_name": "Michael Goldsmith",
+  "linkedin_url": "https://linkedin.com/in/mwgoldsmith",
+  "emails": [
+    {
+      "email": "mikkelaustin@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mwgoldsmith81@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-935-8420",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PermaClone"
+}

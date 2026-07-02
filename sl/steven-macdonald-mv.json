@@ -1,0 +1,31 @@
+{
+  "uuid": "beacb483-e81b-4ad0-abb2-8369cf5e61a0",
+  "first_name": "Steven",
+  "last_name": "MacDonald",
+  "full_name": "Steven MacDonald",
+  "linkedin_url": "https://linkedin.com/in/steven-macdonald-mv",
+  "emails": [
+    {
+      "email": "steve@mymatrixx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "s-macdonald@macdonald.ventures",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steven@kush.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steven@floridafunders.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "MacDonald Ventures"
+}

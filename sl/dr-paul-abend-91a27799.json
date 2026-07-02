@@ -1,0 +1,28 @@
+{
+  "uuid": "d4b269aa-4b71-4649-a68e-f3b31aa2ec5e",
+  "first_name": "Dr. Paul",
+  "last_name": "Abend",
+  "full_name": "Dr. Paul Abend",
+  "linkedin_url": "https://linkedin.com/in/dr-paul-abend-91a27799",
+  "emails": [
+    {
+      "email": "dabend@rwjuhr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr@autismhc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-381-4200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Robert Wood Johnson University Hospital Rahway"
+}

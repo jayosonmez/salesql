@@ -1,0 +1,33 @@
+{
+  "uuid": "49040d91-55fe-465c-9066-51d0b80da103",
+  "first_name": "Kenneth",
+  "last_name": "Schenkman",
+  "full_name": "Kenneth Schenkman",
+  "linkedin_url": "https://linkedin.com/in/kenneth-schenkman-05672439",
+  "emails": [
+    {
+      "email": "ken.schenkman@seattlechildrens.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kschenkman@uw.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kenneth_schenkman@uwmedicine.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-543-2100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Washington"
+}

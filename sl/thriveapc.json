@@ -1,0 +1,16 @@
+{
+  "uuid": "a4272a0c-c3f1-4a92-896a-c45a004cf6d9",
+  "first_name": "Mary",
+  "last_name": "Medeiros",
+  "full_name": "Mary Medeiros",
+  "linkedin_url": "https://linkedin.com/in/thriveapc",
+  "emails": [
+    {
+      "email": "mabastil@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Thrive Adult Primary Care"
+}

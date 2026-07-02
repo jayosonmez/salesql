@@ -1,0 +1,23 @@
+{
+  "uuid": "26ebbbf4-c723-4b38-98f9-bf4bb8061b95",
+  "first_name": "Brendan",
+  "last_name": "Bulik-Sullivan",
+  "full_name": "Brendan Bulik-Sullivan",
+  "linkedin_url": "https://linkedin.com/in/brendan-bulik-sullivan-b2595592",
+  "emails": [
+    {
+      "email": "brendan@gv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-253-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GV (Google Ventures)"
+}

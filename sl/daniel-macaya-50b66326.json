@@ -1,0 +1,26 @@
+{
+  "uuid": "3a54cf89-9316-405d-9af5-0eb65211d3f1",
+  "first_name": "Daniel",
+  "last_name": "Macaya",
+  "full_name": "Daniel Macaya",
+  "linkedin_url": "https://linkedin.com/in/daniel-macaya-50b66326",
+  "emails": [
+    {
+      "email": "djm89@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dmacaya@5amventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dmacaya@lyticatx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Conveyor Therapeutics"
+}

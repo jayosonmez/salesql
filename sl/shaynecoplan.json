@@ -1,0 +1,21 @@
+{
+  "uuid": "d3357579-5f1a-4a87-b362-b8916690871e",
+  "first_name": "Shayne",
+  "last_name": "Coplan",
+  "full_name": "Shayne Coplan",
+  "linkedin_url": "https://linkedin.com/in/shaynecoplan",
+  "emails": [
+    {
+      "email": "shayne@tokenbnk.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shayne@tokenunion.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Polymarket"
+}

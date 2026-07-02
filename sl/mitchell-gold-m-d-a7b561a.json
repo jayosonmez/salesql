@@ -1,0 +1,38 @@
+{
+  "uuid": "cd18634d-bad6-440b-827a-69f3fcc32ca7",
+  "first_name": "Mitchell",
+  "last_name": "Gold M.D.",
+  "full_name": "Mitchell Gold M.D.",
+  "linkedin_url": "https://linkedin.com/in/mitchell-gold-m-d-a7b561a",
+  "emails": [
+    {
+      "email": "mgold@dendreon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mgold@alpinebio.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mitchell_md@attovia.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mitchell.gold@frazierls.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-325-5156",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Frazier Life Sciences"
+}

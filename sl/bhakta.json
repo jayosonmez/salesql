@@ -1,0 +1,16 @@
+{
+  "uuid": "562eb5cb-e0f1-4997-98bd-de3a5e70b7a3",
+  "first_name": "Shyam",
+  "last_name": "Bhakta",
+  "full_name": "Shyam Bhakta",
+  "linkedin_url": "https://linkedin.com/in/bhakta",
+  "emails": [
+    {
+      "email": "shyambhakta@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Matthew Bennett Lab"
+}

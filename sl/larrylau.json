@@ -1,0 +1,66 @@
+{
+  "uuid": "aad8efa1-bd00-4569-9ba4-0fa984dbc4e6",
+  "first_name": "Larry",
+  "last_name": "Lau",
+  "full_name": "Larry Lau",
+  "linkedin_url": "https://linkedin.com/in/larrylau",
+  "emails": [
+    {
+      "email": "larry@atmosmarketing.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@eighty8.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry.lau@myodetox.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@agencypsi.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@motiflabs.ca",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@shipapollo.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@takecaresupply.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@oddfutur3.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@runasyouare.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@runready.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@runmore.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "RunMore Co."
+}

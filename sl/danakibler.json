@@ -1,0 +1,16 @@
+{
+  "uuid": "4217e39a-1ca1-42e6-b2e1-51e15ce73927",
+  "first_name": "Dana",
+  "last_name": "Kibler",
+  "full_name": "Dana Kibler",
+  "linkedin_url": "https://linkedin.com/in/danakibler",
+  "emails": [
+    {
+      "email": "dana@grppartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Percheron Capital"
+}

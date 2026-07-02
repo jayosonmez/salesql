@@ -1,0 +1,46 @@
+{
+  "uuid": "1978d3a8-f30f-4119-9f84-3966ccb12ccb",
+  "first_name": "Ramon",
+  "last_name": "Benet",
+  "full_name": "Ramon Benet",
+  "linkedin_url": "https://linkedin.com/in/ramon-benet",
+  "emails": [
+    {
+      "email": "monbenet@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rbenet@ilww.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rbenet@asabys.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rbenet@massmedangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ramon.benet@mimark.es",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ramon@hubangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ramon@phblueprint.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Med Device Solutions, LLC"
+}

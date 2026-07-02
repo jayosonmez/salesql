@@ -1,0 +1,17 @@
+{
+  "uuid": "eba790ac-f514-4e03-ada5-c9642dbc4e74",
+  "first_name": "J.",
+  "last_name": "Michael",
+  "full_name": "J. Michael",
+  "linkedin_url": "https://linkedin.com/in/j-michael-a151301ab",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 510-987-3118",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Grassroots Healthcare Foundation"
+}

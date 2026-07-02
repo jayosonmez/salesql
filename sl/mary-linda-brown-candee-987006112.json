@@ -1,0 +1,23 @@
+{
+  "uuid": "cb4dfbca-d684-4438-86b0-e88f2255c523",
+  "first_name": "Mary Linda",
+  "last_name": "Brown (Candee)",
+  "full_name": "Mary Linda Brown (Candee)",
+  "linkedin_url": "https://linkedin.com/in/mary-linda-brown-candee-987006112",
+  "emails": [
+    {
+      "email": "mary.brown@lowellgeneral.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 978-937-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lowell General Hospital"
+}

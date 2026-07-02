@@ -1,0 +1,23 @@
+{
+  "uuid": "294bf391-d318-4a4b-9a4d-3ad156773d74",
+  "first_name": "Kelsey",
+  "last_name": "Wirth",
+  "full_name": "Kelsey Wirth",
+  "linkedin_url": "https://linkedin.com/in/kelsey-wirth-71905759",
+  "emails": [
+    {
+      "email": "kelsey.wirth@mothersoutfront.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-520-4970",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mothers Out Front"
+}

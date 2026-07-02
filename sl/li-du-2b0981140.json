@@ -1,0 +1,23 @@
+{
+  "uuid": "3a2f9d92-d6e3-4938-b03c-b382ca59bc48",
+  "first_name": "Li",
+  "last_name": "Du",
+  "full_name": "Li Du",
+  "linkedin_url": "https://linkedin.com/in/li-du-2b0981140",
+  "emails": [
+    {
+      "email": "ldu@cityofhope.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-826-4673",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "City of Hope"
+}

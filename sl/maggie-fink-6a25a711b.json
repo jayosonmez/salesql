@@ -1,0 +1,23 @@
+{
+  "uuid": "3cb43214-66b8-48d8-8132-96a025e6c0e5",
+  "first_name": "Maggie",
+  "last_name": "Fink",
+  "full_name": "Maggie Fink",
+  "linkedin_url": "https://linkedin.com/in/maggie-fink-6a25a711b",
+  "emails": [
+    {
+      "email": "mfink@nd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 574-631-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Notre Dame"
+}

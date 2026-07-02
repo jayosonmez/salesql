@@ -1,0 +1,28 @@
+{
+  "uuid": "87f6e7e8-7a17-4d65-93b8-9691850818dd",
+  "first_name": "Robert",
+  "last_name": "Saunders",
+  "full_name": "Robert Saunders",
+  "linkedin_url": "https://linkedin.com/in/robert-saunders-670ba711",
+  "emails": [
+    {
+      "email": "robert@frontierangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rjsaundersv@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 406-531-6430",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Scaling Montana"
+}

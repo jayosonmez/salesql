@@ -1,0 +1,43 @@
+{
+  "uuid": "c5e9d584-af7d-411a-be6f-05295b249727",
+  "first_name": "Glenn",
+  "last_name": "Parker, MD",
+  "full_name": "Glenn Parker, MD",
+  "linkedin_url": "https://linkedin.com/in/glenn-parker-md-319b2936",
+  "emails": [
+    {
+      "email": "gparker@nationshearing.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "glenn.parker@centaurihs.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "gparker@nationsbenefits.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "gparker@nhrx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gparker@conveyhealthsolutions.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-439-1564",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NationsBenefits"
+}

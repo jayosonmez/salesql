@@ -1,0 +1,39 @@
+{
+  "uuid": "2cc509bb-1d27-4118-8af8-5fafae17f88c",
+  "first_name": "William",
+  "last_name": "Callahan",
+  "full_name": "William Callahan",
+  "linkedin_url": "https://linkedin.com/in/williamacallahan",
+  "emails": [
+    {
+      "email": "william.callahan@tsbg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "william.callahan@seekinvest.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "william@callahanfp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 402-341-2000",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 415-683-6500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "aVenture (Techstars '23)"
+}

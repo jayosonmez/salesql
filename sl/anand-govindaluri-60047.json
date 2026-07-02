@@ -1,0 +1,64 @@
+{
+  "uuid": "a9d48c01-65ff-4432-9ce7-d5e10722f109",
+  "first_name": "Anand",
+  "last_name": "Govindaluri",
+  "full_name": "Anand Govindaluri",
+  "linkedin_url": "https://linkedin.com/in/anand-govindaluri-60047",
+  "emails": [
+    {
+      "email": "anand_govi@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anand@greenlinelabs.in",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anand@eonreality.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anand@startupacceleratorindia.in",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anand@govincapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anand@govinholdings.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anand@kinexcs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anand@goodstartup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+65 6659 5946",
+      "type": "Personal",
+      "country_code": "SG",
+      "is_valid": true
+    },
+    {
+      "phone": "+65 9455 2905",
+      "type": "Work",
+      "country_code": "SG",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Govin Holdings"
+}

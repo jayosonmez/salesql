@@ -1,0 +1,36 @@
+{
+  "uuid": "19393582-f2d5-4f60-977d-1aed1d97c487",
+  "first_name": "Grayson",
+  "last_name": "Judge",
+  "full_name": "Grayson Judge",
+  "linkedin_url": "https://linkedin.com/in/graysonjudge",
+  "emails": [
+    {
+      "email": "grayson@timelyai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "grayson@lumehealth.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "grayson@dust.systems",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "graysonjudge@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "g.j@freshbed.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Supermoon Capital"
+}

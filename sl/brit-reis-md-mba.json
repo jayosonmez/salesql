@@ -1,0 +1,33 @@
+{
+  "uuid": "185b38d9-6a52-40a5-96d0-c0e3e9150cc8",
+  "first_name": "Brit",
+  "last_name": "Reis, MD, FAAP, ABOM, MBA",
+  "full_name": "Brit Reis, MD, FAAP, ABOM, MBA",
+  "linkedin_url": "https://linkedin.com/in/brit-reis-md-mba",
+  "emails": [
+    {
+      "email": "drbrit@reispediatrics.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "b_reis@adventisthealth.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 1530 414131",
+      "type": "Work",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 808-263-8822",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Castle Medical Group"
+}

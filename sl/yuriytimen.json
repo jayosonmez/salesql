@@ -1,0 +1,106 @@
+{
+  "uuid": "b677f271-bb5e-4acd-b774-53eb6473fb71",
+  "first_name": "Yuriy",
+  "last_name": "Timen",
+  "full_name": "Yuriy Timen",
+  "linkedin_url": "https://linkedin.com/in/yuriytimen",
+  "emails": [
+    {
+      "email": "ytimen@forhims.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ytimen@joinhomebase.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ytimen@varomoney.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy@incrediblehealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy.timen@grammarly.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy@fitbod.me",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy_timen@brex.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy.timen@whimsical.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy.timen@adaptedmind.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy.timen@fourthwall.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy@wemod.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy@centered.app",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy@zleague.gg",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy-timen@recraft.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy.timen@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "yuriy@grammarly.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yuriy.timen@oysterhr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yuriy.timen@mavenclinic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yuriy@tradezella.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Superhuman"
+}

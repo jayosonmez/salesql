@@ -1,0 +1,17 @@
+{
+  "uuid": "6dcefe20-5aef-477b-9afa-07189a49e876",
+  "first_name": "Jeffrey",
+  "last_name": "Slavich",
+  "full_name": "Jeffrey Slavich",
+  "linkedin_url": "https://linkedin.com/in/jeffrey-slavich-95a8019b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 802-362-4440",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

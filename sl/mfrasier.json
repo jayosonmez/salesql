@@ -1,0 +1,34 @@
+{
+  "uuid": "4b89bc4f-5460-4297-8ed2-e008bc84c041",
+  "first_name": "Mike",
+  "last_name": "Frasier",
+  "full_name": "Mike Frasier",
+  "linkedin_url": "https://linkedin.com/in/mfrasier",
+  "emails": [
+    {
+      "email": "mike.frasier@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mfrasier@cid-inc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 360-609-3536",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 360-833-8835",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CID Bio-Science, Inc."
+}

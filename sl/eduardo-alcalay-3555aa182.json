@@ -1,0 +1,23 @@
+{
+  "uuid": "b13e4e1a-b92f-4d81-8145-1535b6e9e2a1",
+  "first_name": "Eduardo",
+  "last_name": "Alcalay",
+  "full_name": "Eduardo Alcalay",
+  "linkedin_url": "https://linkedin.com/in/eduardo-alcalay-3555aa182",
+  "emails": [
+    {
+      "email": "eduardo.alcalay@bankofamerica.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 980-335-3561",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bank of America"
+}

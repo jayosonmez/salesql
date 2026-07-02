@@ -1,0 +1,28 @@
+{
+  "uuid": "2e771ef0-01f2-4af9-9e7c-5b1643c3ca25",
+  "first_name": "Ihsan",
+  "last_name": "Mert",
+  "full_name": "Ihsan Mert",
+  "linkedin_url": "https://linkedin.com/in/ihsanmert",
+  "emails": [
+    {
+      "email": "imert@coca-cola.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ihsan@coca-colacompany.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-676-2121",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Coca-Cola Company"
+}

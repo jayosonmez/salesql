@@ -1,0 +1,21 @@
+{
+  "uuid": "be815115-e05a-40dc-9472-95ff86b6e64d",
+  "first_name": "Virginie",
+  "last_name": "Raphael",
+  "full_name": "Virginie Raphael",
+  "linkedin_url": "https://linkedin.com/in/virginie-raphael-7197271",
+  "emails": [
+    {
+      "email": "hello@buildingfullcircle.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "v_raphael82@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "FullCircle"
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "88b0771d-0b4b-4841-9e79-7d207d1e1f4d",
+  "first_name": "Brad",
+  "last_name": "Sippy",
+  "full_name": "Brad Sippy",
+  "linkedin_url": "https://linkedin.com/in/brad-sippy-b7a151b",
+  "emails": [
+    {
+      "email": "brad.sippy@lennham.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "brad.sippy@d9designs.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "brad.sippy@tremeaurx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brad.sippy@tremeau.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "d9 Designs Inc."
+}

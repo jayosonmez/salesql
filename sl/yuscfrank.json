@@ -1,0 +1,21 @@
+{
+  "uuid": "bab044b6-ac3f-440b-a2bf-3d362a8a3cf8",
+  "first_name": "Frank",
+  "last_name": "Yu",
+  "full_name": "Frank Yu",
+  "linkedin_url": "https://linkedin.com/in/yuscfrank",
+  "emails": [
+    {
+      "email": "frank@coterie.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "frank.yu@coterie.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Coterie"
+}

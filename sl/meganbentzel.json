@@ -1,0 +1,17 @@
+{
+  "uuid": "f3378872-0c96-4874-b837-43a4493406ef",
+  "first_name": "Megan",
+  "last_name": "B.",
+  "full_name": "Megan B.",
+  "linkedin_url": "https://linkedin.com/in/meganbentzel",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 207-556-0300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IDEXX"
+}

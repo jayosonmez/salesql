@@ -1,0 +1,46 @@
+{
+  "uuid": "9ed1ab40-0096-4e4b-bed6-6d05dca177d4",
+  "first_name": "Christine / Chris",
+  "last_name": "Heckart",
+  "full_name": "Christine / Chris Heckart",
+  "linkedin_url": "https://linkedin.com/in/christineheckart",
+  "emails": [
+    {
+      "email": "checkart@brocade.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "check@netapp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christineheckart@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "chris_heckart@r360global.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "christine.heckart@contentful.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "checkart@sitime.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christine@xapa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Xapa"
+}

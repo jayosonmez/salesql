@@ -1,0 +1,34 @@
+{
+  "uuid": "da4e5487-f6cc-40b6-b2c2-b79b979ad074",
+  "first_name": "Abraham",
+  "last_name": "Alahmad",
+  "full_name": "Abraham Alahmad",
+  "linkedin_url": "https://linkedin.com/in/abraham-alahmad-413553a",
+  "emails": [
+    {
+      "email": "abraham.al-ahmad@ttuhsc.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aalahmad@wisc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 806-414-9369",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 806-743-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Texas Tech University Health Sciences Center"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ddc0d63c-74c6-4dd8-bb2f-b4b562e3624d",
+  "first_name": "Michael",
+  "last_name": "Mack",
+  "full_name": "Michael Mack",
+  "linkedin_url": "https://linkedin.com/in/mjmack",
+  "emails": [
+    {
+      "email": "mike@electricautoshop.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michaeljosephmack@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-881-8404",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Rural Consultant Ltd"
+}

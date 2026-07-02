@@ -1,0 +1,21 @@
+{
+  "uuid": "0979a219-018a-49f5-8eef-98a434592093",
+  "first_name": "Anthony",
+  "last_name": "Bibbs Jr.",
+  "full_name": "Anthony Bibbs Jr.",
+  "linkedin_url": "https://linkedin.com/in/eloquentgeek",
+  "emails": [
+    {
+      "email": "anthony@luminant.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "abibbs@codeforamerica.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Anthropic"
+}

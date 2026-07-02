@@ -1,0 +1,17 @@
+{
+  "uuid": "20db3368-cd87-48c8-b3fb-a36c52a5eabf",
+  "first_name": "Peter",
+  "last_name": "Cowles",
+  "full_name": "Peter Cowles",
+  "linkedin_url": "https://linkedin.com/in/peter-cowles-1a9053122",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 608-271-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Epic"
+}

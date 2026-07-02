@@ -1,0 +1,28 @@
+{
+  "uuid": "fff6201f-db58-4db2-b4c0-d4dc7a2a848d",
+  "first_name": "Carlton",
+  "last_name": "Todd, PE",
+  "full_name": "Carlton Todd, PE",
+  "linkedin_url": "https://linkedin.com/in/carlton-todd-pe-05606a2",
+  "emails": [
+    {
+      "email": "carlton.todd@erm.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jctodd@ix.netcom.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 907-258-4880",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ERM"
+}

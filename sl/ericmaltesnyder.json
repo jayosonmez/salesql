@@ -1,0 +1,47 @@
+{
+  "uuid": "6952fe2d-8c3e-4297-b5cc-eb7381488cb4",
+  "first_name": "Eric",
+  "last_name": "Snyder",
+  "full_name": "Eric Snyder",
+  "linkedin_url": "https://linkedin.com/in/ericmaltesnyder",
+  "emails": [
+    {
+      "email": "ericmaltesnyder@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "s-e@novoholdings.dk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "esnyder@findoctave.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric.snyder@fire1foundry.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "erics@magentamed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric.snyder@clevercarehealthplan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+45 35 27 65 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Novo Holdings"
+}

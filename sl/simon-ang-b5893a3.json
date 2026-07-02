@@ -1,0 +1,28 @@
+{
+  "uuid": "e59329be-7eaf-465a-b1ec-e45ea0c4340a",
+  "first_name": "Simon",
+  "last_name": "Ang",
+  "full_name": "Simon Ang",
+  "linkedin_url": "https://linkedin.com/in/simon-ang-b5893a3",
+  "emails": [
+    {
+      "email": "siang@uark.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sang@uark.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 479-575-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Arkansas"
+}

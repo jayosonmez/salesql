@@ -1,0 +1,23 @@
+{
+  "uuid": "af92573e-a115-4387-9a5f-f90a98900d3a",
+  "first_name": "Doug",
+  "last_name": "Plata",
+  "full_name": "Doug Plata",
+  "linkedin_url": "https://linkedin.com/in/doug-plata-051490158",
+  "emails": [
+    {
+      "email": "doug.plata@ow.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-445-7272",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Space Development Network"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "f04aeeb8-fe0b-4e33-854b-b25935c8bab4",
+  "first_name": "Nadja",
+  "last_name": "Mannowetz",
+  "full_name": "Nadja Mannowetz",
+  "linkedin_url": "https://linkedin.com/in/nadja-mannowetz-b7633655",
+  "emails": [
+    {
+      "email": "nadja@yourchoicetx.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "YourChoice Therapeutics"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "c976ddd3-0e8d-4731-8458-ad739a5008d7",
+  "first_name": "Henry",
+  "last_name": "Nilert",
+  "full_name": "Henry Nilert",
+  "linkedin_url": "https://linkedin.com/in/henrynilert",
+  "emails": [
+    {
+      "email": "henry@nilert.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "henry.nilert@midealab.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Founders' Edge"
+}

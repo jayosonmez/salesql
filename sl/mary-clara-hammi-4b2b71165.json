@@ -1,0 +1,23 @@
+{
+  "uuid": "b4b3536f-e430-4a98-babe-6e687238d128",
+  "first_name": "Mary-Clara",
+  "last_name": "Hammi",
+  "full_name": "Mary-Clara Hammi",
+  "linkedin_url": "https://linkedin.com/in/mary-clara-hammi-4b2b71165",
+  "emails": [
+    {
+      "email": "mhammi@westernu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 909-623-6116",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Western University of Health Sciences"
+}

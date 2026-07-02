@@ -1,0 +1,28 @@
+{
+  "uuid": "8fc21c44-39d0-47f0-8786-18ebf7c9f2d3",
+  "first_name": "Chris",
+  "last_name": "Murphy",
+  "full_name": "Chris Murphy",
+  "linkedin_url": "https://linkedin.com/in/chrismurph",
+  "emails": [
+    {
+      "email": "chris.murphy@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "chris@msad.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+353 86 310 6352",
+      "type": "Personal",
+      "country_code": "IE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MS&AD Ventures"
+}

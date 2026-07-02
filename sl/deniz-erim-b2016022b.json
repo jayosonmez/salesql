@@ -1,0 +1,16 @@
+{
+  "uuid": "4c823eff-0620-4400-8a9d-26f288b629f2",
+  "first_name": "Deniz",
+  "last_name": "Erim",
+  "full_name": "Deniz Erim",
+  "linkedin_url": "https://linkedin.com/in/deniz-erim-b2016022b",
+  "emails": [
+    {
+      "email": "deniz@neotalent.com.tr",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Neotalent TR"
+}

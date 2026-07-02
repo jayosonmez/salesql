@@ -1,0 +1,48 @@
+{
+  "uuid": "9bbeae92-11d3-4b3d-a11c-73489407f37a",
+  "first_name": "Simrithaa",
+  "last_name": "Karunakaran",
+  "full_name": "Simrithaa Karunakaran",
+  "linkedin_url": "https://linkedin.com/in/simrithaa-karunakaran",
+  "emails": [
+    {
+      "email": "ks@carrd.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "skarunakaran@ucsfhealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "karunakaran@catamilacademy.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ksimrithaa@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "simrithaa.karunakaran.1@health.slu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "simrithaa.karunakaran@slu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 314-977-7170",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UCSF Health"
+}

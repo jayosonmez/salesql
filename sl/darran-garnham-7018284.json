@@ -1,0 +1,51 @@
+{
+  "uuid": "23bbb9a7-73cd-4138-ab9f-43ea11f47de1",
+  "first_name": "Darran",
+  "last_name": "Garnham",
+  "full_name": "Darran Garnham",
+  "linkedin_url": "https://linkedin.com/in/darran-garnham-7018284",
+  "emails": [
+    {
+      "email": "darran@kidsknowbest.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darran.garnham@calm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darran@mindcandy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darran@toikido.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gonecrabbinggroupltd@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "darran@pocket.money",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "darran.garnham@polybiusinteractive.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "darran@nftie.agency",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Toikido"
+}

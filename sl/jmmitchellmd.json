@@ -1,0 +1,23 @@
+{
+  "uuid": "9ae87405-16e4-4229-aaf3-f050b37d6707",
+  "first_name": "Jason M.",
+  "last_name": "Mitchell, MD, MS, FAAFP, FAMIA",
+  "full_name": "Jason M. Mitchell, MD, MS, FAAFP, FAMIA",
+  "linkedin_url": "https://linkedin.com/in/jmmitchellmd",
+  "emails": [
+    {
+      "email": "jason.mitchell@oracle.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 514-735-3219",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Oracle"
+}

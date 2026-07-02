@@ -1,0 +1,16 @@
+{
+  "uuid": "ddb60f01-153a-44e4-858d-7db487f0132a",
+  "first_name": "Evan",
+  "last_name": "Dell",
+  "full_name": "Evan Dell",
+  "linkedin_url": "https://linkedin.com/in/evandellbiochem",
+  "emails": [
+    {
+      "email": "evan.dell@partnertx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Partner Therapeutics"
+}

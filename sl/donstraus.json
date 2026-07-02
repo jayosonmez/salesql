@@ -1,0 +1,28 @@
+{
+  "uuid": "b13070fb-ab70-4827-850c-91991f06ddbe",
+  "first_name": "Don",
+  "last_name": "Straus",
+  "full_name": "Don Straus",
+  "linkedin_url": "https://linkedin.com/in/donstraus",
+  "emails": [
+    {
+      "email": "dstraus@firstlightbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "don@firstlightbio.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-271-0112",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "First Light Diagnostics"
+}

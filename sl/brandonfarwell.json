@@ -1,0 +1,48 @@
+{
+  "uuid": "e34ee907-c233-4c50-8314-b01f6a9a6a2a",
+  "first_name": "Brandon",
+  "last_name": "Farwell",
+  "full_name": "Brandon Farwell",
+  "linkedin_url": "https://linkedin.com/in/brandonfarwell",
+  "emails": [
+    {
+      "email": "bfarwell@dfj.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brandon@xfund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brandonfarwell@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "brandon@startx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bfarwell@iss-casis.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brandon.farwell@creativedestructionlab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-204-1636",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Xfund"
+}

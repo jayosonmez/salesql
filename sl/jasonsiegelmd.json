@@ -1,0 +1,16 @@
+{
+  "uuid": "a2ff1cf5-45dd-40b4-a865-5433a3613776",
+  "first_name": "Jason",
+  "last_name": "Siegel, MD",
+  "full_name": "Jason Siegel, MD",
+  "linkedin_url": "https://linkedin.com/in/jasonsiegelmd",
+  "emails": [
+    {
+      "email": "jsiegel@mayoclinic.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "NeuroNow "
+}

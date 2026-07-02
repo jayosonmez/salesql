@@ -1,0 +1,23 @@
+{
+  "uuid": "84e6a291-4846-4ff0-9dea-f4e1e52caa0a",
+  "first_name": "Henry",
+  "last_name": "Kravis",
+  "full_name": "Henry Kravis",
+  "linkedin_url": "https://linkedin.com/in/henry-kravis-503a7110",
+  "emails": [
+    {
+      "email": "kravh@kkr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-937-5449",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "KKR"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "437c69c7-3dbe-4cab-b823-1a9d3883b730",
+  "first_name": "John",
+  "last_name": "Egar",
+  "full_name": "John Egar",
+  "linkedin_url": "https://linkedin.com/in/john-egar-42a71540",
+  "emails": [
+    {
+      "email": "egario@cruzio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "McKenzie Primary Care"
+}

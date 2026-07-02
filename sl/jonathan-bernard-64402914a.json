@@ -1,0 +1,16 @@
+{
+  "uuid": "ec466b83-6a30-4a28-9abf-aa3d1f248df8",
+  "first_name": "Jonathan",
+  "last_name": "Bernard",
+  "full_name": "Jonathan Bernard",
+  "linkedin_url": "https://linkedin.com/in/jonathan-bernard-64402914a",
+  "emails": [
+    {
+      "email": "jonathanbernard@easyemail.xyz",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Angel Investor"
+}

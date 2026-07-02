@@ -1,0 +1,49 @@
+{
+  "uuid": "9dc3b7f4-e38d-464c-a087-33127f6192a1",
+  "first_name": "Leonardo",
+  "last_name": "Girlando",
+  "full_name": "Leonardo Girlando",
+  "linkedin_url": "https://linkedin.com/in/leonardogirlando",
+  "emails": [
+    {
+      "email": "leonardogirlandocaccia@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "lgirlando@psu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonardo.girlando@barrons.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonardo.girlando@gccglobal.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonardo.girlando@bankofamerica.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 814-699-1861",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 980-335-3561",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bank of America"
+}

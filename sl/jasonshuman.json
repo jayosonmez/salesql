@@ -1,0 +1,59 @@
+{
+  "uuid": "5a922c0d-263b-4e41-9fdd-d8fd7a57084a",
+  "first_name": "Jason",
+  "last_name": "Shuman",
+  "full_name": "Jason Shuman",
+  "linkedin_url": "https://linkedin.com/in/jasonshuman",
+  "emails": [
+    {
+      "email": "jason@primary.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jason@meetdandy.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jason@flockhomes.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jason_shuman@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jason@markerlearning.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jason@lighttable.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jason@bobyard.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 978-201-9334",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 646-374-1792",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Primary Venture Partners"
+}

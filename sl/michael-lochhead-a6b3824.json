@@ -1,0 +1,28 @@
+{
+  "uuid": "e4086341-2fad-4a01-9784-9d9652b1a6a2",
+  "first_name": "Michael",
+  "last_name": "Lochhead",
+  "full_name": "Michael Lochhead",
+  "linkedin_url": "https://linkedin.com/in/michael-lochhead-a6b3824",
+  "emails": [
+    {
+      "email": "mlochhead1@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "michael.lochhead@antechdiagnostics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 657-304-2657",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Antech Diagnostics"
+}

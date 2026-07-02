@@ -1,0 +1,16 @@
+{
+  "uuid": "095ad0bd-8cfd-4f2f-af6e-dbc748aed5ef",
+  "first_name": "You",
+  "last_name": "Jung-Min",
+  "full_name": "You Jung-Min",
+  "linkedin_url": "https://linkedin.com/in/you-jung-min-01a67aa9",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+82 31-8006-3100",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Samsung SDI"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "cd4c96fa-68e4-4102-8deb-825573bc1be7",
+  "first_name": "Colleen",
+  "last_name": "Kellenberger",
+  "full_name": "Colleen Kellenberger",
+  "linkedin_url": "https://linkedin.com/in/colleen-kellenberger-74141562",
+  "emails": [
+    {
+      "email": "colleen.kellenberger@abbvie.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-454-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AbbVie"
+}

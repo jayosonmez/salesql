@@ -1,0 +1,16 @@
+{
+  "uuid": "08b33040-66ff-44be-bb17-57ca7744e82a",
+  "first_name": "Bruce",
+  "last_name": "Linton",
+  "full_name": "Bruce Linton",
+  "linkedin_url": "https://linkedin.com/in/brucealinton",
+  "emails": [
+    {
+      "email": "blinton1@rogers.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Tweed Inc."
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "ad212137-bb86-46bd-8278-ace18695d2ea",
+  "first_name": "Lee",
+  "last_name": "Camp",
+  "full_name": "Lee Camp",
+  "linkedin_url": "https://linkedin.com/in/lee-camp-4a058380",
+  "emails": [
+    {
+      "email": "lcamp@metrohealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 216-778-7800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lucent Dermatology and Skin Surgery Center"
+}

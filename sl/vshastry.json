@@ -1,0 +1,33 @@
+{
+  "uuid": "d22cf5ad-309b-448d-a89c-24ac97635222",
+  "first_name": "Vish",
+  "last_name": "Shastry",
+  "full_name": "Vish Shastry",
+  "linkedin_url": "https://linkedin.com/in/vshastry",
+  "emails": [
+    {
+      "email": "vshastry@msn.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vish.shastry@banyan.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vish.shastry@bilt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 704-904-8767",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bilt"
+}

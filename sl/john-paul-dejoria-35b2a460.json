@@ -1,0 +1,23 @@
+{
+  "uuid": "3edb61af-2d6e-4cbf-bdde-78c7edd9f0a5",
+  "first_name": "John Paul",
+  "last_name": "Dejoria",
+  "full_name": "John Paul Dejoria",
+  "linkedin_url": "https://linkedin.com/in/john-paul-dejoria-35b2a460",
+  "emails": [
+    {
+      "email": "d-j@paulmitchell.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 661-251-1062",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "John Paul Mitchell Systems"
+}

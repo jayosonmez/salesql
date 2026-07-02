@@ -1,0 +1,17 @@
+{
+  "uuid": "093150c2-4ea9-4e41-bb34-612b1a3ccdc6",
+  "first_name": "Sergi",
+  "last_name": "Regot",
+  "full_name": "Sergi Regot",
+  "linkedin_url": "https://linkedin.com/in/sergi-regot-43858356",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 410-955-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Johns Hopkins University School of Medicine"
+}

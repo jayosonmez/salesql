@@ -1,0 +1,21 @@
+{
+  "uuid": "02f1013d-5952-4294-8458-ce08842f38c5",
+  "first_name": "Patrick",
+  "last_name": "Ryan",
+  "full_name": "Patrick Ryan",
+  "linkedin_url": "https://linkedin.com/in/paddy-ryan",
+  "emails": [
+    {
+      "email": "patrick@founderspledge.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "patrick.ryan@joinodin.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Odin"
+}

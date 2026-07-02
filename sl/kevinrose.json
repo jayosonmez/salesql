@@ -1,0 +1,38 @@
+{
+  "uuid": "8472c27e-ca27-45f6-92c8-a1493fd8bc14",
+  "first_name": "Kevin",
+  "last_name": "Rose",
+  "full_name": "Kevin Rose",
+  "linkedin_url": "https://linkedin.com/in/kevinrose",
+  "emails": [
+    {
+      "email": "kevinrose@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kevin@trueventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kevin@harlanestate.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kevin@digg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-319-2150",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "True Ventures"
+}

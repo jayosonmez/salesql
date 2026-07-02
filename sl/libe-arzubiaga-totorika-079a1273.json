@@ -1,0 +1,23 @@
+{
+  "uuid": "eae08aa1-491e-4b3e-b8ba-8129cc250711",
+  "first_name": "Libe",
+  "last_name": "Arzubiaga Totorika",
+  "full_name": "Libe Arzubiaga Totorika",
+  "linkedin_url": "https://linkedin.com/in/libe-arzubiaga-totorika-079a1273",
+  "emails": [
+    {
+      "email": "ltotorika@southampton.ac.uk",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 23 8059 5000",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Southampton"
+}

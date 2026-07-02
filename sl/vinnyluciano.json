@@ -1,0 +1,28 @@
+{
+  "uuid": "91b37057-145c-423b-ada2-6126f36562ab",
+  "first_name": "Vinny",
+  "last_name": "Luciano",
+  "full_name": "Vinny Luciano",
+  "linkedin_url": "https://linkedin.com/in/vinnyluciano",
+  "emails": [
+    {
+      "email": "vinny@luciano.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vinny@accuvein.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 833-321-6398",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NextVein"
+}

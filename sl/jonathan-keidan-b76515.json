@@ -1,0 +1,31 @@
+{
+  "uuid": "dbd49e84-ec43-4c93-8ba0-79f1cfd03fbb",
+  "first_name": "Jonathan",
+  "last_name": "Keidan",
+  "full_name": "Jonathan Keidan",
+  "linkedin_url": "https://linkedin.com/in/jonathan-keidan-b76515",
+  "emails": [
+    {
+      "email": "jon@keidanmgmt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan.keidan@mendeley.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@torchcapital.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jkeidan@cfr.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Torch Capital"
+}

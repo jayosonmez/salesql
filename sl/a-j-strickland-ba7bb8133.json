@@ -1,0 +1,23 @@
+{
+  "uuid": "5479eba8-279f-4f5d-b002-6833ace79448",
+  "first_name": "A.J.",
+  "last_name": "Strickland",
+  "full_name": "A.J. Strickland",
+  "linkedin_url": "https://linkedin.com/in/a-j-strickland-ba7bb8133",
+  "emails": [
+    {
+      "email": "astrickland@ESHospital.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 816-630-6081",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EvolveMD"
+}

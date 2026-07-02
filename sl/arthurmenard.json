@@ -1,0 +1,21 @@
+{
+  "uuid": "10c8841f-46fb-4668-87e4-be539085ec39",
+  "first_name": "Arthur",
+  "last_name": "Menard de Calenge",
+  "full_name": "Arthur Menard de Calenge",
+  "linkedin_url": "https://linkedin.com/in/arthurmenard",
+  "emails": [
+    {
+      "email": "arthur@liquiddeath.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "arthur@spartanunderwear.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "HAVN"
+}

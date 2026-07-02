@@ -1,0 +1,17 @@
+{
+  "uuid": "b9f0ad43-92aa-4237-9fce-bddc151fab52",
+  "first_name": "Lionel Brockman",
+  "last_name": "Richie Jr.",
+  "full_name": "Lionel Brockman Richie Jr.",
+  "linkedin_url": "https://linkedin.com/in/lionel-brockman-richie-jr-b22386201",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 206-266-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Amazon"
+}

@@ -1,0 +1,46 @@
+{
+  "uuid": "b53b22a4-c972-44b8-b4c5-dffcff564a81",
+  "first_name": "Philipp",
+  "last_name": "Herkelmann",
+  "full_name": "Philipp Herkelmann",
+  "linkedin_url": "https://linkedin.com/in/philipp-herkelmann-5238742b",
+  "emails": [
+    {
+      "email": "philipp.herkelmann@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "philipp@giftme.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philipp.herkelmann@googlemail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "herkelmann_p@itexia.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "philipp@room720.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "philipp@turian.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philipp.herkelmann@kreatize.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "turian"
+}

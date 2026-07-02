@@ -1,0 +1,36 @@
+{
+  "uuid": "d595416e-61e3-404f-badf-55075169c806",
+  "first_name": "Mohamed",
+  "last_name": "Kazaz (ZzazZ)",
+  "full_name": "Mohamed Kazaz (ZzazZ)",
+  "linkedin_url": "https://linkedin.com/in/mohamed-zzazz",
+  "emails": [
+    {
+      "email": "mohamed_zzazz@butterhq.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mohamedkazzazz@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mohamed@mercury.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mohamed@anthropic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mohamed@openai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Moritz (formerly Arcline)"
+}

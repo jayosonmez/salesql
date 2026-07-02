@@ -1,0 +1,46 @@
+{
+  "uuid": "20cbe61d-5dbc-41fc-905e-e021c31ee9e5",
+  "first_name": "Ajey",
+  "last_name": "Gore",
+  "full_name": "Ajey Gore",
+  "linkedin_url": "https://linkedin.com/in/ajeygore",
+  "emails": [
+    {
+      "email": "ajeygore@dbs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ajey_gore@imda.gov.sg",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ajey@nus.edu.sg",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ajey@go-jek.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ajey@helloally.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ajeygore@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "netbuzzme@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Chief Tinkerer-in-Residence | Builder & Advisor"
+}

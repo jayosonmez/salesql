@@ -1,0 +1,41 @@
+{
+  "uuid": "dcaf27fb-e4aa-49df-a992-8305ed131fa4",
+  "first_name": "Amie",
+  "last_name": "Langbein, DO, CPCC, PCC, CDWF",
+  "full_name": "Amie Langbein, DO, CPCC, PCC, CDWF",
+  "linkedin_url": "https://linkedin.com/in/amie-langbein-do-cpcc-pcc-cdwf-5542a1a6",
+  "emails": [
+    {
+      "email": "amie.langbein@betterup.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amie.langbein@jefferson.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amie@amwa-doc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amie.langbein@betterup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amie.langbein@newhorizonstrategies.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jrajlang@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Story Doc"
+}

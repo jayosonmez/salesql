@@ -1,0 +1,23 @@
+{
+  "uuid": "e9e6a2e3-e31f-4142-a3d8-d4d61f1663f1",
+  "first_name": "Derrick",
+  "last_name": "Samuelson",
+  "full_name": "Derrick Samuelson",
+  "linkedin_url": "https://linkedin.com/in/derrick-samuelson-06031397",
+  "emails": [
+    {
+      "email": "dsamuelson@unmc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 402-559-9149",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Nebraska Medical Center"
+}

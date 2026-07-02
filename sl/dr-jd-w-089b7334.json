@@ -1,0 +1,33 @@
+{
+  "uuid": "3a50680b-58b6-431c-8f8f-a59b9599d387",
+  "first_name": "Dr. JD",
+  "last_name": "W.",
+  "full_name": "Dr. JD W.",
+  "linkedin_url": "https://linkedin.com/in/dr-jd-w-089b7334",
+  "emails": [
+    {
+      "email": "jdwide@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "wideman@janejayne.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jd@janeandjayne.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 970-400-7066",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "JayneMed"
+}

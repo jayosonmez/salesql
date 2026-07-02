@@ -1,0 +1,21 @@
+{
+  "uuid": "1bed88c1-d62e-41dc-a5b1-ecd564c1bbd7",
+  "first_name": "Michael",
+  "last_name": "Madison",
+  "full_name": "Michael Madison",
+  "linkedin_url": "https://linkedin.com/in/michael-madison-278b22218",
+  "emails": [
+    {
+      "email": "michael.madison@midwestradiology.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "m.madison@thanacare.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Thanacare"
+}

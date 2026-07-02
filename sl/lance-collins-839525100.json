@@ -1,0 +1,23 @@
+{
+  "uuid": "fa5b0e57-419b-4b9d-bf56-63148f0da5f0",
+  "first_name": "Lance",
+  "last_name": "Collins",
+  "full_name": "Lance Collins",
+  "linkedin_url": "https://linkedin.com/in/lance-collins-839525100",
+  "emails": [
+    {
+      "email": "lance@core-hydration.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-640-0500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Core Nutrition, LLC"
+}

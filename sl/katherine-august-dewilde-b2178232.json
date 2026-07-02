@@ -1,0 +1,46 @@
+{
+  "uuid": "d5a20153-5362-43ef-8ab1-8dd9dd7cf67f",
+  "first_name": "Katherine",
+  "last_name": "August-deWilde",
+  "full_name": "Katherine August-deWilde",
+  "linkedin_url": "https://linkedin.com/in/katherine-august-dewilde-b2178232",
+  "emails": [
+    {
+      "email": "katherine@instawork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "katherine.august-dewilde@sunrun.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "katherine.august-dewilde@newfront.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "katherine@eventbrite.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kdewilde@firstrepublic.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kdewilde1@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kdewildesf@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Partnership for San Francisco "
+}

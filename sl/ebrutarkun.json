@@ -1,0 +1,17 @@
+{
+  "uuid": "e5288790-ddf4-4321-9151-724091c7a3f0",
+  "first_name": "Ebru",
+  "last_name": "T.",
+  "full_name": "Ebru T.",
+  "linkedin_url": "https://linkedin.com/in/ebrutarkun",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+90 850 222 0268",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BNTPRO Bilgi ve Iletisim Hizmetleri A.Ş."
+}

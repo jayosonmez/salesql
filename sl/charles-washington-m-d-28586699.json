@@ -1,0 +1,17 @@
+{
+  "uuid": "ba2191e9-337f-4d64-ad6f-bd5bcf5ef462",
+  "first_name": "Charles",
+  "last_name": "Washington, M.D.",
+  "full_name": "Charles Washington, M.D.",
+  "linkedin_url": "https://linkedin.com/in/charles-washington-m-d-28586699",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 608-756-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "WholeLife Empowerment"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "60308d50-7abd-41b9-b723-f4e4a654af61",
+  "first_name": "Humberto",
+  "last_name": "Weber",
+  "full_name": "Humberto Weber",
+  "linkedin_url": "https://linkedin.com/in/humbertoweber",
+  "emails": [
+    {
+      "email": "humbertoweber2000@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "humberto@jaleko.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "humberto.weber@hultprize.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "humberto.weber@dasa.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "w_humberto@programaprolider.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 21 3978-6400",
+      "type": "Work",
+      "country_code": "BR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hospital Badim | Oficial"
+}

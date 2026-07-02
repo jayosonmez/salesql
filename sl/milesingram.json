@@ -1,0 +1,23 @@
+{
+  "uuid": "961df491-5d16-4148-b59c-72d7f02c55bd",
+  "first_name": "Miles",
+  "last_name": "Ingram",
+  "full_name": "Miles Ingram",
+  "linkedin_url": "https://linkedin.com/in/milesingram",
+  "emails": [
+    {
+      "email": "miles.ingram@gorevel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-690-9180",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Revel"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a8cc80c8-096b-4cf6-8910-e516fe1c5b56",
+  "first_name": "Mesut",
+  "last_name": "B.",
+  "full_name": "Mesut B.",
+  "linkedin_url": "https://linkedin.com/in/white-hat",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+90 538 518 99 34",
+      "type": "Personal",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "KİPRAS GROUP"
+}

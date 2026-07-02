@@ -1,0 +1,23 @@
+{
+  "uuid": "7aa0c029-b8ee-4018-af01-2749ac88bf6a",
+  "first_name": "Archana",
+  "last_name": "Balasubramanya",
+  "full_name": "Archana Balasubramanya",
+  "linkedin_url": "https://linkedin.com/in/archana-balasubramanya-4778a3101",
+  "emails": [
+    {
+      "email": "archana.balasubramanya@kp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-987-3118",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kaiser Permanente Northwest"
+}

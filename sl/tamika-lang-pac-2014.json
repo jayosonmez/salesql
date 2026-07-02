@@ -1,0 +1,28 @@
+{
+  "uuid": "8a232423-ba63-49c7-bb9e-2a2aecc2adb8",
+  "first_name": "Tamika",
+  "last_name": "Lang DMSc, MHS, PA-C",
+  "full_name": "Tamika Lang DMSc, MHS, PA-C",
+  "linkedin_url": "https://linkedin.com/in/tamika-lang-pac-2014",
+  "emails": [
+    {
+      "email": "tamika.lang@vituity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tlang@presby.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 864-833-2820",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Presbyterian College"
+}

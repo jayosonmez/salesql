@@ -1,0 +1,46 @@
+{
+  "uuid": "5ed1309b-82ae-4a92-9d81-44eab242fe58",
+  "first_name": "Phoebe",
+  "last_name": "W.",
+  "full_name": "Phoebe W.",
+  "linkedin_url": "https://linkedin.com/in/phoebewang1",
+  "emails": [
+    {
+      "email": "phoebeocallahan@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "phoebe.wangxinjie@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "wang_p@connectedfreight.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "p-wang@bluware.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "xw17@rice.edu",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "phoebe@aiip.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "phoebe@aifund.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "nuvini"
+}

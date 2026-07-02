@@ -1,0 +1,28 @@
+{
+  "uuid": "5e70983b-f328-4120-ac98-5461b3f8b10f",
+  "first_name": "Geoff",
+  "last_name": "Fox",
+  "full_name": "Geoff Fox",
+  "linkedin_url": "https://linkedin.com/in/geoff-fox-73350289",
+  "emails": [
+    {
+      "email": "gfox@traitbio.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "geoff.fox@regeneron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-347-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Regeneron"
+}

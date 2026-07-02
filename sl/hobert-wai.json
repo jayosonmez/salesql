@@ -1,0 +1,41 @@
+{
+  "uuid": "40636154-4b4f-48d6-b5b3-8c13f63ad141",
+  "first_name": "Hobert",
+  "last_name": "Wai",
+  "full_name": "Hobert Wai",
+  "linkedin_url": "https://linkedin.com/in/hobert-wai",
+  "emails": [
+    {
+      "email": "hobert_wai@bd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "polymerases@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "hobert@bandangels.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hw@berkeley.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hobert@healthtechcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hobert@blacktigercap.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hanawa Group"
+}

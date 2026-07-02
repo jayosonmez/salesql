@@ -1,0 +1,16 @@
+{
+  "uuid": "977cfb8f-4c13-462a-b2ce-59069e3006fa",
+  "first_name": "Bruce",
+  "last_name": "Fitzgerald",
+  "full_name": "Bruce Fitzgerald",
+  "linkedin_url": "https://linkedin.com/in/bruce-fitzgerald-2b8bb81b",
+  "emails": [
+    {
+      "email": "brf.md@juno.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Alameda County Mediacl Center"
+}

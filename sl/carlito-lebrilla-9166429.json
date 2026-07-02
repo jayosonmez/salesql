@@ -1,0 +1,28 @@
+{
+  "uuid": "08c737f5-4b50-4fed-a72f-7270597820e8",
+  "first_name": "Carlito",
+  "last_name": "Lebrilla",
+  "full_name": "Carlito Lebrilla",
+  "linkedin_url": "https://linkedin.com/in/carlito-lebrilla-9166429",
+  "emails": [
+    {
+      "email": "l.c@evolvebiosystems.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cblebrilla@ucdavis.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 530-752-1011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Davis"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "3a98e2ce-dbcf-4a18-95e7-a7432f4709e2",
+  "first_name": "Karen",
+  "last_name": "Carlson",
+  "full_name": "Karen Carlson",
+  "linkedin_url": "https://linkedin.com/in/karen-carlson-271826187",
+  "emails": [
+    {
+      "email": "karen.carlson@massgeneral.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-242-1100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts General Hospital"
+}

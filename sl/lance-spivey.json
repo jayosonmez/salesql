@@ -1,0 +1,39 @@
+{
+  "uuid": "4c223547-3041-4964-9eed-f2dcd79d6d58",
+  "first_name": "Lance",
+  "last_name": "Spivey",
+  "full_name": "Lance Spivey",
+  "linkedin_url": "https://linkedin.com/in/lance-spivey",
+  "emails": [
+    {
+      "email": "lspivey@stratifipartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lspivey@stratifihealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lspivey@catalysthealthgroup.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 972-384-7000",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 972-384-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Catalyst Health Group"
+}

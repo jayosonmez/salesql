@@ -1,0 +1,21 @@
+{
+  "uuid": "a2201c43-6043-406e-a2e6-57c6f17c87d7",
+  "first_name": "Jason",
+  "last_name": "Hoefling",
+  "full_name": "Jason Hoefling",
+  "linkedin_url": "https://linkedin.com/in/jason-hoefling-06274566",
+  "emails": [
+    {
+      "email": "jhoefling@medstarhealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jhoefling@MedStarHealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "MedStar Health"
+}

@@ -1,0 +1,36 @@
+{
+  "uuid": "77cf54f7-f334-48e8-965d-1faac04ae063",
+  "first_name": "Leonid",
+  "last_name": "Igolnik",
+  "full_name": "Leonid Igolnik",
+  "linkedin_url": "https://linkedin.com/in/ligolnik",
+  "emails": [
+    {
+      "email": "leonid@salesbricks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonid@speedscale.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonid@synthesized.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "l.igolnik@arkoselabs.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lim@igolnik.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Salesbricks 🧱"
+}

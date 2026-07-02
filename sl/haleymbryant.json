@@ -1,0 +1,41 @@
+{
+  "uuid": "95c85a90-3346-4eea-b638-6386ca6daa6e",
+  "first_name": "Haley",
+  "last_name": "Bryant",
+  "full_name": "Haley Bryant",
+  "linkedin_url": "https://linkedin.com/in/haleymbryant",
+  "emails": [
+    {
+      "email": "hmb7x@virginia.edu",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "haleymbryant@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "haley@blckvc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "haley@substack.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "haley@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "haley@flow.club",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hustle Fund"
+}

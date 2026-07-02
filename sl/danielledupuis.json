@@ -1,0 +1,17 @@
+{
+  "uuid": "e401453c-460e-44b0-b9d4-18e185d9fc10",
+  "first_name": "Danielle",
+  "last_name": "DuPuis",
+  "full_name": "Danielle DuPuis",
+  "linkedin_url": "https://linkedin.com/in/danielledupuis",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 507-255-7102",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UF Undergraduate American Medical Women's Association"
+}

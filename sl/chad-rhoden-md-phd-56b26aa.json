@@ -1,0 +1,43 @@
+{
+  "uuid": "e168756a-4d30-4f66-b6df-4abebe87d131",
+  "first_name": "Chad",
+  "last_name": "Rhoden, MD, PhD",
+  "full_name": "Chad Rhoden, MD, PhD",
+  "linkedin_url": "https://linkedin.com/in/chad-rhoden-md-phd-56b26aa",
+  "emails": [
+    {
+      "email": "crhoden1@icloud.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "crhoden@magellanhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chad.rhoden@emcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chad.rhoden@EmCare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rhodenc@magellanhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 601-421-0100",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NHP Wellness Clinic"
+}

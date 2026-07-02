@@ -1,0 +1,21 @@
+{
+  "uuid": "2b93e9ff-356a-4946-8a50-58fae9f4ee40",
+  "first_name": "Kevin",
+  "last_name": "Christoffersen",
+  "full_name": "Kevin Christoffersen",
+  "linkedin_url": "https://linkedin.com/in/christoz1",
+  "emails": [
+    {
+      "email": "kevin_christoffersen@gallup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kwchristo@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

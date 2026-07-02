@@ -1,0 +1,28 @@
+{
+  "uuid": "fc5757d5-5847-4d69-bca1-7e4072db52a8",
+  "first_name": "Arpan",
+  "last_name": "Ajmera",
+  "full_name": "Arpan Ajmera",
+  "linkedin_url": "https://linkedin.com/in/arpan-ajmera",
+  "emails": [
+    {
+      "email": "arpan@venture.university",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "arpan@vufund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 347-342-7815",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VU Venture Partners"
+}

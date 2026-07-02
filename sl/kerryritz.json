@@ -1,0 +1,53 @@
+{
+  "uuid": "5b654449-a4f9-4c42-acd2-c464a1537234",
+  "first_name": "Kerry",
+  "last_name": "Ritz",
+  "full_name": "Kerry Ritz",
+  "linkedin_url": "https://linkedin.com/in/kerryritz",
+  "emails": [
+    {
+      "email": "kerry.ritz@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kerryritz@dsxcloud.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kerry@palringo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "r-kerry@newfound.global",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kerryritz@seabenergy.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "k.ritz@prosfit.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kerry@europa.eu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 3003 5086",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SEaB ENERGY (SEaB Power Ltd)"
+}

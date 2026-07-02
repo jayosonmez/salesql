@@ -1,0 +1,28 @@
+{
+  "uuid": "fc03b3d4-c0e4-4ed8-a4b2-abfc05da45b7",
+  "first_name": "Carl",
+  "last_name": "Hewitt",
+  "full_name": "Carl Hewitt",
+  "linkedin_url": "https://linkedin.com/in/carl-c-hewitt",
+  "emails": [
+    {
+      "email": "chewitt@ford.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carl@hewitt.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 313-322-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ford Motor Company"
+}

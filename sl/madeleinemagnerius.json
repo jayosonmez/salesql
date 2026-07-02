@@ -1,0 +1,59 @@
+{
+  "uuid": "52807563-52d0-47c5-8ded-03b1c78a2c11",
+  "first_name": "Madeleine",
+  "last_name": "Magnerius",
+  "full_name": "Madeleine Magnerius",
+  "linkedin_url": "https://linkedin.com/in/madeleinemagnerius",
+  "emails": [
+    {
+      "email": "madeleine@looni.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "madeleine@aura-fertility.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "madeleine_magnerius@circulate8.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "madeleine@oconmed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "madeleinemagnerius@fikaconnects.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "madeleine.magnerius@live.se",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "madeleine.magnerius@eqtpartners.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+46 70 886 63 55",
+      "type": "Personal",
+      "country_code": "SE",
+      "is_valid": true
+    },
+    {
+      "phone": "+46 8 506 553 00",
+      "type": "Work",
+      "country_code": "SE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EQT Group"
+}

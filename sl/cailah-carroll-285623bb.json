@@ -1,0 +1,23 @@
+{
+  "uuid": "b790ed28-3965-407c-bc84-bfc042afff45",
+  "first_name": "Cailah",
+  "last_name": "Carroll",
+  "full_name": "Cailah Carroll",
+  "linkedin_url": "https://linkedin.com/in/cailah-carroll-285623bb",
+  "emails": [
+    {
+      "email": "cailah_carroll@mckinsey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-446-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "McKinsey & Company"
+}

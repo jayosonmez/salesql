@@ -1,0 +1,21 @@
+{
+  "uuid": "8dd8f306-c13b-478d-ad7d-03a97a861126",
+  "first_name": "David",
+  "last_name": "Lewis",
+  "full_name": "David Lewis",
+  "linkedin_url": "https://linkedin.com/in/david-lewis-9a7322154",
+  "emails": [
+    {
+      "email": "david@lunadna.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "davidl@lunadna.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Ganley Investments LLC"
+}

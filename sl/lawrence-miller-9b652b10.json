@@ -1,0 +1,31 @@
+{
+  "uuid": "fb2148fb-c027-48aa-a153-2fd508a48c35",
+  "first_name": "Lawrence",
+  "last_name": "Miller",
+  "full_name": "Lawrence Miller",
+  "linkedin_url": "https://linkedin.com/in/lawrence-miller-9b652b10",
+  "emails": [
+    {
+      "email": "lmiller@apnimed.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lgmiller@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "miller.l@activatenetworks.net",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lmiller@tphase.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Apnimed, Inc."
+}

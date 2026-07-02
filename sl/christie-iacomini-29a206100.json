@@ -1,0 +1,23 @@
+{
+  "uuid": "d0201a7a-6c6f-426a-8d43-d11a37fd916b",
+  "first_name": "Christie",
+  "last_name": "Iacomini",
+  "full_name": "Christie Iacomini",
+  "linkedin_url": "https://linkedin.com/in/christie-iacomini-29a206100",
+  "emails": [
+    {
+      "email": "ciacomini@lockheedmartin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 301-897-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lockheed Martin"
+}

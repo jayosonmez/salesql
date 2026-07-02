@@ -1,0 +1,17 @@
+{
+  "uuid": "7fedfcc8-c0c3-4895-8798-64e4edf77f72",
+  "first_name": "Jeremy",
+  "last_name": "LaTrasse",
+  "full_name": "Jeremy LaTrasse",
+  "linkedin_url": "https://linkedin.com/in/jeremylatrasse",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 415-300-0598",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

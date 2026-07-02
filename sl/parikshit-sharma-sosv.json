@@ -1,0 +1,28 @@
+{
+  "uuid": "6c0d46d1-822a-49e2-8e3f-790545f819c9",
+  "first_name": "Parikshit",
+  "last_name": "Sharma",
+  "full_name": "Parikshit Sharma",
+  "linkedin_url": "https://linkedin.com/in/parikshit-sharma-sosv",
+  "emails": [
+    {
+      "email": "parikshit.sharma@sosv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "parikshit@seevividly.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-698-9600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SOSV"
+}

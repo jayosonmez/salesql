@@ -1,0 +1,39 @@
+{
+  "uuid": "037c4dc2-5508-4d36-abad-eeedc54952d9",
+  "first_name": "Teddy",
+  "last_name": "Scott, Ph.D.",
+  "full_name": "Teddy Scott, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/teddy-scott-ph-d-6763338",
+  "emails": [
+    {
+      "email": "teddy@smarthealthcatalyzer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tscott@polsinelli.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "teddy@smarthealthcatalyzer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-819-1900",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 773-610-9643",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SmartHealth Catalyzer, Inc."
+}

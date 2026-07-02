@@ -1,0 +1,16 @@
+{
+  "uuid": "d9c56ba4-36b1-478f-ab92-28abeda772fe",
+  "first_name": "Jordan",
+  "last_name": "Sun",
+  "full_name": "Jordan Sun",
+  "linkedin_url": "https://linkedin.com/in/sunjordan",
+  "emails": [
+    {
+      "email": "jordan.sun@softbankrobotics.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Various Startups"
+}

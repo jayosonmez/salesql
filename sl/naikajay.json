@@ -1,0 +1,36 @@
+{
+  "uuid": "fa3a7af5-ecda-4d65-bf05-f20d06c63a07",
+  "first_name": "Ajay",
+  "last_name": "Naik",
+  "full_name": "Ajay Naik",
+  "linkedin_url": "https://linkedin.com/in/naikajay",
+  "emails": [
+    {
+      "email": "ajay20naik@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ajay.naik@xtraininglive.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ajay@norahealth.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ajay@getpythagoras.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ajay@bodhi.solar",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Pythagoras AI"
+}

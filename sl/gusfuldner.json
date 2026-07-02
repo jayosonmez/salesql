@@ -1,0 +1,26 @@
+{
+  "uuid": "b435913f-46ba-4119-9a01-9ba8d46c9402",
+  "first_name": "Gus",
+  "last_name": "Fuldner",
+  "full_name": "Gus Fuldner",
+  "linkedin_url": "https://linkedin.com/in/gusfuldner",
+  "emails": [
+    {
+      "email": "gus@benchmark.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gus.fuldner@HigherOne.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gus@macaccess.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Club Circle Partners"
+}

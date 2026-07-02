@@ -1,0 +1,16 @@
+{
+  "uuid": "3959166e-efe3-45cd-9760-5cb28f24ea1b",
+  "first_name": "Jan",
+  "last_name": "K.",
+  "full_name": "Jan K.",
+  "linkedin_url": "https://linkedin.com/in/jkoum",
+  "emails": [
+    {
+      "email": "jan@whatsapp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Newlands"
+}

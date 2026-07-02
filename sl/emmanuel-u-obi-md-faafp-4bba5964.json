@@ -1,0 +1,28 @@
+{
+  "uuid": "e2b0c796-3590-49fa-ad41-413b74f2de1b",
+  "first_name": "Emmanuel U.",
+  "last_name": "Obi, MD, FAAFP",
+  "full_name": "Emmanuel U. Obi, MD, FAAFP",
+  "linkedin_url": "https://linkedin.com/in/emmanuel-u-obi-md-faafp-4bba5964",
+  "emails": [
+    {
+      "email": "eobi@essdoc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "emmanuel.obi@mercy.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 314-251-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mercy"
+}

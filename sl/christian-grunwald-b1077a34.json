@@ -1,0 +1,27 @@
+{
+  "uuid": "57310fa8-42fe-4b13-a8db-6528c46762f3",
+  "first_name": "Christian",
+  "last_name": "Grunwald",
+  "full_name": "Christian Grunwald",
+  "linkedin_url": "https://linkedin.com/in/christian-grunwald-b1077a34",
+  "emails": [
+    {
+      "email": "christian.grunwald@gmx.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "grunwald@agctechnologies.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 451 2903360",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AGCT GmbH"
+}

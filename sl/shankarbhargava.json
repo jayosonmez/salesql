@@ -1,0 +1,43 @@
+{
+  "uuid": "0873dccf-8b58-43af-bb91-221c65188386",
+  "first_name": "Shankar",
+  "last_name": "Bhargava",
+  "full_name": "Shankar Bhargava",
+  "linkedin_url": "https://linkedin.com/in/shankarbhargava",
+  "emails": [
+    {
+      "email": "shankar@firsthand.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shankar.bhargava@walmart.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shankar@redswanventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "s-bhargava@tgleaders.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "shankar.bhargav@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 479-273-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Walmart Global Tech"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "15224cbe-76b5-4ab2-84e9-e6a80568aa0d",
+  "first_name": "Lauren",
+  "last_name": "Buie",
+  "full_name": "Lauren Buie",
+  "linkedin_url": "https://linkedin.com/in/lauren-buie",
+  "emails": [
+    {
+      "email": "laurenbuie@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 805-708-8670",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VxBiosciences"
+}

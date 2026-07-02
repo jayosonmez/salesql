@@ -1,0 +1,22 @@
+{
+  "uuid": "16cf434a-682e-4c92-9680-cda0dd5a68e5",
+  "first_name": "Caroline",
+  "last_name": "Beach",
+  "full_name": "Caroline Beach",
+  "linkedin_url": "https://linkedin.com/in/carolinegbeach",
+  "emails": [
+    {
+      "email": "caroline.beach@nttdata.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+81 3-5546-8202",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NTT DATA North America"
+}

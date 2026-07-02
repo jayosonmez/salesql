@@ -1,0 +1,33 @@
+{
+  "uuid": "ae6f74e1-f583-483a-a115-97af5440d745",
+  "first_name": "Lucas",
+  "last_name": "Martin-Fermaud",
+  "full_name": "Lucas Martin-Fermaud",
+  "linkedin_url": "https://linkedin.com/in/lucas-martin-fermaud-22a194b5",
+  "emails": [
+    {
+      "email": "lucas.martinf@orange.fr",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "lm@adit.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 6 49 12 90 26",
+      "type": "Personal",
+      "country_code": "FR",
+      "is_valid": true
+    },
+    {
+      "phone": "+33 1 44 18 31 39",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ADIT"
+}

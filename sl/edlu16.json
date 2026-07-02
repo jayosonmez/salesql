@@ -1,0 +1,33 @@
+{
+  "uuid": "93a5b529-0ca5-4b4f-9fea-190443247d48",
+  "first_name": "Ed",
+  "last_name": "Lu",
+  "full_name": "Ed Lu",
+  "linkedin_url": "https://linkedin.com/in/edlu16",
+  "emails": [
+    {
+      "email": "edlu16@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "elu@fandom.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "elu@a16z.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-762-0780",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fandom"
+}

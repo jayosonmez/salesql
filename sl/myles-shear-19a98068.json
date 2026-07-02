@@ -1,0 +1,21 @@
+{
+  "uuid": "d665c91e-1a69-47f6-a3fe-e5a584b1d8f5",
+  "first_name": "myles",
+  "last_name": "shear",
+  "full_name": "myles shear",
+  "linkedin_url": "https://linkedin.com/in/myles-shear-19a98068",
+  "emails": [
+    {
+      "email": "myles@edmsauce.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "myles@google.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kygo"
+}

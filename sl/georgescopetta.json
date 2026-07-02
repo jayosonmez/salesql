@@ -1,0 +1,16 @@
+{
+  "uuid": "e454b9fb-870b-460a-ab1d-546493edbfcc",
+  "first_name": "George",
+  "last_name": "S.",
+  "full_name": "George S.",
+  "linkedin_url": "https://linkedin.com/in/georgescopetta",
+  "emails": [
+    {
+      "email": "jscopet@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Western Metal Investments"
+}

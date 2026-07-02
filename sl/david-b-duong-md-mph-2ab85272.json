@@ -1,0 +1,28 @@
+{
+  "uuid": "37f96468-af8d-4e70-8974-8ead29d2019f",
+  "first_name": "David B.",
+  "last_name": "Duong, MD, MPH",
+  "full_name": "David B. Duong, MD, MPH",
+  "linkedin_url": "https://linkedin.com/in/david-b-duong-md-mph-2ab85272",
+  "emails": [
+    {
+      "email": "david_duong@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david_duong@hms.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-524-1718",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard Medical School"
+}

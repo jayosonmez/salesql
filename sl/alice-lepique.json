@@ -1,0 +1,16 @@
+{
+  "uuid": "a14480fb-028d-4daf-847b-984925756c54",
+  "first_name": "Alice",
+  "last_name": "Lepique",
+  "full_name": "Alice Lepique",
+  "linkedin_url": "https://linkedin.com/in/alice-lepique",
+  "emails": [
+    {
+      "email": "al@onevc.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ONEVC"
+}

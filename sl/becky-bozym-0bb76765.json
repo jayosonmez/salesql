@@ -1,0 +1,23 @@
+{
+  "uuid": "4900f766-a59f-467e-a62f-19baaa461b3e",
+  "first_name": "Becky",
+  "last_name": "Bozym",
+  "full_name": "Becky Bozym",
+  "linkedin_url": "https://linkedin.com/in/becky-bozym-0bb76765",
+  "emails": [
+    {
+      "email": "becky.bozym@laroche.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 412-367-9300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "La Roche University"
+}

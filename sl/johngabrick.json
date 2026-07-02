@@ -1,0 +1,23 @@
+{
+  "uuid": "af750df7-9b16-4537-9be4-e2d353641ee3",
+  "first_name": "John",
+  "last_name": "Gabrick, MBA, PA-C",
+  "full_name": "John Gabrick, MBA, PA-C",
+  "linkedin_url": "https://linkedin.com/in/johngabrick",
+  "emails": [
+    {
+      "email": "john.gabrick@ahn.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 412-330-2400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Allegheny Health Network"
+}

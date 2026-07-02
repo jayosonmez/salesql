@@ -1,0 +1,27 @@
+{
+  "uuid": "7b85918f-eaf5-4dc8-ae1f-aaba9f99bd53",
+  "first_name": "Mawia",
+  "last_name": "Khairalseed",
+  "full_name": "Mawia Khairalseed",
+  "linkedin_url": "https://linkedin.com/in/mawia-khairalseed-0a9b1026",
+  "emails": [
+    {
+      "email": "mah@k-space.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mawia@sustech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+249 18 379 6852",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Department of Biomedical Engineering"
+}

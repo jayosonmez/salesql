@@ -1,0 +1,16 @@
+{
+  "uuid": "bcbfaa28-a97d-422c-8c64-51a49c729a6a",
+  "first_name": "Aviva",
+  "last_name": "Mehlow",
+  "full_name": "Aviva Mehlow",
+  "linkedin_url": "https://linkedin.com/in/aviva-bulow",
+  "emails": [
+    {
+      "email": "amehlow@useyardstick.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Yard Stick PBC"
+}

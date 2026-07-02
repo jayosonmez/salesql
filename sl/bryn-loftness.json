@@ -1,0 +1,17 @@
+{
+  "uuid": "7c3e54ed-3055-44b5-80de-aea6cea9765b",
+  "first_name": "Bryn",
+  "last_name": "L.",
+  "full_name": "Bryn L.",
+  "linkedin_url": "https://linkedin.com/in/bryn-loftness",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 703-292-5111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "National Science Foundation (NSF)"
+}

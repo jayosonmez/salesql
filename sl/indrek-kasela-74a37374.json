@@ -1,0 +1,31 @@
+{
+  "uuid": "62abe7d9-6717-43cb-9798-6dab55d040d7",
+  "first_name": "Indrek",
+  "last_name": "Kasela",
+  "full_name": "Indrek Kasela",
+  "linkedin_url": "https://linkedin.com/in/indrek-kasela-74a37374",
+  "emails": [
+    {
+      "email": "indrek@miros.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "indrek@elering.ee",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "indrek.kasela@gscan.eu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "indrek@crossxcheck.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Bizuu"
+}

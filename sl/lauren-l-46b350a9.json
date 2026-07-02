@@ -1,0 +1,17 @@
+{
+  "uuid": "f40fa2f1-28ab-4424-b390-80e2962e2cfc",
+  "first_name": "Lauren",
+  "last_name": "L.",
+  "full_name": "Lauren L.",
+  "linkedin_url": "https://linkedin.com/in/lauren-l-46b350a9",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 858-285-4122",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CRISPR QC"
+}

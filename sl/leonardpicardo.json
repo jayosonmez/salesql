@@ -1,0 +1,46 @@
+{
+  "uuid": "9bd4e192-909e-4eae-af60-493618e16295",
+  "first_name": "Leonard",
+  "last_name": "Picardo",
+  "full_name": "Leonard Picardo",
+  "linkedin_url": "https://linkedin.com/in/leonardpicardo",
+  "emails": [
+    {
+      "email": "p-l@tgleaders.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonard@systm.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonard@cam.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonard@huel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lpicardo@mantaray.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lspicardo@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "leonard.picardo@heliosx.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "HeliosX Group"
+}

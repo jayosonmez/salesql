@@ -1,0 +1,17 @@
+{
+  "uuid": "25256e92-b2fd-4621-877e-54f2c6870497",
+  "first_name": "Ecson",
+  "last_name": "Obando",
+  "full_name": "Ecson Obando",
+  "linkedin_url": "https://linkedin.com/in/ecson-obando",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 844-696-5235",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ImmunityBio, Inc."
+}

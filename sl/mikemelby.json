@@ -1,0 +1,61 @@
+{
+  "uuid": "6ae72198-4e5a-4c66-bbd2-0e0f9a03b1cb",
+  "first_name": "Mike",
+  "last_name": "Melby",
+  "full_name": "Mike Melby",
+  "linkedin_url": "https://linkedin.com/in/mikemelby",
+  "emails": [
+    {
+      "email": "mike.melby@freeletics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "m.melby@cesenafc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mmelby@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mm@fitlab.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mike@paydivvy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mm@fitplanapp.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mike@livemomentous.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mike@assaultfitness.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mike@mayweather.fit",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mike@mvmnt.fit",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "FitLab"
+}

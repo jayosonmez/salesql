@@ -1,0 +1,28 @@
+{
+  "uuid": "26107d94-064e-481f-a4ff-cb87140899ff",
+  "first_name": "Amy",
+  "last_name": "Lee",
+  "full_name": "Amy Lee",
+  "linkedin_url": "https://linkedin.com/in/amylee623",
+  "emails": [
+    {
+      "email": "amy@airfitnow.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alee@ihma.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-303-5003",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IHMA"
+}

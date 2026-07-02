@@ -1,0 +1,23 @@
+{
+  "uuid": "0e937479-1587-49e2-a458-b6c809b12797",
+  "first_name": "Alexandra",
+  "last_name": "Owens, MD",
+  "full_name": "Alexandra Owens, MD",
+  "linkedin_url": "https://linkedin.com/in/alexandra-owens-md-b5100a7a",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 727-742-6239",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 727-532-0002",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BayCare Medical Group"
+}

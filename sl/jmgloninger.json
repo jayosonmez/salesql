@@ -1,0 +1,23 @@
+{
+  "uuid": "415db40e-e2db-4992-b11c-8e380692e7d6",
+  "first_name": "John Mauro",
+  "last_name": "Gloninger",
+  "full_name": "John Mauro Gloninger",
+  "linkedin_url": "https://linkedin.com/in/jmgloninger",
+  "emails": [
+    {
+      "email": "jgloninger@triumvirate.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-628-8098",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Triumvirate Environmental"
+}

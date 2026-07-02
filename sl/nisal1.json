@@ -1,0 +1,66 @@
+{
+  "uuid": "228d314e-9316-4c8e-a824-b8f897e509d9",
+  "first_name": "Nisa",
+  "last_name": "Leung",
+  "full_name": "Nisa Leung",
+  "linkedin_url": "https://linkedin.com/in/nisal1",
+  "emails": [
+    {
+      "email": "nleung@epibiologics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "n.leung@Insilico.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nisa.leung@leydenlabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nisa.leung@emulatebio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nisa@qimingventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nisa.leung@zailaboratory.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "nisaleung@hkex.com.hk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "l-n@cansinotech.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "nisal@venusmedtech.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "l-n@beliefbiomed.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "nisa@qimingvc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Aulis Capital"
+}

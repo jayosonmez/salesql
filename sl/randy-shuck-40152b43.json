@@ -1,0 +1,28 @@
+{
+  "uuid": "09313b4b-ec97-42fb-b6d4-d4d80bf223e6",
+  "first_name": "Randy",
+  "last_name": "Shuck",
+  "full_name": "Randy Shuck",
+  "linkedin_url": "https://linkedin.com/in/randy-shuck-40152b43",
+  "emails": [
+    {
+      "email": "rashuck@tampabay.rr.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "randy.shuck@comphealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-930-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CompHealth"
+}

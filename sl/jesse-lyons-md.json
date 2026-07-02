@@ -1,0 +1,16 @@
+{
+  "uuid": "f9fc76ad-614d-4d40-bf7f-f39a407c0b06",
+  "first_name": "Jesse",
+  "last_name": "Lyons, MD",
+  "full_name": "Jesse Lyons, MD",
+  "linkedin_url": "https://linkedin.com/in/jesse-lyons-md",
+  "emails": [
+    {
+      "email": "jesse.lyons@jaguars.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Baptist Primary Care"
+}

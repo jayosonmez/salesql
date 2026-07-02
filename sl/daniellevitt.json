@@ -1,0 +1,44 @@
+{
+  "uuid": "7f011f7f-1825-457c-ae32-74385e3b3133",
+  "first_name": "Daniel",
+  "last_name": "L.",
+  "full_name": "Daniel L.",
+  "linkedin_url": "https://linkedin.com/in/daniellevitt",
+  "emails": [
+    {
+      "email": "daniel@bioz.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "d@levitt.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "daniel@stemrad.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "daniel@bioz.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-209-5967",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-933-3377",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bioz"
+}

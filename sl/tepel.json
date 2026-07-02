@@ -1,0 +1,16 @@
+{
+  "uuid": "b173d802-fa15-4eab-b943-c2765f2b99fd",
+  "first_name": "Matthias",
+  "last_name": "Tepel",
+  "full_name": "Matthias Tepel",
+  "linkedin_url": "https://linkedin.com/in/tepel",
+  "emails": [
+    {
+      "email": "matthias.tepel@globalfounders.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

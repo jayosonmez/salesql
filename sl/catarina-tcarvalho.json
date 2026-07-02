@@ -1,0 +1,28 @@
+{
+  "uuid": "da169270-6df4-4c89-be40-e9bffd4e1949",
+  "first_name": "Catarina",
+  "last_name": "Carvalho",
+  "full_name": "Catarina Carvalho",
+  "linkedin_url": "https://linkedin.com/in/catarina-tcarvalho",
+  "emails": [
+    {
+      "email": "catarina@velezreyesmas.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "catarina_carvalho@mckinsey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-446-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "McKinsey & Company"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f2bb954d-f4b1-4195-9dc4-9d39e7bda0f4",
+  "first_name": "Dr. Sarah",
+  "last_name": "Andreas",
+  "full_name": "Dr. Sarah Andreas",
+  "linkedin_url": "https://linkedin.com/in/drsarahandreas",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+49 228 3506200",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "REDcert GmbH"
+}

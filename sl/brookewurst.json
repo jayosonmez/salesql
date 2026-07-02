@@ -1,0 +1,51 @@
+{
+  "uuid": "51e370a7-f7ae-4849-979a-6ad0d945fbf8",
+  "first_name": "Brooke",
+  "last_name": "Wurst",
+  "full_name": "Brooke Wurst",
+  "linkedin_url": "https://linkedin.com/in/brookewurst",
+  "emails": [
+    {
+      "email": "brooke@lewesfc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brooke@oaklandballers.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brooke@wefunder.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bewurst@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bewurst@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bwurst@triadtrust.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bwurst@remoteharbor.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "brooke@rais3.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "RAIS3 Partners"
+}

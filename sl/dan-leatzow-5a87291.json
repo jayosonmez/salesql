@@ -1,0 +1,23 @@
+{
+  "uuid": "9516769b-1312-4281-8bcd-214e065240f4",
+  "first_name": "Dan",
+  "last_name": "Leatzow",
+  "full_name": "Dan Leatzow",
+  "linkedin_url": "https://linkedin.com/in/dan-leatzow-5a87291",
+  "emails": [
+    {
+      "email": "dleatzow@resodyn.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 406-497-5200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Resodyn Corporation"
+}

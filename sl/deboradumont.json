@@ -1,0 +1,31 @@
+{
+  "uuid": "5a50a7c2-2090-4764-a4e2-22b2559df06e",
+  "first_name": "Debora",
+  "last_name": "Dumont",
+  "full_name": "Debora Dumont",
+  "linkedin_url": "https://linkedin.com/in/deboradumont",
+  "emails": [
+    {
+      "email": "ddumont@primmunerx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ddumont@anavotx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "debora@bioqubeventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ddumont@enhanc3dgenomics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Spica Therapeutics"
+}

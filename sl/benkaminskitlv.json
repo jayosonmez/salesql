@@ -1,0 +1,41 @@
+{
+  "uuid": "cd1a34f4-e46b-48f9-a9e5-0eeedb171c44",
+  "first_name": "Ben",
+  "last_name": "Kaminski",
+  "full_name": "Ben Kaminski",
+  "linkedin_url": "https://linkedin.com/in/benkaminskitlv",
+  "emails": [
+    {
+      "email": "benji.kaminski@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ben.kaminski@gs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ben@joindrover.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bkaminski@targetglobal.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ben@joinbranded.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bkaminski@ypo.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Essor"
+}

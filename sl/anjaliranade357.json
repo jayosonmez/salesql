@@ -1,0 +1,23 @@
+{
+  "uuid": "ec0a15a0-fca8-462b-8fdd-4b6eb0762b29",
+  "first_name": "Anjali",
+  "last_name": "Ranade",
+  "full_name": "Anjali Ranade",
+  "linkedin_url": "https://linkedin.com/in/anjaliranade357",
+  "emails": [
+    {
+      "email": "anjali.ranade@hoag.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-764-4624",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hoag Health System"
+}

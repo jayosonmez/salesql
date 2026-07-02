@@ -1,0 +1,16 @@
+{
+  "uuid": "29258477-88f1-44c6-a11c-3079f89ce65d",
+  "first_name": "Alfred",
+  "last_name": "Chapman",
+  "full_name": "Alfred Chapman",
+  "linkedin_url": "https://linkedin.com/in/alfred-chapman-9397a211",
+  "emails": [
+    {
+      "email": "alfred@chapmanhealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Thermalmedix, Inc."
+}

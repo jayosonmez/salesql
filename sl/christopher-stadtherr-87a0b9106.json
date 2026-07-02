@@ -1,0 +1,33 @@
+{
+  "uuid": "4ed72e2b-2fb9-4db5-adb2-a667dd672c6b",
+  "first_name": "Christopher",
+  "last_name": "Stadtherr",
+  "full_name": "Christopher Stadtherr",
+  "linkedin_url": "https://linkedin.com/in/christopher-stadtherr-87a0b9106",
+  "emails": [
+    {
+      "email": "christopher.stadtherr@multicare.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cstadtherr@echolocum.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christopher.stadtherr@multicare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 253-256-1532",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Revitalize Metabolic Health PLLC"
+}

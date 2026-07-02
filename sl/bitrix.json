@@ -1,0 +1,21 @@
+{
+  "uuid": "3262f0f2-f155-4135-a676-5bb5873e6a65",
+  "first_name": "Sergey",
+  "last_name": "Rizhikov",
+  "full_name": "Sergey Rizhikov",
+  "linkedin_url": "https://linkedin.com/in/bitrix",
+  "emails": [
+    {
+      "email": "rsv@bitrixsoft.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sergey@bitrix24.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Bitrix24"
+}

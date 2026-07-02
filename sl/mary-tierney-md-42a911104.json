@@ -1,0 +1,16 @@
+{
+  "uuid": "febe610e-d0ca-426f-b8cb-db0ed017b724",
+  "first_name": "Mary",
+  "last_name": "Tierney, MD",
+  "full_name": "Mary Tierney, MD",
+  "linkedin_url": "https://linkedin.com/in/mary-tierney-md-42a911104",
+  "emails": [
+    {
+      "email": "mtierney@wellspan.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Walnut Grove Family Medicine"
+}

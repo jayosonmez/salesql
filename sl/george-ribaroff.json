@@ -1,0 +1,23 @@
+{
+  "uuid": "a0d2a5f6-9fc2-4dba-a036-d2ddfeb4dfbc",
+  "first_name": "George",
+  "last_name": "Ribaroff, MD",
+  "full_name": "George Ribaroff, MD",
+  "linkedin_url": "https://linkedin.com/in/george-ribaroff",
+  "emails": [
+    {
+      "email": "george@meridianstreetcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 317-607-9576",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Meridian Street Capital"
+}

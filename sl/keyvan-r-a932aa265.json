@@ -1,0 +1,17 @@
+{
+  "uuid": "7754d1ad-5b09-472f-81d2-2bfe6d8f8648",
+  "first_name": "Keyvan",
+  "last_name": "R.",
+  "full_name": "Keyvan R.",
+  "linkedin_url": "https://linkedin.com/in/keyvan-r-a932aa265",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 330-434-4141",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CHC"
+}

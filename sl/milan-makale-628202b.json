@@ -1,0 +1,23 @@
+{
+  "uuid": "5a9ebbda-f4a8-4494-b128-15994f1c8c45",
+  "first_name": "Milan",
+  "last_name": "Makale",
+  "full_name": "Milan Makale",
+  "linkedin_url": "https://linkedin.com/in/milan-makale-628202b",
+  "emails": [
+    {
+      "email": "mmakale@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-534-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC San Diego"
+}

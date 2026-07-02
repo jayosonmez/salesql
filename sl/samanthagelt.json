@@ -1,0 +1,16 @@
+{
+  "uuid": "953b181c-fede-4e89-bb04-a21a43303c21",
+  "first_name": "Samantha",
+  "last_name": "Gelt",
+  "full_name": "Samantha Gelt",
+  "linkedin_url": "https://linkedin.com/in/samanthagelt",
+  "emails": [
+    {
+      "email": "sgelt@a16z.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "VC Platform"
+}

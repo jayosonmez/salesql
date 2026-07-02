@@ -1,0 +1,39 @@
+{
+  "uuid": "ae8d0589-c4c4-4e24-927e-13684ab8b4ed",
+  "first_name": "Dan",
+  "last_name": "DeBard",
+  "full_name": "Dan DeBard",
+  "linkedin_url": "https://linkedin.com/in/daniel-debard",
+  "emails": [
+    {
+      "email": "dan.debard@datadoghq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ddebard@twilio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dan@twilio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 812-870-6617",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 866-329-4466",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Datadog"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "60319b51-af5d-4d67-997b-e3366e78a9a1",
+  "first_name": "Ben",
+  "last_name": "Bak",
+  "full_name": "Ben Bak",
+  "linkedin_url": "https://linkedin.com/in/benbak",
+  "emails": [
+    {
+      "email": "benjamin.bak@smstrade.eu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ben@ben-bak.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bbak@eonetwork.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Fastic"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "9ae7c7c2-f3d4-47e4-858c-5068446000b6",
+  "first_name": "Darrayl L.",
+  "last_name": "Miles",
+  "full_name": "Darrayl L. Miles",
+  "linkedin_url": "https://linkedin.com/in/darraylmiles",
+  "emails": [
+    {
+      "email": "darrayl31@cfl.rr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darrayl.miles@rxhealing.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darrayl.miles@medtronic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Advanced Scripts Compounding Pharmacy"
+}

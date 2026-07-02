@@ -1,0 +1,23 @@
+{
+  "uuid": "f8e4f820-72ce-476c-885b-9e2d7175f787",
+  "first_name": "Andre",
+  "last_name": "Tavares",
+  "full_name": "Andre Tavares",
+  "linkedin_url": "https://linkedin.com/in/andre-pasqua-tavares",
+  "emails": [
+    {
+      "email": "atavares@udel.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 302-831-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Delaware"
+}

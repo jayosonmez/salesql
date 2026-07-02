@@ -1,0 +1,21 @@
+{
+  "uuid": "9d2f581b-2017-463b-919d-2d2e78a340d4",
+  "first_name": "amit",
+  "last_name": "shanbhag",
+  "full_name": "amit shanbhag",
+  "linkedin_url": "https://linkedin.com/in/amitshanbhag",
+  "emails": [
+    {
+      "email": "amit.shanbhag@rocketreach.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "amits@rocketreach.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "RocketReach"
+}

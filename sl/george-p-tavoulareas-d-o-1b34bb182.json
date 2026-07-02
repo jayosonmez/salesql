@@ -1,0 +1,21 @@
+{
+  "uuid": "aee5c45d-83d8-46dc-9410-f7c915c0515e",
+  "first_name": "George P",
+  "last_name": "Tavoulareas, D.O.",
+  "full_name": "George P Tavoulareas, D.O.",
+  "linkedin_url": "https://linkedin.com/in/george-p-tavoulareas-d-o-1b34bb182",
+  "emails": [
+    {
+      "email": "p@mountsinai.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dgeorge@nyulangone.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Care Talk Health"
+}

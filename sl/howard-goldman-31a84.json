@@ -1,0 +1,26 @@
+{
+  "uuid": "0107e721-2bf5-4d36-b2eb-b27176eeeb3e",
+  "first_name": "Howard",
+  "last_name": "Goldman",
+  "full_name": "Howard Goldman",
+  "linkedin_url": "https://linkedin.com/in/howard-goldman-31a84",
+  "emails": [
+    {
+      "email": "howard@massociate.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "howard.goldman@nih.gov",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "howard@gratitude-network.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Management Associates"
+}

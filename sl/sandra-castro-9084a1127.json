@@ -1,0 +1,23 @@
+{
+  "uuid": "6c6a5bfa-af59-4094-9a64-f4ccc3f0db8e",
+  "first_name": "Sandra",
+  "last_name": "Castro",
+  "full_name": "Sandra Castro",
+  "linkedin_url": "https://linkedin.com/in/sandra-castro-9084a1127",
+  "emails": [
+    {
+      "email": "sandra.castro@cfisd.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 281-897-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cypress-Fairbanks ISD"
+}

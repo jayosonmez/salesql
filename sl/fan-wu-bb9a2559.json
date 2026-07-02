@@ -1,0 +1,23 @@
+{
+  "uuid": "38689238-1903-4fcc-993f-d02994fa2204",
+  "first_name": "Fan",
+  "last_name": "Wu",
+  "full_name": "Fan Wu",
+  "linkedin_url": "https://linkedin.com/in/fan-wu-bb9a2559",
+  "emails": [
+    {
+      "email": "fan_wu@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-495-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard University"
+}

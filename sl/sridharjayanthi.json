@@ -1,0 +1,48 @@
+{
+  "uuid": "14fa0a7b-89fd-4826-92ef-bc8243ca7f13",
+  "first_name": "Sridhar",
+  "last_name": "Jayanthi",
+  "full_name": "Sridhar Jayanthi",
+  "linkedin_url": "https://linkedin.com/in/sridharjayanthi",
+  "emails": [
+    {
+      "email": "sridhar@nightdragon.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sridhar_jayanthi@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sridhar.jayanthi@kkr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sridhar@tie.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sjayanthi@ypo.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sridhar@iangroup.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-937-5449",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "KKR"
+}

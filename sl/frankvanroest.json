@@ -1,0 +1,54 @@
+{
+  "uuid": "8cf0ae82-664b-4cde-9c1b-ddfb30847456",
+  "first_name": "Frank",
+  "last_name": "van Roest",
+  "full_name": "Frank van Roest",
+  "linkedin_url": "https://linkedin.com/in/frankvanroest",
+  "emails": [
+    {
+      "email": "frankvanroest@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "frankvanroest@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "frankvan@molofeed.no",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "frank.van@aceaquatec.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "frank@fisherpiscicultura.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "frank@sea6energy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+31 6 41556322",
+      "type": "Personal",
+      "country_code": "NL",
+      "is_valid": true
+    },
+    {
+      "phone": "+84 888 834 988",
+      "type": "Work",
+      "country_code": "VN",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tepbac"
+}

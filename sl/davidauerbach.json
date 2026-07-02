@@ -1,0 +1,26 @@
+{
+  "uuid": "262281ff-238f-4995-ac78-18ccb6e0551f",
+  "first_name": "David",
+  "last_name": "Auerbach",
+  "full_name": "David Auerbach",
+  "linkedin_url": "https://linkedin.com/in/davidauerbach",
+  "emails": [
+    {
+      "email": "david@alan.app",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david@inspovation.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dauerbach@reflexion.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Inspovation Ventures"
+}

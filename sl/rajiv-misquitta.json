@@ -1,0 +1,23 @@
+{
+  "uuid": "8c5ff431-a9ed-4259-ad9e-83d9ea82385d",
+  "first_name": "Rajiv",
+  "last_name": "Misquitta, MD, FACP, DipABLM",
+  "full_name": "Rajiv Misquitta, MD, FACP, DipABLM",
+  "linkedin_url": "https://linkedin.com/in/rajiv-misquitta",
+  "emails": [
+    {
+      "email": "rajiv.misquitta@kp.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-972-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mid-Atlantic Permanente Medical Group (MAPMG)"
+}

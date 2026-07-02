@@ -1,0 +1,23 @@
+{
+  "uuid": "6fdb8ce6-2dbd-4710-bc01-8b3cca3f1e5e",
+  "first_name": "Dan",
+  "last_name": "Liao",
+  "full_name": "Dan Liao",
+  "linkedin_url": "https://linkedin.com/in/dan-liao-b75947167",
+  "emails": [
+    {
+      "email": "dan.liao@kp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-972-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HWM Properties, LLC"
+}

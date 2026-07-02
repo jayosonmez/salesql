@@ -1,0 +1,38 @@
+{
+  "uuid": "d753dd63-e15f-4cdd-994d-ba3157e09c71",
+  "first_name": "Robert",
+  "last_name": "Tucci",
+  "full_name": "Robert Tucci",
+  "linkedin_url": "https://linkedin.com/in/robert-tucci-a3050910",
+  "emails": [
+    {
+      "email": "rrtucci@msn.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rob.tucci@texashalofund.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "robert.tucci@tulane.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robert@medtechinnovator.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 504-865-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tulane University"
+}

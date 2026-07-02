@@ -1,0 +1,38 @@
+{
+  "uuid": "e75dfed2-4bdc-46c0-8543-06ac37a19891",
+  "first_name": "Elizabeth",
+  "last_name": "Scott Haase",
+  "full_name": "Elizabeth Scott Haase",
+  "linkedin_url": "https://linkedin.com/in/elizabethdscott1",
+  "emails": [
+    {
+      "email": "scott@pipe.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "elizabeth@loyal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "elizabeth.scott@ditto.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "e.s@gru.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 352-334-3434",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Gainesville Regional Utilities"
+}

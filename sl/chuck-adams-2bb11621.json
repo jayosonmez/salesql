@@ -1,0 +1,28 @@
+{
+  "uuid": "0c2de3d3-c6e1-4d91-a32c-a6cce6570a7d",
+  "first_name": "Chuck",
+  "last_name": "Adams",
+  "full_name": "Chuck Adams",
+  "linkedin_url": "https://linkedin.com/in/chuck-adams-2bb11621",
+  "emails": [
+    {
+      "email": "cadams41200@roadrunner.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "cadams@jadesci.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-207-3775",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Jade Scientific, Inc."
+}

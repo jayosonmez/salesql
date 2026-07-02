@@ -1,0 +1,21 @@
+{
+  "uuid": "11cc4266-3861-4c9f-b476-1204cd09950d",
+  "first_name": "Iwan",
+  "last_name": "Setiawan",
+  "full_name": "Iwan Setiawan",
+  "linkedin_url": "https://linkedin.com/in/iwan-setiawan-09450335",
+  "emails": [
+    {
+      "email": "iw4n_22@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "iwan.setiawan@sampoernauniversity.ac.id",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sampoerna University"
+}

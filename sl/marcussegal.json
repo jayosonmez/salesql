@@ -1,0 +1,48 @@
+{
+  "uuid": "2d36a8f9-da99-441e-a05d-2e0a049b23fb",
+  "first_name": "Marcus",
+  "last_name": "Segal",
+  "full_name": "Marcus Segal",
+  "linkedin_url": "https://linkedin.com/in/marcussegal",
+  "emails": [
+    {
+      "email": "marcus@google.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "marcus@upshiftcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "msegal@a16z.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "marcus@forevrgames.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "marcussegal@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "msegal@zynga.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-798-5800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Andreessen Horowitz"
+}

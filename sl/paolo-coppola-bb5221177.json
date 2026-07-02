@@ -1,0 +1,17 @@
+{
+  "uuid": "45a3b30d-5206-4b1b-a92d-f731295a13f4",
+  "first_name": "Paolo",
+  "last_name": "Coppola",
+  "full_name": "Paolo Coppola",
+  "linkedin_url": "https://linkedin.com/in/paolo-coppola-bb5221177",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 415-448-6673",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Victory Recovery Partners"
+}

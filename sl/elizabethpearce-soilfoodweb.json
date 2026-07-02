@@ -1,0 +1,39 @@
+{
+  "uuid": "122e0dbb-f067-441b-9806-77cf1a9fd254",
+  "first_name": "Elizabeth",
+  "last_name": "Pearce, CFA",
+  "full_name": "Elizabeth Pearce, CFA",
+  "linkedin_url": "https://linkedin.com/in/elizabethpearce-soilfoodweb",
+  "emails": [
+    {
+      "email": "elizabethp@symsoil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "elizabeth.pearce@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "epearce@symsoil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-595-4784",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 833-796-7645",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SymSoil"
+}

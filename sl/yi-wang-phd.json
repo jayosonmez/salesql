@@ -1,0 +1,46 @@
+{
+  "uuid": "a9525828-6bb0-4bf3-a69c-bf37ce036268",
+  "first_name": "Yi",
+  "last_name": "Wang, PhD, MBA, CLP",
+  "full_name": "Yi Wang, PhD, MBA, CLP",
+  "linkedin_url": "https://linkedin.com/in/yi-wang-phd",
+  "emails": [
+    {
+      "email": "ywang14@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ywang@gradschoolroadmap.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ywang@ncinnovation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yi.wang@yale.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yi@nufund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ywang@visiontech-partners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yi.wang@startout.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "VisionTech Partners | VisionTech Angels"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "1b4c9e43-97e8-4bf5-afc9-3d21a6016959",
+  "first_name": "Stan",
+  "last_name": "Conston",
+  "full_name": "Stan Conston",
+  "linkedin_url": "https://linkedin.com/in/stanconston",
+  "emails": [
+    {
+      "email": "stancon@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "stan@medterials.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-394-8613",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Medterials, Inc"
+}

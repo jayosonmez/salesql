@@ -1,0 +1,16 @@
+{
+  "uuid": "7cebe5b5-c1ab-4181-bbbb-3f4b786a3011",
+  "first_name": "Junichiro",
+  "last_name": "Kono",
+  "full_name": "Junichiro Kono",
+  "linkedin_url": "https://linkedin.com/in/junichirokono",
+  "emails": [
+    {
+      "email": "kono@anri.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ANRI"
+}

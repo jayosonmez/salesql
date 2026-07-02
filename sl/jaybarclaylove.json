@@ -1,0 +1,51 @@
+{
+  "uuid": "bfe64363-0ba5-4e9d-9848-829d7550c157",
+  "first_name": "Jay",
+  "last_name": "Love",
+  "full_name": "Jay Love",
+  "linkedin_url": "https://linkedin.com/in/jaybarclaylove",
+  "emails": [
+    {
+      "email": "jaybarclaylove@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jay.love@bloomerang.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jay@launchcause.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jay@memoryfox.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jay@infinitegiving.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jay@fundminer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jay@lifelegacy.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jay@practivated.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Practivated"
+}

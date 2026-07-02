@@ -1,0 +1,23 @@
+{
+  "uuid": "7e3730a2-0e1a-4d84-9566-b7a8c9bb59ff",
+  "first_name": "Anna",
+  "last_name": "Davis",
+  "full_name": "Anna Davis",
+  "linkedin_url": "https://linkedin.com/in/anna-davis-12a136255",
+  "emails": [
+    {
+      "email": "anna.davis@esprit.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-389-7300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Coty"
+}

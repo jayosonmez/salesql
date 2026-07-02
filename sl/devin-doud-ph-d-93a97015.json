@@ -1,0 +1,28 @@
+{
+  "uuid": "02bc8cb4-7891-4752-9704-2dbb02d1ecc7",
+  "first_name": "Devin",
+  "last_name": "Doud, Ph.D.",
+  "full_name": "Devin Doud, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/devin-doud-ph-d-93a97015",
+  "emails": [
+    {
+      "email": "dylan@dylanwebster.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "devindoud@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-430-4455",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Senda Biosciences"
+}

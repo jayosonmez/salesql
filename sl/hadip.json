@@ -1,0 +1,48 @@
+{
+  "uuid": "8517bf23-cd9e-478b-a9f1-32e84d3c6510",
+  "first_name": "Hadi",
+  "last_name": "Partovi",
+  "full_name": "Hadi Partovi",
+  "linkedin_url": "https://linkedin.com/in/hadip",
+  "emails": [
+    {
+      "email": "hadi.partovi@outreach.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hpartovi@axon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hadi_partovi@code.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hadi@partovi.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hadip@microsoft.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hadi@code.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 360-499-3250",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Code.org"
+}

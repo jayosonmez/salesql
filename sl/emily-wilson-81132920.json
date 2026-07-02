@@ -1,0 +1,26 @@
+{
+  "uuid": "56ccde7c-6273-4881-a2bb-52fb4ba92680",
+  "first_name": "Emily",
+  "last_name": "Wilson",
+  "full_name": "Emily Wilson",
+  "linkedin_url": "https://linkedin.com/in/emily-wilson-81132920",
+  "emails": [
+    {
+      "email": "msemd28@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "emily@b0arding.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "emily@drope.me",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "b0arding.com"
+}

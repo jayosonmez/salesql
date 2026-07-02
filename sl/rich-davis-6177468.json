@@ -1,0 +1,28 @@
+{
+  "uuid": "ff29b694-7f89-4ea3-95f3-76276a43d7ae",
+  "first_name": "Rich",
+  "last_name": "Davis",
+  "full_name": "Rich Davis",
+  "linkedin_url": "https://linkedin.com/in/rich-davis-6177468",
+  "emails": [
+    {
+      "email": "rich@unc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rich.davis.md@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-962-2211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The University of North Carolina at Chapel Hill"
+}

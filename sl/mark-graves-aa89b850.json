@@ -1,0 +1,23 @@
+{
+  "uuid": "7e8d1cde-9882-4367-a656-f73f008c4a74",
+  "first_name": "Mark",
+  "last_name": "Graves",
+  "full_name": "Mark Graves",
+  "linkedin_url": "https://linkedin.com/in/mark-graves-aa89b850",
+  "emails": [
+    {
+      "email": "mark_graves@agilent.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-345-8886",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Agilent Technologies"
+}

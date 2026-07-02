@@ -1,0 +1,23 @@
+{
+  "uuid": "8ebd9f8a-809a-4659-b92c-476ecaf00085",
+  "first_name": "Nathaniel",
+  "last_name": "Ru",
+  "full_name": "Nathaniel Ru",
+  "linkedin_url": "https://linkedin.com/in/nathanielru",
+  "emails": [
+    {
+      "email": "ru@sweetgreen.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 213-279-6900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "sweetgreen"
+}

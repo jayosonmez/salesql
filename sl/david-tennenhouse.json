@@ -1,0 +1,48 @@
+{
+  "uuid": "25b93466-1921-48c3-8d56-ee2eca9bf3ed",
+  "first_name": "David",
+  "last_name": "Tennenhouse",
+  "full_name": "David Tennenhouse",
+  "linkedin_url": "https://linkedin.com/in/david-tennenhouse",
+  "emails": [
+    {
+      "email": "dtennenhouse@nsf.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@stealthsoftwareinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dtennenhouse@carnegieendowment.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "davidtennenhouse@privaini.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dtennenhouse@ieee.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tdavid@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-723-3148",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stanford University School of Engineering"
+}

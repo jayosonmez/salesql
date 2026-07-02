@@ -1,0 +1,23 @@
+{
+  "uuid": "7f8f2079-4d1b-4a79-9fc9-0fed483f877e",
+  "first_name": "Jordan",
+  "last_name": "Younger",
+  "full_name": "Jordan Younger",
+  "linkedin_url": "https://linkedin.com/in/jordan-younger-b0480149",
+  "emails": [
+    {
+      "email": "jordan@layoga.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-828-8218",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "LA Yoga Magazine"
+}

@@ -1,0 +1,36 @@
+{
+  "uuid": "89d725d8-9382-466d-94f1-d9c3de82561b",
+  "first_name": "Alice",
+  "last_name": "Zhang",
+  "full_name": "Alice Zhang",
+  "linkedin_url": "https://linkedin.com/in/alice-zhang-b4463321",
+  "emails": [
+    {
+      "email": "alicezhang@didiglobal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alice@li.me",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "xuan.zhang10@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "azhang@bicangels.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "azhang@grubmarket.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "JUE Capital"
+}

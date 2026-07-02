@@ -1,0 +1,38 @@
+{
+  "uuid": "22a16b64-cccf-4dfe-8d6b-21fcbcda9cce",
+  "first_name": "Tien",
+  "last_name": "Tzuo",
+  "full_name": "Tien Tzuo",
+  "linkedin_url": "https://linkedin.com/in/tientzuo",
+  "emails": [
+    {
+      "email": "tientzuo@zuora.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tien.tzuo@amplitude.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tien.tzuo@bonterratech.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tient@BigSpeak.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-976-9056",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Zuora"
+}

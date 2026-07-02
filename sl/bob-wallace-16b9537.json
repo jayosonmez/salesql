@@ -1,0 +1,16 @@
+{
+  "uuid": "07b536b9-f079-4eb4-a19f-2cc776c46ea8",
+  "first_name": "Bob",
+  "last_name": "Wallace",
+  "full_name": "Bob Wallace",
+  "linkedin_url": "https://linkedin.com/in/bob-wallace-16b9537",
+  "emails": [
+    {
+      "email": "bjwallacemd1@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Love The Golden Rule, Inc."
+}

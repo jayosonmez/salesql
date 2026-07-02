@@ -1,0 +1,16 @@
+{
+  "uuid": "22e69373-6a6b-47a2-bf76-5c68a0315a72",
+  "first_name": "Katherine",
+  "last_name": "Peters",
+  "full_name": "Katherine Peters",
+  "linkedin_url": "https://linkedin.com/in/katherine-peters-4236b931",
+  "emails": [
+    {
+      "email": "peters.katherine@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "La Jolla Cardiovascular Research Institute"
+}

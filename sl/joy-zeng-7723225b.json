@@ -1,0 +1,23 @@
+{
+  "uuid": "f4295356-c707-48d2-b051-70dced31f15c",
+  "first_name": "Joy",
+  "last_name": "Zeng",
+  "full_name": "Joy Zeng",
+  "linkedin_url": "https://linkedin.com/in/joy-zeng-7723225b",
+  "emails": [
+    {
+      "email": "joy_zeng@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-495-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard University"
+}

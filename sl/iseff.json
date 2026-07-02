@@ -1,0 +1,16 @@
+{
+  "uuid": "1786f9e9-066e-4a4a-9f80-02fc933515cd",
+  "first_name": "Ian",
+  "last_name": "Sefferman",
+  "full_name": "Ian Sefferman",
+  "linkedin_url": "https://linkedin.com/in/iseff",
+  "emails": [
+    {
+      "email": "iseff@iseff.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Goodbill"
+}

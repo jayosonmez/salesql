@@ -1,0 +1,36 @@
+{
+  "uuid": "981022e2-ca0e-465c-ab2a-045dbf111bcc",
+  "first_name": "Jeanne",
+  "last_name": "DeWitt Grosser",
+  "full_name": "Jeanne DeWitt Grosser",
+  "linkedin_url": "https://linkedin.com/in/jeannedewitt",
+  "emails": [
+    {
+      "email": "jeanne.dewitt@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jeanne@vercel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeanne@operatorcollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeanne@rox.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeanne.dewitt@upside.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Vercel"
+}

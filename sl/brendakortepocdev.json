@@ -1,0 +1,16 @@
+{
+  "uuid": "15a6633c-4bb9-41e4-9f5d-78e8366fe3cf",
+  "first_name": "Brenda",
+  "last_name": "Korte, PhD",
+  "full_name": "Brenda Korte, PhD",
+  "linkedin_url": "https://linkedin.com/in/brendakortepocdev",
+  "emails": [
+    {
+      "email": "korte@pocdeviceconsulting.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "POC Device Consulting"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "be3bde09-ae17-4929-be41-9bfc3af7f95d",
+  "first_name": "Constantine",
+  "last_name": "Morris",
+  "full_name": "Constantine Morris",
+  "linkedin_url": "https://linkedin.com/in/constantine-morris-9371146",
+  "emails": [
+    {
+      "email": "cmorris@evero.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "costa@evero.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 516-747-4200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "eVero Corporation"
+}

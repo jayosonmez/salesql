@@ -1,0 +1,28 @@
+{
+  "uuid": "d17f3e14-860d-42e4-852d-dab8112521ae",
+  "first_name": "Dr Ebi",
+  "last_name": "Okoro M.D.",
+  "full_name": "Dr Ebi Okoro M.D.",
+  "linkedin_url": "https://linkedin.com/in/dr-ebi-okoro-m-d-711272160",
+  "emails": [
+    {
+      "email": "dr.okoro@kp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dokoro@curativetalent.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 770-442-1911",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Southeast Medical Group"
+}

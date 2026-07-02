@@ -1,0 +1,23 @@
+{
+  "uuid": "31f126eb-b837-4d15-a1fc-4bb0899df906",
+  "first_name": "Lindy",
+  "last_name": "Yow",
+  "full_name": "Lindy Yow",
+  "linkedin_url": "https://linkedin.com/in/lindyyow",
+  "emails": [
+    {
+      "email": "lyow2k@gsm.uci.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-287-3347",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Serosight"
+}

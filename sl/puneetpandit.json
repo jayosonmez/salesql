@@ -1,0 +1,32 @@
+{
+  "uuid": "43c9b1ea-2d0f-405e-95d4-c864d0584fc7",
+  "first_name": "Puneet",
+  "last_name": "Pandit",
+  "full_name": "Puneet Pandit",
+  "linkedin_url": "https://linkedin.com/in/puneetpandit",
+  "emails": [
+    {
+      "email": "puneet@goorulearning.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pandit@orchesys.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "puneetpandit@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+91 95990 66829",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MIRAI Capital Global"
+}

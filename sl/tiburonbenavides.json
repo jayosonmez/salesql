@@ -1,0 +1,23 @@
+{
+  "uuid": "3859ec70-c54a-4261-92ee-fdd9db3a2e2a",
+  "first_name": "Tiburon",
+  "last_name": "Benavides",
+  "full_name": "Tiburon Benavides",
+  "linkedin_url": "https://linkedin.com/in/tiburonbenavides",
+  "emails": [
+    {
+      "email": "benavidest@rpi.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 518-276-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rensselaer Polytechnic Institute"
+}

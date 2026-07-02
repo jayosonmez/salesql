@@ -1,0 +1,23 @@
+{
+  "uuid": "b28e8edc-fc4b-465e-94f9-82c2f742a34a",
+  "first_name": "Nick",
+  "last_name": "Potts",
+  "full_name": "Nick Potts",
+  "linkedin_url": "https://linkedin.com/in/pottsnicholas",
+  "emails": [
+    {
+      "email": "nick.potts@kallo.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "8335255624",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Kallo AI"
+}

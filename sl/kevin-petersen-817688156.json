@@ -1,0 +1,29 @@
+{
+  "uuid": "c07c064a-6e49-43ca-8cb0-5ce891bd0204",
+  "first_name": "Kevin",
+  "last_name": "Petersen",
+  "full_name": "Kevin Petersen",
+  "linkedin_url": "https://linkedin.com/in/kevin-petersen-817688156",
+  "emails": [
+    {
+      "email": "kevin.petersen@mayo.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 507-284-1159",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 507-535-1460",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Center for Individualized Medicine (CIM) - Mayo Clinic"
+}

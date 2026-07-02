@@ -1,0 +1,16 @@
+{
+  "uuid": "27992c65-cd81-40e3-b52c-2ea24f5160ed",
+  "first_name": "Mike",
+  "last_name": "Theran",
+  "full_name": "Mike Theran",
+  "linkedin_url": "https://linkedin.com/in/mike-theran",
+  "emails": [
+    {
+      "email": "mtheran@corismacv.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "CoRISMA MCS Systems Inc."
+}

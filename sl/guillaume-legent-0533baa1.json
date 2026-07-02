@@ -1,0 +1,28 @@
+{
+  "uuid": "3a34aa77-5da0-4483-9c6c-207ba7843f03",
+  "first_name": "Guillaume",
+  "last_name": "Legent",
+  "full_name": "Guillaume Legent",
+  "linkedin_url": "https://linkedin.com/in/guillaume-legent-0533baa1",
+  "emails": [
+    {
+      "email": "guillaume.legent@sfr.fr",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "guillaume.legent@lne-gmed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 1 40 43 37 00",
+      "type": "Work",
+      "country_code": "FR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GMED"
+}

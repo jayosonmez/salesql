@@ -1,0 +1,38 @@
+{
+  "uuid": "72605008-b8ba-4231-a5fb-ebda3c52f687",
+  "first_name": "Ali",
+  "last_name": "Kutay",
+  "full_name": "Ali Kutay",
+  "linkedin_url": "https://linkedin.com/in/ali-kutay-88002112",
+  "emails": [
+    {
+      "email": "akutay@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ali@hazelcast.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "akutay@striim.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ali.kutay@simr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-241-0680",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Striim"
+}

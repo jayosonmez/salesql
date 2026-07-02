@@ -1,0 +1,29 @@
+{
+  "uuid": "5d91e1e6-fbdf-4c4b-8375-62baf0fa7b5b",
+  "first_name": "Marco",
+  "last_name": "Zappacosta",
+  "full_name": "Marco Zappacosta",
+  "linkedin_url": "https://linkedin.com/in/marcozappacosta",
+  "emails": [
+    {
+      "email": "marcoz@thumbtack.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 866-501-5809",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 646-522-6472",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Thumbtack"
+}

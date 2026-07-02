@@ -1,0 +1,27 @@
+{
+  "uuid": "4ce9cca0-77c4-49d9-97b4-d421cbdd2cb7",
+  "first_name": "Minmin",
+  "last_name": "Yun",
+  "full_name": "Minmin Yun",
+  "linkedin_url": "https://linkedin.com/in/minmin-yun-140258229",
+  "emails": [
+    {
+      "email": "minmin.yun@louisvuitton.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yunminmin@ibeehub.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 1 44 13 22 22",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Louis Vuitton"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ed3224ab-a5b8-4c7a-8297-327bce414a52",
+  "first_name": "Swati",
+  "last_name": "Biswas M.D.",
+  "full_name": "Swati Biswas M.D.",
+  "linkedin_url": "https://linkedin.com/in/swati-biswas-m-d-27b0981a2",
+  "emails": [
+    {
+      "email": "biswas.swati@marshfieldclinic.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ms@wisc.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-782-8581",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Marshfield Clinic Health System"
+}

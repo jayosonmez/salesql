@@ -1,0 +1,31 @@
+{
+  "uuid": "09ea8e29-0454-438c-a9ee-6765ab8a78b8",
+  "first_name": "Eric",
+  "last_name": "Kanowsky",
+  "full_name": "Eric Kanowsky",
+  "linkedin_url": "https://linkedin.com/in/erickanowsky",
+  "emails": [
+    {
+      "email": "eric.kanowsky@mixmode.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric@billyforinsurance.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "e1.linkedin@kanowsky.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric@entradavc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Entrada Ventures"
+}

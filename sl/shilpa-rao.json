@@ -1,0 +1,34 @@
+{
+  "uuid": "7bde2aca-22c4-4a38-b5e7-9ba4ee87e06a",
+  "first_name": "Shilpashree",
+  "last_name": "Rao",
+  "full_name": "Shilpashree Rao",
+  "linkedin_url": "https://linkedin.com/in/shilpa-rao",
+  "emails": [
+    {
+      "email": "shilpasr@usc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shilpashree.rao@walmart.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 213-245-7799",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 479-273-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Walmart Global Tech"
+}

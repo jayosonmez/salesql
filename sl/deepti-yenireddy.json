@@ -1,0 +1,36 @@
+{
+  "uuid": "bde29fa9-7fb9-4197-8de0-573f451c9d1d",
+  "first_name": "Deepti",
+  "last_name": "Yenireddy",
+  "full_name": "Deepti Yenireddy",
+  "linkedin_url": "https://linkedin.com/in/deepti-yenireddy",
+  "emails": [
+    {
+      "email": "deeptiyr@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "deepti@qventus.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "deepti.yenireddy@getboon.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "deepti.yenireddy@samsara.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "deepti.yenireddy@phenom.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Boon"
+}

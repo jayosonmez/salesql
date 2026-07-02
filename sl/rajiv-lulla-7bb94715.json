@@ -1,0 +1,41 @@
+{
+  "uuid": "54362bc1-9973-47d2-9caa-8b00364e8042",
+  "first_name": "Rajiv",
+  "last_name": "Lulla",
+  "full_name": "Rajiv Lulla",
+  "linkedin_url": "https://linkedin.com/in/rajiv-lulla-7bb94715",
+  "emails": [
+    {
+      "email": "rajivlulla@bluestarindia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rajiv.lulla@ca-cib.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rajiv.lulla@ml.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rlulla@voltairecap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rlulla@hof.capital",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rajiv.lulla@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Deep Blue Advisors"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "05a3a262-c971-4c8a-94ed-cbe048a6ea3e",
+  "first_name": "Eric",
+  "last_name": "W.",
+  "full_name": "Eric W.",
+  "linkedin_url": "https://linkedin.com/in/ericswilson",
+  "emails": [
+    {
+      "email": "eric@csaccelerator.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric@samaritan.city",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric.s.wilson@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Press Ganey Forsta"
+}

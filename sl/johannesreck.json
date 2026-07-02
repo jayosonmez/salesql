@@ -1,0 +1,27 @@
+{
+  "uuid": "37b7c67b-9b77-4740-bc41-4ef077c9c214",
+  "first_name": "Johannes",
+  "last_name": "Reck",
+  "full_name": "Johannes Reck",
+  "linkedin_url": "https://linkedin.com/in/johannesreck",
+  "emails": [
+    {
+      "email": "johannes@getyourguide.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jr@getyourguide.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 30 54445944",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GetYourGuide"
+}

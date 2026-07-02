@@ -1,0 +1,28 @@
+{
+  "uuid": "2d9df9b3-5e57-41af-b5b3-eee2f0df0fb3",
+  "first_name": "Bryan T.",
+  "last_name": "Kelly, MD, MBA",
+  "full_name": "Bryan T. Kelly, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/bryan-t-kelly-md-mba",
+  "emails": [
+    {
+      "email": "bkelly@nyp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kellyb@hss.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-606-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hospital for Special Surgery"
+}

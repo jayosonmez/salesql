@@ -1,0 +1,28 @@
+{
+  "uuid": "2d7b4284-e0d6-449f-b6ff-f08fbd974d45",
+  "first_name": "Artavazd",
+  "last_name": "Badalyan",
+  "full_name": "Artavazd Badalyan",
+  "linkedin_url": "https://linkedin.com/in/artavazd-badalyan-1360b98b",
+  "emails": [
+    {
+      "email": "badalarto@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "artavazd.badalyan@usu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 435-797-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Utah State University"
+}

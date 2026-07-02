@@ -1,0 +1,16 @@
+{
+  "uuid": "fc6241dc-562b-4de8-8ff6-c1425b8fa3d9",
+  "first_name": "Hilmar Veigar",
+  "last_name": "Pétursson",
+  "full_name": "Hilmar Veigar Pétursson",
+  "linkedin_url": "https://linkedin.com/in/hilmarveigar",
+  "emails": [
+    {
+      "email": "hilmar@ccpgames.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Science and Innovation Council of Iceland"
+}

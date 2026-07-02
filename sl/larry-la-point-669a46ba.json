@@ -1,0 +1,28 @@
+{
+  "uuid": "1d526c78-f332-44ea-9433-ed7d924ca77a",
+  "first_name": "Larry",
+  "last_name": "La Point",
+  "full_name": "Larry La Point",
+  "linkedin_url": "https://linkedin.com/in/larry-la-point-669a46ba",
+  "emails": [
+    {
+      "email": "larry.la@calipercovers.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lla@regent.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-995-0003",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MGP Caliper Covers"
+}

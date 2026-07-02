@@ -1,0 +1,26 @@
+{
+  "uuid": "80c1bcb6-6028-4d01-95a8-e3b92c1fcf80",
+  "first_name": "Larry",
+  "last_name": "Waldinger",
+  "full_name": "Larry Waldinger",
+  "linkedin_url": "https://linkedin.com/in/larrywaldinger",
+  "emails": [
+    {
+      "email": "lwaldinger@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@rubicon.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "larry@7bc.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "BFB Consulting"
+}

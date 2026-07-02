@@ -1,0 +1,26 @@
+{
+  "uuid": "3c0cf046-63e2-49a3-808f-3dc148af41f3",
+  "first_name": "Fadi",
+  "last_name": "Bishara",
+  "full_name": "Fadi Bishara",
+  "linkedin_url": "https://linkedin.com/in/fadibishara",
+  "emails": [
+    {
+      "email": "fadi@VIP.Fund",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fadi@techventure.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fadi@blackbox.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Blackbox"
+}

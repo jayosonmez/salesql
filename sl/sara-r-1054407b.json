@@ -1,0 +1,17 @@
+{
+  "uuid": "765e56bc-2363-423a-b71e-8fe7564eea5c",
+  "first_name": "Sara",
+  "last_name": "R.",
+  "full_name": "Sara R.",
+  "linkedin_url": "https://linkedin.com/in/sara-r-1054407b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 352-392-3261",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Florida"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "520292ae-9649-4cc4-b479-75ce93706ff9",
+  "first_name": "Mike",
+  "last_name": "Seifert",
+  "full_name": "Mike Seifert",
+  "linkedin_url": "https://linkedin.com/in/mike-seifert-a08743b",
+  "emails": [
+    {
+      "email": "m.seifert@multigig.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "meseifert@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "18c5b927-1cd9-4fdc-a2b7-18c9f0afd20c",
+  "first_name": "Parbir (Parry)",
+  "last_name": "Grewal",
+  "full_name": "Parbir (Parry) Grewal",
+  "linkedin_url": "https://linkedin.com/in/parbir-parry-grewal-3a52a215",
+  "emails": [
+    {
+      "email": "parbir.grewal@crisprtx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "psg9@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-315-4600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CRISPR Therapeutics"
+}

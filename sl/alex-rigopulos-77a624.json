@@ -1,0 +1,28 @@
+{
+  "uuid": "69d84a1b-720c-448d-9316-39f675527095",
+  "first_name": "Alex",
+  "last_name": "Rigopulos",
+  "full_name": "Alex Rigopulos",
+  "linkedin_url": "https://linkedin.com/in/alex-rigopulos-77a624",
+  "emails": [
+    {
+      "email": "alex.rigopulos@epicgames.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexprigopulos-linkedin@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-854-0070",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Epic Games"
+}

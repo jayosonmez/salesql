@@ -1,0 +1,28 @@
+{
+  "uuid": "187fd16b-f478-42c3-8478-274f9f1efac6",
+  "first_name": "Gadiel",
+  "last_name": "Saper",
+  "full_name": "Gadiel Saper",
+  "linkedin_url": "https://linkedin.com/in/gadiel-saper-00b7b333",
+  "emails": [
+    {
+      "email": "gadielsaper@columbia.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gadi_saper@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-854-1754",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Columbia University"
+}

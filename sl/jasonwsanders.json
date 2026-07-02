@@ -1,0 +1,16 @@
+{
+  "uuid": "3bfe2e98-f7f4-45bf-87aa-32223a535de9",
+  "first_name": "Jason",
+  "last_name": "Sanders",
+  "full_name": "Jason Sanders",
+  "linkedin_url": "https://linkedin.com/in/jasonwsanders",
+  "emails": [
+    {
+      "email": "jasonwsanders@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "JWS Advisors"
+}

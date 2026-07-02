@@ -1,0 +1,36 @@
+{
+  "uuid": "2362a6be-d70d-4c7e-9f9f-7ef674299ea1",
+  "first_name": "Blake",
+  "last_name": "Mycoskie",
+  "full_name": "Blake Mycoskie",
+  "linkedin_url": "https://linkedin.com/in/blakemycoskie",
+  "emails": [
+    {
+      "email": "blake@tomsshoes.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "blake.mycoskie@toms.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bmycoskie@toms.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "blake@getmadefor.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "blake@weareenough.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "We Are Enough LLC"
+}

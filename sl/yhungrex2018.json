@@ -1,0 +1,28 @@
+{
+  "uuid": "5c9d6591-8408-4cdc-8d76-c2f8bf4e342b",
+  "first_name": "Yin P. (Rex)",
+  "last_name": "Hung",
+  "full_name": "Yin P. (Rex) Hung",
+  "linkedin_url": "https://linkedin.com/in/yhungrex2018",
+  "emails": [
+    {
+      "email": "yin_hung@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yin.hung@massgeneral.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-242-1100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts General Hospital"
+}

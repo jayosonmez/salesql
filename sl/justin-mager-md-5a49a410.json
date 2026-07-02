@@ -1,0 +1,33 @@
+{
+  "uuid": "fcd64696-dbe6-4fa1-9978-351174a3e30c",
+  "first_name": "Justin",
+  "last_name": "Mager, MD",
+  "full_name": "Justin Mager, MD",
+  "linkedin_url": "https://linkedin.com/in/justin-mager-md-5a49a410",
+  "emails": [
+    {
+      "email": "drj@clearcenterofhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "justin@healthincite.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "justin.mager@equinox.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-812-9200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "WellnessFX"
+}

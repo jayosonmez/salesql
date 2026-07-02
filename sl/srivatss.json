@@ -1,0 +1,26 @@
+{
+  "uuid": "20927858-68a3-40cc-b640-7233319e4e32",
+  "first_name": "Srivats",
+  "last_name": "S.",
+  "full_name": "Srivats S.",
+  "linkedin_url": "https://linkedin.com/in/srivatss",
+  "emails": [
+    {
+      "email": "srivats@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "srivatsan.sivanandan@dartmouth.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "srivatsan.sivanandan@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lattice"
+}

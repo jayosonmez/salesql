@@ -1,0 +1,28 @@
+{
+  "uuid": "39128384-8b5c-47fb-a186-623d242871c0",
+  "first_name": "Sina",
+  "last_name": "Ahadi",
+  "full_name": "Sina Ahadi",
+  "linkedin_url": "https://linkedin.com/in/sina-ahadi-564909175",
+  "emails": [
+    {
+      "email": "sina.ahadi@src.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sahadi@ucsb.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 805-893-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC Santa Barbara"
+}

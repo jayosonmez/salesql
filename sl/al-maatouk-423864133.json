@@ -1,0 +1,23 @@
+{
+  "uuid": "3a9e4ba4-9648-4feb-a0d9-c216b2779182",
+  "first_name": "AL",
+  "last_name": "Maatouk",
+  "full_name": "AL Maatouk",
+  "linkedin_url": "https://linkedin.com/in/al-maatouk-423864133",
+  "emails": [
+    {
+      "email": "al.maatouk@henryford.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 313-874-6188",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Henry Ford Health"
+}

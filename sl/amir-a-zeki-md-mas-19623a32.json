@@ -1,0 +1,39 @@
+{
+  "uuid": "7a9a1d46-6ee5-43bd-a431-26d5a2333cad",
+  "first_name": "Amir A.",
+  "last_name": "Zeki, MD, MAS",
+  "full_name": "Amir A. Zeki, MD, MAS",
+  "linkedin_url": "https://linkedin.com/in/amir-a-zeki-md-mas-19623a32",
+  "emails": [
+    {
+      "email": "amir.zeki@va.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amir.zeki@ucdmc.ucdavis.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aazeki@ucdavis.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 530-754-5469",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 844-456-5208",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "U.S. Department of Veterans Affairs"
+}

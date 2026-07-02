@@ -1,0 +1,16 @@
+{
+  "uuid": "2e6f92d0-014d-4c8f-8f4f-4e27738cb070",
+  "first_name": " Dr. Waalande",
+  "last_name": "Lintiso",
+  "full_name": " Dr. Waalande Lintiso",
+  "linkedin_url": "https://linkedin.com/in/dr-waalande-lintiso-aaa35859",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+44 1536 492000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kettering General Hospital NHS Foundation Trust"
+}

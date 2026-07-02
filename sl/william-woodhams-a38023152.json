@@ -1,0 +1,23 @@
+{
+  "uuid": "8e686d3c-81c7-40f9-8302-732079e5e206",
+  "first_name": "William",
+  "last_name": "Woodhams",
+  "full_name": "William Woodhams",
+  "linkedin_url": "https://linkedin.com/in/william-woodhams-a38023152",
+  "emails": [
+    {
+      "email": "woodhams@msu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 616-233-1678",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Michigan State University College of Human Medicine"
+}

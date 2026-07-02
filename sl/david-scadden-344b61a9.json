@@ -1,0 +1,41 @@
+{
+  "uuid": "3f286810-2208-401d-98eb-fcede681f6cc",
+  "first_name": "David",
+  "last_name": "Scadden",
+  "full_name": "David Scadden",
+  "linkedin_url": "https://linkedin.com/in/david-scadden-344b61a9",
+  "emails": [
+    {
+      "email": "dscadden@magentatx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david.scadden@agios.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david_scadden@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david_scadden@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.scadden@stratustx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.scadden@massgeneral.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stratus Therapeutics"
+}

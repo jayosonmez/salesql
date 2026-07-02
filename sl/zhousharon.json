@@ -1,0 +1,43 @@
+{
+  "uuid": "97ab2d32-3a62-4027-8cf2-1adf2a2f8ed9",
+  "first_name": "Sharon",
+  "last_name": "Zhou, PhD",
+  "full_name": "Sharon Zhou, PhD",
+  "linkedin_url": "https://linkedin.com/in/zhousharon",
+  "emails": [
+    {
+      "email": "sharon.zhou@amd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sharon@objective.is",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sharon.zhou@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sharon.waxseal@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sharon@lamini.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-749-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AMD"
+}

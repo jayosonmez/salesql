@@ -1,0 +1,33 @@
+{
+  "uuid": "78048448-7162-4a34-ad80-d9f799dadc1d",
+  "first_name": "Gina",
+  "last_name": "Carlotti, MD, MBE",
+  "full_name": "Gina Carlotti, MD, MBE",
+  "linkedin_url": "https://linkedin.com/in/gina-carlotti-md-mbe-34096150",
+  "emails": [
+    {
+      "email": "gina@heymistr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gina.carlotti@includedhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gina.carlotti@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 747-322-0060",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MISTR"
+}

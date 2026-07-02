@@ -1,0 +1,16 @@
+{
+  "uuid": "a7087647-2707-4989-afac-8d2cf2fc3b28",
+  "first_name": "James",
+  "last_name": "D.",
+  "full_name": "James D.",
+  "linkedin_url": "https://linkedin.com/in/jdownward",
+  "emails": [
+    {
+      "email": "jdownward@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Genesis of Ann Arbor"
+}

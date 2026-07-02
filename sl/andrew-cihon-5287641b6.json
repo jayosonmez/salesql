@@ -1,0 +1,23 @@
+{
+  "uuid": "84690b11-9c91-4df6-acd5-b6cef0832d69",
+  "first_name": "Andrew",
+  "last_name": "Cihon",
+  "full_name": "Andrew Cihon",
+  "linkedin_url": "https://linkedin.com/in/andrew-cihon-5287641b6",
+  "emails": [
+    {
+      "email": "acihon@lsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 225-578-8654",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Louisiana State University"
+}

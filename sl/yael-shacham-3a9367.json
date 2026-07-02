@@ -1,0 +1,23 @@
+{
+  "uuid": "57fc2519-fa66-4d8d-a426-8d1dcc1f0c1b",
+  "first_name": "Yael",
+  "last_name": "Shacham",
+  "full_name": "Yael Shacham",
+  "linkedin_url": "https://linkedin.com/in/yael-shacham-3a9367",
+  "emails": [
+    {
+      "email": "yshacham@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-829-4815",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Google"
+}

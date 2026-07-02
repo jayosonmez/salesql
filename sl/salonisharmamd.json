@@ -1,0 +1,38 @@
+{
+  "uuid": "6d94dc1b-44d5-4075-a6d1-0249eab44165",
+  "first_name": "Saloni",
+  "last_name": "Sharma, MD",
+  "full_name": "Saloni Sharma, MD",
+  "linkedin_url": "https://linkedin.com/in/salonisharmamd",
+  "emails": [
+    {
+      "email": "saloni_md@phycarehospital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "s-saloni@aapmr.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "saloni.sharma@rothmanortho.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "saloni.sharma@carelon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 267-297-2440",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rothman Orthopaedics"
+}

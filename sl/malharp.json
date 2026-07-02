@@ -1,0 +1,16 @@
+{
+  "uuid": "373ced5e-b620-431b-9d8f-b781f38067e9",
+  "first_name": "Malhar",
+  "last_name": "Patel",
+  "full_name": "Malhar Patel",
+  "linkedin_url": "https://linkedin.com/in/malharp",
+  "emails": [
+    {
+      "email": "malhar@appliedintuition.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Applied Intuition"
+}

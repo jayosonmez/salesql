@@ -1,0 +1,17 @@
+{
+  "uuid": "af6b1cad-c8e3-4d83-b85a-c924d364c782",
+  "first_name": "Kimberly",
+  "last_name": "Dew",
+  "full_name": "Kimberly Dew",
+  "linkedin_url": "https://linkedin.com/in/kimberly-dew-76a372a8",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 631-866-1800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Biocogent LLC"
+}

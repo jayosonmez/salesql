@@ -1,0 +1,23 @@
+{
+  "uuid": "9c293c50-9961-4c4b-8a8a-f89ef00335a4",
+  "first_name": "Arik",
+  "last_name": "Ultsch",
+  "full_name": "Arik Ultsch",
+  "linkedin_url": "https://linkedin.com/in/arik-ultsch-66915284",
+  "emails": [
+    {
+      "email": "arik_ultsch@mksinst.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 978-645-5500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MKS Inc."
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "88005a98-5a49-4c93-86e3-3bbf1f49bbe2",
+  "first_name": "Kevin",
+  "last_name": "Cuddy",
+  "full_name": "Kevin Cuddy",
+  "linkedin_url": "https://linkedin.com/in/kevin-cuddy-67609622",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 610-389-4166",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rockland Immunochemicals"
+}

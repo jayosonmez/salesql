@@ -1,0 +1,23 @@
+{
+  "uuid": "2ee4f60c-f142-43eb-8a3f-c1af7275c8e1",
+  "first_name": "Sarah",
+  "last_name": "Gartner",
+  "full_name": "Sarah Gartner",
+  "linkedin_url": "https://linkedin.com/in/sarah-gartner-54400857",
+  "emails": [
+    {
+      "email": "sarah@evergreenemergencyservices.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 425-899-1711",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Evergreen Emergency Services"
+}

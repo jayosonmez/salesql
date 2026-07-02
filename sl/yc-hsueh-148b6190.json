@@ -1,0 +1,23 @@
+{
+  "uuid": "1c9dd319-72f3-45db-9bff-7a427cd47dac",
+  "first_name": "YC",
+  "last_name": "Hsueh",
+  "full_name": "YC Hsueh",
+  "linkedin_url": "https://linkedin.com/in/yc-hsueh-148b6190",
+  "emails": [
+    {
+      "email": "yhsueh@syracuse.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 315-443-1870",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Syracuse University"
+}

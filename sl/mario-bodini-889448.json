@@ -1,0 +1,43 @@
+{
+  "uuid": "8eff0ff0-2319-425a-82fa-0f7614a0f567",
+  "first_name": "Mario",
+  "last_name": "Bodini",
+  "full_name": "Mario Bodini",
+  "linkedin_url": "https://linkedin.com/in/mario-bodini-889448",
+  "emails": [
+    {
+      "email": "mario.bodini@firedrop.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mb@cruiseo.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mario.bodini@jactravel.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mb@mariobodini.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mbodini@etoa.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-710-1322",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Travel Curious"
+}

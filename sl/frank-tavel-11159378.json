@@ -1,0 +1,23 @@
+{
+  "uuid": "cc9529a0-05fd-4eee-9cdb-65463b601380",
+  "first_name": "Frank",
+  "last_name": "Tavel",
+  "full_name": "Frank Tavel",
+  "linkedin_url": "https://linkedin.com/in/frank-tavel-11159378",
+  "emails": [
+    {
+      "email": "franktavel@marinclinics.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-448-1500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Marin Community Clinics"
+}

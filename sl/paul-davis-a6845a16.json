@@ -1,0 +1,28 @@
+{
+  "uuid": "0c76f04a-3131-4777-b5a0-20a5ae5db91f",
+  "first_name": "Paul",
+  "last_name": "Davis",
+  "full_name": "Paul Davis",
+  "linkedin_url": "https://linkedin.com/in/paul-davis-a6845a16",
+  "emails": [
+    {
+      "email": "pauldavis@cox.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "paul@capstone.md",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 907-563-4006",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Primary Care Associates"
+}

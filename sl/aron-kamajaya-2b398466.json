@@ -1,0 +1,23 @@
+{
+  "uuid": "e5379c3a-4267-4b85-a2d3-9bf2332e9521",
+  "first_name": "Aron",
+  "last_name": "Kamajaya",
+  "full_name": "Aron Kamajaya",
+  "linkedin_url": "https://linkedin.com/in/aron-kamajaya-2b398466",
+  "emails": [
+    {
+      "email": "kamajayaa@piercecollege.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 818-719-6401",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Los Angeles Pierce College"
+}

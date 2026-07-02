@@ -1,0 +1,33 @@
+{
+  "uuid": "cf2c341c-4825-4430-a5ff-fb74d987e51b",
+  "first_name": "Thomas",
+  "last_name": "Trenker",
+  "full_name": "Thomas Trenker",
+  "linkedin_url": "https://linkedin.com/in/filmfinance",
+  "emails": [
+    {
+      "email": "linkedin@venturedev.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ttrenker@copantrade.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ttrenker@eveo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 281-357-8075",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Copantrade - Green Coffee Importer"
+}

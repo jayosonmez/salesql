@@ -1,0 +1,26 @@
+{
+  "uuid": "4b3693cb-0876-4c04-a6b5-3a5ddd0e7c75",
+  "first_name": "Michael E.",
+  "last_name": "Makover, MD",
+  "full_name": "Michael E. Makover, MD",
+  "linkedin_url": "https://linkedin.com/in/michael-e-makover-md-62ab277",
+  "emails": [
+    {
+      "email": "mmakover@makover.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael.makover@nyu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "m.makover@jib.org.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "JIB Medical, PC"
+}

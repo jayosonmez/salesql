@@ -1,0 +1,23 @@
+{
+  "uuid": "592e5b64-4cb5-422b-abfa-fe68b84a87b1",
+  "first_name": "Traci",
+  "last_name": "Williams",
+  "full_name": "Traci Williams",
+  "linkedin_url": "https://linkedin.com/in/traci-williams-3b10ba2a",
+  "emails": [
+    {
+      "email": "williams_traci@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 909-947-3400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Desert Mountain Children's Center"
+}

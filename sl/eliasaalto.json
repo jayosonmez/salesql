@@ -1,0 +1,33 @@
+{
+  "uuid": "250d6dfc-b653-4595-8a84-10ddd1a7775c",
+  "first_name": "Elias",
+  "last_name": "Aalto",
+  "full_name": "Elias Aalto",
+  "linkedin_url": "https://linkedin.com/in/eliasaalto",
+  "emails": [
+    {
+      "email": "elias.pietila@qvik.fi",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "elias.aalto@wolt.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "elias.aalto@qvik.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+358 40 1234567",
+      "type": "Work",
+      "country_code": "FI",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wolt"
+}

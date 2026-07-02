@@ -1,0 +1,28 @@
+{
+  "uuid": "ed3f269f-2a9c-45b9-a62d-d2ba605a37a3",
+  "first_name": "Paul",
+  "last_name": "Huish",
+  "full_name": "Paul Huish",
+  "linkedin_url": "https://linkedin.com/in/paulhuish",
+  "emails": [
+    {
+      "email": "paul@47g.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "phuish@dronehiveinc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-613-0259",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DroneHive, Inc."
+}

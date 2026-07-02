@@ -1,0 +1,23 @@
+{
+  "uuid": "8c370e8e-0f01-437c-be73-8425dcc129bf",
+  "first_name": "Eric",
+  "last_name": "Josephs",
+  "full_name": "Eric Josephs",
+  "linkedin_url": "https://linkedin.com/in/eric-josephs-23ba697",
+  "emails": [
+    {
+      "email": "eric.josephs@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-684-2813",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Duke University"
+}

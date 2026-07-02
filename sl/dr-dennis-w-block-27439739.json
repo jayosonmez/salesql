@@ -1,0 +1,23 @@
+{
+  "uuid": "aecbf867-c29f-43f3-8571-80f5523f41cc",
+  "first_name": "Dr. Dennis W.",
+  "last_name": "Block",
+  "full_name": "Dr. Dennis W. Block",
+  "linkedin_url": "https://linkedin.com/in/dr-dennis-w-block-27439739",
+  "emails": [
+    {
+      "email": "marthakelso@mobilewoundsolutions.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 913-647-3239",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mobile Wound Solutions"
+}

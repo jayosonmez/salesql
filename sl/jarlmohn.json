@@ -1,0 +1,28 @@
+{
+  "uuid": "ea16bcfc-0f94-4d91-8c6f-4a4cdb9e7cee",
+  "first_name": "Jarl",
+  "last_name": "Mohn",
+  "full_name": "Jarl Mohn",
+  "linkedin_url": "https://linkedin.com/in/jarlmohn",
+  "emails": [
+    {
+      "email": "leeisjarl@earthlink.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jmohn@npr.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 202-513-2300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NPR"
+}

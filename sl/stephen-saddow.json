@@ -1,0 +1,28 @@
+{
+  "uuid": "47443ca9-b9c7-492b-85b0-6d73adfe56ca",
+  "first_name": "Stephen",
+  "last_name": "Saddow",
+  "full_name": "Stephen Saddow",
+  "linkedin_url": "https://linkedin.com/in/stephen-saddow",
+  "emails": [
+    {
+      "email": "saddow@ieee.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ssaddow@usf.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 813-974-2011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of South Florida"
+}

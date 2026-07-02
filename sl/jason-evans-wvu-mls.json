@@ -1,0 +1,17 @@
+{
+  "uuid": "58da4a14-b044-4f13-b86c-4cc9b1ac5bec",
+  "first_name": "Jason",
+  "last_name": "Evans",
+  "full_name": "Jason Evans",
+  "linkedin_url": "https://linkedin.com/in/jason-evans-wvu-mls",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 304-293-0111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "West Virginia University"
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "443ec340-6fe9-4bce-8ddf-303365bd8fda",
+  "first_name": "Melanie",
+  "last_name": "Palomares, MD, MS",
+  "full_name": "Melanie Palomares, MD, MS",
+  "linkedin_url": "https://linkedin.com/in/drmelpal",
+  "emails": [
+    {
+      "email": "mpalomares@coh.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "melanie.palomares@canpreventmovement.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mpalomares@exactsciences.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 833-363-2627",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 608-284-5700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Exact Sciences"
+}

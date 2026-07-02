@@ -1,0 +1,17 @@
+{
+  "uuid": "2579d6a2-a581-4822-b401-6d1a3ba6b28e",
+  "first_name": "Nataliya",
+  "last_name": "G.",
+  "full_name": "Nataliya G.",
+  "linkedin_url": "https://linkedin.com/in/nataliya-g-40715710a",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+7 905 132-92-75",
+      "type": "Personal",
+      "country_code": "RU",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth Mode Marketing Automation Platform "
+}

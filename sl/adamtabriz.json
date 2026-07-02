@@ -1,0 +1,45 @@
+{
+  "uuid": "da140d21-84bc-4478-9bc6-8f025aa8c4d5",
+  "first_name": "Adam",
+  "last_name": "Tabriz",
+  "full_name": "Adam Tabriz",
+  "linkedin_url": "https://linkedin.com/in/adamtabriz",
+  "emails": [
+    {
+      "email": "adam.t@turing.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rezatabriz@jeunederm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adam@mercor.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-646-9636",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-776-3599",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-200-0797",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mercor"
+}

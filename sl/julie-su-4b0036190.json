@@ -1,0 +1,28 @@
+{
+  "uuid": "8ce59877-6de0-4c96-bc53-49ab1b7bdf66",
+  "first_name": "Julie",
+  "last_name": "Su",
+  "full_name": "Julie Su",
+  "linkedin_url": "https://linkedin.com/in/julie-su-4b0036190",
+  "emails": [
+    {
+      "email": "jsu@angelcapitalassociation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "js@tesla.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 913-894-4700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Angel Capital Association"
+}

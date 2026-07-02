@@ -1,0 +1,54 @@
+{
+  "uuid": "f67696a4-27ff-483f-8f57-7327b91ea9df",
+  "first_name": "Tristan",
+  "last_name": "Tao",
+  "full_name": "Tristan Tao",
+  "linkedin_url": "https://linkedin.com/in/tristantao",
+  "emails": [
+    {
+      "email": "garz-tristan@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "tristan@teamleada.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tao.tristan@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "tristan@firsthand.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tristan@timelyai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tristan@pioneerfund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 530-400-3965",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "9933905117",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Stealth"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c7287ca1-13bb-46a2-9197-8e5b54ac1925",
+  "first_name": "Rashmi",
+  "last_name": "Tiwari",
+  "full_name": "Rashmi Tiwari",
+  "linkedin_url": "https://linkedin.com/in/rashmi-tiwari-5b8256146",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 404-676-2121",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Coca-Cola Company"
+}

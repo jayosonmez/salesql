@@ -1,0 +1,23 @@
+{
+  "uuid": "642414b6-8e23-49d3-a143-40171316a171",
+  "first_name": "George",
+  "last_name": "Rappard",
+  "full_name": "George Rappard",
+  "linkedin_url": "https://linkedin.com/in/george-rappard-1ab9aa65",
+  "emails": [
+    {
+      "email": "georgerappard@scuhs.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 703-683-5564",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Los Angeles Minimally Invasive Spine Institute"
+}

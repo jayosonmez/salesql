@@ -1,0 +1,33 @@
+{
+  "uuid": "43d919e1-7b25-4b0f-92ca-c6eb0ba73544",
+  "first_name": "Chris",
+  "last_name": "Chafe",
+  "full_name": "Chris Chafe",
+  "linkedin_url": "https://linkedin.com/in/chris-chafe-b898672",
+  "emails": [
+    {
+      "email": "chrisc@stanford.edu",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chris@ceribell.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cc@ccrma.stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-436-0826",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ceribell │ AI-Powered Point-of-Care EEG"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3bce78d7-a02b-4be7-ac41-a81dd92034da",
+  "first_name": "Santosh",
+  "last_name": "Aryal",
+  "full_name": "Santosh Aryal",
+  "linkedin_url": "https://linkedin.com/in/santosh-aryal-7b722844",
+  "emails": [
+    {
+      "email": "saryal@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "saryal@k-state.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 785-532-7718",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kansas State University"
+}

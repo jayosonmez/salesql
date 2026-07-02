@@ -1,0 +1,33 @@
+{
+  "uuid": "766eca31-3265-4160-883c-f1a802d75428",
+  "first_name": "David J.",
+  "last_name": "La Placa",
+  "full_name": "David J. La Placa",
+  "linkedin_url": "https://linkedin.com/in/david-j-la-placa-4ab26",
+  "emails": [
+    {
+      "email": "david@intellectuspartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@edgescaleai.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david.laplaca@db.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-795-7831",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Intellectus Partners, LLC"
+}

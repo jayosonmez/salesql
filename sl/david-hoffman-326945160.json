@@ -1,0 +1,28 @@
+{
+  "uuid": "4f337bdb-794b-461c-9df4-3829645f3962",
+  "first_name": "David",
+  "last_name": "Hoffman",
+  "full_name": "David Hoffman",
+  "linkedin_url": "https://linkedin.com/in/david-hoffman-326945160",
+  "emails": [
+    {
+      "email": "dhoffman@twitter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "davida.hoffman@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-222-9670",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bankless Ventures"
+}

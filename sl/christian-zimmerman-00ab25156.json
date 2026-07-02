@@ -1,0 +1,28 @@
+{
+  "uuid": "3e7aed16-b5a6-42bb-b0f9-f9be157bdde7",
+  "first_name": "Christian",
+  "last_name": "Zimmerman",
+  "full_name": "Christian Zimmerman",
+  "linkedin_url": "https://linkedin.com/in/christian-zimmerman-00ab25156",
+  "emails": [
+    {
+      "email": "zimmerman@trinityhealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zimmermanc@trinity-health.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 701-418-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Trinity Health"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "8333d132-9530-41be-9156-30da039a8cf8",
+  "first_name": "Hakan",
+  "last_name": "Baş",
+  "full_name": "Hakan Baş",
+  "linkedin_url": "https://linkedin.com/in/hakanbaş",
+  "emails": [
+    {
+      "email": "hakanbas2023@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Comtechist Akademi "
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "632e854a-db82-4ed7-8770-dd1f2b5e7865",
+  "first_name": "Lisa",
+  "last_name": "Hasty",
+  "full_name": "Lisa Hasty",
+  "linkedin_url": "https://linkedin.com/in/lisa-hasty-17b46643",
+  "emails": [
+    {
+      "email": "lisa.hasty@acrm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 770-928-2276",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Atlanta Center for Reproductive Medicine"
+}

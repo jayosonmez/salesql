@@ -1,0 +1,23 @@
+{
+  "uuid": "a4896159-a0d3-4e7d-aca5-325f726dbdc5",
+  "first_name": "Adam",
+  "last_name": "Toubian",
+  "full_name": "Adam Toubian",
+  "linkedin_url": "https://linkedin.com/in/adam-toubian-a0504b24a",
+  "emails": [
+    {
+      "email": "atoubian@ucla.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-825-4321",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UCLA"
+}

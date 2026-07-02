@@ -1,0 +1,21 @@
+{
+  "uuid": "b5c6f728-fc8f-4086-93c1-e1da14609733",
+  "first_name": "Oscar",
+  "last_name": "Pierre",
+  "full_name": "Oscar Pierre",
+  "linkedin_url": "https://linkedin.com/in/oscarpierremi",
+  "emails": [
+    {
+      "email": "pierre@glovoapp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "oscar@yellow.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Glovo"
+}

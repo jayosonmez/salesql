@@ -1,0 +1,16 @@
+{
+  "uuid": "adddee93-7696-4096-8779-6972bba54350",
+  "first_name": "Shachar",
+  "last_name": "Tauber",
+  "full_name": "Shachar Tauber",
+  "linkedin_url": "https://linkedin.com/in/shachartaubermd",
+  "emails": [
+    {
+      "email": "shachar.tauber@mercy.net",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Tauber Ophthalmic Research of America"
+}

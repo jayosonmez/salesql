@@ -1,0 +1,17 @@
+{
+  "uuid": "924791dd-ca34-4d76-9e4e-eb22aebd5b91",
+  "first_name": "Ann",
+  "last_name": "Kuo, MD",
+  "full_name": "Ann Kuo, MD",
+  "linkedin_url": "https://linkedin.com/in/ann-kuo-md",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 858-626-5672",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Scripps Health"
+}

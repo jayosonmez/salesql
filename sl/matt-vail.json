@@ -1,0 +1,38 @@
+{
+  "uuid": "5070e76b-5df6-4dc2-b307-8ccb103fe9a8",
+  "first_name": "Matt",
+  "last_name": "Vail",
+  "full_name": "Matt Vail",
+  "linkedin_url": "https://linkedin.com/in/matt-vail",
+  "emails": [
+    {
+      "email": "mattvail@amazon.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "matthewpvail@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "matt@lyte.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "matt@unboxed.ventures",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-241-1792",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "OpenAI"
+}

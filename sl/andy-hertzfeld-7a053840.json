@@ -1,0 +1,28 @@
+{
+  "uuid": "5125ab46-7332-4ef5-afa3-497db7b7393a",
+  "first_name": "andy",
+  "last_name": "hertzfeld",
+  "full_name": "andy hertzfeld",
+  "linkedin_url": "https://linkedin.com/in/andy-hertzfeld-7a053840",
+  "emails": [
+    {
+      "email": "andyhertzfeld@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "andy.hertzfeld@boeing.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-544-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Boeing"
+}

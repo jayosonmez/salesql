@@ -1,0 +1,64 @@
+{
+  "uuid": "0ce31920-6433-4aa2-8103-8d7cb70c2357",
+  "first_name": "Shahin",
+  "last_name": "Farshchi",
+  "full_name": "Shahin Farshchi",
+  "linkedin_url": "https://linkedin.com/in/shahinf",
+  "emails": [
+    {
+      "email": "shahin.farshchi@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sf@luxcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "shahin.farshchi@luxcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "fs@databricks.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "shahin@impulsespace.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shahin@cognichip.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shahin@epsilon3.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shahin@majestic-labs.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 925-323-2784",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 646-475-4385",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lux Capital"
+}

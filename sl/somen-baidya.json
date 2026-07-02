@@ -1,0 +1,22 @@
+{
+  "uuid": "e1fcb962-94bc-43ae-9d79-db2ce8730e0e",
+  "first_name": "Somen",
+  "last_name": "Baidya",
+  "full_name": "Somen Baidya",
+  "linkedin_url": "https://linkedin.com/in/somen-baidya",
+  "emails": [
+    {
+      "email": "somen.baidya@3ds.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 1 61 62 61 62",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Dassault Systèmes"
+}

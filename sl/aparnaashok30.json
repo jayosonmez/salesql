@@ -1,0 +1,23 @@
+{
+  "uuid": "ada382a6-8b75-4b24-9946-fcad116f8ec9",
+  "first_name": "Aparna",
+  "last_name": "Ashok",
+  "full_name": "Aparna Ashok",
+  "linkedin_url": "https://linkedin.com/in/aparnaashok30",
+  "emails": [
+    {
+      "email": "ashok@bswhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 214-265-3787",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Baylor Scott & White Health"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "8c28969a-b696-43d0-b0ce-0ff093c24544",
+  "first_name": "Wesley",
+  "last_name": "C.",
+  "full_name": "Wesley C.",
+  "linkedin_url": "https://linkedin.com/in/wesleychiang",
+  "emails": [
+    {
+      "email": "wes.linkedin@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "wesley@enjoywears.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wesley@curie.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wesley@predixlabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wesley@xrcventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-683-1132",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Iterable"
+}

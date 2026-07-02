@@ -1,0 +1,26 @@
+{
+  "uuid": "b1b87971-9210-408a-8fd7-8c7a6ef69317",
+  "first_name": "Guillaume",
+  "last_name": "Richard",
+  "full_name": "Guillaume Richard",
+  "linkedin_url": "https://linkedin.com/in/guillaume-richard-0227b6",
+  "emails": [
+    {
+      "email": "r-g@croissanceplus.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "guillaume@o2.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "guillaume.richard@ouicare.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Groupe Oui Care"
+}

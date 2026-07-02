@@ -1,0 +1,38 @@
+{
+  "uuid": "b0f2c75f-7b9c-443d-8344-6458f9c667ae",
+  "first_name": "Frank",
+  "last_name": "Gruber",
+  "full_name": "Frank Gruber",
+  "linkedin_url": "https://linkedin.com/in/frankgruber",
+  "emails": [
+    {
+      "email": "frank@nextgenvp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "frank@est.us",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "frank@established.us",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "frank@techcocktail.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 702-590-9867",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Established"
+}

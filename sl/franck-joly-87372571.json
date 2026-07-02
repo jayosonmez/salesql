@@ -1,0 +1,23 @@
+{
+  "uuid": "dae750e0-3400-4862-ae11-a8a983709d92",
+  "first_name": "Franck",
+  "last_name": "Joly",
+  "full_name": "Franck Joly",
+  "linkedin_url": "https://linkedin.com/in/franck-joly-87372571",
+  "emails": [
+    {
+      "email": "franck@dermaconcepts.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-337-6227",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DermaConcepts"
+}

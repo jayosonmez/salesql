@@ -1,0 +1,28 @@
+{
+  "uuid": "43aa6586-615f-4aea-a61f-1f2c48f94bd4",
+  "first_name": "Sara",
+  "last_name": "Beaumarchais",
+  "full_name": "Sara Beaumarchais",
+  "linkedin_url": "https://linkedin.com/in/drsaramiller",
+  "emails": [
+    {
+      "email": "sara@drsaramiller.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sara@tncoaching.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 517-292-1261",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "True North Coaching, LLC"
+}

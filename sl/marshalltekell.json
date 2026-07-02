@@ -1,0 +1,17 @@
+{
+  "uuid": "1da4037a-9988-4bd3-9c86-ff63456cb95d",
+  "first_name": "Marshall",
+  "last_name": "T.",
+  "full_name": "Marshall T.",
+  "linkedin_url": "https://linkedin.com/in/marshalltekell",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 212-854-1754",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Columbia University"
+}

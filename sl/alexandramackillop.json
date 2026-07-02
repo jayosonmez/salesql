@@ -1,0 +1,23 @@
+{
+  "uuid": "90b7fa74-599f-4f2e-9d07-7f6b0a3ebac7",
+  "first_name": "Alexandra",
+  "last_name": "MacKillop",
+  "full_name": "Alexandra MacKillop",
+  "linkedin_url": "https://linkedin.com/in/alexandramackillop",
+  "emails": [
+    {
+      "email": "alexandra@ona.health",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 773-282-6648",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Chicago Health and Physical Therapy"
+}

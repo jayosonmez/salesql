@@ -1,0 +1,17 @@
+{
+  "uuid": "6fb30aec-4ff3-4df9-9c11-cfa72a320883",
+  "first_name": "Anuradha",
+  "last_name": "Gorukanti",
+  "full_name": "Anuradha Gorukanti",
+  "linkedin_url": "https://linkedin.com/in/anuradha-gorukanti-776715221",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 747-210-3205",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Olive View - UCLA Medical Center"
+}

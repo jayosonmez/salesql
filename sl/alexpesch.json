@@ -1,0 +1,23 @@
+{
+  "uuid": "45c6193a-bb32-41d3-8bb1-79dbb091c976",
+  "first_name": "Alex",
+  "last_name": "Pesch",
+  "full_name": "Alex Pesch",
+  "linkedin_url": "https://linkedin.com/in/alexpesch",
+  "emails": [
+    {
+      "email": "apesch@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-877-1889",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

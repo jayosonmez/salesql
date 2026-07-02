@@ -1,0 +1,28 @@
+{
+  "uuid": "9a486725-8782-4a9c-bb95-70a7da7a8371",
+  "first_name": "John",
+  "last_name": "Leahy",
+  "full_name": "John Leahy",
+  "linkedin_url": "https://linkedin.com/in/john-leahy-6695663",
+  "emails": [
+    {
+      "email": "john.leahy@henryford.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leahyjoh@msu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 313-874-6188",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Henry Ford Health"
+}

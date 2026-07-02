@@ -1,0 +1,16 @@
+{
+  "uuid": "a1a00e45-16c4-414a-9dd2-9c62b0f50e7e",
+  "first_name": "İpek",
+  "last_name": "Kocabaş",
+  "full_name": "İpek Kocabaş",
+  "linkedin_url": "https://linkedin.com/in/i̇pekkocabaş",
+  "emails": [
+    {
+      "email": "ipek.kocabas@rdctalent.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "RDC Talent"
+}

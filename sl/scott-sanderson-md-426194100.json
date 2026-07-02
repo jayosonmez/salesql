@@ -1,0 +1,45 @@
+{
+  "uuid": "636fb5a7-7dea-4dd0-9a75-5622269458ee",
+  "first_name": "Scott",
+  "last_name": "Sanderson, MD",
+  "full_name": "Scott Sanderson, MD",
+  "linkedin_url": "https://linkedin.com/in/scott-sanderson-md-426194100",
+  "emails": [
+    {
+      "email": "ssanderson@elitehealthhi.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ssanderson@elitehealthhawaii.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "casey@thrivemedspa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 808-523-5483",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 808-784-7041",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 808-201-2927",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Thrive Med Spa"
+}

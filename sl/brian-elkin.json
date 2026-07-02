@@ -1,0 +1,16 @@
+{
+  "uuid": "4caebdcf-5051-40fb-b3f0-2bfeb34d0074",
+  "first_name": "Brian",
+  "last_name": "Elkin",
+  "full_name": "Brian Elkin",
+  "linkedin_url": "https://linkedin.com/in/brian-elkin",
+  "emails": [
+    {
+      "email": "brian@elkster.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Powerbee LLC"
+}

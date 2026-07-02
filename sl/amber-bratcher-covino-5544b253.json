@@ -1,0 +1,38 @@
+{
+  "uuid": "26f2c36c-bb3e-4889-addd-2fa79961de88",
+  "first_name": "Amber",
+  "last_name": "Bratcher-Covino",
+  "full_name": "Amber Bratcher-Covino",
+  "linkedin_url": "https://linkedin.com/in/amber-bratcher-covino-5544b253",
+  "emails": [
+    {
+      "email": "amber.bratcher-covino@lmu.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "abratcher-covino@laverne.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "abratcher-covino@ets.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amber.bratcher-covino@lmu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-338-2700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Loyola Marymount University"
+}

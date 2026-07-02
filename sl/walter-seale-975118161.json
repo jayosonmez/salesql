@@ -1,0 +1,23 @@
+{
+  "uuid": "83000888-7764-409c-be36-bddb6c906d20",
+  "first_name": "Walter",
+  "last_name": "Seale",
+  "full_name": "Walter Seale",
+  "linkedin_url": "https://linkedin.com/in/walter-seale-975118161",
+  "emails": [
+    {
+      "email": "walter.seale@providence.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 907-835-2249",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Providence"
+}

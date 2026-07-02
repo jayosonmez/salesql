@@ -1,0 +1,46 @@
+{
+  "uuid": "b9c5b58b-f54c-4738-a2cd-1f3536447718",
+  "first_name": "Andrea",
+  "last_name": "Dusi",
+  "full_name": "Andrea Dusi",
+  "linkedin_url": "https://linkedin.com/in/andrea-dusi-aba44",
+  "emails": [
+    {
+      "email": "andrea@unrulycap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrea@m14t.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrea@self.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrea.dusi@treccanifutura.it",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "andrea.dusi@elation.it",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andreadusi@icloud.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "andrea@supermanholding.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Unruly Capital"
+}

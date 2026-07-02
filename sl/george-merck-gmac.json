@@ -1,0 +1,38 @@
+{
+  "uuid": "7dafa712-f0b9-483c-89f5-ff7a0ffe7c21",
+  "first_name": "George",
+  "last_name": "Merck",
+  "full_name": "George Merck",
+  "linkedin_url": "https://linkedin.com/in/george-merck-gmac",
+  "emails": [
+    {
+      "email": "george@gmac.art",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "george.merck@nga.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "merckg@norton.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "merckg@si.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 561-318-5464",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GMAC: George Merck Art Collection"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "1696697a-b7dc-473e-9329-d9afb548dbcb",
+  "first_name": "Tao",
+  "last_name": "Yu",
+  "full_name": "Tao Yu",
+  "linkedin_url": "https://linkedin.com/in/tao-yu-31a87565",
+  "emails": [
+    {
+      "email": "tyu@tntech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 931-372-3223",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tennessee Technological University"
+}

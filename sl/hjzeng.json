@@ -1,0 +1,16 @@
+{
+  "uuid": "d3b12f65-769f-4dec-826d-59587bb1d9d1",
+  "first_name": "Hongjun",
+  "last_name": "Zeng",
+  "full_name": "Hongjun Zeng",
+  "linkedin_url": "https://linkedin.com/in/hjzeng",
+  "emails": [
+    {
+      "email": "hjzeng01@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Adaxius Corp"
+}

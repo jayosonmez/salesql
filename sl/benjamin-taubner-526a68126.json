@@ -1,0 +1,23 @@
+{
+  "uuid": "76a81906-b622-49cc-a02e-51eda1f517c2",
+  "first_name": "Benjamin",
+  "last_name": "Taubner",
+  "full_name": "Benjamin Taubner",
+  "linkedin_url": "https://linkedin.com/in/benjamin-taubner-526a68126",
+  "emails": [
+    {
+      "email": "benjamin.taubner@rfsuny.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 518-434-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Research Foundation for SUNY"
+}

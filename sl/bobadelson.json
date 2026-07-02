@@ -1,0 +1,49 @@
+{
+  "uuid": "fc0ff1dd-7692-4cd0-b0a8-276790f7d3ad",
+  "first_name": "Bob",
+  "last_name": "Adelson",
+  "full_name": "Bob Adelson",
+  "linkedin_url": "https://linkedin.com/in/bobadelson",
+  "emails": [
+    {
+      "email": "bob.adelson@helloteam.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bob.adelson@opsys-tech.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "badelson@oup.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bob@pliant.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "radelson@osagepartners.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 484-434-2255",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 484-434-2255",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Osage University Partners (OUP)"
+}

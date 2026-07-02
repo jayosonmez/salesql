@@ -1,0 +1,48 @@
+{
+  "uuid": "4bcd5dfe-75c0-4c69-9f80-019b4d84b620",
+  "first_name": "Philipp",
+  "last_name": "Freise",
+  "full_name": "Philipp Freise",
+  "linkedin_url": "https://linkedin.com/in/phfreise",
+  "emails": [
+    {
+      "email": "philipp.freise@mediawan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philipp.freise@axelspringer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philipp.freise@nielseniq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philipp.freise@kkr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "freip@kkr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "philipp@leoninestudios.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-937-5449",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "KKR"
+}

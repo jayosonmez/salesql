@@ -1,0 +1,23 @@
+{
+  "uuid": "cf315e8c-7d1c-4241-8e23-d6b3ef797e5e",
+  "first_name": "Kevin",
+  "last_name": "Jordan MD",
+  "full_name": "Kevin Jordan MD",
+  "linkedin_url": "https://linkedin.com/in/kevin-jordan-md-62b27359",
+  "emails": [
+    {
+      "email": "kevin.jordan@mountsinai.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-241-6500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mount Sinai Beth Israel"
+}

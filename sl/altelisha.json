@@ -1,0 +1,28 @@
+{
+  "uuid": "7e44c271-4a4c-4d89-93df-405867f83e22",
+  "first_name": "Altelisha “Lisha”",
+  "last_name": "Taylor",
+  "full_name": "Altelisha “Lisha” Taylor",
+  "linkedin_url": "https://linkedin.com/in/altelisha",
+  "emails": [
+    {
+      "email": "ataylor@msm.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alt24@duke.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-752-1500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Morehouse School of Medicine"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "577b7c4b-e4eb-4f56-b537-bc99de57469c",
+  "first_name": "Golda",
+  "last_name": "Daphna",
+  "full_name": "Golda Daphna",
+  "linkedin_url": "https://linkedin.com/in/golda-daphna-42139718a",
+  "emails": [
+    {
+      "email": "golda.daphna@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "goldad@columbia.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "gdaphna@hasbarafellowships.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "daphna@cooper.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "golda.daphna@cooper.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-854-1754",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Freelance"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "bfcfd09a-e2b1-4bbb-b486-f10d2dff5942",
+  "first_name": "Michael",
+  "last_name": "Samuels",
+  "full_name": "Michael Samuels",
+  "linkedin_url": "https://linkedin.com/in/michael-samuels-89424634",
+  "emails": [
+    {
+      "email": "msamuelsmd@earthlink.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self"
+}

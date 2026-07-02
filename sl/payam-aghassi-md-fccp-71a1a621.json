@@ -1,0 +1,39 @@
+{
+  "uuid": "1c4784e8-f003-47df-9664-069540fb777d",
+  "first_name": "Payam",
+  "last_name": "Aghassi, MD, FCCP",
+  "full_name": "Payam Aghassi, MD, FCCP",
+  "linkedin_url": "https://linkedin.com/in/payam-aghassi-md-fccp-71a1a621",
+  "emails": [
+    {
+      "email": "paghassi@masslung.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "p.aghassi@umassmed.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "paghassi@takmedgroup.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 978-466-2692",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 978-466-4396",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tak Medical Group"
+}

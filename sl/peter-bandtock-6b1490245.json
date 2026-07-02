@@ -1,0 +1,21 @@
+{
+  "uuid": "694b2110-b8eb-416c-94d3-aa2965f44b7f",
+  "first_name": "Peter",
+  "last_name": "Bandtock",
+  "full_name": "Peter Bandtock",
+  "linkedin_url": "https://linkedin.com/in/peter-bandtock-6b1490245",
+  "emails": [
+    {
+      "email": "p.bandtock@dineticq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter.bandtock@tgleaders.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dineticq"
+}

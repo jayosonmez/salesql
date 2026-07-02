@@ -1,0 +1,59 @@
+{
+  "uuid": "f1c919ee-16a3-4167-9f25-d06313cdb939",
+  "first_name": "Bruce",
+  "last_name": "Perkins",
+  "full_name": "Bruce Perkins",
+  "linkedin_url": "https://linkedin.com/in/bruce-perkins-79ba38b0",
+  "emails": [
+    {
+      "email": "perkins@amedisys.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bperkins@mccigroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bruce.perkins@upperlinehealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bruce.perkins@hopebridge.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bperkins@oncohealth.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bperkins@treatingpain.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bruce.perkins@healthaxis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 502-583-1632",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 301-945-5111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "National Spine & Pain Centers"
+}

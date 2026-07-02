@@ -1,0 +1,33 @@
+{
+  "uuid": "03916e3e-d1b3-4ae8-bb4a-c368c1ea2f80",
+  "first_name": "Adam",
+  "last_name": "Gaustad",
+  "full_name": "Adam Gaustad",
+  "linkedin_url": "https://linkedin.com/in/adamgaustad",
+  "emails": [
+    {
+      "email": "agaustad@adaptivebiotech.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adam@ohmx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adamgaustad@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-659-0067",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Adaptive Biotechnologies Corp."
+}

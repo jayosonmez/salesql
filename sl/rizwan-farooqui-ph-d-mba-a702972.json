@@ -1,0 +1,28 @@
+{
+  "uuid": "7acd6ce3-1e38-481e-936a-700ae3293635",
+  "first_name": "Rizwan",
+  "last_name": "Farooqui, Ph.D., MBA",
+  "full_name": "Rizwan Farooqui, Ph.D., MBA",
+  "linkedin_url": "https://linkedin.com/in/rizwan-farooqui-ph-d-mba-a702972",
+  "emails": [
+    {
+      "email": "rizwan.farooqui@abbvie.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rizwan.farooqui@thermofisher.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-454-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AbbVie"
+}

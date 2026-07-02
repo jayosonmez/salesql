@@ -1,0 +1,48 @@
+{
+  "uuid": "c24bd59a-338b-4d72-94da-349e5f43fd68",
+  "first_name": "Adam",
+  "last_name": "Hafez",
+  "full_name": "Adam Hafez",
+  "linkedin_url": "https://linkedin.com/in/adamshafez",
+  "emails": [
+    {
+      "email": "adam@bodha.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adam@growthboon.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "adam@upgradiq.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "adamhafez@eeauae.ae",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adam@wefunder.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 619-900-1313",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+971 54 592 3199",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UpgradIQ"
+}

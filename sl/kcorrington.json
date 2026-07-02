@@ -1,0 +1,33 @@
+{
+  "uuid": "0d2c2430-f600-484e-aeef-bb8f31b26552",
+  "first_name": "Kari",
+  "last_name": "C.",
+  "full_name": "Kari C.",
+  "linkedin_url": "https://linkedin.com/in/kcorrington",
+  "emails": [
+    {
+      "email": "kari@beondeck.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kari@plugandplaytechcenter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kari.corrington@fedex.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 901-752-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FedEx"
+}

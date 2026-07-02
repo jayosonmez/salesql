@@ -1,0 +1,21 @@
+{
+  "uuid": "332b00be-2bb8-44c3-8c77-95cc1af38e06",
+  "first_name": "Ken",
+  "last_name": "Howery",
+  "full_name": "Ken Howery",
+  "linkedin_url": "https://linkedin.com/in/kenhowery",
+  "emails": [
+    {
+      "email": "khowery@thefoundersfund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kenh@foundersfund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

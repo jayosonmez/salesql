@@ -1,0 +1,48 @@
+{
+  "uuid": "dc5f38b7-e10c-4c1b-a76b-083ccab0521a",
+  "first_name": "Susanne",
+  "last_name": "Brønnum",
+  "full_name": "Susanne Brønnum",
+  "linkedin_url": "https://linkedin.com/in/susanne-brønnum-708384",
+  "emails": [
+    {
+      "email": "sab@pbs.dk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "susannebronnum@outlook.dk",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "susanne.bronnum@superbexperience.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "susanne.bronnum@mastercard.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "susanne.bronnum@beyonmoney.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "susanne.bronnum@diggecard.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 1344 987678",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Diggecard"
+}

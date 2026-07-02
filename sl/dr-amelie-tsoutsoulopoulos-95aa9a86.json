@@ -1,0 +1,23 @@
+{
+  "uuid": "2e2a2214-4ab4-4f05-9cbe-ab51b28718c4",
+  "first_name": "Amelie",
+  "last_name": "Tsoutsoulopoulos",
+  "full_name": "Amelie Tsoutsoulopoulos",
+  "linkedin_url": "https://linkedin.com/in/dr-amelie-tsoutsoulopoulos-95aa9a86",
+  "emails": [
+    {
+      "email": "amelie.tsoutsoulopoulos@mll.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 89 990170",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MLL Münchner Leukämielabor"
+}

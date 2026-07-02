@@ -1,0 +1,33 @@
+{
+  "uuid": "92ec7fb7-c14b-42d4-8ce4-7fbab6af15b1",
+  "first_name": "Rochelle",
+  "last_name": "Elijah",
+  "full_name": "Rochelle Elijah",
+  "linkedin_url": "https://linkedin.com/in/rochelle-elijah-810b0b9a",
+  "emails": [
+    {
+      "email": "rochelle.elijah@bristolhospice.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ranman2001@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "elijah@vivus.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-325-0175",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bristol Hospice"
+}

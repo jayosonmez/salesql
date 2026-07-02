@@ -1,0 +1,43 @@
+{
+  "uuid": "073446f6-2c21-49d9-9cf4-2867358cdaeb",
+  "first_name": "Jules",
+  "last_name": "Yim",
+  "full_name": "Jules Yim",
+  "linkedin_url": "https://linkedin.com/in/julesyim",
+  "emails": [
+    {
+      "email": "jules@julesyim.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kaimunyim@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jules.yim@cognitive-edge.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jules@cafiend.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jules@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+65 9115 6345",
+      "type": "Personal",
+      "country_code": "SG",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hustle Fund"
+}

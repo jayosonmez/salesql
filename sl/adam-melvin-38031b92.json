@@ -1,0 +1,23 @@
+{
+  "uuid": "7d7615d2-d592-441c-a513-cfcd0cda015c",
+  "first_name": "Adam",
+  "last_name": "Melvin",
+  "full_name": "Adam Melvin",
+  "linkedin_url": "https://linkedin.com/in/adam-melvin-38031b92",
+  "emails": [
+    {
+      "email": "amelvin@lsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 225-578-8654",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Louisiana State University"
+}

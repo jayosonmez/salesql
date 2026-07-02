@@ -1,0 +1,38 @@
+{
+  "uuid": "e77fa5bf-03a2-4ac5-8deb-43679a191de6",
+  "first_name": "Spencer",
+  "last_name": "Rosero, MD",
+  "full_name": "Spencer Rosero, MD",
+  "linkedin_url": "https://linkedin.com/in/spencer-rosero-md-9a222b1",
+  "emails": [
+    {
+      "email": "spencer.rosero@rochester.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "spencer.rosero@rochester.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "srosero@efferentlabs.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "spencer_rosero@urmc.rochester.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 585-275-2121",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Rochester Medicine"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7154e3f5-89ce-434d-abd1-f5091dd8a9bf",
+  "first_name": "Ron",
+  "last_name": "Gallemore",
+  "full_name": "Ron Gallemore",
+  "linkedin_url": "https://linkedin.com/in/ron-gallemore-988241aa",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 310-944-9393",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Jules Stein Eye Institute"
+}

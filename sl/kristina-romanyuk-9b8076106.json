@@ -1,0 +1,21 @@
+{
+  "uuid": "c0db2130-7f2b-4c21-ba97-2cefa8a1b97e",
+  "first_name": "Kristina",
+  "last_name": "Romanyuk",
+  "full_name": "Kristina Romanyuk",
+  "linkedin_url": "https://linkedin.com/in/kristina-romanyuk-9b8076106",
+  "emails": [
+    {
+      "email": "romanyuk@ormatek.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "halmer-u67@rambler.ru",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Группа компаний Б1"
+}

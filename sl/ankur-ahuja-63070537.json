@@ -1,0 +1,23 @@
+{
+  "uuid": "e8aa55fc-acea-464b-a2cb-d2a5cda03385",
+  "first_name": "Ankur",
+  "last_name": "Ahuja",
+  "full_name": "Ankur Ahuja",
+  "linkedin_url": "https://linkedin.com/in/ankur-ahuja-63070537",
+  "emails": [
+    {
+      "email": "aa@cadencedistributors.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-993-1564",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Varana Capital"
+}

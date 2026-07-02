@@ -1,0 +1,23 @@
+{
+  "uuid": "b21c29a0-7a8e-443e-ad87-2113d44c6884",
+  "first_name": "Nicolas",
+  "last_name": "Escudero",
+  "full_name": "Nicolas Escudero",
+  "linkedin_url": "https://linkedin.com/in/nicoescudero55",
+  "emails": [
+    {
+      "email": "nescudero@kitepharma.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-824-9999",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kite Pharma"
+}

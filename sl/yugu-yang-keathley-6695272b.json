@@ -1,0 +1,28 @@
+{
+  "uuid": "c7de5353-cd9c-45f3-901d-5b4ce157f327",
+  "first_name": "Yugu",
+  "last_name": "Yang-Keathley",
+  "full_name": "Yugu Yang-Keathley",
+  "linkedin_url": "https://linkedin.com/in/yugu-yang-keathley-6695272b",
+  "emails": [
+    {
+      "email": "yang-keathleyy@wit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "erica_yyg@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-989-4590",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wentworth Institute of Technology"
+}

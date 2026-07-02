@@ -1,0 +1,26 @@
+{
+  "uuid": "0f55ee1e-8167-407c-96ca-808e1c530822",
+  "first_name": "Samantha",
+  "last_name": "Friedman, PhD",
+  "full_name": "Samantha Friedman, PhD",
+  "linkedin_url": "https://linkedin.com/in/samanthajfriedman",
+  "emails": [
+    {
+      "email": "samantha.jill@alum.wellesley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "samantha@fairfunders.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "samantha@pioneerfund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

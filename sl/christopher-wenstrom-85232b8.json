@@ -1,0 +1,23 @@
+{
+  "uuid": "0525125d-93b5-49bd-b467-d97aa8a31a3c",
+  "first_name": "Christopher",
+  "last_name": "Wenstrom",
+  "full_name": "Christopher Wenstrom",
+  "linkedin_url": "https://linkedin.com/in/christopher-wenstrom-85232b8",
+  "emails": [
+    {
+      "email": "c.wenstrom@army.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 925-679-9944",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "US Army"
+}

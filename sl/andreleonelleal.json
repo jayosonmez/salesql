@@ -1,0 +1,21 @@
+{
+  "uuid": "b20c48f5-999a-437f-8186-1e4c00eb1b50",
+  "first_name": "André",
+  "last_name": "Leonel Leal",
+  "full_name": "André Leonel Leal",
+  "linkedin_url": "https://linkedin.com/in/andreleonelleal",
+  "emails": [
+    {
+      "email": "andre@lleal.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andre@wow.ac",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Agrícola Conduru"
+}

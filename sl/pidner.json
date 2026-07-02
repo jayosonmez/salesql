@@ -1,0 +1,36 @@
+{
+  "uuid": "ba688a48-6982-4760-93f2-9eb6b4f31841",
+  "first_name": "Juliana Pidner",
+  "last_name": "Hsu",
+  "full_name": "Juliana Pidner Hsu",
+  "linkedin_url": "https://linkedin.com/in/pidner",
+  "emails": [
+    {
+      "email": "jadde05@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "julianahsu@fenc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juliana@ambercycle.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juliana@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juliana.hsu@shangri-la.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "DRIVE Catalyst"
+}

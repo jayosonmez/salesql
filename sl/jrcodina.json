@@ -1,0 +1,28 @@
+{
+  "uuid": "53fa3617-155a-45f1-bf75-0c39289b733c",
+  "first_name": "Josep-Ramón",
+  "last_name": "Codina",
+  "full_name": "Josep-Ramón Codina",
+  "linkedin_url": "https://linkedin.com/in/jrcodina",
+  "emails": [
+    {
+      "email": "jcodina@miami.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jcodina@miami.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-284-2211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Miami"
+}

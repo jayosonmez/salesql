@@ -1,0 +1,16 @@
+{
+  "uuid": "ce43a8e3-dd8b-40fb-9d38-1daa6334567a",
+  "first_name": "Geoff",
+  "last_name": "Jenkins",
+  "full_name": "Geoff Jenkins",
+  "linkedin_url": "https://linkedin.com/in/geoff-jenkins-98994a46",
+  "emails": [
+    {
+      "email": "ghjenkins@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Valeritas"
+}

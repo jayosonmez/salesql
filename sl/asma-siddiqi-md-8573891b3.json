@@ -1,0 +1,23 @@
+{
+  "uuid": "42b5346d-3cff-4b2b-97e1-95a4badaeb34",
+  "first_name": "Asma",
+  "last_name": "Siddiqi , MD",
+  "full_name": "Asma Siddiqi , MD",
+  "linkedin_url": "https://linkedin.com/in/asma-siddiqi-md-8573891b3",
+  "emails": [
+    {
+      "email": "asma@allinahealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 612-262-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Allina Health"
+}

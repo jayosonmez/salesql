@@ -1,0 +1,16 @@
+{
+  "uuid": "2fe015a7-1fb8-409a-8c19-d04fd5c7eca4",
+  "first_name": "Thomas",
+  "last_name": "Swingle",
+  "full_name": "Thomas Swingle",
+  "linkedin_url": "https://linkedin.com/in/thomas-swingle-028b201",
+  "emails": [
+    {
+      "email": "tswingle@linebeyond.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "(not disclosed)"
+}

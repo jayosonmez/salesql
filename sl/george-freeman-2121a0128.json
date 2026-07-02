@@ -1,0 +1,16 @@
+{
+  "uuid": "42ab2b3c-97b1-409e-a6d1-755b8812f428",
+  "first_name": "George",
+  "last_name": "Freeman",
+  "full_name": "George Freeman",
+  "linkedin_url": "https://linkedin.com/in/george-freeman-2121a0128",
+  "emails": [
+    {
+      "email": "gfreeman@hrhr-inc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Healthspan of Hampton Roads"
+}

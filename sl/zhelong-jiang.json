@@ -1,0 +1,28 @@
+{
+  "uuid": "1d4229dd-467c-4222-b829-5f3f22d01259",
+  "first_name": "Zhelong",
+  "last_name": "Jiang",
+  "full_name": "Zhelong Jiang",
+  "linkedin_url": "https://linkedin.com/in/zhelong-jiang",
+  "emails": [
+    {
+      "email": "zjiang@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zjiang@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-926-3300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SLAC National Accelerator Laboratory"
+}

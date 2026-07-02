@@ -1,0 +1,16 @@
+{
+  "uuid": "90d60070-cd3a-4183-bb91-01842180938d",
+  "first_name": "An",
+  "last_name": "liu",
+  "full_name": "An liu",
+  "linkedin_url": "https://linkedin.com/in/an-liu-21995966",
+  "emails": [
+    {
+      "email": "aliu@synchron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Synchron"
+}

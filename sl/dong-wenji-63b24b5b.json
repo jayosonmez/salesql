@@ -1,0 +1,23 @@
+{
+  "uuid": "6b739b5b-c0bc-46e5-8980-6465ac1a132e",
+  "first_name": "Dong",
+  "last_name": "Wenji",
+  "full_name": "Dong Wenji",
+  "linkedin_url": "https://linkedin.com/in/dong-wenji-63b24b5b",
+  "emails": [
+    {
+      "email": "dong.wenji@wsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 509-335-3564",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Washington State University"
+}

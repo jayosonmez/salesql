@@ -1,0 +1,28 @@
+{
+  "uuid": "85daf129-d032-493b-a3cc-d88225705bd5",
+  "first_name": "Yuen-Yi (Moony)",
+  "last_name": "Tseng",
+  "full_name": "Yuen-Yi (Moony) Tseng",
+  "linkedin_url": "https://linkedin.com/in/yuen-yi-moony-tseng-34062650",
+  "emails": [
+    {
+      "email": "tsen0055@umn.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ytseng@broadinstitute.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-714-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Broad Institute of MIT and Harvard"
+}

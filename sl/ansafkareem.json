@@ -1,0 +1,41 @@
+{
+  "uuid": "1c823546-69f8-465f-8ad0-3785809c1318",
+  "first_name": "Ansaf",
+  "last_name": "Kareem",
+  "full_name": "Ansaf Kareem",
+  "linkedin_url": "https://linkedin.com/in/ansafkareem",
+  "emails": [
+    {
+      "email": "akareem@stanford.edu",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ansaf.kareem@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "k-a@confluera.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ansaf@latitudecp.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "akareem@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ansaf@decagon.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Latitude Capital"
+}

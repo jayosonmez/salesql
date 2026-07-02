@@ -1,0 +1,22 @@
+{
+  "uuid": "f01b9088-fa37-4429-975e-c4b930d0dcc4",
+  "first_name": "GUO",
+  "last_name": "JIAJIA",
+  "full_name": "GUO JIAJIA",
+  "linkedin_url": "https://linkedin.com/in/guo-jiajia-2628bb173",
+  "emails": [
+    {
+      "email": "gjiajia@cas.cn",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+86 10 6859 7289",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SHENZHEN INSTITUTE OF ADVANCED TECHNOLOGY CHINESE ACADEMY OF SCIENCES"
+}

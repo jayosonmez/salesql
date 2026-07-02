@@ -1,0 +1,49 @@
+{
+  "uuid": "a298f754-3b86-4403-b0b9-b288fa0b7e11",
+  "first_name": "Miten Narendra",
+  "last_name": "Mehta",
+  "full_name": "Miten Narendra Mehta",
+  "linkedin_url": "https://linkedin.com/in/mitenmehta",
+  "emails": [
+    {
+      "email": "mitennmehta@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mitenm@klouddata.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mitenmehta@msn.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mmehta@mondee.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "n@angel.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-717-5712",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-646-3320",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mondee"
+}

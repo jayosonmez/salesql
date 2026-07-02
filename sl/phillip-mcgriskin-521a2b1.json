@@ -1,0 +1,32 @@
+{
+  "uuid": "c4c1a715-7122-4919-90c1-02171993e599",
+  "first_name": "Phillip",
+  "last_name": "McGriskin",
+  "full_name": "Phillip McGriskin",
+  "linkedin_url": "https://linkedin.com/in/phillip-mcgriskin-521a2b1",
+  "emails": [
+    {
+      "email": "phillip.mcgriskin@paysafe.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "phillip.mcgriskin@vitesse.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mcgriskinp@envoyservices.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 3051 5612",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vitesse"
+}

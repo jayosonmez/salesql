@@ -1,0 +1,38 @@
+{
+  "uuid": "5e62495b-883f-42a3-9ea7-3acfcd4ef949",
+  "first_name": "Jonathan",
+  "last_name": "Berman",
+  "full_name": "Jonathan Berman",
+  "linkedin_url": "https://linkedin.com/in/jonathanmberman",
+  "emails": [
+    {
+      "email": "j.b@camp365.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jmberman321@att.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@Rumpl.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@modloutdoors.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 708-689-4990",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "321 Ridgeland Ventures"
+}

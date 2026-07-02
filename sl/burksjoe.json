@@ -1,0 +1,16 @@
+{
+  "uuid": "d0165cd8-0d59-4b02-9903-ec545ab9dab8",
+  "first_name": "Joe",
+  "last_name": "Burks",
+  "full_name": "Joe Burks",
+  "linkedin_url": "https://linkedin.com/in/burksjoe",
+  "emails": [
+    {
+      "email": "joe@wavicle.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

@@ -1,0 +1,27 @@
+{
+  "uuid": "c79333d6-9e73-4d94-98e7-b9a9674efa51",
+  "first_name": "Charlie",
+  "last_name": "Chen",
+  "full_name": "Charlie Chen",
+  "linkedin_url": "https://linkedin.com/in/charlie-chen-3a9355195",
+  "emails": [
+    {
+      "email": "charlie@fundnv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "charlie.chen@ey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+91 22 6192 0000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EY"
+}

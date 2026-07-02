@@ -1,0 +1,23 @@
+{
+  "uuid": "babe7e49-a2f7-43f1-add0-eb84eacc3baf",
+  "first_name": "Dhanush",
+  "last_name": "Gandavadi",
+  "full_name": "Dhanush Gandavadi",
+  "linkedin_url": "https://linkedin.com/in/dhanush-gandavadi-74058271",
+  "emails": [
+    {
+      "email": "dgandavadi@illinois.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 217-333-0502",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Illinois Urbana-Champaign"
+}

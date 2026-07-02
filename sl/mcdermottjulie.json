@@ -1,0 +1,46 @@
+{
+  "uuid": "3a6c5f46-8532-48f3-9701-3daece5073f9",
+  "first_name": "Julie",
+  "last_name": "McDermott",
+  "full_name": "Julie McDermott",
+  "linkedin_url": "https://linkedin.com/in/mcdermottjulie",
+  "emails": [
+    {
+      "email": "junebug1070@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jmcdermott@finquantuminc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "juliemcdermott01@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "julie.mcdermott@kernalbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "julie.mcdermott@colorado.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "julie@seaworthycollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "julie@hazelai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "FinQuantum"
+}

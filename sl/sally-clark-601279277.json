@@ -1,0 +1,17 @@
+{
+  "uuid": "4633895b-839c-4604-a0d3-f81c4703b844",
+  "first_name": "Sally",
+  "last_name": "Clark",
+  "full_name": "Sally Clark",
+  "linkedin_url": "https://linkedin.com/in/sally-clark-601279277",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 916-456-0400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Laser & Skin Surgery Center Of Northern California"
+}

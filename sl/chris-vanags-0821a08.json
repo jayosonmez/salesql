@@ -1,0 +1,28 @@
+{
+  "uuid": "ad8c3548-68c9-4c1b-b6e6-a5e5ca1eeb29",
+  "first_name": "Chris",
+  "last_name": "Vanags",
+  "full_name": "Chris Vanags",
+  "linkedin_url": "https://linkedin.com/in/chris-vanags-0821a08",
+  "emails": [
+    {
+      "email": "chris.vanags@uga.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chris.vanags@vanderbilt.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 615-322-7311",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vanderbilt University"
+}

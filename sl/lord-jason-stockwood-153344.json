@@ -1,0 +1,43 @@
+{
+  "uuid": "c6a9d6e5-f5be-418d-afb8-ec6b776dff44",
+  "first_name": "Lord Jason",
+  "last_name": "Stockwood",
+  "full_name": "Lord Jason Stockwood",
+  "linkedin_url": "https://linkedin.com/in/lord-jason-stockwood-153344",
+  "emails": [
+    {
+      "email": "jason.stockwood@simplybusiness.co.uk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jasonstockwood@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jason@53degreescapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lord@gtfc.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stockwoodl@parliament.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 519-822-4150",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UK House of Lords"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "7372d10a-ab16-461d-a3c1-79443ff329dd",
+  "first_name": "Teresa",
+  "last_name": "Girolami",
+  "full_name": "Teresa Girolami",
+  "linkedin_url": "https://linkedin.com/in/teresa-girolami-06829225",
+  "emails": [
+    {
+      "email": "teresagir@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Bel-Red Internal Medicine, PLLC"
+}

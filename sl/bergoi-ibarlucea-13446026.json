@@ -1,0 +1,33 @@
+{
+  "uuid": "da444fd4-ca88-4002-aeb2-5650c826b1d7",
+  "first_name": "Bergoi",
+  "last_name": "Ibarlucea",
+  "full_name": "Bergoi Ibarlucea",
+  "linkedin_url": "https://linkedin.com/in/bergoi-ibarlucea-13446026",
+  "emails": [
+    {
+      "email": "bergoi.ibarlucea@imb-cnm.csic.es",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bergoi.ibarlucea@tu-dresden.de",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bergoi.ibarlucea@tu-dresden.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 351 46337044",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Technische Universität Dresden"
+}

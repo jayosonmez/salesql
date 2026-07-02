@@ -1,0 +1,43 @@
+{
+  "uuid": "175ffbd1-9e37-470b-805e-e793d279ea19",
+  "first_name": "Priscila",
+  "last_name": "Drebes Sacchi",
+  "full_name": "Priscila Drebes Sacchi",
+  "linkedin_url": "https://linkedin.com/in/priscila-drebes-sacchi-654845141",
+  "emails": [
+    {
+      "email": "pridrebes@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "prisciladrebes@lebes.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "priscila@indicatorcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "priscila@astella.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "priscila@bossainvest.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 11 95059-6832",
+      "type": "Work",
+      "country_code": "BR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Primidia DOOH"
+}

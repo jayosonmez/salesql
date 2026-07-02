@@ -1,0 +1,47 @@
+{
+  "uuid": "79d51192-6b3d-45f5-a9a8-52940e54e67f",
+  "first_name": "Nir",
+  "last_name": "Greenberg",
+  "full_name": "Nir Greenberg",
+  "linkedin_url": "https://linkedin.com/in/nirgreenberg",
+  "emails": [
+    {
+      "email": "nir@naturalint.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "nir.greenberg@k-robo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nir.greenberg@calmigo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nir@joyned.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nir@day.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nir@enso.bot",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+972 72-272-3840",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Natural Intelligence"
+}

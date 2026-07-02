@@ -1,0 +1,38 @@
+{
+  "uuid": "c47ed1b1-09ad-4a9c-9fc5-c1fd449f7419",
+  "first_name": "Robert",
+  "last_name": "Hurley MD PhD HALM FASA",
+  "full_name": "Robert Hurley MD PhD HALM FASA",
+  "linkedin_url": "https://linkedin.com/in/roberthurleymdphd",
+  "emails": [
+    {
+      "email": "rhurley@anest.ufl.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rhurley@wakehealth.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rhurley@wakehealth.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rhurley@mcw.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 336-716-2011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wake Forest University School of Medicine"
+}

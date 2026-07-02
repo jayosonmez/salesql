@@ -1,0 +1,41 @@
+{
+  "uuid": "5d915aa7-8ba1-437d-af16-3ba44acda6bf",
+  "first_name": "Omar",
+  "last_name": "Darwazah",
+  "full_name": "Omar Darwazah",
+  "linkedin_url": "https://linkedin.com/in/odarwazah",
+  "emails": [
+    {
+      "email": "omar@arabangel.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "omar@aaf.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "omar.darwazah@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "omar@dayra.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "omar.darwazah@andela.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "omar.darwazah@thndr.app",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "AAF Management Ltd."
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "f37e857d-02bc-4dd7-bc18-823400c76a9a",
+  "first_name": "Yoon",
+  "last_name": "Sung, MD",
+  "full_name": "Yoon Sung, MD",
+  "linkedin_url": "https://linkedin.com/in/yoon-kyu-sung",
+  "emails": [
+    {
+      "email": "ysung@uclahealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-319-3222",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UCLA Health"
+}

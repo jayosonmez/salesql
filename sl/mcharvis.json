@@ -1,0 +1,17 @@
+{
+  "uuid": "7a167904-6d51-47e7-990f-c1a5ff5e7858",
+  "first_name": "Michael",
+  "last_name": "Charvis",
+  "full_name": "Michael Charvis",
+  "linkedin_url": "https://linkedin.com/in/mcharvis",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 909-558-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Loma Linda University Medical Center"
+}

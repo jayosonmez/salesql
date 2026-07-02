@@ -1,0 +1,28 @@
+{
+  "uuid": "b0f8a55e-d237-4a9e-a966-0ea24b85ca05",
+  "first_name": "John F.",
+  "last_name": "Nemelka",
+  "full_name": "John F. Nemelka",
+  "linkedin_url": "https://linkedin.com/in/john-f-nemelka-4a9228",
+  "emails": [
+    {
+      "email": "jnemelka@nwcap.net",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "johnn@noordacom.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "3853785201",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Noorda College of Osteopathic Medicine"
+}

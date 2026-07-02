@@ -1,0 +1,41 @@
+{
+  "uuid": "4f31c453-6151-431e-aefe-ca315f87a486",
+  "first_name": "Rahilla",
+  "last_name": "Zafar",
+  "full_name": "Rahilla Zafar",
+  "linkedin_url": "https://linkedin.com/in/rahilla",
+  "emails": [
+    {
+      "email": "rahilla.zafar@oecd.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rahilla@rhombus.network",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rahilla@radicalxchange.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "zr@fourthrevolution.capital",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rahilla@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rahilla@wavegp.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "I'm New Here"
+}

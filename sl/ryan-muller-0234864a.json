@@ -1,0 +1,23 @@
+{
+  "uuid": "fa15ac6c-2dc0-496d-be0d-b7e4e4044ba2",
+  "first_name": "Ryan",
+  "last_name": "Muller",
+  "full_name": "Ryan Muller",
+  "linkedin_url": "https://linkedin.com/in/ryan-muller-0234864a",
+  "emails": [
+    {
+      "email": "rmuller@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-258-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Whitehead Institute"
+}

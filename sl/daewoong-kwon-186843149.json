@@ -1,0 +1,23 @@
+{
+  "uuid": "221bfc8a-7f57-48f8-a698-377c9f00dbc9",
+  "first_name": "Daewoong",
+  "last_name": "Kwon",
+  "full_name": "Daewoong Kwon",
+  "linkedin_url": "https://linkedin.com/in/daewoong-kwon-186843149",
+  "emails": [
+    {
+      "email": "dkwon@hanyang.ac.kr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+82 2-2220-0114",
+      "type": "Work",
+      "country_code": "KR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hanyang University"
+}

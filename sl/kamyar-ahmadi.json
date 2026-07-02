@@ -1,0 +1,23 @@
+{
+  "uuid": "7aa3344c-cd09-4389-b62e-02600de8e6f4",
+  "first_name": "Kamyar",
+  "last_name": "Ahmadi",
+  "full_name": "Kamyar Ahmadi",
+  "linkedin_url": "https://linkedin.com/in/kamyar-ahmadi",
+  "emails": [
+    {
+      "email": "kahmadi@princeton.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 609-258-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Princeton University"
+}

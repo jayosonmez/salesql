@@ -1,0 +1,23 @@
+{
+  "uuid": "c9220ec1-dd62-4008-8d8a-2036250bf95c",
+  "first_name": "Zad",
+  "last_name": "Ngor",
+  "full_name": "Zad Ngor",
+  "linkedin_url": "https://linkedin.com/in/zadngor",
+  "emails": [
+    {
+      "email": "zad@virtuals.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+65 8223 3527",
+      "type": "Personal",
+      "country_code": "SG",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Virtuals Protocol"
+}

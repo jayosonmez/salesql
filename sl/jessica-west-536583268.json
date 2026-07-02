@@ -1,0 +1,23 @@
+{
+  "uuid": "36c28bb3-d034-4b4d-a67d-f4e80959f385",
+  "first_name": "Jessica",
+  "last_name": "West",
+  "full_name": "Jessica West",
+  "linkedin_url": "https://linkedin.com/in/jessica-west-536583268",
+  "emails": [
+    {
+      "email": "jessica-west@zetataualpha.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 317-872-0540",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Zeta Tau Alpha Fraternity"
+}

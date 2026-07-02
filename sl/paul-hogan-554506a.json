@@ -1,0 +1,16 @@
+{
+  "uuid": "cf860c9c-ebd8-4530-a4ee-1dfda17d1a6e",
+  "first_name": "Paul",
+  "last_name": "Hogan",
+  "full_name": "Paul Hogan",
+  "linkedin_url": "https://linkedin.com/in/paul-hogan-554506a",
+  "emails": [
+    {
+      "email": "phogan@homeinsteadinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "P&L LLC"
+}

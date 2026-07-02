@@ -1,0 +1,48 @@
+{
+  "uuid": "46126f07-cae7-4c99-b97d-614678a8765a",
+  "first_name": "Arnaud",
+  "last_name": "Lorie",
+  "full_name": "Arnaud Lorie",
+  "linkedin_url": "https://linkedin.com/in/arnaudlorie1",
+  "emails": [
+    {
+      "email": "arnaud@marine-edge.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "arnaud@algocell.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "arnaud@goodcompanyhq.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "arnaudl@creoingredients.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "arnaud@lorieco.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "arnaud@hoomy.co.il",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+972 54-534-8060",
+      "type": "Work",
+      "country_code": "IL",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Good Company VC"
+}

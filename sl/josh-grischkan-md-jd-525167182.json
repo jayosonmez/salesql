@@ -1,0 +1,21 @@
+{
+  "uuid": "4ccab032-5392-4fb0-80bc-27987fda88d9",
+  "first_name": "Josh",
+  "last_name": "Grischkan MD, JD",
+  "full_name": "Josh Grischkan MD, JD",
+  "linkedin_url": "https://linkedin.com/in/josh-grischkan-md-jd-525167182",
+  "emails": [
+    {
+      "email": "josh@viyamd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "josh.grischkan@cshs.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ViyaMD"
+}

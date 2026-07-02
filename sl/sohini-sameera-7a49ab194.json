@@ -1,0 +1,23 @@
+{
+  "uuid": "33b1b1ec-1a7c-49e2-903a-c0683e67244f",
+  "first_name": "Sohini",
+  "last_name": "Sameera",
+  "full_name": "Sohini Sameera",
+  "linkedin_url": "https://linkedin.com/in/sohini-sameera-7a49ab194",
+  "emails": [
+    {
+      "email": "sohini_sameera@trihealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 513-865-4600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "TriHealth"
+}

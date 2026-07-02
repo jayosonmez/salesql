@@ -1,0 +1,23 @@
+{
+  "uuid": "7c6aa55e-b2d9-4ffc-a054-ce6492293583",
+  "first_name": "Michael L",
+  "last_name": "Surmanian",
+  "full_name": "Michael L Surmanian",
+  "linkedin_url": "https://linkedin.com/in/michael-l-surmanian-a555081",
+  "emails": [
+    {
+      "email": "mlsurm@dcndx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 760-804-3886",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DCN Dx"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "560a0827-d378-4624-b088-dc46cc52860f",
+  "first_name": "Christian",
+  "last_name": "Legêne",
+  "full_name": "Christian Legêne",
+  "linkedin_url": "https://linkedin.com/in/christian-legêne-450222b",
+  "emails": [
+    {
+      "email": "christian@autobutler.dk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christian@autobutler.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+45 22 15 93 97",
+      "type": "Personal",
+      "country_code": "DK",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Autobutler.de, autobutler.co.uk, autobutler.se, autobutler.dk"
+}

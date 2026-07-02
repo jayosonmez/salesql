@@ -1,0 +1,26 @@
+{
+  "uuid": "33c06515-a63a-45b7-bbd1-6938b51f3574",
+  "first_name": "Richard",
+  "last_name": "Glickman",
+  "full_name": "Richard Glickman",
+  "linkedin_url": "https://linkedin.com/in/richard-glickman-86605872",
+  "emails": [
+    {
+      "email": "rglickman@specificbiologics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rglickman@engene.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rglickman@eupraxiapharma.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Specific Biologics"
+}

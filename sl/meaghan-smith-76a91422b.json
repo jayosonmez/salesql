@@ -1,0 +1,23 @@
+{
+  "uuid": "631f35b8-44ae-48bc-a8bc-8a04535f9467",
+  "first_name": "Meaghan",
+  "last_name": "Smith",
+  "full_name": "Meaghan Smith",
+  "linkedin_url": "https://linkedin.com/in/meaghan-smith-76a91422b",
+  "emails": [
+    {
+      "email": "msmith@twistbioscience.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-410-0105",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Twist Bioscience"
+}

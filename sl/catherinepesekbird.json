@@ -1,0 +1,23 @@
+{
+  "uuid": "3c5f220a-1f5d-421e-9a93-97eb80621bf6",
+  "first_name": "Catherine",
+  "last_name": "P.",
+  "full_name": "Catherine P.",
+  "linkedin_url": "https://linkedin.com/in/catherinepesekbird",
+  "emails": [
+    {
+      "email": "catherine-pesekbird@alumni.nd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 863-687-1100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lakeland Regional Health-Florida"
+}

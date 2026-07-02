@@ -1,0 +1,23 @@
+{
+  "uuid": "6bc72eff-e1d9-48d1-9715-e75955be479e",
+  "first_name": "Jake",
+  "last_name": "C.",
+  "full_name": "Jake C.",
+  "linkedin_url": "https://linkedin.com/in/jakecho",
+  "emails": [
+    {
+      "email": "jake_cho@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 603-328-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AgaMatrix"
+}

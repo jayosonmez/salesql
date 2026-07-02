@@ -1,0 +1,56 @@
+{
+  "uuid": "eb1db6ca-cca2-4b42-9a46-e580c66bb684",
+  "first_name": "Jim",
+  "last_name": "Weiss",
+  "full_name": "Jim Weiss",
+  "linkedin_url": "https://linkedin.com/in/jimgweiss",
+  "emails": [
+    {
+      "email": "jweiss@w2ogroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jweiss@wcgworld.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "j-w@cancer.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jim@arsenalbridge.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jim@sweetwatermusichall.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jweiss@syracuse.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jweiss@newmountaincapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jim@youtube.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jim.weiss@realchemistry.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Real Chemistry"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "d7a23a5f-4c4f-4079-a36e-aea59636b442",
+  "first_name": "Xingjuan",
+  "last_name": "Chen",
+  "full_name": "Xingjuan Chen",
+  "linkedin_url": "https://linkedin.com/in/xingjuan-chen-877bb466",
+  "emails": [
+    {
+      "email": "xchen@iupui.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chen@nwpu.edu.cn",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+86 29 8849 4623",
+      "type": "Work",
+      "country_code": "CN",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northwestern Polytechnical University"
+}

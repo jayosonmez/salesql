@@ -1,0 +1,28 @@
+{
+  "uuid": "c362a158-d4e5-43d8-a136-918bb5df0d0b",
+  "first_name": "Ed",
+  "last_name": "Costello",
+  "full_name": "Ed Costello",
+  "linkedin_url": "https://linkedin.com/in/ecostello",
+  "emails": [
+    {
+      "email": "linkedin@million-monkeys.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ecostello@aromyx.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-409-5233",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Muon Space"
+}

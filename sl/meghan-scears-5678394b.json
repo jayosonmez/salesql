@@ -1,0 +1,17 @@
+{
+  "uuid": "4513c7b2-5e98-449e-add3-9a1ed20f3f76",
+  "first_name": "Meghan",
+  "last_name": "Scears",
+  "full_name": "Meghan Scears",
+  "linkedin_url": "https://linkedin.com/in/meghan-scears-5678394b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 405-801-2323",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Living Hope Eating Disorder Treatment Center"
+}

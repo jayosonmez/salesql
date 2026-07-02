@@ -1,0 +1,21 @@
+{
+  "uuid": "e7814fcc-4977-4011-a7f0-063e63143131",
+  "first_name": "Joseph",
+  "last_name": "Yanchik III",
+  "full_name": "Joseph Yanchik III",
+  "linkedin_url": "https://linkedin.com/in/joeyanchik",
+  "emails": [
+    {
+      "email": "jy3rd@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joe3@outlook.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

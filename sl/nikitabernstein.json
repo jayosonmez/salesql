@@ -1,0 +1,26 @@
+{
+  "uuid": "5db14290-4aeb-4ff1-a64c-3e4e9e83cdac",
+  "first_name": "Nikita",
+  "last_name": "Bernstein",
+  "full_name": "Nikita Bernstein",
+  "linkedin_url": "https://linkedin.com/in/nikitabernstein",
+  "emails": [
+    {
+      "email": "me@nikitab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nikitab@jove.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "nikitab@jomi.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "JOMI Surgical Video Journal"
+}

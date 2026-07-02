@@ -1,0 +1,28 @@
+{
+  "uuid": "bc1af542-4111-40fc-b0e6-4e67c8e08eb8",
+  "first_name": "Burak",
+  "last_name": "Dayioglu",
+  "full_name": "Burak Dayioglu",
+  "linkedin_url": "https://linkedin.com/in/burakdayioglu",
+  "emails": [
+    {
+      "email": "burak@burakdayioglu.net",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "burak_dayioglu@symturk.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 533 284 24 87",
+      "type": "Personal",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Self-employed"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "f7c2da4b-4947-40db-92f6-ac5c653fa488",
+  "first_name": "Pratyusha",
+  "last_name": "Banik",
+  "full_name": "Pratyusha Banik",
+  "linkedin_url": "https://linkedin.com/in/pratyusha-banik-abb4b72b",
+  "emails": [
+    {
+      "email": "pratyushabanik@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-520-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UW Medicine"
+}

@@ -1,0 +1,22 @@
+{
+  "uuid": "b9e40821-563e-409d-904c-5209e05141b5",
+  "first_name": "Jinghao",
+  "last_name": "Xi",
+  "full_name": "Jinghao Xi",
+  "linkedin_url": "https://linkedin.com/in/jinghao-xi-2711076a",
+  "emails": [
+    {
+      "email": "jinghao.xi@msd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+32 2 373 42 11",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MSD"
+}

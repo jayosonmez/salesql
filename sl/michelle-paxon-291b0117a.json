@@ -1,0 +1,28 @@
+{
+  "uuid": "5622f2fa-ad4f-4384-8a11-942727186000",
+  "first_name": "Michelle",
+  "last_name": "Paxon",
+  "full_name": "Michelle Paxon",
+  "linkedin_url": "https://linkedin.com/in/michelle-paxon-291b0117a",
+  "emails": [
+    {
+      "email": "mpaxon@usc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michelle.paxon@usc.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 213-740-2311",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Southern California"
+}

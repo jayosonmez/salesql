@@ -1,0 +1,23 @@
+{
+  "uuid": "46422c14-fcb4-48ba-b33f-1722f8aaa6e7",
+  "first_name": "Charlie",
+  "last_name": "Bachtell",
+  "full_name": "Charlie Bachtell",
+  "linkedin_url": "https://linkedin.com/in/charliebachtell",
+  "emails": [
+    {
+      "email": "charlesb@crescolabs.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-929-0993",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cresco Labs"
+}

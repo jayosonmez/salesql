@@ -1,0 +1,17 @@
+{
+  "uuid": "7140f482-d766-46ca-ae36-f8688b6bcf2c",
+  "first_name": "Michael",
+  "last_name": "Rapino",
+  "full_name": "Michael Rapino",
+  "linkedin_url": "https://linkedin.com/in/michael-rapino-870232186",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 310-867-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Live Nation Entertainment"
+}

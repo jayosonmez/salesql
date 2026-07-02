@@ -1,0 +1,17 @@
+{
+  "uuid": "547b09b3-9a33-4643-9299-e2deac47a9c7",
+  "first_name": "McKennon",
+  "last_name": "Stuart",
+  "full_name": "McKennon Stuart",
+  "linkedin_url": "https://linkedin.com/in/mckennon-stuart-86533550",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 214-265-3787",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Baylor Scott & White Health"
+}

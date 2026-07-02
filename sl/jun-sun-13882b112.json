@@ -1,0 +1,38 @@
+{
+  "uuid": "5ca6252f-f8b0-4ac2-b91d-200618654427",
+  "first_name": "Jun",
+  "last_name": "Sun",
+  "full_name": "Jun Sun",
+  "linkedin_url": "https://linkedin.com/in/jun-sun-13882b112",
+  "emails": [
+    {
+      "email": "jun.sun@pfizer.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "iamsunjun@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jsun@nju.edu.cn",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 302-509-8759",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+44 333 555 2526",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pfizer"
+}

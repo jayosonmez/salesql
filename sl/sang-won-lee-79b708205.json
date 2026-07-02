@@ -1,0 +1,23 @@
+{
+  "uuid": "0c8e2f0c-2ec6-4fa3-998b-383755576c61",
+  "first_name": "Sang Won",
+  "last_name": "Lee",
+  "full_name": "Sang Won Lee",
+  "linkedin_url": "https://linkedin.com/in/sang-won-lee-79b708205",
+  "emails": [
+    {
+      "email": "slee@terasaki.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-479-6101",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Terasaki Institute"
+}

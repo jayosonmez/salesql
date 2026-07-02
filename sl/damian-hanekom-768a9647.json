@@ -1,0 +1,28 @@
+{
+  "uuid": "33a68931-0c32-4a9a-b919-6d6835ae5d92",
+  "first_name": "Damian",
+  "last_name": "Hanekom",
+  "full_name": "Damian Hanekom",
+  "linkedin_url": "https://linkedin.com/in/damian-hanekom-768a9647",
+  "emails": [
+    {
+      "email": "damian.hanekom@leehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hanek011@d.umn.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 239-343-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lee Health"
+}

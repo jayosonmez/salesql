@@ -1,0 +1,23 @@
+{
+  "uuid": "b96a6a87-9315-4a1d-9577-cb0ba8db601d",
+  "first_name": "Allan",
+  "last_name": "Valiente",
+  "full_name": "Allan Valiente",
+  "linkedin_url": "https://linkedin.com/in/allan-valiente-b66294101",
+  "emails": [
+    {
+      "email": "allan.valiente@northropgrumman.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 703-280-2900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northrop Grumman"
+}

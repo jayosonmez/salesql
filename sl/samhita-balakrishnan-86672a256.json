@@ -1,0 +1,28 @@
+{
+  "uuid": "27832d80-4870-4140-8ffb-e83b1240ea82",
+  "first_name": "Samhita",
+  "last_name": "Balakrishnan",
+  "full_name": "Samhita Balakrishnan",
+  "linkedin_url": "https://linkedin.com/in/samhita-balakrishnan-86672a256",
+  "emails": [
+    {
+      "email": "sbalakrishnan@copehealthscholars.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "samhita.balakrishnan@ucr.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 213-542-2250",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "COPE Health Scholars"
+}

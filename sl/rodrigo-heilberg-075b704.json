@@ -1,0 +1,32 @@
+{
+  "uuid": "840cc127-7f01-4528-9f10-b90560c954d2",
+  "first_name": "Rodrigo",
+  "last_name": "Heilberg",
+  "full_name": "Rodrigo Heilberg",
+  "linkedin_url": "https://linkedin.com/in/rodrigo-heilberg-075b704",
+  "emails": [
+    {
+      "email": "rodrigo.heilberg@trifil.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rh@hixcapital.com.br",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rodrigo@hirecapital.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 11 2532-1065",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HIX Capital"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "1e55e4dc-bb37-413f-a4d0-06926c51e562",
+  "first_name": "Gerry",
+  "last_name": "Malnar, MD, MBA",
+  "full_name": "Gerry Malnar, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/gerry-malnar-md-mba-916190a9",
+  "emails": [
+    {
+      "email": "gerry.malnar@cerner.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 816-221-1024",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cerner Corporation"
+}

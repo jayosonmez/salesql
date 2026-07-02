@@ -1,0 +1,28 @@
+{
+  "uuid": "f0018e61-5227-4600-8b0b-8e6eb538571a",
+  "first_name": "Andrew \"Drew\"",
+  "last_name": "Carey",
+  "full_name": "Andrew \"Drew\" Carey",
+  "linkedin_url": "https://linkedin.com/in/drewcarey",
+  "emails": [
+    {
+      "email": "careya@uindy.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "drewcarey@clearchannel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 317-788-3216",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Bob & Tom Show"
+}

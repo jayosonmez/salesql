@@ -1,0 +1,23 @@
+{
+  "uuid": "ffe1e31d-2a85-464b-858f-c6b7f5cdf75e",
+  "first_name": "Diana",
+  "last_name": "Berheci",
+  "full_name": "Diana Berheci",
+  "linkedin_url": "https://linkedin.com/in/dianaberheci",
+  "emails": [
+    {
+      "email": "diana.berheci@vrtx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-404-6600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vertex Pharmaceuticals"
+}

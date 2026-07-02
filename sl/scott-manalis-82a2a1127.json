@@ -1,0 +1,23 @@
+{
+  "uuid": "48763a6f-641c-489a-8832-c999056fc05a",
+  "first_name": "Scott",
+  "last_name": "Manalis",
+  "full_name": "Scott Manalis",
+  "linkedin_url": "https://linkedin.com/in/scott-manalis-82a2a1127",
+  "emails": [
+    {
+      "email": "smanalis@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-253-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts Institute of Technology"
+}

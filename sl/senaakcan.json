@@ -1,0 +1,22 @@
+{
+  "uuid": "6b3dd120-b080-49d0-9da8-b1ee8280a346",
+  "first_name": "Sena",
+  "last_name": "Akcan",
+  "full_name": "Sena Akcan",
+  "linkedin_url": "https://linkedin.com/in/senaakcan",
+  "emails": [
+    {
+      "email": "sena.akcan@ulker.com.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 216 524 25 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ülker"
+}

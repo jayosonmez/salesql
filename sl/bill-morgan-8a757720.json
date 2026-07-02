@@ -1,0 +1,16 @@
+{
+  "uuid": "22b9eb18-0558-4cbe-bf20-43c26ce66a66",
+  "first_name": "BILL",
+  "last_name": "MORGAN",
+  "full_name": "BILL MORGAN",
+  "linkedin_url": "https://linkedin.com/in/bill-morgan-8a757720",
+  "emails": [
+    {
+      "email": "billmorganmd@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "From Az Asthma and Allergy Institute"
+}

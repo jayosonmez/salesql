@@ -1,0 +1,28 @@
+{
+  "uuid": "d6a1eff6-9583-45d0-81d0-b5971b6f9e5e",
+  "first_name": "Joseph",
+  "last_name": "Valenti, MD, FACOG",
+  "full_name": "Joseph Valenti, MD, FACOG",
+  "linkedin_url": "https://linkedin.com/in/joseph-valenti-md-facog-71116125",
+  "emails": [
+    {
+      "email": "jsvalenti1@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joseph.valenti@texmed.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-370-1300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Texas Medical Association"
+}

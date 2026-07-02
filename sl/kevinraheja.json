@@ -1,0 +1,41 @@
+{
+  "uuid": "ab49c4ea-49f4-4db6-9898-1b54752377f4",
+  "first_name": "Kevin",
+  "last_name": "Raheja",
+  "full_name": "Kevin Raheja",
+  "linkedin_url": "https://linkedin.com/in/kevinraheja",
+  "emails": [
+    {
+      "email": "kevin@heygen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "crabfisher@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kraheja@hubspot.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kevin@hubilo.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kevin.raheja@issuu.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kevin@plural.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "HeyGen"
+}

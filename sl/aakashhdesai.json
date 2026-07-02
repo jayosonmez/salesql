@@ -1,0 +1,16 @@
+{
+  "uuid": "20fd892d-72b7-44c2-8a87-a7aac20e8a74",
+  "first_name": "Aakash",
+  "last_name": "Desai",
+  "full_name": "Aakash Desai",
+  "linkedin_url": "https://linkedin.com/in/aakashhdesai",
+  "emails": [
+    {
+      "email": "aakash@decoder.ventures",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Decoder Ventures"
+}

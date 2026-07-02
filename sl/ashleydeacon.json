@@ -1,0 +1,21 @@
+{
+  "uuid": "cb146af2-fb11-4d68-94d9-6b9aa8ff66a6",
+  "first_name": "Ashley",
+  "last_name": "Deacon",
+  "full_name": "Ashley Deacon",
+  "linkedin_url": "https://linkedin.com/in/ashleydeacon",
+  "emails": [
+    {
+      "email": "adeacon@slac.stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ashley.deacon@accelerobio.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Accelero Biostructures"
+}

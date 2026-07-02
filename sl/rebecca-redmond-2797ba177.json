@@ -1,0 +1,16 @@
+{
+  "uuid": "a83c6074-597c-40be-adea-f85212e92700",
+  "first_name": "Rebecca",
+  "last_name": "Redmond",
+  "full_name": "Rebecca Redmond",
+  "linkedin_url": "https://linkedin.com/in/rebecca-redmond-2797ba177",
+  "emails": [
+    {
+      "email": "hello@angelic.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "YBR Consulting"
+}

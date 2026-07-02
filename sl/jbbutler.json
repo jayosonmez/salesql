@@ -1,0 +1,55 @@
+{
+  "uuid": "b42e17bc-b35f-4523-b4f5-168fe9f16058",
+  "first_name": "Jeff",
+  "last_name": "Butler",
+  "full_name": "Jeff Butler",
+  "linkedin_url": "https://linkedin.com/in/jbbutler",
+  "emails": [
+    {
+      "email": "jeff@centaur.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeff@signalfire.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jbutler@hepfund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jbutler@priviahealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jbbutler88@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 202-361-6277",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 571-366-8850",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 571-366-8850",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Privia Health"
+}

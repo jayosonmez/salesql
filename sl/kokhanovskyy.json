@@ -1,0 +1,36 @@
+{
+  "uuid": "34d27dc5-9289-4698-86dd-52dd504693c8",
+  "first_name": "Alexander",
+  "last_name": "Kokhanovskyy",
+  "full_name": "Alexander Kokhanovskyy",
+  "linkedin_url": "https://linkedin.com/in/kokhanovskyy",
+  "emails": [
+    {
+      "email": "ak@upea.com.ua",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alex@navi-gaming.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "zerogravity2005@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "a.kokhanovskyy@dreamteam.gg",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ak@shgames.gg",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Loyalty Games"
+}

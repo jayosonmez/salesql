@@ -1,0 +1,16 @@
+{
+  "uuid": "6a2da01b-a0d5-4895-9b4a-6454d0d2c0aa",
+  "first_name": "Gabor",
+  "last_name": "Racz",
+  "full_name": "Gabor Racz",
+  "linkedin_url": "https://linkedin.com/in/gabor-racz-5505b31a",
+  "emails": [
+    {
+      "email": "gbracz@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dr. Gabor Racz"
+}

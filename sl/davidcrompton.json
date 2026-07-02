@@ -1,0 +1,22 @@
+{
+  "uuid": "cff0d73c-7819-4592-b571-10687af4986d",
+  "first_name": "David",
+  "last_name": "Crompton",
+  "full_name": "David Crompton",
+  "linkedin_url": "https://linkedin.com/in/davidcrompton",
+  "emails": [
+    {
+      "email": "david.crompton@teliacompany.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+46 8 504 550 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Telia"
+}

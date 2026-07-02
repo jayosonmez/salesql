@@ -1,0 +1,28 @@
+{
+  "uuid": "59b85276-339e-4c27-85e5-f2f1a84176ae",
+  "first_name": "Benjamin",
+  "last_name": "Larsen, MD",
+  "full_name": "Benjamin Larsen, MD",
+  "linkedin_url": "https://linkedin.com/in/benjamin-larsen-md-92ba24111",
+  "emails": [
+    {
+      "email": "benjamin.larsen@tannerclinic.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "benjamin.larsen@intermountainhealthcare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-314-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Intermountain Health"
+}

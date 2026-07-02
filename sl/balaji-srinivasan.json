@@ -1,0 +1,28 @@
+{
+  "uuid": "f3ba40cd-4f68-4f05-aa1f-d81a75661e05",
+  "first_name": "Balaji",
+  "last_name": "Srinivasan, PhD",
+  "full_name": "Balaji Srinivasan, PhD",
+  "linkedin_url": "https://linkedin.com/in/balaji-srinivasan",
+  "emails": [
+    {
+      "email": "howtonameit@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "balaji.srinivasan@sigmaaldrich.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 718-545-7700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MilliporeSigma"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "c8e95d95-ec5e-4fb6-a147-5a353e217ac2",
+  "first_name": "Chiara",
+  "last_name": "Massironi",
+  "full_name": "Chiara Massironi",
+  "linkedin_url": "https://linkedin.com/in/chiaramassironi",
+  "emails": [
+    {
+      "email": "c.m@eu.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chiara.massironi@ie.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cmassironi@twilio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chiara@alma-angels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chiara.massironi@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 844-814-4627",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Twilio"
+}

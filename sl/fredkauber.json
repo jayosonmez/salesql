@@ -1,0 +1,48 @@
+{
+  "uuid": "07d4af14-1cfa-46b8-9ade-c084ef6e2c5a",
+  "first_name": "Frederick",
+  "last_name": "Kauber",
+  "full_name": "Frederick Kauber",
+  "linkedin_url": "https://linkedin.com/in/fredkauber",
+  "emails": [
+    {
+      "email": "fred@kauber.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fkauber@tnaa.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "frederick@element46.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fkauber@apple.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "frederick.kauber@nyu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "frederick@thegypsynurse.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-240-2526",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Travel Nurse Across America"
+}

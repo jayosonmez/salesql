@@ -1,0 +1,41 @@
+{
+  "uuid": "55d89a6c-3905-452c-b803-41c04d475722",
+  "first_name": "Cellin",
+  "last_name": "Diamond",
+  "full_name": "Cellin Diamond",
+  "linkedin_url": "https://linkedin.com/in/cellindiamond",
+  "emails": [
+    {
+      "email": "cellin.diamond@nxp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cellin_diamond@mckinsey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cellin.diamond@hellofresh.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cellin.diamond@abcmob.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cellin.diamond@fastercapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cellin.diamond@cazoo.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Mobility Startup / Stealth Mode"
+}

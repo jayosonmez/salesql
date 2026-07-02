@@ -1,0 +1,38 @@
+{
+  "uuid": "e686b6bb-28f3-4707-a207-1dd34f85a65a",
+  "first_name": "Jeremy",
+  "last_name": "Almond",
+  "full_name": "Jeremy Almond",
+  "linkedin_url": "https://linkedin.com/in/jeremyalmond",
+  "emails": [
+    {
+      "email": "jalmond@ucsb.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeremy.almond@paystand.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jalmond@paystand.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jalmond@socialguides.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-708-6413",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Paystand"
+}

@@ -1,0 +1,58 @@
+{
+  "uuid": "aaeb80f4-c592-4b4a-8674-2938a9f409ed",
+  "first_name": "Konstantine",
+  "last_name": "Buhler",
+  "full_name": "Konstantine Buhler",
+  "linkedin_url": "https://linkedin.com/in/konstantinebuhler",
+  "emails": [
+    {
+      "email": "buhler@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "konstantine.buhler@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "k@meritechcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "konstantine.buhler@verkada.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "konstantine@xbow.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kbuhler@sequoiacap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "konstantine.buhler@citadelsecurities.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kbuhler@waymo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-854-3927",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sequoia Capital"
+}

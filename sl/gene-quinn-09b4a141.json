@@ -1,0 +1,28 @@
+{
+  "uuid": "f65e43c2-05b5-4135-9f2f-09c517873169",
+  "first_name": "Gene",
+  "last_name": "Quinn",
+  "full_name": "Gene Quinn",
+  "linkedin_url": "https://linkedin.com/in/gene-quinn-09b4a141",
+  "emails": [
+    {
+      "email": "gquinn@volkert.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gene.quinn@volkert.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 251-968-7551",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Volkert, Inc."
+}

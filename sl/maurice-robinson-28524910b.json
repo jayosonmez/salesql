@@ -1,0 +1,23 @@
+{
+  "uuid": "a6acc4eb-d262-42b4-beb2-9d17b57ec51a",
+  "first_name": "Maurice",
+  "last_name": "Robinson",
+  "full_name": "Maurice Robinson",
+  "linkedin_url": "https://linkedin.com/in/maurice-robinson-28524910b",
+  "emails": [
+    {
+      "email": "maurice.robinson@teamhealth.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 865-293-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Team Health "
+}

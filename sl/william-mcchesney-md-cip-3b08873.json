@@ -1,0 +1,28 @@
+{
+  "uuid": "860c1afb-1105-456f-bd8c-cc73309727cb",
+  "first_name": "William",
+  "last_name": "McChesney, MD, CIP",
+  "full_name": "William McChesney, MD, CIP",
+  "linkedin_url": "https://linkedin.com/in/william-mcchesney-md-cip-3b08873",
+  "emails": [
+    {
+      "email": "william_b_mcchesney@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "wmcchesney@wcgclinical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 609-945-0101",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "WCG"
+}

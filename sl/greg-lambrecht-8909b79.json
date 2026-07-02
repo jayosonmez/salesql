@@ -1,0 +1,33 @@
+{
+  "uuid": "fc82bf43-4887-49e4-8f8f-9ee8531bc2db",
+  "first_name": "Greg",
+  "last_name": "Lambrecht",
+  "full_name": "Greg Lambrecht",
+  "linkedin_url": "https://linkedin.com/in/greg-lambrecht-8909b79",
+  "emails": [
+    {
+      "email": "gregl@textaday.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "greg@singlepoint.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "gregl@singlepoint.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-682-7464",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SinglePoint, Inc. (SING)"
+}

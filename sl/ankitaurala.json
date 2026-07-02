@@ -1,0 +1,23 @@
+{
+  "uuid": "17eda8c9-d04b-4128-93c5-eb00263cadf1",
+  "first_name": "Ankita Urala",
+  "last_name": "Van Der Werff",
+  "full_name": "Ankita Urala Van Der Werff",
+  "linkedin_url": "https://linkedin.com/in/ankitaurala",
+  "emails": [
+    {
+      "email": "ankita@neuralink.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-342-9600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Neuralink"
+}

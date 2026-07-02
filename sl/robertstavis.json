@@ -1,0 +1,33 @@
+{
+  "uuid": "8972a26b-b5bf-4cd6-9e14-93cd36b6a46f",
+  "first_name": "Rob",
+  "last_name": "Stavis",
+  "full_name": "Rob Stavis",
+  "linkedin_url": "https://linkedin.com/in/robertstavis",
+  "emails": [
+    {
+      "email": "robs@bvp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rob@betterment.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rstavis@upenn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-853-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bessemer Venture Partners"
+}

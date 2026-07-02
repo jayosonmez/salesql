@@ -1,0 +1,43 @@
+{
+  "uuid": "0698110f-e11f-4c23-a1de-a50bc96372c4",
+  "first_name": "Loris",
+  "last_name": "Dzagoyan",
+  "full_name": "Loris Dzagoyan",
+  "linkedin_url": "https://linkedin.com/in/dzagoyan",
+  "emails": [
+    {
+      "email": "loris@youtube.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ldzagoyan@meetup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "loris.dzagoyan@alayacare.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "loris.dzagoyan@broid.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lorisdzago@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-858-5214",
+      "type": "Work",
+      "country_code": "CA",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AlayaCare"
+}

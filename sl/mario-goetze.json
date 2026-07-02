@@ -1,0 +1,27 @@
+{
+  "uuid": "53be5a10-b597-4a90-8254-24ead5875452",
+  "first_name": "Mario",
+  "last_name": "Götze",
+  "full_name": "Mario Götze",
+  "linkedin_url": "https://linkedin.com/in/mario-goetze",
+  "emails": [
+    {
+      "email": "m.gotze@companion-m.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mario.gotze@nike.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 69 95503275",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Eintracht Frankfurt"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "7e1e688e-fdaa-4338-942e-6b63507813a7",
+  "first_name": "lin",
+  "last_name": "Zhang",
+  "full_name": "lin Zhang",
+  "linkedin_url": "https://linkedin.com/in/tottizhang",
+  "emails": [
+    {
+      "email": "lin.zhang@auburn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lzz0002@tigermail.auburn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 334-844-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Auburn University"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "aa8f28d7-6c4d-41fe-8cc3-b9e3927fa36f",
+  "first_name": "Cindy",
+  "last_name": "Zughbi MD, MBA",
+  "full_name": "Cindy Zughbi MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/cindy-zughbi-md-mba-959a7898",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "2393215440",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "ZLC - Zughbi Life Clinics"
+}

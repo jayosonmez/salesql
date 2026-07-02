@@ -1,0 +1,28 @@
+{
+  "uuid": "7c5e8648-ee8f-4a03-b137-f7b67365aab2",
+  "first_name": "John",
+  "last_name": "Enderle",
+  "full_name": "John Enderle",
+  "linkedin_url": "https://linkedin.com/in/john-enderle-78aabb13",
+  "emails": [
+    {
+      "email": "john.enderle@uconn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jenderle@engr.uconn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 860-486-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Connecticut"
+}

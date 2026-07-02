@@ -1,0 +1,43 @@
+{
+  "uuid": "9e8f0038-b676-4484-ae21-7b8a258de31e",
+  "first_name": "Katia",
+  "last_name": "Ameri",
+  "full_name": "Katia Ameri",
+  "linkedin_url": "https://linkedin.com/in/katia-ameri",
+  "emails": [
+    {
+      "email": "katiaameri@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "katia@askmirra.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "a-k@tgleaders.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kameri@a16z.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "katia@pear.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-798-5800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Andreessen Horowitz"
+}

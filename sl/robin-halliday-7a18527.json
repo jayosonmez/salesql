@@ -1,0 +1,16 @@
+{
+  "uuid": "bf3929a4-764f-4227-8ba7-6efc400182bb",
+  "first_name": "Robin",
+  "last_name": "Halliday",
+  "full_name": "Robin Halliday",
+  "linkedin_url": "https://linkedin.com/in/robin-halliday-7a18527",
+  "emails": [
+    {
+      "email": "robinh@dis-corp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "WWU College of Science and Engineering Advisory Board"
+}

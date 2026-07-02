@@ -1,0 +1,33 @@
+{
+  "uuid": "89dde89e-5785-4aa7-9c71-3a143684e81c",
+  "first_name": "Ryan",
+  "last_name": "Carlson",
+  "full_name": "Ryan Carlson",
+  "linkedin_url": "https://linkedin.com/in/ryancarlson",
+  "emails": [
+    {
+      "email": "rcarlson@okta.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryan@ryantcarlson.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "c.ryan@theoperatornetwork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-309-9703",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Operator Network"
+}

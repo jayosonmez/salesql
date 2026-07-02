@@ -1,0 +1,28 @@
+{
+  "uuid": "dfd25aab-3b12-48ea-ae24-1db11ed3bc1c",
+  "first_name": "Ajeya",
+  "last_name": "Joshi",
+  "full_name": "Ajeya Joshi",
+  "linkedin_url": "https://linkedin.com/in/ajeya-joshi-56269a4",
+  "emails": [
+    {
+      "email": "ajeya.joshi@piviohealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "apjoshimd@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 909-796-7676",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pivio, by Lifestyle Medicine Institute, LLC"
+}

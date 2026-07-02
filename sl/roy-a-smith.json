@@ -1,0 +1,29 @@
+{
+  "uuid": "941c1477-4cdd-4673-ac4a-af47c0de60e3",
+  "first_name": "Roy",
+  "last_name": "Smith",
+  "full_name": "Roy Smith",
+  "linkedin_url": "https://linkedin.com/in/roy-a-smith",
+  "emails": [
+    {
+      "email": "rsmith@pacounseling.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 717-228-9140",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 717-272-5464",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pennsylvania Counseling Services, Inc."
+}

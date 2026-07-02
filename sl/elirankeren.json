@@ -1,0 +1,88 @@
+{
+  "uuid": "2eb792e6-5a00-4265-a366-46adcfa10967",
+  "first_name": "Eliran",
+  "last_name": "Keren",
+  "full_name": "Eliran Keren",
+  "linkedin_url": "https://linkedin.com/in/elirankeren",
+  "emails": [
+    {
+      "email": "eliran@3pel.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "elirank24@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "elirank512@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "eliran@cyberetic.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eliran@realforest.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eliran@naturagrowth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "eliran@ifeelonline.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eliran@eyecontrol.co.il",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eliran@right-hear.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eliran@spotitearly.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eliran@bio-beat.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eliran@ti-c.global",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eliran.keren@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eliran@wikipedia.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 574-252-5662",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DEKfund"
+}

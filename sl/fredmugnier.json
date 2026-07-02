@@ -1,0 +1,53 @@
+{
+  "uuid": "6a9b3ddc-dde7-4f31-bc3d-3ca3e1f65c46",
+  "first_name": "Frederic",
+  "last_name": "MUGNIER",
+  "full_name": "Frederic MUGNIER",
+  "linkedin_url": "https://linkedin.com/in/fredmugnier",
+  "emails": [
+    {
+      "email": "frederic@team-planet.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "frederic.mugnier@cec-impact.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "frederic@climateclub.cc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "frederic.mugnier@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fredmugnier@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "frederic@supercapital.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 6 66 87 54 67",
+      "type": "Personal",
+      "country_code": "FR",
+      "is_valid": true
+    },
+    {
+      "phone": "+33 1 84 17 14 61",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FAGUO"
+}

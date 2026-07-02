@@ -1,0 +1,43 @@
+{
+  "uuid": "d0129f79-8bb2-4d38-8fca-5719087735d5",
+  "first_name": "Sean",
+  "last_name": "Harper",
+  "full_name": "Sean Harper",
+  "linkedin_url": "https://linkedin.com/in/harpersean",
+  "emails": [
+    {
+      "email": "harper.sean@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "harper@tss-radio.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sharper@kin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sean@feefighters.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sean@kin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-717-0022",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kin Insurance"
+}

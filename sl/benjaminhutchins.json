@@ -1,0 +1,33 @@
+{
+  "uuid": "7ed1c1ce-ebe6-4848-a833-7d7c0cbfd1cb",
+  "first_name": "Benjamin",
+  "last_name": "Hutchins",
+  "full_name": "Benjamin Hutchins",
+  "linkedin_url": "https://linkedin.com/in/benjaminhutchins",
+  "emails": [
+    {
+      "email": "ben.hutchins@xvolter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bhutchins@med-metrix.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "benjamin@gotrialist.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 201-782-0200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Med-Metrix"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "f46268ca-24c4-4e28-a2bf-bd010668e1cd",
+  "first_name": "Jui-Yun",
+  "last_name": "Chang",
+  "full_name": "Jui-Yun Chang",
+  "linkedin_url": "https://linkedin.com/in/juiyunchang",
+  "emails": [
+    {
+      "email": "jui-yun.chang@mpfi.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 561-972-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Max Planck Florida Institute for Neuroscience"
+}

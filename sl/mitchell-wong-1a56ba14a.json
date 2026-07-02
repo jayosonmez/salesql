@@ -1,0 +1,34 @@
+{
+  "uuid": "3308dc53-9ccc-4576-b0b0-b095335baad3",
+  "first_name": "Mitchell",
+  "last_name": "Wong",
+  "full_name": "Mitchell Wong",
+  "linkedin_url": "https://linkedin.com/in/mitchell-wong-1a56ba14a",
+  "emails": [
+    {
+      "email": "mwong@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mwong@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-351-8788",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 858-534-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, San Diego - Rady School of Management"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "7e112afe-f53e-4fe8-a33a-cdffcf19c533",
+  "first_name": "Megan",
+  "last_name": "Rizzo",
+  "full_name": "Megan Rizzo",
+  "linkedin_url": "https://linkedin.com/in/megan-rizzo-9308a574",
+  "emails": [
+    {
+      "email": "mrizzo@umaryland.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 410-706-3100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Maryland, Baltimore (UMB)"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "44eceb15-4da9-4d06-a554-09d5f10228dd",
+  "first_name": "Mathew",
+  "last_name": "Provenzano",
+  "full_name": "Mathew Provenzano",
+  "linkedin_url": "https://linkedin.com/in/mathew-provenzano-72836112a",
+  "emails": [
+    {
+      "email": "mjprovenzano@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mprovenzano@madorra.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mathew.provenzano@franciscanalliance.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mathew_provenzano@airforce.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mathew-provenzano@mdangels.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mathewprovenzano@raydiantoximetry.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Franciscan Alliance, Inc."
+}

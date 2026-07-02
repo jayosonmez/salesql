@@ -1,0 +1,53 @@
+{
+  "uuid": "acfaa7de-6b79-4bcd-b260-9aa76684ac11",
+  "first_name": "Sol",
+  "last_name": "Kennedy",
+  "full_name": "Sol Kennedy",
+  "linkedin_url": "https://linkedin.com/in/solkennedy",
+  "emails": [
+    {
+      "email": "bryankennedy@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "plusbryan@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sol@bestinterest.app",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sol@coparentingbeyondconflict.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sol.kennedy@leena.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sol.kennedy@equipmentshare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sol@chainalysis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-500-5400",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BestInterest Coparenting App"
+}

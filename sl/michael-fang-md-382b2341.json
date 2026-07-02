@@ -1,0 +1,38 @@
+{
+  "uuid": "b155cb1c-3868-4475-b813-1d2e535f5443",
+  "first_name": "Michael",
+  "last_name": "Fang, MD",
+  "full_name": "Michael Fang, MD",
+  "linkedin_url": "https://linkedin.com/in/michael-fang-md-382b2341",
+  "emails": [
+    {
+      "email": "mfang@base10genetics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael.fang@cetaconsultants.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael.fang@cetagroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael.fang@imosphere.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-238-2367",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northwestern University - The Feinberg School of Medicine, Institute of AI in Medicine"
+}

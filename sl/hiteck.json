@@ -1,0 +1,21 @@
+{
+  "uuid": "25589f34-228b-45b7-bef9-446c29b9ef4f",
+  "first_name": "Teck",
+  "last_name": "C.",
+  "full_name": "Teck C.",
+  "linkedin_url": "https://linkedin.com/in/hiteck",
+  "emails": [
+    {
+      "email": "teck@openappmkt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "teck@binance.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dimension.ai"
+}

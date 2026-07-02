@@ -1,0 +1,23 @@
+{
+  "uuid": "91b449a0-afd4-4651-9c06-cfa6fddc0b96",
+  "first_name": "Dean",
+  "last_name": "Adelman",
+  "full_name": "Dean Adelman",
+  "linkedin_url": "https://linkedin.com/in/dean-adelman-3b63a642",
+  "emails": [
+    {
+      "email": "dean@deansplumbing.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 763-286-2580",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EazieBook"
+}

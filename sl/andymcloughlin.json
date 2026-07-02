@@ -1,0 +1,51 @@
+{
+  "uuid": "276e7326-8816-43f8-8940-76154c8a0152",
+  "first_name": "Andy",
+  "last_name": "McLoughlin",
+  "full_name": "Andy McLoughlin",
+  "linkedin_url": "https://linkedin.com/in/andymcloughlin",
+  "emails": [
+    {
+      "email": "andy@huddle.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andy.mcloughlin@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "andy@huddle.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andy@quantive.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "andy.mcloughlin@uncorkcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andy@founderspledge.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "andy@cside.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andy@bem.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Uncork Capital"
+}

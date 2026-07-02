@@ -1,0 +1,48 @@
+{
+  "uuid": "938f2163-1c94-4118-a90b-15f7036d6d75",
+  "first_name": "William Bao",
+  "last_name": "Bean",
+  "full_name": "William Bao Bean",
+  "linkedin_url": "https://linkedin.com/in/williambaobean",
+  "emails": [
+    {
+      "email": "william.bean@italki.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "william@h2.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wbean23@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "wbean@sosv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "william.bao.bean@sosv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "william.bao.bean@orbitstartups.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+86 186 2158 6213",
+      "type": "Personal",
+      "country_code": "CN",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Orbit Ventures"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "9f3db5e4-d0b6-402c-8836-22439ff8c2da",
+  "first_name": "Peter",
+  "last_name": "Ward",
+  "full_name": "Peter Ward",
+  "linkedin_url": "https://linkedin.com/in/peter-ward-a6533812",
+  "emails": [
+    {
+      "email": "pward4@its.jnj.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter@centessa.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Centessa Pharmaceuticals"
+}

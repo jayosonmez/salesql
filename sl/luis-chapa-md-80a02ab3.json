@@ -1,0 +1,26 @@
+{
+  "uuid": "1f89bad2-5c86-4828-be07-5b5a695eb547",
+  "first_name": "Luis",
+  "last_name": "Chapa, MD",
+  "full_name": "Luis Chapa, MD",
+  "linkedin_url": "https://linkedin.com/in/luis-chapa-md-80a02ab3",
+  "emails": [
+    {
+      "email": "luis_md@alamocityuc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lchapa@prestigeer.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lc@chocollazo.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Prestige Emergency Room, LLC"
+}

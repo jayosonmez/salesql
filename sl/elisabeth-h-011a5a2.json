@@ -1,0 +1,23 @@
+{
+  "uuid": "696a4808-4541-4085-9b06-0052e8fb1362",
+  "first_name": "Elisabeth",
+  "last_name": "H.",
+  "full_name": "Elisabeth H.",
+  "linkedin_url": "https://linkedin.com/in/elisabeth-h-011a5a2",
+  "emails": [
+    {
+      "email": "ehager1@rochester.rr.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-994-7500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Beacon Health Options"
+}

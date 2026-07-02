@@ -1,0 +1,28 @@
+{
+  "uuid": "6a6af750-b1bf-4375-bffa-83f5580a7f89",
+  "first_name": "Mathieu",
+  "last_name": "Lalonde",
+  "full_name": "Mathieu Lalonde",
+  "linkedin_url": "https://linkedin.com/in/mathieu-lalonde-59991835",
+  "emails": [
+    {
+      "email": "mathieu_lalonde@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lalonde@fas.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-495-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard University"
+}

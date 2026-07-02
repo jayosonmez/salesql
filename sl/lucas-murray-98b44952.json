@@ -1,0 +1,23 @@
+{
+  "uuid": "c8948758-3254-4977-994a-d39fcba38740",
+  "first_name": "Lucas",
+  "last_name": "Murray",
+  "full_name": "Lucas Murray",
+  "linkedin_url": "https://linkedin.com/in/lucas-murray-98b44952",
+  "emails": [
+    {
+      "email": "lmurray@uw.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-543-2100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Washington"
+}

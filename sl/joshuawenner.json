@@ -1,0 +1,48 @@
+{
+  "uuid": "9b8637f3-82c4-4397-914f-ad56840a375a",
+  "first_name": "Joshua",
+  "last_name": "Wenner",
+  "full_name": "Joshua Wenner",
+  "linkedin_url": "https://linkedin.com/in/joshuawenner",
+  "emails": [
+    {
+      "email": "joshua@gotspare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joshua.wenner@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joshua@valorresiliency.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joshua@businessrockstars.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jw@joshuawenner.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jw@joshuawenner.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-662-1231",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wenner Ventures"
+}

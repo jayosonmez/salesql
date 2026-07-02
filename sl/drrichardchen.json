@@ -1,0 +1,16 @@
+{
+  "uuid": "b55375eb-2b35-47e0-85ee-b6e548443a16",
+  "first_name": "Richard",
+  "last_name": "C.",
+  "full_name": "Richard C.",
+  "linkedin_url": "https://linkedin.com/in/drrichardchen",
+  "emails": [
+    {
+      "email": "richen@massmed.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Focused Wellness"
+}

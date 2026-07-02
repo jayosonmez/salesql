@@ -1,0 +1,41 @@
+{
+  "uuid": "a711d2bf-af4a-44f4-87f3-49feb2ca3b77",
+  "first_name": "Brandon",
+  "last_name": "Metcalf",
+  "full_name": "Brandon Metcalf",
+  "linkedin_url": "https://linkedin.com/in/metcalf",
+  "emails": [
+    {
+      "email": "brandon@blueprintadvisory.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "brandon@placetechnology.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brandon@asymbl.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bmetcalf@cvpartnersinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bmetcalf@fastcompany.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bmetcalf@asymbl.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Asymbl"
+}

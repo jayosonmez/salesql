@@ -1,0 +1,23 @@
+{
+  "uuid": "128f6b66-261a-4955-92b5-d288f491cfc1",
+  "first_name": "Keith",
+  "last_name": "Hudgins",
+  "full_name": "Keith Hudgins",
+  "linkedin_url": "https://linkedin.com/in/keith-hudgins",
+  "emails": [
+    {
+      "email": "keith@venturesouth.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 864-908-0086",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VentureSouth"
+}

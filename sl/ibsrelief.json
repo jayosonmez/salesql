@@ -1,0 +1,23 @@
+{
+  "uuid": "933e3dbe-36e6-4241-bd85-56ad5b808bf3",
+  "first_name": "Viviana",
+  "last_name": "Levi, MD",
+  "full_name": "Viviana Levi, MD",
+  "linkedin_url": "https://linkedin.com/in/ibsrelief",
+  "emails": [
+    {
+      "email": "md@ibs.one",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-201-4271",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IBS1"
+}

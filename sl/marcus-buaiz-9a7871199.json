@@ -1,0 +1,27 @@
+{
+  "uuid": "1cf3a2f1-705e-439d-b692-4d0cad1b8c12",
+  "first_name": "Marcus",
+  "last_name": "Buaiz",
+  "full_name": "Marcus Buaiz",
+  "linkedin_url": "https://linkedin.com/in/marcus-buaiz-9a7871199",
+  "emails": [
+    {
+      "email": "marcus.buaiz@createspark.com.br",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "marcus.buaiz@act10n.com.br",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "1143495200",
+      "type": "Work",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "ACT10N"
+}

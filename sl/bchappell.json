@@ -1,0 +1,21 @@
+{
+  "uuid": "3d9ee52a-696a-46a7-9a82-b80a5ce2ca01",
+  "first_name": "Brian",
+  "last_name": "Chappell",
+  "full_name": "Brian Chappell",
+  "linkedin_url": "https://linkedin.com/in/bchappell",
+  "emails": [
+    {
+      "email": "bchappell@copypress.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brian@brianchappell.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Adapt Marketing subsidiary of CopyPress "
+}

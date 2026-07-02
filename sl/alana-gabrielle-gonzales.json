@@ -1,0 +1,28 @@
+{
+  "uuid": "e5518926-d120-4da8-be80-71ce39e5084f",
+  "first_name": "Alana",
+  "last_name": "Gonzales",
+  "full_name": "Alana Gonzales",
+  "linkedin_url": "https://linkedin.com/in/alana-gabrielle-gonzales",
+  "emails": [
+    {
+      "email": "agonzales@arizona.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alana@siphox.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 520-621-6997",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UArizona Wyant College of Optical Sciences"
+}

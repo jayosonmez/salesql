@@ -1,0 +1,38 @@
+{
+  "uuid": "e570353c-d1fb-4a2c-8deb-a8a38d53b07a",
+  "first_name": "Vasilios",
+  "last_name": "Mavrophilipos",
+  "full_name": "Vasilios Mavrophilipos",
+  "linkedin_url": "https://linkedin.com/in/vasilios-mavrophilipos-72998820b",
+  "emails": [
+    {
+      "email": "vasilios.mavrophilipos@inova.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mavrophilipos@onercall.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vasilios.mavrophilipos@inova.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vmavrophilipos@virginia.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 434-924-0311",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Virginia"
+}

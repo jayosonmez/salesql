@@ -1,0 +1,36 @@
+{
+  "uuid": "025fc4b1-2b96-4b4e-a396-f45c870f8fba",
+  "first_name": "Tarikh",
+  "last_name": "Korula",
+  "full_name": "Tarikh Korula",
+  "linkedin_url": "https://linkedin.com/in/tarikh",
+  "emails": [
+    {
+      "email": "tarikh@seen.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tarikh@techcrunch.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hey@tarikh.me",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tk@uncommonprojects.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tarikh@theidproject.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Superculture"
+}

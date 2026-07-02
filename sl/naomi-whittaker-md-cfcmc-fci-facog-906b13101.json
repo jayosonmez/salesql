@@ -1,0 +1,23 @@
+{
+  "uuid": "30444731-a1c6-4c3e-80f4-160273f4891d",
+  "first_name": "Naomi",
+  "last_name": "Whittaker, MD, CFCMC, FCI, FACOG",
+  "full_name": "Naomi Whittaker, MD, CFCMC, FCI, FACOG",
+  "linkedin_url": "https://linkedin.com/in/naomi-whittaker-md-cfcmc-fci-facog-906b13101",
+  "emails": [
+    {
+      "email": "naomi.whittaker@popepaulvi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 412-802-3275",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UPMC"
+}

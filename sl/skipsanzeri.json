@@ -1,0 +1,47 @@
+{
+  "uuid": "c6ce2182-0d1e-4c7e-90f4-396ff11b5877",
+  "first_name": "Skip",
+  "last_name": "Sanzeri",
+  "full_name": "Skip Sanzeri",
+  "linkedin_url": "https://linkedin.com/in/skipsanzeri",
+  "emails": [
+    {
+      "email": "skip.sanzeri@vividq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "skip@quantumfalcon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "skip@qusecure.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "skip@ivalt.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "skip@alersense.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "skipsanzeri@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "2148095815",
+      "type": "Work",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Quantum Falcon"
+}

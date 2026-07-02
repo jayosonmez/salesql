@@ -1,0 +1,23 @@
+{
+  "uuid": "7f729eb5-6e51-4a56-b10f-9c2cdd378577",
+  "first_name": "Zach",
+  "last_name": "Callaway",
+  "full_name": "Zach Callaway",
+  "linkedin_url": "https://linkedin.com/in/zach-callaway-a466ab90",
+  "emails": [
+    {
+      "email": "zcallaway@uark.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 479-575-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Arkansas"
+}

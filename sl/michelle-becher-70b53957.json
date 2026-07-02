@@ -1,0 +1,33 @@
+{
+  "uuid": "c121b6ab-41ba-41a1-8071-381187fde8f2",
+  "first_name": "Michelle",
+  "last_name": "Becher",
+  "full_name": "Michelle Becher",
+  "linkedin_url": "https://linkedin.com/in/michelle-becher-70b53957",
+  "emails": [
+    {
+      "email": "michelle@linkedin.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "becher@msu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "becher@msu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 517-364-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Michigan Health-Sparrow"
+}

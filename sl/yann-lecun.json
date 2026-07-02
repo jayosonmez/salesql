@@ -1,0 +1,21 @@
+{
+  "uuid": "f2957603-7740-4f92-8f57-362e431e376c",
+  "first_name": "Yann",
+  "last_name": "LeCun",
+  "full_name": "Yann LeCun",
+  "linkedin_url": "https://linkedin.com/in/yann-lecun",
+  "emails": [
+    {
+      "email": "yann@lecun.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yann.lecun@nyu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Advanced Machine Intelligence - AMI Labs"
+}

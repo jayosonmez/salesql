@@ -1,0 +1,27 @@
+{
+  "uuid": "e7877b86-02e2-49bb-8f12-bfc9205ac82d",
+  "first_name": "Harry",
+  "last_name": "Lipschitz",
+  "full_name": "Harry Lipschitz",
+  "linkedin_url": "https://linkedin.com/in/harry-lipschitz-0b88a3181",
+  "emails": [
+    {
+      "email": "harrylipschitz@rimonschool.co.il",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "harry.lipschitz@ramot-group.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+972 3-563-8800",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ramot Group"
+}

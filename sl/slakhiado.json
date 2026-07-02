@@ -1,0 +1,23 @@
+{
+  "uuid": "3fe7f141-e71c-4759-ad86-da89173a22f6",
+  "first_name": "Sanjiv",
+  "last_name": "Lakhia DO",
+  "full_name": "Sanjiv Lakhia DO",
+  "linkedin_url": "https://linkedin.com/in/slakhiado",
+  "emails": [
+    {
+      "email": "sanjiv.lakhia@cnsa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 336-272-4578",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Carolina NeuroSurgery & Spine Associates"
+}

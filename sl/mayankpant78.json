@@ -1,0 +1,53 @@
+{
+  "uuid": "04d24937-f832-4ce5-b549-8ad8b5fa76ea",
+  "first_name": "Mayank",
+  "last_name": "Pant",
+  "full_name": "Mayank Pant",
+  "linkedin_url": "https://linkedin.com/in/mayankpant78",
+  "emails": [
+    {
+      "email": "may789@rediffmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mayankpant@outlook.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mayank.pant@ikshealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mayank.pant@ikshealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mayank.pant@forbestechcouncil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mayank.pant@newchip.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mayank.pant@sifthealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 323-417-6565",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Self-employed"
+}

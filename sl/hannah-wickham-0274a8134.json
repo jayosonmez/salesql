@@ -1,0 +1,23 @@
+{
+  "uuid": "82cc3649-7776-4e9f-b6db-4e3d6f25de21",
+  "first_name": "Hannah",
+  "last_name": "Wickham",
+  "full_name": "Hannah Wickham",
+  "linkedin_url": "https://linkedin.com/in/hannah-wickham-0274a8134",
+  "emails": [
+    {
+      "email": "hannah.wickham@vituity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-350-2777",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vituity"
+}

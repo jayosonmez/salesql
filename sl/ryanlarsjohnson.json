@@ -1,0 +1,46 @@
+{
+  "uuid": "47c0836e-24b0-433f-93a5-5d61fb990ad3",
+  "first_name": "Ryan",
+  "last_name": "Johnson",
+  "full_name": "Ryan Johnson",
+  "linkedin_url": "https://linkedin.com/in/ryanlarsjohnson",
+  "emails": [
+    {
+      "email": "ryan.johnson@vergeag.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ryan.johnson@subutaicapitalpartners.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ryan.johnson@terraengine.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryan@pixxel.space",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ryan@xonaspace.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryan.johnson@sccon.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rjohnson@hydrosat.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Subutai Capital Partners"
+}

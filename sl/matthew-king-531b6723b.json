@@ -1,0 +1,23 @@
+{
+  "uuid": "7dc1411b-4e16-44bf-83ab-97ee4ac1b2c8",
+  "first_name": "Matthew",
+  "last_name": "King",
+  "full_name": "Matthew King",
+  "linkedin_url": "https://linkedin.com/in/matthew-king-531b6723b",
+  "emails": [
+    {
+      "email": "matthewking@boisestate.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 208-426-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Boise State University"
+}

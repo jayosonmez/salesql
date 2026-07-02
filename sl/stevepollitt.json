@@ -1,0 +1,16 @@
+{
+  "uuid": "9eb6beb8-9f45-454c-b3a1-dd47c98dfcec",
+  "first_name": "N. Stephen",
+  "last_name": "Pollitt",
+  "full_name": "N. Stephen Pollitt",
+  "linkedin_url": "https://linkedin.com/in/stevepollitt",
+  "emails": [
+    {
+      "email": "steve@pollitts.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ProteoSource, LLC"
+}

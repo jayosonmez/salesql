@@ -1,0 +1,23 @@
+{
+  "uuid": "9130fefe-b447-4946-a987-18fde5337d00",
+  "first_name": "Kelly",
+  "last_name": "Nguyen",
+  "full_name": "Kelly Nguyen",
+  "linkedin_url": "https://linkedin.com/in/knguyen10",
+  "emails": [
+    {
+      "email": "kellyn@advancedbionics.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 661-362-1400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Advanced Bionics"
+}

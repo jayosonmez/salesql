@@ -1,0 +1,33 @@
+{
+  "uuid": "b9ab676f-d48a-4433-9f91-f905e026808f",
+  "first_name": "Dave",
+  "last_name": "Sanders",
+  "full_name": "Dave Sanders",
+  "linkedin_url": "https://linkedin.com/in/worldbridgepartners",
+  "emails": [
+    {
+      "email": "dave@wbpca.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dsanders@worldbridgepartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dave.sanders@plana.aero",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 916-860-2128",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BVA Brown Venture Associates (BVA.com)"
+}

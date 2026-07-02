@@ -1,0 +1,31 @@
+{
+  "uuid": "b7d92409-b3c1-4276-9dea-fa91eb059c74",
+  "first_name": "Richard",
+  "last_name": "Klein",
+  "full_name": "Richard Klein",
+  "linkedin_url": "https://linkedin.com/in/richard-klein-aa163117",
+  "emails": [
+    {
+      "email": "richard@dot429.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "richard@exquisitecorp.art",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "richard@vegansundaysupper.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rklein@surfacemag.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sunday Supper / Italian Frozen Food"
+}

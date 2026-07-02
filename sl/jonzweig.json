@@ -1,0 +1,46 @@
+{
+  "uuid": "dee01d68-9105-4003-9ccc-aa8d229875c6",
+  "first_name": "Jonathan",
+  "last_name": "Z.",
+  "full_name": "Jonathan Z.",
+  "linkedin_url": "https://linkedin.com/in/jonzweig",
+  "emails": [
+    {
+      "email": "jonathan@apponboard.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@moshlife.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@buildbox.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jon@epictilt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jzweig@apponboard.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@adcolony.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@duffl.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Quvy.com"
+}

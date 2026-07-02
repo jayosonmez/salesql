@@ -1,0 +1,21 @@
+{
+  "uuid": "a87971d6-3d72-411e-a13e-f36640075f44",
+  "first_name": "Jin Ho",
+  "last_name": "Kim",
+  "full_name": "Jin Ho Kim",
+  "linkedin_url": "https://linkedin.com/in/jin-ho-kim-4181ba28",
+  "emails": [
+    {
+      "email": "jin_ho_kim@brown.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jin_kim@brown.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lizard Nanotech LLC"
+}

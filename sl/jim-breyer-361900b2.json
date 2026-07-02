@@ -1,0 +1,44 @@
+{
+  "uuid": "e176cf8f-900e-4153-b2f3-70ca25810fa0",
+  "first_name": "Jim",
+  "last_name": "Breyer",
+  "full_name": "Jim Breyer",
+  "linkedin_url": "https://linkedin.com/in/jim-breyer-361900b2",
+  "emails": [
+    {
+      "email": "jim.breyer@blackstone.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jbreyer@accel-kkr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jim@breyercapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jimbreyer@breyercapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-310-6790",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 310-310-6949",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Blackstone"
+}

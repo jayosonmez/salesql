@@ -1,0 +1,31 @@
+{
+  "uuid": "dae07449-bc73-422b-b355-702fbd25f54e",
+  "first_name": "Bob",
+  "last_name": "Muglia",
+  "full_name": "Bob Muglia",
+  "linkedin_url": "https://linkedin.com/in/bob-muglia",
+  "emails": [
+    {
+      "email": "bob@pinecone.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bob@docugami.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bob.muglia@juliahub.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bob.muglia@relational.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Pinecone"
+}

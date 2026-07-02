@@ -1,0 +1,33 @@
+{
+  "uuid": "d12ad71c-e300-4e81-aa6c-2921a9861828",
+  "first_name": "Benjamine",
+  "last_name": "Liu",
+  "full_name": "Benjamine Liu",
+  "linkedin_url": "https://linkedin.com/in/benjamine-liu-54306518",
+  "emails": [
+    {
+      "email": "bliu@hbs.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "benjamineliu@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ben@trialspark.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-867-2932",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Formation Bio"
+}

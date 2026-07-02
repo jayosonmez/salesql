@@ -1,0 +1,16 @@
+{
+  "uuid": "137a68ba-83e8-4eac-b413-4e299494e1d3",
+  "first_name": "Michael",
+  "last_name": "Leavitt",
+  "full_name": "Michael Leavitt",
+  "linkedin_url": "https://linkedin.com/in/michaelleavitt",
+  "emails": [
+    {
+      "email": "governor@leavittpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Tabernacle Choir at Temple Square"
+}

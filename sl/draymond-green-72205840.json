@@ -1,0 +1,16 @@
+{
+  "uuid": "c528da51-2584-43b6-bfb5-55378ea219d5",
+  "first_name": "Draymond",
+  "last_name": "Green",
+  "full_name": "Draymond Green",
+  "linkedin_url": "https://linkedin.com/in/draymond-green-72205840",
+  "emails": [
+    {
+      "email": "day32day@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "NCAA basketball"
+}

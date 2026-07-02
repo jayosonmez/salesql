@@ -1,0 +1,22 @@
+{
+  "uuid": "8de56900-0421-47ae-afd8-e54565682d3e",
+  "first_name": "Elaine",
+  "last_name": "Smith",
+  "full_name": "Elaine Smith",
+  "linkedin_url": "https://linkedin.com/in/elaine-smith-03b899a9",
+  "emails": [
+    {
+      "email": "esmith@3M.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+46 46 892 21 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "3M"
+}

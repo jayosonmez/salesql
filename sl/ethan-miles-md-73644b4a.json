@@ -1,0 +1,28 @@
+{
+  "uuid": "167e5c35-cf2a-49e4-a927-9eaae35fbaca",
+  "first_name": "Ethan",
+  "last_name": "Miles, MD",
+  "full_name": "Ethan Miles, MD",
+  "linkedin_url": "https://linkedin.com/in/ethan-miles-md-73644b4a",
+  "emails": [
+    {
+      "email": "e.miles@army.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "e.miles@army.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 925-679-9944",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Aptus Volens Medical consulting"
+}

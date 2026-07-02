@@ -1,0 +1,26 @@
+{
+  "uuid": "535fa96a-631f-4037-8a3d-91fa533a0289",
+  "first_name": "David",
+  "last_name": "Thomson",
+  "full_name": "David Thomson",
+  "linkedin_url": "https://linkedin.com/in/davidthomson",
+  "emails": [
+    {
+      "email": "d.thomson@momentumdesignlab.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david.thomson@riverthermal.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david@inevitableco.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Inevitable."
+}

@@ -1,0 +1,53 @@
+{
+  "uuid": "5706b7ab-fedd-4787-992e-008d868e0c0a",
+  "first_name": "Domingo",
+  "last_name": "Guerra",
+  "full_name": "Domingo Guerra",
+  "linkedin_url": "https://linkedin.com/in/domingoguerra",
+  "emails": [
+    {
+      "email": "domingo@Arcadiab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gd@pef.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dguerra@fluidattacks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dguerra@kriptos.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "domingoguerra@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dg@brocade.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "domingo@chispa.vc",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-658-2639",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Chispa VC"
+}

@@ -1,0 +1,36 @@
+{
+  "uuid": "f81cdd33-46ff-4bf9-86f1-570b59b68e62",
+  "first_name": "Chris",
+  "last_name": "Telles",
+  "full_name": "Chris Telles",
+  "linkedin_url": "https://linkedin.com/in/christiantelles",
+  "emails": [
+    {
+      "email": "chris@beaconfounders.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chris.telles@scsa.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christian@xcap.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "christianvhhtelles@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "chris@altuna.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Expanding Capital"
+}

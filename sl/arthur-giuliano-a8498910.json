@@ -1,0 +1,21 @@
+{
+  "uuid": "550ae725-e675-4b8d-b215-12770b7ac77e",
+  "first_name": "Arthur",
+  "last_name": "Giuliano",
+  "full_name": "Arthur Giuliano",
+  "linkedin_url": "https://linkedin.com/in/arthur-giuliano-a8498910",
+  "emails": [
+    {
+      "email": "agiuliano@foxboroughrcs.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aagiuliano@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Foxborough Public schools"
+}

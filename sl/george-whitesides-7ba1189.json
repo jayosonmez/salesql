@@ -1,0 +1,28 @@
+{
+  "uuid": "9b6596e2-dc9c-4f24-921b-5d640134fb52",
+  "first_name": "George",
+  "last_name": "Whitesides",
+  "full_name": "George Whitesides",
+  "linkedin_url": "https://linkedin.com/in/george-whitesides-7ba1189",
+  "emails": [
+    {
+      "email": "gwhitesides@gmwgroup.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gwhitesides@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-495-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard University"
+}

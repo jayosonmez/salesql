@@ -1,0 +1,23 @@
+{
+  "uuid": "0a320eb2-d060-4c70-a2fc-66503e53f985",
+  "first_name": "James R.",
+  "last_name": "Rose",
+  "full_name": "James R. Rose",
+  "linkedin_url": "https://linkedin.com/in/james-r-rose-85b70023",
+  "emails": [
+    {
+      "email": "rose@emory.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-727-6123",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Emory University"
+}

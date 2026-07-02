@@ -1,0 +1,23 @@
+{
+  "uuid": "4e55b2fd-1f1b-424c-bc0b-b08024774158",
+  "first_name": "Ketaki",
+  "last_name": "Londhe",
+  "full_name": "Ketaki Londhe",
+  "linkedin_url": "https://linkedin.com/in/ketaki-londhe-892384197",
+  "emails": [
+    {
+      "email": "ketaki.londhe@cornell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 607-254-4636",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cornell University"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "daacc8a1-6740-4017-b2b6-497e5a1275d0",
+  "first_name": "Megan",
+  "last_name": "Kirschner",
+  "full_name": "Megan Kirschner",
+  "linkedin_url": "https://linkedin.com/in/megan-kirschner",
+  "emails": [
+    {
+      "email": "mkirschner@gwu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Cambridge Medical Technologies"
+}

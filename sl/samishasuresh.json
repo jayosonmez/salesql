@@ -1,0 +1,28 @@
+{
+  "uuid": "0617115a-2369-4831-9656-b9c57d00603a",
+  "first_name": "Samisha",
+  "last_name": "Suresh",
+  "full_name": "Samisha Suresh",
+  "linkedin_url": "https://linkedin.com/in/samishasuresh",
+  "emails": [
+    {
+      "email": "samisha.suresh@bostonscientific.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sureshs2@vcu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 804-828-3925",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Virginia Commonwealth University - College of Engineering"
+}

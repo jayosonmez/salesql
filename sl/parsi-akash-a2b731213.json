@@ -1,0 +1,23 @@
+{
+  "uuid": "c3f38dd9-fb34-4637-b139-1a9f228bd633",
+  "first_name": "Parsi",
+  "last_name": "Akash",
+  "full_name": "Parsi Akash",
+  "linkedin_url": "https://linkedin.com/in/parsi-akash-a2b731213",
+  "emails": [
+    {
+      "email": "akash.parsi@ratnaglobaltech.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-505-4140",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ratna Global Tech"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "3d1d4a59-d79e-42dd-93a5-8ff9d2b2ba13",
+  "first_name": "Jutta",
+  "last_name": "Steiner",
+  "full_name": "Jutta Steiner",
+  "linkedin_url": "https://linkedin.com/in/jutta-steiner",
+  "emails": [
+    {
+      "email": "jutta@ethcore.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jutta@provenance.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jutta@parity.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Parity Technologies"
+}

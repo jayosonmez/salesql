@@ -1,0 +1,23 @@
+{
+  "uuid": "a4afd4c8-8069-4297-bda8-0989ed08b08e",
+  "first_name": "A.K.",
+  "last_name": "O",
+  "full_name": "A.K. O",
+  "linkedin_url": "https://linkedin.com/in/ako77",
+  "emails": [
+    {
+      "email": "ak@conscience.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 619-272-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "TCA Venture Group"
+}

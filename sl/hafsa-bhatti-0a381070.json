@@ -1,0 +1,33 @@
+{
+  "uuid": "8d77815f-fa7a-438f-991b-a875fad89277",
+  "first_name": "Hafsa",
+  "last_name": "Bhatti",
+  "full_name": "Hafsa Bhatti",
+  "linkedin_url": "https://linkedin.com/in/hafsa-bhatti-0a381070",
+  "emails": [
+    {
+      "email": "hbhatti@americanfamilycare.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "hbhatti@iacthealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hafsabhatti@centura.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 719-738-5100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Centura Health"
+}

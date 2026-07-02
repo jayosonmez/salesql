@@ -1,0 +1,33 @@
+{
+  "uuid": "e5616cca-8b33-4521-864d-4e516d57a033",
+  "first_name": "Daniel",
+  "last_name": "Spors",
+  "full_name": "Daniel Spors",
+  "linkedin_url": "https://linkedin.com/in/daniel-spors",
+  "emails": [
+    {
+      "email": "dspors@preventice.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "daniel.spors@respiratorysciencesinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "daniel.spors@healthfactorsinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 507-259-9435",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Respiratory Sciences Inc"
+}

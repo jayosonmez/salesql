@@ -1,0 +1,23 @@
+{
+  "uuid": "25cf2e72-c428-4209-abe7-2c7be47551fb",
+  "first_name": "Devinder",
+  "last_name": "Sagoo",
+  "full_name": "Devinder Sagoo",
+  "linkedin_url": "https://linkedin.com/in/devinder-sagoo-218948213",
+  "emails": [
+    {
+      "email": "devinder.sagoo@reed.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 503-771-1112",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "(SALDEF) - Bacpoint"
+}

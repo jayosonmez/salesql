@@ -1,0 +1,34 @@
+{
+  "uuid": "44bba4a2-ced7-41c8-afe3-2d65ce0e9d94",
+  "first_name": "Gülçin",
+  "last_name": "Çotuk",
+  "full_name": "Gülçin Çotuk",
+  "linkedin_url": "https://linkedin.com/in/gulcincotuk",
+  "emails": [
+    {
+      "email": "gcotuk@amaris.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gulcin.cotuk@roofstacks.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 536 772 29 97",
+      "type": "Personal",
+      "country_code": "TR",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 346-244-7116",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "RoofStacks"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "0fe57cb6-81f1-4473-95d5-03b6bc2481fc",
+  "first_name": "Heather",
+  "last_name": "Su",
+  "full_name": "Heather Su",
+  "linkedin_url": "https://linkedin.com/in/heather-su-74a641160",
+  "emails": [
+    {
+      "email": "hsu@tesla.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hsu@angelcapitalassociation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 913-894-4700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Angel Capital Association"
+}

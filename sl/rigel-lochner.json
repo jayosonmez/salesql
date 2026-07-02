@@ -1,0 +1,23 @@
+{
+  "uuid": "7627d2f6-703f-4e54-97dd-b46592fbd53f",
+  "first_name": "Rigel",
+  "last_name": "Lochner",
+  "full_name": "Rigel Lochner",
+  "linkedin_url": "https://linkedin.com/in/rigel-lochner",
+  "emails": [
+    {
+      "email": "rigel.lochner@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 607-254-4636",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cornell University"
+}

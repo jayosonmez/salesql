@@ -1,0 +1,31 @@
+{
+  "uuid": "c33b0ec1-10ac-423e-aebe-987f216952b2",
+  "first_name": "Jeni",
+  "last_name": "Mayorskaya",
+  "full_name": "Jeni Mayorskaya",
+  "linkedin_url": "https://linkedin.com/in/jenimayorskaya",
+  "emails": [
+    {
+      "email": "jmayorskaya@asrm.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jeni@ehf.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "exciterpromo@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jeni@joinstorkclub.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stork Club Reproductive Care Benefits"
+}

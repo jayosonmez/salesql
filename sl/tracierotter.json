@@ -1,0 +1,38 @@
+{
+  "uuid": "03c22b01-0b2c-432f-8f43-9fced89851ac",
+  "first_name": "Tracie",
+  "last_name": "Rotter",
+  "full_name": "Tracie Rotter",
+  "linkedin_url": "https://linkedin.com/in/tracierotter",
+  "emails": [
+    {
+      "email": "tracie@gv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "thenson@google.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tracie@gv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tracie.rotter@luxcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-475-4385",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lux Capital"
+}

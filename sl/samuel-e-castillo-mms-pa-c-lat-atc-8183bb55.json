@@ -1,0 +1,33 @@
+{
+  "uuid": "c74fe0dc-e907-400b-bbef-0ea9558dde58",
+  "first_name": "Samuel E. Castillo",
+  "last_name": "MMS, PA-C, LAT, ATC",
+  "full_name": "Samuel E. Castillo MMS, PA-C, LAT, ATC",
+  "linkedin_url": "https://linkedin.com/in/samuel-e-castillo-mms-pa-c-lat-atc-8183bb55",
+  "emails": [
+    {
+      "email": "smms@smwio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "smms@premiersportsmedicine.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "samuel@orthonowcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-537-7272",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "OrthoNOW Doral"
+}

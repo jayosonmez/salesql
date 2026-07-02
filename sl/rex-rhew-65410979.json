@@ -1,0 +1,16 @@
+{
+  "uuid": "57c6db94-61f8-4792-b017-7800e920f219",
+  "first_name": "Rex",
+  "last_name": "Rhew",
+  "full_name": "Rex Rhew",
+  "linkedin_url": "https://linkedin.com/in/rex-rhew-65410979",
+  "emails": [
+    {
+      "email": "rex@rhewenterprises.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "RHEW Enterprises LLC"
+}

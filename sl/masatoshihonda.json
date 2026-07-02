@@ -1,0 +1,53 @@
+{
+  "uuid": "9f3385b1-721b-4df7-9f3d-a318cb96be3a",
+  "first_name": "Masatoshi",
+  "last_name": "Honda",
+  "full_name": "Masatoshi Honda",
+  "linkedin_url": "https://linkedin.com/in/masatoshihonda",
+  "emails": [
+    {
+      "email": "39mhonda@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ultrahonchi@mail.goo.ne.jp",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "honda@v-smart.health",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "masatoshi.honda@lifetime-ventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "honda@kyoto-u.ac.jp",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "m.honda@beyondnextventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-384-4637",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+81 75-753-7531",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kyoto University"
+}

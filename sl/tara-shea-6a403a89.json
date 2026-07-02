@@ -1,0 +1,22 @@
+{
+  "uuid": "2112b5ac-fb42-4bbb-915d-b6aa669c29d4",
+  "first_name": "Tara",
+  "last_name": "Shea",
+  "full_name": "Tara Shea",
+  "linkedin_url": "https://linkedin.com/in/tara-shea-6a403a89",
+  "emails": [
+    {
+      "email": "tara.shea@perkinelmer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+39 02 3601 2500",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PerkinElmer"
+}

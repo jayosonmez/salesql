@@ -1,0 +1,16 @@
+{
+  "uuid": "af12fe0b-40d1-4e02-a5f0-161836094b48",
+  "first_name": "Richard",
+  "last_name": "Leslie",
+  "full_name": "Richard Leslie",
+  "linkedin_url": "https://linkedin.com/in/richard-leslie-93311341",
+  "emails": [
+    {
+      "email": "rleslie@americansleeplabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "American Sleep and Cardiopulmonary Services, Inc."
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "57bb60e8-0322-46a9-89f4-c4f8d195cc42",
+  "first_name": "Carla",
+  "last_name": "Grandori, MD. Ph.D.",
+  "full_name": "Carla Grandori, MD. Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/carla-grandori-md-ph-d-1a47787",
+  "emails": [
+    {
+      "email": "carlagrandori@curefirst.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cgrandor@fhcrc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cgrandori@senginemedicine.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-732-2165",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SEngine Precision Medicine"
+}

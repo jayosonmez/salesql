@@ -1,0 +1,33 @@
+{
+  "uuid": "38f0a869-a952-4202-8e24-12413d41b1bd",
+  "first_name": "Timsy",
+  "last_name": "Uppal, PhD",
+  "full_name": "Timsy Uppal, PhD",
+  "linkedin_url": "https://linkedin.com/in/timsyuppal",
+  "emails": [
+    {
+      "email": "tuppal2@tigers.lsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "timsy.uppal@fallingstcmg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tuppal2@tigers.lsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 225-772-4020",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fallingst Technologies LLC"
+}

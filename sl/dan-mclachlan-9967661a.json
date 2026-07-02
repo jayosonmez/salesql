@@ -1,0 +1,43 @@
+{
+  "uuid": "a46d00f6-e9d4-4847-b5a2-c394b1a075e9",
+  "first_name": "Dan",
+  "last_name": "McLachlan",
+  "full_name": "Dan McLachlan",
+  "linkedin_url": "https://linkedin.com/in/dan-mclachlan-9967661a",
+  "emails": [
+    {
+      "email": "d.mclachlan1@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dmclachlan@car-fluent.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@chaiz.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dan@drivesimple.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dmclachlan@projectoneauto.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 630-207-3263",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CarFluent"
+}

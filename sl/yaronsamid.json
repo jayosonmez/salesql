@@ -1,0 +1,43 @@
+{
+  "uuid": "d9bbd303-1d92-4b1c-b002-e738c8bfd914",
+  "first_name": "Yaron",
+  "last_name": "Samid",
+  "full_name": "Yaron Samid",
+  "linkedin_url": "https://linkedin.com/in/yaronsamid",
+  "emails": [
+    {
+      "email": "yaron@billguard.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yarons@columbia.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "yaron@techaviv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yaron.samid@torq.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+972 54-945-2450",
+      "type": "Work",
+      "is_valid": true
+    },
+    {
+      "phone": "+972 54-945-2450",
+      "type": "Personal",
+      "country_code": "IL",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "TechAviv"
+}

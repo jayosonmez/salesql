@@ -1,0 +1,58 @@
+{
+  "uuid": "f62d440d-4590-4705-8229-1540db9ac47a",
+  "first_name": "John",
+  "last_name": "Majeski",
+  "full_name": "John Majeski",
+  "linkedin_url": "https://linkedin.com/in/johnmajeski",
+  "emails": [
+    {
+      "email": "john.majeski@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "john.majeski@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "majeski-john@delco.com.ar",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jmajeski@portolavalleypartners.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "john@womenfoundersfund.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jmajeski@facil.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john@themonkdude.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jmajeski@linksv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-804-2321",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "North Beach Investments"
+}

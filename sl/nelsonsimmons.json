@@ -1,0 +1,33 @@
+{
+  "uuid": "7c92575f-021f-4e28-a2cb-3bcd9193ff6e",
+  "first_name": "Nelson",
+  "last_name": "Simmons",
+  "full_name": "Nelson Simmons",
+  "linkedin_url": "https://linkedin.com/in/nelsonsimmons",
+  "emails": [
+    {
+      "email": "nsimmons@personalmd.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nsimmons@tafp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nsimmons@aafp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 214-726-0755",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Personal MD"
+}

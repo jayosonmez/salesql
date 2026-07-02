@@ -1,0 +1,28 @@
+{
+  "uuid": "263788fb-b29a-4ed3-b681-ab32ca32fa2c",
+  "first_name": "Denis",
+  "last_name": "Tsygankov",
+  "full_name": "Denis Tsygankov",
+  "linkedin_url": "https://linkedin.com/in/denis-tsygankov-a5356426",
+  "emails": [
+    {
+      "email": "denis_tsygankov@med.unc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "denis.tsygankov@gatech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-894-2600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University"
+}

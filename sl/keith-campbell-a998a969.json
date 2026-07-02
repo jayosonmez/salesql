@@ -1,0 +1,28 @@
+{
+  "uuid": "01d564eb-8026-43f6-8074-03358e983788",
+  "first_name": "Keith",
+  "last_name": "Campbell",
+  "full_name": "Keith Campbell",
+  "linkedin_url": "https://linkedin.com/in/keith-campbell-a998a969",
+  "emails": [
+    {
+      "email": "keith_campbell@wycliffe.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "keith.campbell@adventhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 407-852-3600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wycliffe Bible Translators USA"
+}

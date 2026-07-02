@@ -1,0 +1,16 @@
+{
+  "uuid": "82b837e7-0316-4b1b-8074-47246afe29c8",
+  "first_name": "Scott",
+  "last_name": "Russell",
+  "full_name": "Scott Russell",
+  "linkedin_url": "https://linkedin.com/in/scottrussell3",
+  "emails": [
+    {
+      "email": "scott@scott-russell.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

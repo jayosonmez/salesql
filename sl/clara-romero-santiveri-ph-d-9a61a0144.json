@@ -1,0 +1,23 @@
+{
+  "uuid": "ea983428-88c3-4e0a-99f4-17b4c4ac9061",
+  "first_name": "Clara",
+  "last_name": "Romero Santiveri, Ph.D.",
+  "full_name": "Clara Romero Santiveri, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/clara-romero-santiveri-ph-d-9a61a0144",
+  "emails": [
+    {
+      "email": "clara.romero@amgen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 805-447-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Amgen"
+}

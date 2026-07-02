@@ -1,0 +1,16 @@
+{
+  "uuid": "1430abbd-1488-415a-acea-0183029c5180",
+  "first_name": "Paul",
+  "last_name": "Mansfield",
+  "full_name": "Paul Mansfield",
+  "linkedin_url": "https://linkedin.com/in/paul-mansfield-b33a4b2a",
+  "emails": [
+    {
+      "email": "pmansfie@mdanderson.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "UT MD Anderson Cancer Center"
+}

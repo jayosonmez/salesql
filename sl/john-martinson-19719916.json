@@ -1,0 +1,16 @@
+{
+  "uuid": "4171b1fa-ebec-4f29-806d-6442720dd69e",
+  "first_name": "John",
+  "last_name": "Martinson",
+  "full_name": "John Martinson",
+  "linkedin_url": "https://linkedin.com/in/john-martinson-19719916",
+  "emails": [
+    {
+      "email": "jmartinson@edisonventure.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Edison Ventures"
+}

@@ -1,0 +1,51 @@
+{
+  "uuid": "818b67f6-b4fc-432f-9839-c8d0a05c8c0a",
+  "first_name": "Ben",
+  "last_name": "Kong",
+  "full_name": "Ben Kong",
+  "linkedin_url": "https://linkedin.com/in/benjamin-kong-92037ab",
+  "emails": [
+    {
+      "email": "ben@typeone.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ben.kong@republiccrypto.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ben@rebelfund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ben@theventurecollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "benjamin@algorand.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ben@shentu.technology",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "k-b@voyagerspace.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "btkong@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "World Wide Web Real Estate Portfolio (𝗪𝗪𝗪 𝗥𝗘𝗣)"
+}

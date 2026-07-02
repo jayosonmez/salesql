@@ -1,0 +1,23 @@
+{
+  "uuid": "647b026a-546f-44d1-bfa8-fc310f0b0d48",
+  "first_name": "William",
+  "last_name": "Scherer",
+  "full_name": "William Scherer",
+  "linkedin_url": "https://linkedin.com/in/billscherer",
+  "emails": [
+    {
+      "email": "drscherer@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-422-5628",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bako Diagnostics"
+}

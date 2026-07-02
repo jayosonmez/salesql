@@ -1,0 +1,17 @@
+{
+  "uuid": "1bbf731b-8434-4bb3-b9cc-6641bc944030",
+  "first_name": "Noureddine",
+  "last_name": "Raouafi",
+  "full_name": "Noureddine Raouafi",
+  "linkedin_url": "https://linkedin.com/in/nraouafi",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+216 71 873 366",
+      "type": "Work",
+      "country_code": "TN",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Tunis El Manar"
+}

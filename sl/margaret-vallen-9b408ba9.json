@@ -1,0 +1,17 @@
+{
+  "uuid": "bfda0e7a-6174-4b0a-9a33-18ae2f73c706",
+  "first_name": "Margaret",
+  "last_name": "Vallen",
+  "full_name": "Margaret Vallen",
+  "linkedin_url": "https://linkedin.com/in/margaret-vallen-9b408ba9",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 617-984-5228",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "New England Food Allergy Treatment Center"
+}

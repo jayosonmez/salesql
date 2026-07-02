@@ -1,0 +1,26 @@
+{
+  "uuid": "acfe028e-4ec2-4ae2-8ea4-f613573a287c",
+  "first_name": "Brett",
+  "last_name": "Swenson",
+  "full_name": "Brett Swenson",
+  "linkedin_url": "https://linkedin.com/in/brett-swenson-48b18028",
+  "emails": [
+    {
+      "email": "beswenson@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "drswenson@nsfamilymed.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bswenson@honorhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ThetaRho"
+}

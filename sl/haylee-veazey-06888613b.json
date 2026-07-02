@@ -1,0 +1,17 @@
+{
+  "uuid": "db34009a-a99f-40dc-8b74-57cacd22e147",
+  "first_name": "Haylee",
+  "last_name": "Veazey",
+  "full_name": "Haylee Veazey",
+  "linkedin_url": "https://linkedin.com/in/haylee-veazey-06888613b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 612-873-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hennepin Healthcare"
+}

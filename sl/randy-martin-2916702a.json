@@ -1,0 +1,28 @@
+{
+  "uuid": "dc9cb812-e4b4-4dfa-8f7b-e7b9151be3c0",
+  "first_name": "Randy",
+  "last_name": "Martin",
+  "full_name": "Randy Martin",
+  "linkedin_url": "https://linkedin.com/in/randy-martin-2916702a",
+  "emails": [
+    {
+      "email": "martin@emory.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "randy@baylabs.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-424-5616",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Caption Health"
+}

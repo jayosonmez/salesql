@@ -1,0 +1,21 @@
+{
+  "uuid": "c0de5736-1ddd-4379-8576-bef4d2fa4303",
+  "first_name": "Cary",
+  "last_name": "Fechter M.D.",
+  "full_name": "Cary Fechter M.D.",
+  "linkedin_url": "https://linkedin.com/in/cary-fechter-m-d-035ab98a",
+  "emails": [
+    {
+      "email": "cfechter@mcw.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "caryfechter@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Quality of Life Innovations"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "b687fa77-868f-4b17-95e1-7a4da54a58b4",
+  "first_name": "Petteri",
+  "last_name": "Parkkila",
+  "full_name": "Petteri Parkkila",
+  "linkedin_url": "https://linkedin.com/in/petteri-parkkila",
+  "emails": [
+    {
+      "email": "petteri.parkkila@aalto.fi",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+46 31 772 10 00",
+      "type": "Work",
+      "country_code": "SE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Chalmers University of Technology"
+}

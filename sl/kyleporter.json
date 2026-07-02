@@ -1,0 +1,33 @@
+{
+  "uuid": "9300ccb7-d4e1-495d-af48-7a99d3c4ed8d",
+  "first_name": "Kyle",
+  "last_name": "Porter",
+  "full_name": "Kyle Porter",
+  "linkedin_url": "https://linkedin.com/in/kyleporter",
+  "emails": [
+    {
+      "email": "kporter@gtalumni.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kporter@nobleag.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kyle@salesloft.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 678-810-1982",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fastlane AI"
+}

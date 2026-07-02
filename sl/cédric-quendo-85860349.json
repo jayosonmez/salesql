@@ -1,0 +1,16 @@
+{
+  "uuid": "3f79dc49-7d34-4622-a1af-f989a306b6ae",
+  "first_name": "Cédric",
+  "last_name": "Quendo",
+  "full_name": "Cédric Quendo",
+  "linkedin_url": "https://linkedin.com/in/cédric-quendo-85860349",
+  "emails": [
+    {
+      "email": "cedric.quendo@univ-brest.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lab-STICC (UMR CNRS 6285)"
+}

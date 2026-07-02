@@ -1,0 +1,41 @@
+{
+  "uuid": "bf91803d-33fd-40b1-a998-698f0f64c4b9",
+  "first_name": "Luis",
+  "last_name": "Salazar",
+  "full_name": "Luis Salazar",
+  "linkedin_url": "https://linkedin.com/in/luissalazar",
+  "emails": [
+    {
+      "email": "luis@giving.tech",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lsalazarg@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "luis@givingcompass.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "luis@vidanyx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "luis@x4i.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "luis@ai4sp.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "AI4SP"
+}

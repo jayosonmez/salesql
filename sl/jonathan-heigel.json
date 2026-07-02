@@ -1,0 +1,38 @@
+{
+  "uuid": "af3dea15-d626-41cf-b0db-71fa63b57e92",
+  "first_name": "Jonathan",
+  "last_name": "Heigel",
+  "full_name": "Jonathan Heigel",
+  "linkedin_url": "https://linkedin.com/in/jonathan-heigel",
+  "emails": [
+    {
+      "email": "jonathan@sealtheseasons.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@heigel.us",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@venturesouth.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jheigel@talisai.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 864-908-0086",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VentureSouth"
+}

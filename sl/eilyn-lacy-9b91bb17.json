@@ -1,0 +1,28 @@
+{
+  "uuid": "c7d78569-4e6a-4af2-b995-8bb995a1055f",
+  "first_name": "Eilyn",
+  "last_name": "Lacy",
+  "full_name": "Eilyn Lacy",
+  "linkedin_url": "https://linkedin.com/in/eilyn-lacy-9b91bb17",
+  "emails": [
+    {
+      "email": "lacy.e@janssen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "elacy@its.jnj.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-524-0400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Janssen Pharmaceutical Companies of Johnson & Johnson"
+}

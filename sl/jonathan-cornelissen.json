@@ -1,0 +1,26 @@
+{
+  "uuid": "27701c83-9b1c-4e4c-af80-7b8646b0db1b",
+  "first_name": "Jonathan",
+  "last_name": "Cornelissen",
+  "full_name": "Jonathan Cornelissen",
+  "linkedin_url": "https://linkedin.com/in/jonathan-cornelissen",
+  "emails": [
+    {
+      "email": "jonathancornelissen@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@datacamp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan.cornelissen@kuleuven.be",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "DataCamp"
+}

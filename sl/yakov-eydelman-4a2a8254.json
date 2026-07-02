@@ -1,0 +1,23 @@
+{
+  "uuid": "9f1e54c1-28c3-4dd6-a2be-4d9200d65a6e",
+  "first_name": "Yakov",
+  "last_name": "Eydelman",
+  "full_name": "Yakov Eydelman",
+  "linkedin_url": "https://linkedin.com/in/yakov-eydelman-4a2a8254",
+  "emails": [
+    {
+      "email": "yeydelman@neuro-kinetics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 412-963-6649",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Neuro Kinetics, Inc."
+}

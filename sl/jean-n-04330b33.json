@@ -1,0 +1,46 @@
+{
+  "uuid": "868a8fa8-e2f9-40b3-9dad-bd41ec003bab",
+  "first_name": "Jean",
+  "last_name": "N.",
+  "full_name": "Jean N.",
+  "linkedin_url": "https://linkedin.com/in/jean-n-04330b33",
+  "emails": [
+    {
+      "email": "jean@avid.health",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "nehmejean3@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jean.nehme09@imperial.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jean@shiftbioscience.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jean@plexaa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jean@qubithealthcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jn@ufonia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stealth Robotics Startup"
+}

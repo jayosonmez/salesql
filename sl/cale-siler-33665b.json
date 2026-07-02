@@ -1,0 +1,33 @@
+{
+  "uuid": "f9278b59-5c74-4675-80bc-3a824da9af59",
+  "first_name": "Cale",
+  "last_name": "Siler",
+  "full_name": "Cale Siler",
+  "linkedin_url": "https://linkedin.com/in/cale-siler-33665b",
+  "emails": [
+    {
+      "email": "csiler@cal.berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "csiler@healingwaters.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cale_siler@ca.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 916-576-4846",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "State of California"
+}

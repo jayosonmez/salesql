@@ -1,0 +1,46 @@
+{
+  "uuid": "418aef00-712f-4d0f-9a49-03f00757580b",
+  "first_name": "Liliana",
+  "last_name": "Nordbakk",
+  "full_name": "Liliana Nordbakk",
+  "linkedin_url": "https://linkedin.com/in/liliananordbakk",
+  "emails": [
+    {
+      "email": "lnordbakk@kamautx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "liliana.nordbakk@nevasgr.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lnordbakk@motkecapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "liliana.nordbakk@stylusmedicine.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lnordbakk@tr1x.bio",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "l.nordbakk@betaglue.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "liliana.nordbakk@nuclidium.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "NUCLIDIUM AG"
+}

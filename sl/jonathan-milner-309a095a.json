@@ -1,0 +1,37 @@
+{
+  "uuid": "deb47a1a-dc24-45ab-bfd7-70dfd84c4a25",
+  "first_name": "Jonathan",
+  "last_name": "Milner",
+  "full_name": "Jonathan Milner",
+  "linkedin_url": "https://linkedin.com/in/jonathan-milner-309a095a",
+  "emails": [
+    {
+      "email": "jonathan.milner@phoremost.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan.milner@healx.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jmilner@nuclera.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan.milner@abcam.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 1223 901980",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Healx"
+}

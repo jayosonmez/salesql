@@ -1,0 +1,43 @@
+{
+  "uuid": "e15fe1fc-1ad9-4d98-a673-5599e6d3836d",
+  "first_name": "Ryan",
+  "last_name": "Spoon",
+  "full_name": "Ryan Spoon",
+  "linkedin_url": "https://linkedin.com/in/ryanspoon",
+  "emails": [
+    {
+      "email": "rspoon@cscaa.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryan@yahoo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryan.spoon@on3.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rspoon@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rspoon@espn.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 907-262-5456",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Yahoo"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "3b8db26d-acc1-4455-8e9c-472ad8117b8d",
+  "first_name": "Jeff",
+  "last_name": "Wilke",
+  "full_name": "Jeff Wilke",
+  "linkedin_url": "https://linkedin.com/in/jeff-wilke-a338879",
+  "emails": [
+    {
+      "email": "jwilke@scrippsnetworks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 865-694-2700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Scripps Networks Interactive"
+}

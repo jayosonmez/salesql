@@ -1,0 +1,16 @@
+{
+  "uuid": "11d787d4-75e2-4d1c-a1af-6906ca3bd60f",
+  "first_name": "Ronald",
+  "last_name": "Fischler",
+  "full_name": "Ronald Fischler",
+  "linkedin_url": "https://linkedin.com/in/ronald-fischler-46495122",
+  "emails": [
+    {
+      "email": "rfischler@nspeds.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "North Scottsdale Pediatric Associates"
+}

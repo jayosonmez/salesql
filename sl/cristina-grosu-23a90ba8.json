@@ -1,0 +1,23 @@
+{
+  "uuid": "3f5ee98a-be4f-4324-9339-fa6c75dcbe8b",
+  "first_name": "Cristina ",
+  "last_name": "Grosu ",
+  "full_name": "Cristina  Grosu ",
+  "linkedin_url": "https://linkedin.com/in/cristina-grosu-23a90ba8",
+  "emails": [
+    {
+      "email": "cgrosu@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-253-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts Institute of Technology"
+}

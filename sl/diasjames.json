@@ -1,0 +1,21 @@
+{
+  "uuid": "86bb30fe-9cd2-4ffa-8641-b67e0785b255",
+  "first_name": "James",
+  "last_name": "Dias",
+  "full_name": "James Dias",
+  "linkedin_url": "https://linkedin.com/in/diasjames",
+  "emails": [
+    {
+      "email": "james@teamdias.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jd@rowheels.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "TeamDias"
+}

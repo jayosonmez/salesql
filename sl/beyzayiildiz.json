@@ -1,0 +1,16 @@
+{
+  "uuid": "8137f409-69c9-45f4-9f84-9828abbc3e96",
+  "first_name": "Beyza",
+  "last_name": "Yıldız",
+  "full_name": "Beyza Yıldız",
+  "linkedin_url": "https://linkedin.com/in/beyzayiildiz",
+  "emails": [
+    {
+      "email": "beyza.yildiz@yemeksepeti.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Yemeksepeti"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "9f546556-5431-47dc-8d7a-af17a02a3f34",
+  "first_name": "Harrison",
+  "last_name": "Dillon",
+  "full_name": "Harrison Dillon",
+  "linkedin_url": "https://linkedin.com/in/harrison-dillon-750519",
+  "emails": [
+    {
+      "email": "hdillon@solazyme.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "harrison@hawkwoodbiotech.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "harrison@citysurfproject.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hawkwood Biotech"
+}

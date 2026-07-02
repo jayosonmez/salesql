@@ -1,0 +1,23 @@
+{
+  "uuid": "5d36082f-a74e-4a90-9f62-614d191b21e9",
+  "first_name": "Chandler",
+  "last_name": "Rundle",
+  "full_name": "Chandler Rundle",
+  "linkedin_url": "https://linkedin.com/in/chandler-rundle-08a96b71",
+  "emails": [
+    {
+      "email": "chandler.rundle@sclhealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 406-237-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SCL Health"
+}

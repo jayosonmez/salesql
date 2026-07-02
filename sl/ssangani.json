@@ -1,0 +1,34 @@
+{
+  "uuid": "330eb6df-12ce-4120-90a6-26f3fa5585db",
+  "first_name": "Satyen",
+  "last_name": "Sangani",
+  "full_name": "Satyen Sangani",
+  "linkedin_url": "https://linkedin.com/in/ssangani",
+  "emails": [
+    {
+      "email": "ssangani@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "satyen.sangani@alation.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-215-5872",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-779-4440",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Alation"
+}

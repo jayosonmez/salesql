@@ -1,0 +1,21 @@
+{
+  "uuid": "84c51283-455c-4fa3-8962-4d4b0acaa9d8",
+  "first_name": "Pierre",
+  "last_name": "Valade",
+  "full_name": "Pierre Valade",
+  "linkedin_url": "https://linkedin.com/in/pierrevalade",
+  "emails": [
+    {
+      "email": "pierre.valade@alan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pierre@valade.info",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "WorkflowAI"
+}

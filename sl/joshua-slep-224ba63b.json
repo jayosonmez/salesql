@@ -1,0 +1,28 @@
+{
+  "uuid": "6bb556cf-d210-4bb4-bd34-5696be4e1df0",
+  "first_name": "Joshua",
+  "last_name": "Slep",
+  "full_name": "Joshua Slep",
+  "linkedin_url": "https://linkedin.com/in/joshua-slep-224ba63b",
+  "emails": [
+    {
+      "email": "joshua.slep@cmhc.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "capchaos888@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-795-0111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Central Maine Medical Center"
+}

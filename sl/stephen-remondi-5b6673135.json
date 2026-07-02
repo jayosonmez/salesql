@@ -1,0 +1,36 @@
+{
+  "uuid": "cbe85180-b498-48fc-904b-c29d602ee873",
+  "first_name": "Stephen",
+  "last_name": "Remondi",
+  "full_name": "Stephen Remondi",
+  "linkedin_url": "https://linkedin.com/in/stephen-remondi-5b6673135",
+  "emails": [
+    {
+      "email": "saremondi@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sremondi@zwitterco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephen@xspherabio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephen@aeyehealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephen.remondi@epistemix.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Xsphera Biosciences Inc"
+}

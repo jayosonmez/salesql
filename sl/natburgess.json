@@ -1,0 +1,21 @@
+{
+  "uuid": "0f8da650-184e-42fa-a531-96447c2d4387",
+  "first_name": "Nat",
+  "last_name": "Burgess",
+  "full_name": "Nat Burgess",
+  "linkedin_url": "https://linkedin.com/in/natburgess",
+  "emails": [
+    {
+      "email": "nburgess@corumgroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nburgess@techstrat.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Deliverables.ai"
+}

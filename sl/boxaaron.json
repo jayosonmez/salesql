@@ -1,0 +1,33 @@
+{
+  "uuid": "03ef5082-e984-43ee-b0a9-2c9999e15564",
+  "first_name": "Aaron",
+  "last_name": "Levie",
+  "full_name": "Aaron Levie",
+  "linkedin_url": "https://linkedin.com/in/boxaaron",
+  "emails": [
+    {
+      "email": "alevie@box.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alevie@box.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aaron@box.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-729-4269",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Box"
+}

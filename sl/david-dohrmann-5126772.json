@@ -1,0 +1,44 @@
+{
+  "uuid": "eb84ba81-da1b-4853-872a-afa7eb1448fa",
+  "first_name": "David",
+  "last_name": "Dohrmann",
+  "full_name": "David Dohrmann",
+  "linkedin_url": "https://linkedin.com/in/david-dohrmann-5126772",
+  "emails": [
+    {
+      "email": "dave@milkrun.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dld@sracap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ddohrmann@growlifeinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.dohrmann@smule.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-954-4104",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 866-781-5559",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GrowLife, Inc."
+}

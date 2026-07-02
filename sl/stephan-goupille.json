@@ -1,0 +1,43 @@
+{
+  "uuid": "aab627ef-576b-48c6-95a3-c174a6ddc7e8",
+  "first_name": "Stephan",
+  "last_name": "Goupille",
+  "full_name": "Stephan Goupille",
+  "linkedin_url": "https://linkedin.com/in/stephan-goupille",
+  "emails": [
+    {
+      "email": "stephan@joinhandshake.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephan@bounce.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephan.goupille@unicornfactorylisboa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephan@surfeye.video",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stephangoupille@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-714-9642",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Data Tech Fund"
+}

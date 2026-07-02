@@ -1,0 +1,43 @@
+{
+  "uuid": "3fad76bd-9ba5-479e-8408-60ca53acbaf4",
+  "first_name": "Jose L",
+  "last_name": "Sampedro Mazon",
+  "full_name": "Jose L Sampedro Mazon",
+  "linkedin_url": "https://linkedin.com/in/jlsampedromazon",
+  "emails": [
+    {
+      "email": "jose@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jose@pokoapp.xyz",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jlsampedromazon@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jose@pebblebed.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jose@jurecap.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+65 9136 7226",
+      "type": "Personal",
+      "country_code": "SG",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth"
+}

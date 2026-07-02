@@ -1,0 +1,23 @@
+{
+  "uuid": "a625adff-4e12-4317-9927-7f441b911147",
+  "first_name": "Alexandra",
+  "last_name": "Leyte-Vidal",
+  "full_name": "Alexandra Leyte-Vidal",
+  "linkedin_url": "https://linkedin.com/in/alexandra-leyte-vidal-379845162",
+  "emails": [
+    {
+      "email": "alexandra.leyte-vidal@lumosdiagnostics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-586-6739",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lumos Diagnostics"
+}

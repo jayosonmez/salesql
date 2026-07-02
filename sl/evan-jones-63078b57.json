@@ -1,0 +1,17 @@
+{
+  "uuid": "3245b7f4-3059-4adb-a615-a28011acb354",
+  "first_name": "Evan",
+  "last_name": "Jones",
+  "full_name": "Evan Jones",
+  "linkedin_url": "https://linkedin.com/in/evan-jones-63078b57",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 507-266-4688",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mayo Clinic"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "f0c8197c-28a1-42f2-b0fd-4def4d8d67a6",
+  "first_name": "Sam",
+  "last_name": "Carli",
+  "full_name": "Sam Carli",
+  "linkedin_url": "https://linkedin.com/in/sbcarli",
+  "emails": [
+    {
+      "email": "sam.carli@providence.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Greenstone Medical Group"
+}

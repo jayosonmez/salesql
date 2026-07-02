@@ -1,0 +1,38 @@
+{
+  "uuid": "fc4f1d03-85ae-45f2-81a7-6f7508928387",
+  "first_name": "Lee",
+  "last_name": "Arnold",
+  "full_name": "Lee Arnold",
+  "linkedin_url": "https://linkedin.com/in/larnoldclw",
+  "emails": [
+    {
+      "email": "lee.arnold@colliers.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "larnold@colliersarnold.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "larnold@americanmomentum.bank",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lee@floridafunders.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 727-442-7184",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "LA Financial Inc."
+}

@@ -1,0 +1,46 @@
+{
+  "uuid": "559d41df-88dd-434f-b966-3e0c9444f0f8",
+  "first_name": "Marissa",
+  "last_name": "Mayer",
+  "full_name": "Marissa Mayer",
+  "linkedin_url": "https://linkedin.com/in/marissamayer",
+  "emails": [
+    {
+      "email": "marissa@lumilabs.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "marissa@dazzle.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "marissa@google.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "marissa@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "marissa.mayer@att.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "marissa.mayer@hilton.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mmayer@starbucks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "dazzle ai"
+}

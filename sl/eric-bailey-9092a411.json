@@ -1,0 +1,16 @@
+{
+  "uuid": "f28c90ef-728b-46b3-8736-1551b57181f4",
+  "first_name": "Eric",
+  "last_name": "Bailey",
+  "full_name": "Eric Bailey",
+  "linkedin_url": "https://linkedin.com/in/eric-bailey-9092a411",
+  "emails": [
+    {
+      "email": "ebailey@emedmedical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "EMC Pharma, LLC "
+}

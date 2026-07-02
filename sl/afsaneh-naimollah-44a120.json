@@ -1,0 +1,21 @@
+{
+  "uuid": "4211c668-cb16-4c6e-bbac-57bdcaac7cb1",
+  "first_name": "Afsaneh",
+  "last_name": "Naimollah",
+  "full_name": "Afsaneh Naimollah",
+  "linkedin_url": "https://linkedin.com/in/afsaneh-naimollah-44a120",
+  "emails": [
+    {
+      "email": "afsaneh@xenpartners.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "afsaneh@marlinllc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Soley Therapeutics"
+}

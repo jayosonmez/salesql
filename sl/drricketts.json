@@ -1,0 +1,16 @@
+{
+  "uuid": "af0366f2-9c44-4f31-b5c5-87bd3c50b56f",
+  "first_name": "Anthony",
+  "last_name": "Ricketts",
+  "full_name": "Anthony Ricketts",
+  "linkedin_url": "https://linkedin.com/in/drricketts",
+  "emails": [
+    {
+      "email": "anthony.ricketts@uvi.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "PedsNow Pediatrc Urgent Care"
+}

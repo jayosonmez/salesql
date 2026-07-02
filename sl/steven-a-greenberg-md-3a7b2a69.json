@@ -1,0 +1,28 @@
+{
+  "uuid": "56f253e0-0a6a-4698-b105-471cea09e037",
+  "first_name": "Steven A",
+  "last_name": "Greenberg, MD",
+  "full_name": "Steven A Greenberg, MD",
+  "linkedin_url": "https://linkedin.com/in/steven-a-greenberg-md-3a7b2a69",
+  "emails": [
+    {
+      "email": "steven_greenberg@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steven@abcuro.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-524-1718",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard Medical School"
+}

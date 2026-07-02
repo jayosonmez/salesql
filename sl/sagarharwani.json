@@ -1,0 +1,21 @@
+{
+  "uuid": "5e6ea878-2da2-4224-b84e-d577b535dcda",
+  "first_name": "Sagar",
+  "last_name": "Harwani MD",
+  "full_name": "Sagar Harwani MD",
+  "linkedin_url": "https://linkedin.com/in/sagarharwani",
+  "emails": [
+    {
+      "email": "sharwani@uic.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sagar@epi.health",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "UI Health"
+}

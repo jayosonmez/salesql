@@ -1,0 +1,16 @@
+{
+  "uuid": "2e93e105-6f78-43e2-b350-c004afba32ae",
+  "first_name": "Jean-Pierre",
+  "last_name": "Sommadossi",
+  "full_name": "Jean-Pierre Sommadossi",
+  "linkedin_url": "https://linkedin.com/in/jean-pierre-sommadossi-89b7216",
+  "emails": [
+    {
+      "email": "jp@idenix.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

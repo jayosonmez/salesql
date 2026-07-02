@@ -1,0 +1,23 @@
+{
+  "uuid": "ad9beacb-adee-4076-a6bf-33e5f3f19ccb",
+  "first_name": "Kevin",
+  "last_name": "Bradley",
+  "full_name": "Kevin Bradley",
+  "linkedin_url": "https://linkedin.com/in/kevin-bradley-95a003aa",
+  "emails": [
+    {
+      "email": "kbradley@dexcom.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-586-2600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sage Educators"
+}

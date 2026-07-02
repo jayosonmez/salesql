@@ -1,0 +1,22 @@
+{
+  "uuid": "9bff3b75-6439-4963-9c92-556b29dd86d5",
+  "first_name": "Petri",
+  "last_name": "Pulkkinen",
+  "full_name": "Petri Pulkkinen",
+  "linkedin_url": "https://linkedin.com/in/petri-m-pulkkinen",
+  "emails": [
+    {
+      "email": "petri.pulkkinen@neste.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+3583581045811",
+      "type": "Work",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Neste"
+}

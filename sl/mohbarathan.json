@@ -1,0 +1,16 @@
+{
+  "uuid": "a9493ca1-eaed-450f-863b-6d0a6ebd9964",
+  "first_name": "Moh",
+  "last_name": "Barathan",
+  "full_name": "Moh Barathan",
+  "linkedin_url": "https://linkedin.com/in/mohbarathan",
+  "emails": [
+    {
+      "email": "mohbarathan@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Quantified Climate, Inc."
+}

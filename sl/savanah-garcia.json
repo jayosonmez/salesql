@@ -1,0 +1,16 @@
+{
+  "uuid": "69899890-f2ce-4c08-9354-e23ffe6a6c89",
+  "first_name": "Savanah",
+  "last_name": "Garcia",
+  "full_name": "Savanah Garcia",
+  "linkedin_url": "https://linkedin.com/in/savanah-garcia",
+  "emails": [
+    {
+      "email": "savanahg@slingr.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Slingr"
+}

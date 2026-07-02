@@ -1,0 +1,23 @@
+{
+  "uuid": "cc43f72c-f01a-4bdb-86cd-40048d1ea4c4",
+  "first_name": "Stacey",
+  "last_name": "Schley, MD",
+  "full_name": "Stacey Schley, MD",
+  "linkedin_url": "https://linkedin.com/in/stacey-schley-md-ba1797163",
+  "emails": [
+    {
+      "email": "stacey.schley@childrenshospital.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-355-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Boston Children's Hospital"
+}

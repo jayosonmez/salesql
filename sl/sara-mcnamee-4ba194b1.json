@@ -1,0 +1,17 @@
+{
+  "uuid": "102c8d1f-d46d-420a-b7b1-993389af69f0",
+  "first_name": "Sara",
+  "last_name": "McNamee",
+  "full_name": "Sara McNamee",
+  "linkedin_url": "https://linkedin.com/in/sara-mcnamee-4ba194b1",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+44 28 7012 3456",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ulster University"
+}

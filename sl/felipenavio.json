@@ -1,0 +1,23 @@
+{
+  "uuid": "80d1a865-31c1-4e61-89b6-05c8a2153c15",
+  "first_name": "Felipe",
+  "last_name": "Navío",
+  "full_name": "Felipe Navío",
+  "linkedin_url": "https://linkedin.com/in/felipenavio",
+  "emails": [
+    {
+      "email": "felipenavio@jobandtalent.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 3808 9895",
+      "type": "Work",
+      "country_code": "ES",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Job&Talent"
+}

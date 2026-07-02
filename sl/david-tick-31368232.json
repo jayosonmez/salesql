@@ -1,0 +1,16 @@
+{
+  "uuid": "593d2705-20b5-43a0-a988-3253152f1819",
+  "first_name": "David",
+  "last_name": "Tick",
+  "full_name": "David Tick",
+  "linkedin_url": "https://linkedin.com/in/david-tick-31368232",
+  "emails": [
+    {
+      "email": "dtickmd@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "InterPedia, S.C."
+}

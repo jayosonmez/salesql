@@ -1,0 +1,16 @@
+{
+  "uuid": "676702d3-f649-4b3f-bdb6-d321372d8bc4",
+  "first_name": "Christopher",
+  "last_name": "Kay",
+  "full_name": "Christopher Kay",
+  "linkedin_url": "https://linkedin.com/in/chris-kay",
+  "emails": [
+    {
+      "email": "link@charon.neomailbox.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stamicarbon B.V."
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "f03a5be7-ea82-4964-a4d2-ba2504604444",
+  "first_name": "Makinde",
+  "last_name": "Adeagbo",
+  "full_name": "Makinde Adeagbo",
+  "linkedin_url": "https://linkedin.com/in/makinde",
+  "emails": [
+    {
+      "email": "makinde@colorstack.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "makinde@adeagbo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ColorStack"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c7064c28-0c98-4c73-8c69-d04cdc78907f",
+  "first_name": "Zeynep Rana",
+  "last_name": "Ibis",
+  "full_name": "Zeynep Rana Ibis",
+  "linkedin_url": "https://linkedin.com/in/zeynep-rana-ibis-",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+90 258 242 27 76",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Aydem Yenilenebilir Enerji"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9057a2c0-3e41-44e0-a1b6-b152a0523af6",
+  "first_name": "Robin",
+  "last_name": "Dong",
+  "full_name": "Robin Dong",
+  "linkedin_url": "https://linkedin.com/in/robin-xinran-dong",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 917-975-4487",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Warana Capital, LLC"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "8cf89637-aa5c-472e-a583-5f7ee451860f",
+  "first_name": "Nirankar",
+  "last_name": "Mishra",
+  "full_name": "Nirankar Mishra",
+  "linkedin_url": "https://linkedin.com/in/nirankar-mishra-b32b7858",
+  "emails": [
+    {
+      "email": "nmishra@uidaho.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 208-885-6111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Idaho"
+}

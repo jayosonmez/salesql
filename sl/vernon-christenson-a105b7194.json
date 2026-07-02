@@ -1,0 +1,28 @@
+{
+  "uuid": "79b65e90-cc2a-44e1-a8a0-8aa303f62122",
+  "first_name": "Vernon",
+  "last_name": "Christenson",
+  "full_name": "Vernon Christenson",
+  "linkedin_url": "https://linkedin.com/in/vernon-christenson-a105b7194",
+  "emails": [
+    {
+      "email": "vernon@remmedy.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vernon.christenson@intermountainhealthcare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 866-736-6339",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Remmedy Health Services"
+}

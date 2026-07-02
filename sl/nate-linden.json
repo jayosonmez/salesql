@@ -1,0 +1,28 @@
+{
+  "uuid": "16a3b28a-bbf1-4561-a78a-fc99e828c49c",
+  "first_name": "Nathaniel",
+  "last_name": "Linden-Santangeli",
+  "full_name": "Nathaniel Linden-Santangeli",
+  "linkedin_url": "https://linkedin.com/in/nate-linden",
+  "emails": [
+    {
+      "email": "linden-santangeli.n@janssen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nlinden-santangeli@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-524-0400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Johnson & Johnson Innovative Medicine"
+}

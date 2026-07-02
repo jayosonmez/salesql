@@ -1,0 +1,63 @@
+{
+  "uuid": "fb56223c-a62d-488c-a0bb-10235cde5949",
+  "first_name": "Pieter",
+  "last_name": "De Leenheer",
+  "full_name": "Pieter De Leenheer",
+  "linkedin_url": "https://linkedin.com/in/pieterdeleenheer",
+  "emails": [
+    {
+      "email": "pde@sdsc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pieter@1up.health",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pde@dnanexus.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pl@vub.ac.be",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "leenheerp@smartfinvc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "pieter@yesse.tech",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "pieter_leenheer@hbs.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "pieterdeleenheer@acm.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pieter@collibra.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-969-3251",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DNAnexus"
+}

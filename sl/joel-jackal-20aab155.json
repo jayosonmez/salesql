@@ -1,0 +1,17 @@
+{
+  "uuid": "647ef2df-3145-45c9-9f57-df203eb1c66a",
+  "first_name": "Joel",
+  "last_name": "Jackal",
+  "full_name": "Joel Jackal",
+  "linkedin_url": "https://linkedin.com/in/joel-jackal-20aab155",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 212-442-5386",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NYC Public Schools"
+}

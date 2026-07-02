@@ -1,0 +1,23 @@
+{
+  "uuid": "88b1027c-1289-4548-b693-b2c66b9d927c",
+  "first_name": "Yun-Seok",
+  "last_name": "Choi",
+  "full_name": "Yun-Seok Choi",
+  "linkedin_url": "https://linkedin.com/in/yun-seok-choi-26ab61203",
+  "emails": [
+    {
+      "email": "yun-seok.choi@bhsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 605-642-6011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Black Hills State University"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "73c53bba-2c72-49ae-90a5-e9d6680d89ec",
+  "first_name": "ken",
+  "last_name": "keller",
+  "full_name": "ken keller",
+  "linkedin_url": "https://linkedin.com/in/kennethhkeller",
+  "emails": [
+    {
+      "email": "ken.keller@kellerapps.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kenkeller@kirlanvc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kenk@excite.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Keller Apps"
+}

@@ -1,0 +1,27 @@
+{
+  "uuid": "b5465ef6-33fc-4cfb-806e-c3fbe6187721",
+  "first_name": "Patrick",
+  "last_name": "Andrae",
+  "full_name": "Patrick Andrae",
+  "linkedin_url": "https://linkedin.com/in/patrickandrae",
+  "emails": [
+    {
+      "email": "patrick.andrae@hometogo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrae.p@gmx.de",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 30 20847396",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HomeToGo"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "e6988050-9f5c-438b-8996-adefbd6b519f",
+  "first_name": "Anna",
+  "last_name": "Dvornikova",
+  "full_name": "Anna Dvornikova",
+  "linkedin_url": "https://linkedin.com/in/annadvornikova",
+  "emails": [
+    {
+      "email": "annadvornikova@J-ANGELS.COM",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anna@gooddler.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "advornikova@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anna@tec.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "advornikova@svod.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "advornikova@ambarclub.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "World Impact Forum"
+}

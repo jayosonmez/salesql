@@ -1,0 +1,23 @@
+{
+  "uuid": "1ef1bd71-e625-47ae-bb1d-3fd626618167",
+  "first_name": "Ye",
+  "last_name": "Fang",
+  "full_name": "Ye Fang",
+  "linkedin_url": "https://linkedin.com/in/ye-fang-5982661",
+  "emails": [
+    {
+      "email": "fangy2@corning.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 607-974-1255",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Corning Incorporated"
+}

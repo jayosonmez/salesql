@@ -1,0 +1,34 @@
+{
+  "uuid": "e00b9ced-44ff-43da-ba2f-7cc527140f64",
+  "first_name": "L.D.",
+  "last_name": "Salmanson",
+  "full_name": "L.D. Salmanson",
+  "linkedin_url": "https://linkedin.com/in/ldsalmanson",
+  "emails": [
+    {
+      "email": "lsal@wharton.upenn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ld@cherre.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-940-8351",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 646-504-2244",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cherre"
+}

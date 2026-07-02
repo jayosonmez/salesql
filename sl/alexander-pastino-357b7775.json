@@ -1,0 +1,23 @@
+{
+  "uuid": "c32b8d59-704d-4b07-ae21-766fbe01e765",
+  "first_name": "Alexander",
+  "last_name": "Pastino",
+  "full_name": "Alexander Pastino",
+  "linkedin_url": "https://linkedin.com/in/alexander-pastino-357b7775",
+  "emails": [
+    {
+      "email": "a.pastino@army.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 301-295-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Walter Reed National Military Medical Center"
+}

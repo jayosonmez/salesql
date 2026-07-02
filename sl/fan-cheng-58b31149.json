@@ -1,0 +1,28 @@
+{
+  "uuid": "f04ba3c5-049c-49eb-a3c9-dd7b7e3f2483",
+  "first_name": "Fan",
+  "last_name": "Cheng",
+  "full_name": "Fan Cheng",
+  "linkedin_url": "https://linkedin.com/in/fan-cheng-58b31149",
+  "emails": [
+    {
+      "email": "fancheng@umail.iu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fancheng@usc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 213-740-2311",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Southern California"
+}

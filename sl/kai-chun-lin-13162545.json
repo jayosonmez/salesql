@@ -1,0 +1,28 @@
+{
+  "uuid": "449fdfcb-73e7-4675-9185-70d859fcd18b",
+  "first_name": "Kai-Chun",
+  "last_name": "Lin",
+  "full_name": "Kai-Chun Lin",
+  "linkedin_url": "https://linkedin.com/in/kai-chun-lin-13162545",
+  "emails": [
+    {
+      "email": "kai-chun.lin@utdallas.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kaichun.lin@asu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 972-883-2111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The University of Texas at Dallas"
+}

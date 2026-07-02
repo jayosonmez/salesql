@@ -1,0 +1,36 @@
+{
+  "uuid": "60f42cee-3a82-4dce-8067-a7805a3aa178",
+  "first_name": "Peter",
+  "last_name": "Xu",
+  "full_name": "Peter Xu",
+  "linkedin_url": "https://linkedin.com/in/peter-xu",
+  "emails": [
+    {
+      "email": "peter@elysium.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "p_xu@flo.health",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "p.xu@prisma-ai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pxu@grubmarket.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter.xu@fiscalnote.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Elysium Venture Capital"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "0ebde820-11c5-4e66-9a6b-ba28439c8610",
+  "first_name": "Jeffrey",
+  "last_name": "Feiler",
+  "full_name": "Jeffrey Feiler",
+  "linkedin_url": "https://linkedin.com/in/jeffrey-feiler-30854230",
+  "emails": [
+    {
+      "email": "drfeilerdc@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jeffreyf@marketamerica.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Jeffrey Feiler DC PA"
+}

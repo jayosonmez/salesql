@@ -1,0 +1,39 @@
+{
+  "uuid": "5c0a5ccf-67be-42fc-ac3e-c6f60c745624",
+  "first_name": "Bryan",
+  "last_name": "Thai",
+  "full_name": "Bryan Thai",
+  "linkedin_url": "https://linkedin.com/in/bryan-thai",
+  "emails": [
+    {
+      "email": "b3thai@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bthai@illumina.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bthai@illumina.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 619-207-7970",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 858-202-4500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Illumina"
+}

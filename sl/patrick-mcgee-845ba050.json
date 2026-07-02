@@ -1,0 +1,23 @@
+{
+  "uuid": "ad70ada2-b24a-4524-984f-1b065eee2a36",
+  "first_name": "Patrick",
+  "last_name": "McGee",
+  "full_name": "Patrick McGee",
+  "linkedin_url": "https://linkedin.com/in/patrick-mcgee-845ba050",
+  "emails": [
+    {
+      "email": "mcgeepatrick@brazosinv.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 214-756-6500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Brazos Private Equity Partners"
+}

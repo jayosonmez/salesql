@@ -1,0 +1,28 @@
+{
+  "uuid": "e720467b-7cc9-4478-bdc0-969b1b67365a",
+  "first_name": "Jonathan",
+  "last_name": "Preminger",
+  "full_name": "Jonathan Preminger",
+  "linkedin_url": "https://linkedin.com/in/jonathan-preminger-953604164",
+  "emails": [
+    {
+      "email": "jonathan.preminger@solomonadmissions.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jpreminger@northwell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-434-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northwell Health"
+}

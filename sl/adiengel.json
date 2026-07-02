@@ -1,0 +1,46 @@
+{
+  "uuid": "c291fe27-90e3-41da-b9c7-6a713c1da44c",
+  "first_name": "Adi",
+  "last_name": "Engel",
+  "full_name": "Adi Engel",
+  "linkedin_url": "https://linkedin.com/in/adiengel",
+  "emails": [
+    {
+      "email": "adi@loyal.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adi@staga.art",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adi.engel@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "adi.engel@nevly.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "adi@frameofmind.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "adi@kionnali.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "adi@activa-impact.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ACTIVA-Impact"
+}

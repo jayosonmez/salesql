@@ -1,0 +1,23 @@
+{
+  "uuid": "50f09b5d-92de-4ea0-80b3-bea04099b5ae",
+  "first_name": "Sankar",
+  "last_name": "Rossetti",
+  "full_name": "Sankar Rossetti",
+  "linkedin_url": "https://linkedin.com/in/sankar-rossetti-62979619b",
+  "emails": [
+    {
+      "email": "sankar.rossetti@bny.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-495-1784",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BNY"
+}

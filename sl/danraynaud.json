@@ -1,0 +1,28 @@
+{
+  "uuid": "484a5168-d745-44d8-aff4-ce83e3928cd8",
+  "first_name": "Daniel",
+  "last_name": "Raynaud",
+  "full_name": "Daniel Raynaud",
+  "linkedin_url": "https://linkedin.com/in/danraynaud",
+  "emails": [
+    {
+      "email": "daniel@jiveworld.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "daniel@sharpninth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-754-4488",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Jiveworld"
+}

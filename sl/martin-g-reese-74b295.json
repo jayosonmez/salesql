@@ -1,0 +1,28 @@
+{
+  "uuid": "fc405918-e13f-4025-9e76-829bf5b143ef",
+  "first_name": "Martin G.",
+  "last_name": "Reese",
+  "full_name": "Martin G. Reese",
+  "linkedin_url": "https://linkedin.com/in/martin-g-reese-74b295",
+  "emails": [
+    {
+      "email": "mreese@omicia.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "martinr@fabricgenomics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-595-0800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fabric Genomics"
+}

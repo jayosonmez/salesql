@@ -1,0 +1,23 @@
+{
+  "uuid": "09f390ad-6aae-4ef4-9fd2-7f7dc32e81b7",
+  "first_name": "Karthika",
+  "last_name": "Sankar",
+  "full_name": "Karthika Sankar",
+  "linkedin_url": "https://linkedin.com/in/karthikasankar",
+  "emails": [
+    {
+      "email": "ksankar@exponent.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-656-3976",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Exponent"
+}

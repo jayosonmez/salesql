@@ -1,0 +1,17 @@
+{
+  "uuid": "e35d343b-d055-489b-807d-e173103ffccc",
+  "first_name": "Adam",
+  "last_name": "Lake MD FAAFP AAHIVS, FASAM, FACMQ",
+  "full_name": "Adam Lake MD FAAFP AAHIVS, FASAM, FACMQ",
+  "linkedin_url": "https://linkedin.com/in/adam-lake-md-faafp-aahivs-fasam-facmq-7429809b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 717-544-5511",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Penn Medicine Lancaster General Health"
+}

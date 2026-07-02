@@ -1,0 +1,58 @@
+{
+  "uuid": "dea81dbf-eac2-46f0-a051-dacd6aca4024",
+  "first_name": "Andy",
+  "last_name": "Brown",
+  "full_name": "Andy Brown",
+  "linkedin_url": "https://linkedin.com/in/andybrown63",
+  "emails": [
+    {
+      "email": "andy@flume.ventures",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "abrown@purestorage.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andybrown63@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "andy@sandhilleast.net",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "andy@cutover.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "andy.brown@moogsoft.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "abrown@zscaler.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "andy@fintechinnovationlab.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 973-323-2680",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sand Hill East"
+}

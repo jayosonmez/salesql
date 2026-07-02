@@ -1,0 +1,16 @@
+{
+  "uuid": "e0f87bf3-467a-42e4-b2e3-bb2eafd6bb04",
+  "first_name": "Michele",
+  "last_name": "Torres",
+  "full_name": "Michele Torres",
+  "linkedin_url": "https://linkedin.com/in/michele-torres-2ba0a56",
+  "emails": [
+    {
+      "email": "torresmichele@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kettering Physician Network"
+}

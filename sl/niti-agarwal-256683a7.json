@@ -1,0 +1,23 @@
+{
+  "uuid": "5b5dd09e-f8cf-49c8-a842-0dd785c5217a",
+  "first_name": "Niti",
+  "last_name": "Agarwal",
+  "full_name": "Niti Agarwal",
+  "linkedin_url": "https://linkedin.com/in/niti-agarwal-256683a7",
+  "emails": [
+    {
+      "email": "nagarwal@chop.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 215-590-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Children's Hospital of Philadelphia"
+}

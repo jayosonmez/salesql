@@ -1,0 +1,36 @@
+{
+  "uuid": "6eb10b54-0298-415e-9d62-c1e3f7dccba7",
+  "first_name": "Roberto",
+  "last_name": "Rodriguez",
+  "full_name": "Roberto Rodriguez",
+  "linkedin_url": "https://linkedin.com/in/robcrodriguez",
+  "emails": [
+    {
+      "email": "roberto@seaeventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robca.rodriguez14@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "roberto@nowvitals.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "roberto@revelaihealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "roberto@sequentialvc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Seae Ventures"
+}

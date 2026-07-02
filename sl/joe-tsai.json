@@ -1,0 +1,51 @@
+{
+  "uuid": "db96a682-a6b6-4a1b-a751-53d621fd9eae",
+  "first_name": "Joe",
+  "last_name": "Tsai",
+  "full_name": "Joe Tsai",
+  "linkedin_url": "https://linkedin.com/in/joe-tsai",
+  "emails": [
+    {
+      "email": "abowtsai22@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joe@stripesgroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joe@pleo.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joet@siftscience.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joe@stripes.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jtsai@cbinsights.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joe@mucker.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joe_tsai@mckinsey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Mucker Capital"
+}

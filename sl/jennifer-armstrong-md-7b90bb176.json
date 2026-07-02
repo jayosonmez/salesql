@@ -1,0 +1,28 @@
+{
+  "uuid": "83e34096-86e2-4a06-9aaa-5a5dea7a304a",
+  "first_name": "Jennifer",
+  "last_name": "Armstrong, MD",
+  "full_name": "Jennifer Armstrong, MD",
+  "linkedin_url": "https://linkedin.com/in/jennifer-armstrong-md-7b90bb176",
+  "emails": [
+    {
+      "email": "jennifer@armstrongmd.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jennifer@ascmedcenter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-706-2887",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ArmstrongMD"
+}

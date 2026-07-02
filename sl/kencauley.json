@@ -1,0 +1,36 @@
+{
+  "uuid": "fc1aac4a-4a96-44ec-9dcc-eeddbb6a0684",
+  "first_name": "Ken",
+  "last_name": "Cauley",
+  "full_name": "Ken Cauley",
+  "linkedin_url": "https://linkedin.com/in/kencauley",
+  "emails": [
+    {
+      "email": "kencauley@advancedmn.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kencauley@konnected.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ken@konnected.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ken.cauley@vista-clinical.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kcauley@solycoadvisors.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Konnected Holdings"
+}

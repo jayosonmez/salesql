@@ -1,0 +1,23 @@
+{
+  "uuid": "e2758d91-72d7-46c4-ae72-37769dc9d074",
+  "first_name": "Brian",
+  "last_name": "Gao",
+  "full_name": "Brian Gao",
+  "linkedin_url": "https://linkedin.com/in/brian-gao-8904b5ab",
+  "emails": [
+    {
+      "email": "brian.gao@justbiotherapeutics.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-651-5094",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Just - Evotec Biologics"
+}

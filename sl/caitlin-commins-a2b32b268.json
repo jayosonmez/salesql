@@ -1,0 +1,23 @@
+{
+  "uuid": "205cf103-16e5-4f4b-bc4a-dc3a062f411c",
+  "first_name": "Caitlin",
+  "last_name": "Commins",
+  "full_name": "Caitlin Commins",
+  "linkedin_url": "https://linkedin.com/in/caitlin-commins-a2b32b268",
+  "emails": [
+    {
+      "email": "caitlin.commins@abbvie.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-454-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AbbVie"
+}

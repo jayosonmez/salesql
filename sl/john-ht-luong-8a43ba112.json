@@ -1,0 +1,28 @@
+{
+  "uuid": "a756bf2e-3e1c-41b5-b1f8-52beb85669c4",
+  "first_name": "John HT",
+  "last_name": "Luong",
+  "full_name": "John HT Luong",
+  "linkedin_url": "https://linkedin.com/in/john-ht-luong-8a43ba112",
+  "emails": [
+    {
+      "email": "htluong@biu.ac.il",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "j.luong@ucc.ie",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+972 3-531-8111",
+      "type": "Work",
+      "country_code": "IL",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University College Cork"
+}

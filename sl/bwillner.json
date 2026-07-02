@@ -1,0 +1,16 @@
+{
+  "uuid": "af8e0233-e609-46c2-8d17-789685284ffb",
+  "first_name": "Bruce",
+  "last_name": "Willner",
+  "full_name": "Bruce Willner",
+  "linkedin_url": "https://linkedin.com/in/bwillner",
+  "emails": [
+    {
+      "email": "bwillner@senops.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Pollux Technologies"
+}

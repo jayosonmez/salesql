@@ -1,0 +1,36 @@
+{
+  "uuid": "368bb361-4499-4e7c-965a-b0258ce1abac",
+  "first_name": "Sam",
+  "last_name": "Lessin",
+  "full_name": "Sam Lessin",
+  "linkedin_url": "https://linkedin.com/in/wlessin",
+  "emails": [
+    {
+      "email": "lessin@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sam@pipeline.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "samlessin@fin.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sam@theinformation.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sam.lessin@slow.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Slow Ventures"
+}

@@ -1,0 +1,22 @@
+{
+  "uuid": "7d1bb506-d339-4a7b-81be-f451c28da112",
+  "first_name": "Michael",
+  "last_name": "Puzrakov",
+  "full_name": "Michael Puzrakov",
+  "linkedin_url": "https://linkedin.com/in/michael-puzrakov",
+  "emails": [
+    {
+      "email": "mpuzrakov@intellias.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+380 322 903 690",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Intellias"
+}

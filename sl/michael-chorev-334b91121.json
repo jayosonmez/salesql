@@ -1,0 +1,23 @@
+{
+  "uuid": "d239cba9-3085-48f3-b694-f1f6b02d4fd0",
+  "first_name": "Michael",
+  "last_name": "Chorev",
+  "full_name": "Michael Chorev",
+  "linkedin_url": "https://linkedin.com/in/michael-chorev-334b91121",
+  "emails": [
+    {
+      "email": "mchorev@mellitusllc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-758-4146",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mellitus, LLC"
+}

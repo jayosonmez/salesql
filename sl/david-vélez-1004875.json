@@ -1,0 +1,27 @@
+{
+  "uuid": "7c5b50b8-928f-4d33-86dd-388b297dba1f",
+  "first_name": "David",
+  "last_name": "Vélez",
+  "full_name": "David Vélez",
+  "linkedin_url": "https://linkedin.com/in/david-vélez-1004875",
+  "emails": [
+    {
+      "email": "david@nubank.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "velez@sequoiacap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 800 591 2117",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Nubank"
+}

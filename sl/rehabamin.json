@@ -1,0 +1,22 @@
+{
+  "uuid": "7f0b434b-0c37-42e6-b84c-3eb2fc6397fe",
+  "first_name": "Rehab",
+  "last_name": "Amin",
+  "full_name": "Rehab Amin",
+  "linkedin_url": "https://linkedin.com/in/rehabamin",
+  "emails": [
+    {
+      "email": "amin@mpg.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 4925 1703650",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Max Planck Institute of Immunobiology and Epigenetics"
+}

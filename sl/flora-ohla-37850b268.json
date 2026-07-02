@@ -1,0 +1,23 @@
+{
+  "uuid": "808fee69-a6d0-450e-8dc2-bd60d1aadf65",
+  "first_name": "Flora",
+  "last_name": "OHLA",
+  "full_name": "Flora OHLA",
+  "linkedin_url": "https://linkedin.com/in/flora-ohla-37850b268",
+  "emails": [
+    {
+      "email": "fohla@linkedin.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-415-8762",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "LinkedIn"
+}

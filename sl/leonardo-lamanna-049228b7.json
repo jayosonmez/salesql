@@ -1,0 +1,28 @@
+{
+  "uuid": "c2b00987-9655-48ee-8c18-46040db4d5ab",
+  "first_name": "Leonardo",
+  "last_name": "Lamanna",
+  "full_name": "Leonardo Lamanna",
+  "linkedin_url": "https://linkedin.com/in/leonardo-lamanna-049228b7",
+  "emails": [
+    {
+      "email": "leonardo.lamanna@unisalento.it",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "leonardo.lamanna@iit.it",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+39 0832 291111",
+      "type": "Work",
+      "country_code": "IT",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Università del Salento"
+}

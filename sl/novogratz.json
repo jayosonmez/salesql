@@ -1,0 +1,38 @@
+{
+  "uuid": "3332d2b8-17d9-403e-811c-0eacd249b296",
+  "first_name": "Mike",
+  "last_name": "Novogratz",
+  "full_name": "Mike Novogratz",
+  "linkedin_url": "https://linkedin.com/in/novogratz",
+  "emails": [
+    {
+      "email": "mike.novogratz@nyulangone.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mnovogratz@fortress.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mnovogratz@btsny.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mike.novogratz@goldmansachs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-390-9194",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Galaxy"
+}

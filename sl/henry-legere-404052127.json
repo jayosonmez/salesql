@@ -1,0 +1,28 @@
+{
+  "uuid": "9452db62-1306-4a80-b6e9-295966059d00",
+  "first_name": "Henry",
+  "last_name": "Legere",
+  "full_name": "Henry Legere",
+  "linkedin_url": "https://linkedin.com/in/henry-legere-404052127",
+  "emails": [
+    {
+      "email": "henry.legere@reliantid.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "henry.legere@reliantid.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-843-0501",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ReliantID"
+}

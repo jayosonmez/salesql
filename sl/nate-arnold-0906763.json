@@ -1,0 +1,23 @@
+{
+  "uuid": "d90a68b6-c782-4f99-b1fe-abade4633df2",
+  "first_name": "Nate",
+  "last_name": "Arnold",
+  "full_name": "Nate Arnold",
+  "linkedin_url": "https://linkedin.com/in/nate-arnold-0906763",
+  "emails": [
+    {
+      "email": "ndarnold@pol.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 616-459-1560",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Nessie Solutions"
+}

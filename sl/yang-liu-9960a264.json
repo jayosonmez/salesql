@@ -1,0 +1,23 @@
+{
+  "uuid": "dc34c2b7-2c31-4a98-b1d6-2a06bfd73d5b",
+  "first_name": "Yang",
+  "last_name": "Liu",
+  "full_name": "Yang Liu",
+  "linkedin_url": "https://linkedin.com/in/yang-liu-9960a264",
+  "emails": [
+    {
+      "email": "yang.liu@yale.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 203-432-4771",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Yale University"
+}

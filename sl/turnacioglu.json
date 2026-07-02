@@ -1,0 +1,33 @@
+{
+  "uuid": "cc10362e-194c-4d43-a82c-641448fec38e",
+  "first_name": "Kenan",
+  "last_name": "Turnacioglu, Ph.D",
+  "full_name": "Kenan Turnacioglu, Ph.D",
+  "linkedin_url": "https://linkedin.com/in/turnacioglu",
+  "emails": [
+    {
+      "email": "kenan.turnacioglu@paige.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kenan.turnacioglu@immunai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kturnacioglu@massivebio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 844-627-7246",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massive Bio"
+}

@@ -1,0 +1,48 @@
+{
+  "uuid": "dba2136c-375a-4eb5-863f-39d05af2ab07",
+  "first_name": "Christopher",
+  "last_name": "Deutsch",
+  "full_name": "Christopher Deutsch",
+  "linkedin_url": "https://linkedin.com/in/cdeutsch",
+  "emails": [
+    {
+      "email": "chris@loftdevelopment.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "chris@c9.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cdeutsch@econclubchi.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christopher@teabot.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cdeutsch@reloshare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "christopher@bridgemoney.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 602-751-8822",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lofty Ventures"
+}

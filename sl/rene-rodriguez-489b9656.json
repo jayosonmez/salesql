@@ -1,0 +1,23 @@
+{
+  "uuid": "c3e89a6e-e822-4fb4-b81a-99478f8185a2",
+  "first_name": "Rene",
+  "last_name": "Rodriguez",
+  "full_name": "Rene Rodriguez",
+  "linkedin_url": "https://linkedin.com/in/rene-rodriguez-489b9656",
+  "emails": [
+    {
+      "email": "rrodriguez@illumina.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-202-4500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Illumina"
+}

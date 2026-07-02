@@ -1,0 +1,36 @@
+{
+  "uuid": "43918b21-a8d6-4f7a-9ed1-7805209d1680",
+  "first_name": "Marcelino",
+  "last_name": "Pantoja",
+  "full_name": "Marcelino Pantoja",
+  "linkedin_url": "https://linkedin.com/in/marcelinopantoja",
+  "emails": [
+    {
+      "email": "marcelino@amity.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "m.p@capitalallocators.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "marcelino@platformstud.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mpantoja@aya.yale.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "marcelino@substack.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Measurement"
+}

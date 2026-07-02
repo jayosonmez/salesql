@@ -1,0 +1,26 @@
+{
+  "uuid": "18321ddd-f075-431c-9441-383b33fe6230",
+  "first_name": "Charles",
+  "last_name": "Gersbach",
+  "full_name": "Charles Gersbach",
+  "linkedin_url": "https://linkedin.com/in/charles-gersbach-b63aa66",
+  "emails": [
+    {
+      "email": "gersbach@scripps.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "charles.gersbach@duke.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "charles.gersbach@tunetx.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Tune Therapeutics"
+}

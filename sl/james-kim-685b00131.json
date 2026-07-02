@@ -1,0 +1,23 @@
+{
+  "uuid": "24028388-2d7b-456d-873f-d06b00bc4719",
+  "first_name": "James",
+  "last_name": "Kim",
+  "full_name": "James Kim",
+  "linkedin_url": "https://linkedin.com/in/james-kim-685b00131",
+  "emails": [
+    {
+      "email": "jkim@saintlukeskc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 816-932-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Saint Luke's"
+}

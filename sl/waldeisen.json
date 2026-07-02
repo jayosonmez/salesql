@@ -1,0 +1,26 @@
+{
+  "uuid": "d511c934-c7c3-427e-acf4-96d3a9a518db",
+  "first_name": "John",
+  "last_name": "Waldeisen",
+  "full_name": "John Waldeisen",
+  "linkedin_url": "https://linkedin.com/in/waldeisen",
+  "emails": [
+    {
+      "email": "waldeisen@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "john@lucirahealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "john@literaseed.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "LiteraSeed"
+}

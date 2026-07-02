@@ -1,0 +1,23 @@
+{
+  "uuid": "2fd22877-3e49-4c03-945a-7a302fcc2e22",
+  "first_name": "Christina",
+  "last_name": "Ternovskaia",
+  "full_name": "Christina Ternovskaia",
+  "linkedin_url": "https://linkedin.com/in/christinaternovskaia",
+  "emails": [
+    {
+      "email": "cternovskaia@mesoscale.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 240-314-2600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MESO SCALE DIAGNOSTICS, LLC."
+}

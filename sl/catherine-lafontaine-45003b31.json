@@ -1,0 +1,28 @@
+{
+  "uuid": "97b74fbf-e02e-4b56-97f4-7e1705d743a7",
+  "first_name": "Catherine",
+  "last_name": "Lafontaine",
+  "full_name": "Catherine Lafontaine",
+  "linkedin_url": "https://linkedin.com/in/catherine-lafontaine-45003b31",
+  "emails": [
+    {
+      "email": "catncol@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "catherine.lafontaine@thermofisher.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-622-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Thermo Fisher Scientific"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "bfc37206-25b5-49dd-8e9f-b0d4eb2dbb6d",
+  "first_name": "Timo",
+  "last_name": "Schlaefer",
+  "full_name": "Timo Schlaefer",
+  "linkedin_url": "https://linkedin.com/in/timoschlaefer",
+  "emails": [
+    {
+      "email": "timo.schlaefer@goldmansachs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "timo@novaprospect.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "timo.schlaefer@web.de",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Nova Prospect"
+}

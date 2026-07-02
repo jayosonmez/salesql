@@ -1,0 +1,28 @@
+{
+  "uuid": "85bb9b19-bdd1-498b-8131-eec889b8a060",
+  "first_name": "Ameya",
+  "last_name": "Kantak",
+  "full_name": "Ameya Kantak",
+  "linkedin_url": "https://linkedin.com/in/ameyakantak",
+  "emails": [
+    {
+      "email": "ameya_kantak@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ameya.kantak@abbvie.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-454-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AbbVie"
+}

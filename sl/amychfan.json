@@ -1,0 +1,41 @@
+{
+  "uuid": "4fbca474-8c11-4e00-aa81-08cc7fa32ba2",
+  "first_name": "Amy",
+  "last_name": "Fan",
+  "full_name": "Amy Fan",
+  "linkedin_url": "https://linkedin.com/in/amychfan",
+  "emails": [
+    {
+      "email": "amychfan@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "amy.c.fan@business.queensu.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "afan@wbl.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amy@predictivevc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amy@twentyeighthealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amy@femalefoundersedge.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Papa"
+}

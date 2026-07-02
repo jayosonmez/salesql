@@ -1,0 +1,51 @@
+{
+  "uuid": "6d261b6f-2bda-40c0-8a1e-2476b063aa7a",
+  "first_name": "Chaim Meir",
+  "last_name": "Tessler",
+  "full_name": "Chaim Meir Tessler",
+  "linkedin_url": "https://linkedin.com/in/cmtessler",
+  "emails": [
+    {
+      "email": "cm@ourcrowd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cmtessler@cmtessler.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "meir_tessler@moodify.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "meir_tessler@sfara.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "meir_tessler@arberobotics.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "meir_tessler@bionautlabs.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "chaim@chabadonthecoast.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chaim.tessler@jumpcloud.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Efron Capital"
+}

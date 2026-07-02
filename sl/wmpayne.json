@@ -1,0 +1,16 @@
+{
+  "uuid": "e7048e43-259f-4ce0-925e-321950bd52c6",
+  "first_name": "Will",
+  "last_name": "Payne",
+  "full_name": "Will Payne",
+  "linkedin_url": "https://linkedin.com/in/wmpayne",
+  "emails": [
+    {
+      "email": "will@simpleagsolutions.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Coastal Low Voltage"
+}

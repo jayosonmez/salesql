@@ -1,0 +1,23 @@
+{
+  "uuid": "67408da5-f01c-47f3-bf16-3fd0cc746fb5",
+  "first_name": "Marcel",
+  "last_name": "Benoit",
+  "full_name": "Marcel Benoit",
+  "linkedin_url": "https://linkedin.com/in/marcel-benoit-29832071",
+  "emails": [
+    {
+      "email": "mbenoit@gramercycardiac.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-475-8066",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "One Brooklyn Health"
+}

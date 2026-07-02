@@ -1,0 +1,36 @@
+{
+  "uuid": "bc6508bf-404f-415e-a1e8-2d78dfa15d21",
+  "first_name": "Andrew",
+  "last_name": "Chan",
+  "full_name": "Andrew Chan",
+  "linkedin_url": "https://linkedin.com/in/chandr3w",
+  "emails": [
+    {
+      "email": "andrew@riot.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amchan@caltech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew@atas.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew@achan.cc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew@lava.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Atas VC"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "6f1103d4-be35-4de4-94e1-7bbfc90d7237",
+  "first_name": "Jose",
+  "last_name": "Reyes-De-Corcuera",
+  "full_name": "Jose Reyes-De-Corcuera",
+  "linkedin_url": "https://linkedin.com/in/jose-reyes-de-corcuera-76098310",
+  "emails": [
+    {
+      "email": "jireyesc@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 352-392-3261",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Florida"
+}

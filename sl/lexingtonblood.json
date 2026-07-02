@@ -1,0 +1,41 @@
+{
+  "uuid": "ce7a8cb0-68b3-4d07-8ba5-f76543a21c45",
+  "first_name": "Lexington T.",
+  "last_name": "Blood",
+  "full_name": "Lexington T. Blood",
+  "linkedin_url": "https://linkedin.com/in/lexingtonblood",
+  "emails": [
+    {
+      "email": "lexington.blood@qassimi.ae",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bloodl@sec.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lxdevelopment@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "lexington@7bc.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lexington@realtimecore.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lexington.blood@raizgen.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hokage Capital Management"
+}

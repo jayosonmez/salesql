@@ -1,0 +1,23 @@
+{
+  "uuid": "683b4069-33a6-4a97-b1bb-7f1aece8eff3",
+  "first_name": "Brandon ",
+  "last_name": "Jolly",
+  "full_name": "Brandon  Jolly",
+  "linkedin_url": "https://linkedin.com/in/brandon-jolly-45a1551aa",
+  "emails": [
+    {
+      "email": "bjolly@ucla.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-825-4321",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UCLA"
+}

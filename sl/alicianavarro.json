@@ -1,0 +1,31 @@
+{
+  "uuid": "a7c78062-25e4-401f-883e-6a674aa2e1de",
+  "first_name": "Alicia",
+  "last_name": "Navarro",
+  "full_name": "Alicia Navarro",
+  "linkedin_url": "https://linkedin.com/in/alicianavarro",
+  "emails": [
+    {
+      "email": "alicia@skimlinks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mail@leithy.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alicia@provenance.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alicia.navarro@flown.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "FLOWN"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "49ffaa07-ec60-432d-8652-0e85ddac3e8d",
+  "first_name": "Nimrod",
+  "last_name": "Lehavi",
+  "full_name": "Nimrod Lehavi",
+  "linkedin_url": "https://linkedin.com/in/nimrodlehavi",
+  "emails": [
+    {
+      "email": "nimrod@lehavi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lehavi Solutions"
+}

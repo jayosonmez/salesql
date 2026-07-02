@@ -1,0 +1,28 @@
+{
+  "uuid": "29153112-394f-4147-8e0d-6bafa52076ea",
+  "first_name": "Luda",
+  "last_name": "Sorin",
+  "full_name": "Luda Sorin",
+  "linkedin_url": "https://linkedin.com/in/luda-sorin",
+  "emails": [
+    {
+      "email": "ludas@corticare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "luda.sorin@eagletelemedicine.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-369-4603",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Eagle Telemedicine"
+}

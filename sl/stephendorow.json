@@ -1,0 +1,16 @@
+{
+  "uuid": "0ae4acc5-8d3d-4986-9f11-aaf8f8ce7b8f",
+  "first_name": "Stephen",
+  "last_name": "Dorow",
+  "full_name": "Stephen Dorow",
+  "linkedin_url": "https://linkedin.com/in/stephendorow",
+  "emails": [
+    {
+      "email": "stephen@spawndesign.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "X, The Moonshot Factory"
+}

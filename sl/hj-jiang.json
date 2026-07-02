@@ -1,0 +1,23 @@
+{
+  "uuid": "54c678ca-78d1-4c6b-a910-9e2d3e5c9e08",
+  "first_name": "Haihui Joy",
+  "last_name": "Jiang, Ph.D.",
+  "full_name": "Haihui Joy Jiang, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/hj-jiang",
+  "emails": [
+    {
+      "email": "haihui.jiang@sydney.edu.au",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+61 2 9351 2222",
+      "type": "Work",
+      "country_code": "AU",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Sydney"
+}

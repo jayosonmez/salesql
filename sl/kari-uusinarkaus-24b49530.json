@@ -1,0 +1,16 @@
+{
+  "uuid": "502baae6-7f80-4aa9-86e6-aa6fac708789",
+  "first_name": "Kari",
+  "last_name": "Uusinarkaus",
+  "full_name": "Kari Uusinarkaus",
+  "linkedin_url": "https://linkedin.com/in/kari-uusinarkaus-24b49530",
+  "emails": [
+    {
+      "email": "kuusinarkaus@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "CommonSpirit Health Medical Group"
+}

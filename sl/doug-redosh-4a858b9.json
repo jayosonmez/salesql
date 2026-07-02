@@ -1,0 +1,16 @@
+{
+  "uuid": "1a437adc-c521-43e4-8ff4-7f12a4a61abf",
+  "first_name": "Doug",
+  "last_name": "Redosh",
+  "full_name": "Doug Redosh",
+  "linkedin_url": "https://linkedin.com/in/doug-redosh-4a858b9",
+  "emails": [
+    {
+      "email": "djredosh1@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "SCL Physicians"
+}

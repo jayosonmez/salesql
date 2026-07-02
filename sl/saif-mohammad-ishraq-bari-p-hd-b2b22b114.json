@@ -1,0 +1,23 @@
+{
+  "uuid": "65e0ce7d-c1f2-4b34-9008-efb94a7c66bf",
+  "first_name": "Saif Mohammad",
+  "last_name": "Ishraq Bari, P.hD.",
+  "full_name": "Saif Mohammad Ishraq Bari, P.hD.",
+  "linkedin_url": "https://linkedin.com/in/saif-mohammad-ishraq-bari-p-hd-b2b22b114",
+  "emails": [
+    {
+      "email": "sishraq@olemiss.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 662-915-7226",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Mississippi"
+}

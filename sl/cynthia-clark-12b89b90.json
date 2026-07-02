@@ -1,0 +1,23 @@
+{
+  "uuid": "e5357d57-238a-44a0-9bb3-d7f4d5224f32",
+  "first_name": "Cynthia",
+  "last_name": "Clark",
+  "full_name": "Cynthia Clark",
+  "linkedin_url": "https://linkedin.com/in/cynthia-clark-12b89b90",
+  "emails": [
+    {
+      "email": "cclark@onemedical.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-578-3100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "One Medical"
+}

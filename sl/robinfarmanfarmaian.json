@@ -1,0 +1,46 @@
+{
+  "uuid": "6526d5e2-41da-4a3f-b7c0-7dad4de8a939",
+  "first_name": "Robin",
+  "last_name": "Farmanfarmaian",
+  "full_name": "Robin Farmanfarmaian",
+  "linkedin_url": "https://linkedin.com/in/robinfarmanfarmaian",
+  "emails": [
+    {
+      "email": "robinf@BigSpeak.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robin@isonohealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robin@speakabout.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robin@companioniq.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robin@kindearth.tech",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "robinsf3@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "robinf@stanford.edu",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "BigSpeak Speakers Bureau"
+}

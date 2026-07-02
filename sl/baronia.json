@@ -1,0 +1,21 @@
+{
+  "uuid": "7f2fac97-ed5a-4c60-99be-0b096f46dfa8",
+  "first_name": "Raj",
+  "last_name": "Baronia",
+  "full_name": "Raj Baronia",
+  "linkedin_url": "https://linkedin.com/in/baronia",
+  "emails": [
+    {
+      "email": "rbaronia@various.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "raj@puremail.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Community of Information Systems Executives (CISE)"
+}

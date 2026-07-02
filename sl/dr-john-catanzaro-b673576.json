@@ -1,0 +1,16 @@
+{
+  "uuid": "1d4fb34a-2991-4115-a585-0da186e7bc23",
+  "first_name": "Dr. John",
+  "last_name": "Catanzaro",
+  "full_name": "Dr. John Catanzaro",
+  "linkedin_url": "https://linkedin.com/in/dr-john-catanzaro-b673576",
+  "emails": [
+    {
+      "email": "drjohn@hwifc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lakeview Family Wellness"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "95d814a6-b0da-4449-8ed9-2bf56188a928",
+  "first_name": "Bill",
+  "last_name": "Wollrab",
+  "full_name": "Bill Wollrab",
+  "linkedin_url": "https://linkedin.com/in/bill-wollrab-b5a49989",
+  "emails": [
+    {
+      "email": "bill@americanlighting.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Karma Connected"
+}

@@ -1,0 +1,22 @@
+{
+  "uuid": "b405c2ef-d052-4427-9c30-1b93c7a27d1f",
+  "first_name": "Jim",
+  "last_name": "Abshire",
+  "full_name": "Jim Abshire",
+  "linkedin_url": "https://linkedin.com/in/jim-abshire",
+  "emails": [
+    {
+      "email": "jim.abshire@gsk.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 8047 5000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GSK"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "c128d6b7-c83f-40b2-a499-44ab5c8c02fc",
+  "first_name": "AJ",
+  "last_name": "Okereke",
+  "full_name": "AJ Okereke",
+  "linkedin_url": "https://linkedin.com/in/aj-okereke",
+  "emails": [
+    {
+      "email": "aj@gpalminvestments.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aj@amity.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aokereke@portageinvest.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aokereke@hcp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aj.okereke@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 416-607-2250",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Portage"
+}

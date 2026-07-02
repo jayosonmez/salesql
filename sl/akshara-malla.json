@@ -1,0 +1,33 @@
+{
+  "uuid": "71c825a2-5f62-475c-9509-23f9683dada9",
+  "first_name": "Akshara",
+  "last_name": "Malla",
+  "full_name": "Akshara Malla",
+  "linkedin_url": "https://linkedin.com/in/akshara-malla",
+  "emails": [
+    {
+      "email": "amalla@arizona.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "akshara.malla@ama-assn.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amalla@azmed.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 602-347-6900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Arizona Medical Association (ArMA)"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "c9149750-5f7c-4b97-9dbc-460ace4f54c6",
+  "first_name": "Chao",
+  "last_name": "Feng",
+  "full_name": "Chao Feng",
+  "linkedin_url": "https://linkedin.com/in/chaofengphd",
+  "emails": [
+    {
+      "email": "feng34@purdue.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 765-494-4600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Purdue University"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "5b706f6b-b274-44a0-9576-6ab4b07a072c",
+  "first_name": "Justin",
+  "last_name": "Miles",
+  "full_name": "Justin Miles",
+  "linkedin_url": "https://linkedin.com/in/justin-miles-231554168",
+  "emails": [
+    {
+      "email": "justin.miles@emerson.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 614-888-0246",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 937-498-3011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 314-553-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Emerson Commercial & Residential Solutions"
+}

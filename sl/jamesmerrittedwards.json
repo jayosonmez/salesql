@@ -1,0 +1,43 @@
+{
+  "uuid": "7fd35094-9447-42fe-9029-fdc410393a17",
+  "first_name": "James",
+  "last_name": "Edwards",
+  "full_name": "James Edwards",
+  "linkedin_url": "https://linkedin.com/in/jamesmerrittedwards",
+  "emails": [
+    {
+      "email": "james.merritt.edwards@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jedwards@unc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jedwards@wakemed.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james@rubiconmd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james@get-carrot.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-350-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "WakeMed"
+}

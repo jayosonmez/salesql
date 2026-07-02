@@ -1,0 +1,28 @@
+{
+  "uuid": "ee8355b7-b493-4cfa-95c0-4227c3169699",
+  "first_name": "Horia",
+  "last_name": "Metiu",
+  "full_name": "Horia Metiu",
+  "linkedin_url": "https://linkedin.com/in/horia-metiu-9b093321",
+  "emails": [
+    {
+      "email": "hmetiu@ucsb.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "metiu@chem.ucsb.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 805-893-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UCSB Department of Chemistry and Biochemistry"
+}

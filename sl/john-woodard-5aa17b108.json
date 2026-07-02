@@ -1,0 +1,27 @@
+{
+  "uuid": "b106c18b-c9b8-4c0b-9023-b1352981c944",
+  "first_name": "John",
+  "last_name": "Woodard",
+  "full_name": "John Woodard",
+  "linkedin_url": "https://linkedin.com/in/john-woodard-5aa17b108",
+  "emails": [
+    {
+      "email": "john.woodard@blackstone.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "w-j@hanoverinvestors.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 7766 8400",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hanover Investors Management"
+}

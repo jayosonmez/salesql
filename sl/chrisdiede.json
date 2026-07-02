@@ -1,0 +1,21 @@
+{
+  "uuid": "947888a4-b1fc-4332-a0ae-9b53c9ab1ded",
+  "first_name": "Chris",
+  "last_name": "Diede",
+  "full_name": "Chris Diede",
+  "linkedin_url": "https://linkedin.com/in/chrisdiede",
+  "emails": [
+    {
+      "email": "chris@piperjames.net",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "chris@mpirica.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Chill-N-Reel"
+}

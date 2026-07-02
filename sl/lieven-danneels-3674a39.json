@@ -1,0 +1,33 @@
+{
+  "uuid": "dae8ee2e-3ed0-4f8b-9f73-ad1ae5398040",
+  "first_name": "Lieven",
+  "last_name": "Danneels",
+  "full_name": "Lieven Danneels",
+  "linkedin_url": "https://linkedin.com/in/lieven-danneels-3674a39",
+  "emails": [
+    {
+      "email": "l.danneels@imec-int.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ld@vario.be",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lieven.danneels@vives.be",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+32 56 26 41 60",
+      "type": "Work",
+      "country_code": "BE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VIVES University of Applied Sciences"
+}

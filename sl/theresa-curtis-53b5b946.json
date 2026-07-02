@@ -1,0 +1,28 @@
+{
+  "uuid": "ba532608-2441-4cfc-a2a2-d7419469094b",
+  "first_name": "Theresa",
+  "last_name": "Curtis",
+  "full_name": "Theresa Curtis",
+  "linkedin_url": "https://linkedin.com/in/theresa-curtis-53b5b946",
+  "emails": [
+    {
+      "email": "theresa.curtis@nyulangone.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "theresa.curtis@cortland.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-263-8990",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NYU Langone Health"
+}

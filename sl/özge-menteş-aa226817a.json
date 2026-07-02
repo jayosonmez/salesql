@@ -1,0 +1,21 @@
+{
+  "uuid": "7278a484-0146-4b68-b16d-ec2f7ffa3687",
+  "first_name": "Özge",
+  "last_name": "Menteş",
+  "full_name": "Özge Menteş",
+  "linkedin_url": "https://linkedin.com/in/özge-menteş-aa226817a",
+  "emails": [
+    {
+      "email": "ozgementes@medicalhair.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ozge.mentes@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dr. Ulusan Clinic - MedicalHair Turkey"
+}

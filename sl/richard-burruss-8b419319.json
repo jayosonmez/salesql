@@ -1,0 +1,16 @@
+{
+  "uuid": "b7be48c0-fd5c-446f-8b8a-f555cbf9361b",
+  "first_name": "Richard",
+  "last_name": "Burruss",
+  "full_name": "Richard Burruss",
+  "linkedin_url": "https://linkedin.com/in/richard-burruss-8b419319",
+  "emails": [
+    {
+      "email": "rpburruss@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Team Health West"
+}

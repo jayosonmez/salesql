@@ -1,0 +1,23 @@
+{
+  "uuid": "7c94c49e-c242-4851-9584-55c939579c32",
+  "first_name": "Fredrick",
+  "last_name": "Hetzel",
+  "full_name": "Fredrick Hetzel",
+  "linkedin_url": "https://linkedin.com/in/fredrick-hetzel-98b11473",
+  "emails": [
+    {
+      "email": "fredrick_hetzel@rush.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-942-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rush University Medical Center"
+}

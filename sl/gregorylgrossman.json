@@ -1,0 +1,48 @@
+{
+  "uuid": "bc9e4419-16d2-4b80-b304-ba401371a396",
+  "first_name": "Greg",
+  "last_name": "Grossman",
+  "full_name": "Greg Grossman",
+  "linkedin_url": "https://linkedin.com/in/gregorylgrossman",
+  "emails": [
+    {
+      "email": "ggrossman@forbes.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "greg@kettlebellkitchen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "greg@kettlebellkitchen.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "greg@vynelife.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "greggrossman@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "greg@oreya.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 609-500-7392",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kettlebell Kitchen"
+}

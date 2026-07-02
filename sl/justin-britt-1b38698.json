@@ -1,0 +1,16 @@
+{
+  "uuid": "d4d6de1c-f8c9-48f8-b7ec-9923034816b2",
+  "first_name": "Justin",
+  "last_name": "Britt",
+  "full_name": "Justin Britt",
+  "linkedin_url": "https://linkedin.com/in/justin-britt-1b38698",
+  "emails": [
+    {
+      "email": "justin@hawaiilife.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lau Pono Co."
+}

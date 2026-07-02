@@ -1,0 +1,22 @@
+{
+  "uuid": "ae98978d-a9af-448c-865a-3f9eda2c06fa",
+  "first_name": "Heather",
+  "last_name": "Gorodess",
+  "full_name": "Heather Gorodess",
+  "linkedin_url": "https://linkedin.com/in/heather-gorodess-2b403b15a",
+  "emails": [
+    {
+      "email": "heather.gorodess@medtronic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+421 2/682 069 11",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Medtronic"
+}

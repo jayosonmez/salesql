@@ -1,0 +1,31 @@
+{
+  "uuid": "eff08e3c-af47-4175-b2ce-73c26b5c2e4a",
+  "first_name": "Carl",
+  "last_name": "Lombardi",
+  "full_name": "Carl Lombardi",
+  "linkedin_url": "https://linkedin.com/in/carl-lombardi-72a9858",
+  "emails": [
+    {
+      "email": "clombardi@telasio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clombardi@cedaron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carl@revelhmi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carl@allianceofangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Telasio, LLC"
+}

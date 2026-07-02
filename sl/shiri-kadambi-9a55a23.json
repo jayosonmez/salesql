@@ -1,0 +1,16 @@
+{
+  "uuid": "ffd13f2d-8afb-43f2-bc41-4209d9f6b578",
+  "first_name": "Shiri",
+  "last_name": "Kadambi",
+  "full_name": "Shiri Kadambi",
+  "linkedin_url": "https://linkedin.com/in/shiri-kadambi-9a55a23",
+  "emails": [
+    {
+      "email": "shiri@kadambis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kadcom"
+}

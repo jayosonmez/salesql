@@ -1,0 +1,17 @@
+{
+  "uuid": "346ee838-1598-4d41-9f80-9e804eadf157",
+  "first_name": "Ashley",
+  "last_name": "Hayes-Taylor",
+  "full_name": "Ashley Hayes-Taylor",
+  "linkedin_url": "https://linkedin.com/in/ashley-hayes-taylor-a9389699",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 301-846-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Frederick National Laboratory for Cancer Research"
+}

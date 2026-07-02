@@ -1,0 +1,46 @@
+{
+  "uuid": "9f2f30a9-3292-4d25-b1bc-337336d2c634",
+  "first_name": "Sharam",
+  "last_name": "Fouladgar-Mercer",
+  "full_name": "Sharam Fouladgar-Mercer",
+  "linkedin_url": "https://linkedin.com/in/sharamfm",
+  "emails": [
+    {
+      "email": "sharam@shasta.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sharamali@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sharamemail@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sharam@correlationvc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sharam@clearbanc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sharam@airpr.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sharam@signos.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Signos"
+}

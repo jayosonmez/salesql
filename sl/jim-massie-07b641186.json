@@ -1,0 +1,16 @@
+{
+  "uuid": "7ab01b8f-cc1a-4870-88d7-b65af57879e8",
+  "first_name": "Jim",
+  "last_name": "Massie",
+  "full_name": "Jim Massie",
+  "linkedin_url": "https://linkedin.com/in/jim-massie-07b641186",
+  "emails": [
+    {
+      "email": "jim@beachyapp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Radiology Alliance Pc"
+}

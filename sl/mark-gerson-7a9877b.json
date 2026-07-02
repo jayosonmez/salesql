@@ -1,0 +1,16 @@
+{
+  "uuid": "b70fcc44-9de8-4a14-b289-95ec450d7cd4",
+  "first_name": "Mark",
+  "last_name": "Gerson",
+  "full_name": "Mark Gerson",
+  "linkedin_url": "https://linkedin.com/in/mark-gerson-7a9877b",
+  "emails": [
+    {
+      "email": "markgerson@mt-stat.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Revolution Property Investments"
+}

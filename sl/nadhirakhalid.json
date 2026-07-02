@@ -1,0 +1,23 @@
+{
+  "uuid": "99ec8831-a892-4d22-be94-c4bff08be322",
+  "first_name": "Michael",
+  "last_name": "Liu",
+  "full_name": "Michael Liu",
+  "linkedin_url": "https://linkedin.com/in/nadhirakhalid",
+  "emails": [
+    {
+      "email": "naaila_mk@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-342-9600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Neuralink"
+}

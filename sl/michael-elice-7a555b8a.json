@@ -1,0 +1,38 @@
+{
+  "uuid": "7b7e2d71-92e0-49b2-89b0-4c650b879e44",
+  "first_name": "Michael",
+  "last_name": "Elice",
+  "full_name": "Michael Elice",
+  "linkedin_url": "https://linkedin.com/in/michael-elice-7a555b8a",
+  "emails": [
+    {
+      "email": "michael.elice@einsteinmed.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "melice@northwell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "melice@northwell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michaelelice@aimintegrativemedicine.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 516-802-5028",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AIM Integrative Medicine"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "b9d851af-fd39-47b7-8caf-c4feea8feb44",
+  "first_name": "Zohaib",
+  "last_name": "Shaikh",
+  "full_name": "Zohaib Shaikh",
+  "linkedin_url": "https://linkedin.com/in/zohaibshaikh",
+  "emails": [
+    {
+      "email": "s.zohaib@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-962-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Weill Cornell Medicine"
+}

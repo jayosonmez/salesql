@@ -1,0 +1,21 @@
+{
+  "uuid": "c5d1215c-6097-437f-835b-dbc4e6194cc2",
+  "first_name": "Rudolf",
+  "last_name": "Medicus",
+  "full_name": "Rudolf Medicus",
+  "linkedin_url": "https://linkedin.com/in/rudolfmedicus",
+  "emails": [
+    {
+      "email": "rudolfmedicus@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rmedicus@sabiosciences.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "SABiosciences"
+}

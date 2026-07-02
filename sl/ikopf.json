@@ -1,0 +1,38 @@
+{
+  "uuid": "924b8c32-9a45-4777-8c55-7eb1a719dc6f",
+  "first_name": "Ilona",
+  "last_name": "Kopf, PhD",
+  "full_name": "Ilona Kopf, PhD",
+  "linkedin_url": "https://linkedin.com/in/ikopf",
+  "emails": [
+    {
+      "email": "kopfi@tcd.ie",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ilona.kopf@kit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kopf.ilona@shizuoka.ac.jp",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ilona.kopf@evonik.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 721 6080",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Unimicron Germany GmbH"
+}

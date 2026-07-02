@@ -1,0 +1,23 @@
+{
+  "uuid": "1b858023-af87-42b9-b949-7287760e7528",
+  "first_name": "Li",
+  "last_name": "Sun",
+  "full_name": "Li Sun",
+  "linkedin_url": "https://linkedin.com/in/li-sun-93274353",
+  "emails": [
+    {
+      "email": "lsun@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-253-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts Institute of Technology"
+}

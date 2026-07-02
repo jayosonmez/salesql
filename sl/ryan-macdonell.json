@@ -1,0 +1,23 @@
+{
+  "uuid": "c9103d6c-a99d-4567-a1f6-e9b8ac285ddd",
+  "first_name": "Ryan",
+  "last_name": "MacDonell",
+  "full_name": "Ryan MacDonell",
+  "linkedin_url": "https://linkedin.com/in/ryan-macdonell",
+  "emails": [
+    {
+      "email": "ryan@teamthrows.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-733-6499",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Team Throws"
+}

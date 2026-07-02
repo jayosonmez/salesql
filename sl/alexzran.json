@@ -1,0 +1,21 @@
+{
+  "uuid": "d46687c6-f6ab-4c51-b120-d8b4990a162f",
+  "first_name": "Alex",
+  "last_name": "Ran",
+  "full_name": "Alex Ran",
+  "linkedin_url": "https://linkedin.com/in/alexzran",
+  "emails": [
+    {
+      "email": "alex@sundial.so",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ran@uphonestcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "New Lemon Studio"
+}

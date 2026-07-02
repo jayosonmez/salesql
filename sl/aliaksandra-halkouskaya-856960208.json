@@ -1,0 +1,23 @@
+{
+  "uuid": "50965a30-e8b6-4317-b452-0f9cd3009162",
+  "first_name": "Aliaksandra",
+  "last_name": "Halkouskaya",
+  "full_name": "Aliaksandra Halkouskaya",
+  "linkedin_url": "https://linkedin.com/in/aliaksandra-halkouskaya-856960208",
+  "emails": [
+    {
+      "email": "aliaksandra_halkouskaya@epam.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 267-759-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EPAM Systems"
+}

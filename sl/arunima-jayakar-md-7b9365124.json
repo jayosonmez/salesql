@@ -1,0 +1,23 @@
+{
+  "uuid": "79aa0cb5-2ed2-4dba-874d-8681580c19e6",
+  "first_name": "Arunima",
+  "last_name": "Jayakar MD",
+  "full_name": "Arunima Jayakar MD",
+  "linkedin_url": "https://linkedin.com/in/arunima-jayakar-md-7b9365124",
+  "emails": [
+    {
+      "email": "arunima.jayakar@ascension.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 251-633-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Doctor Robot PLLC"
+}

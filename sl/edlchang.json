@@ -1,0 +1,21 @@
+{
+  "uuid": "550fe4ea-144d-4e44-9c4a-f0af042cd463",
+  "first_name": "Ed L.",
+  "last_name": "Chang",
+  "full_name": "Ed L. Chang",
+  "linkedin_url": "https://linkedin.com/in/edlchang",
+  "emails": [
+    {
+      "email": "edlchang@cox.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "echang@avenumedical.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "San Clemente, CA"
+}

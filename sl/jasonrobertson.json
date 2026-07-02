@@ -1,0 +1,36 @@
+{
+  "uuid": "bc079a42-29a4-47a0-9623-9247ad7e1812",
+  "first_name": "Jason",
+  "last_name": "Robertson",
+  "full_name": "Jason Robertson",
+  "linkedin_url": "https://linkedin.com/in/jasonrobertson",
+  "emails": [
+    {
+      "email": "jas.robertson@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jasonrobertson@discoveryparks.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jrobertson@clarishealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jason@sonicincytes.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jason.robertson@clarius.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Nimbus Synergies"
+}

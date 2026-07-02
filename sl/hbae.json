@@ -1,0 +1,23 @@
+{
+  "uuid": "2af90822-4b0f-44bd-9ab0-e4ed6123b109",
+  "first_name": "Hohan",
+  "last_name": "Bae",
+  "full_name": "Hohan Bae",
+  "linkedin_url": "https://linkedin.com/in/hbae",
+  "emails": [
+    {
+      "email": "hohan.bae@northwestern.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-491-3741",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northwestern University"
+}

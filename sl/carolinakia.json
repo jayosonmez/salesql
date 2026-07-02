@@ -1,0 +1,64 @@
+{
+  "uuid": "b1d5823d-f078-47c7-aba7-f4cd90bb98fb",
+  "first_name": "Carolina Kia",
+  "last_name": "Takada",
+  "full_name": "Carolina Kia Takada",
+  "linkedin_url": "https://linkedin.com/in/carolinakia",
+  "emails": [
+    {
+      "email": "carolinakia@yahoo.com.br",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kia@weme.nu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "carolinakiat@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kia@getbud.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "carolina.takada@startse.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carolinatakada@brq.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carolina.takada@websummit.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "carolina.takada@exame.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 19 99617-0790",
+      "type": "Personal",
+      "country_code": "BR",
+      "is_valid": true
+    },
+    {
+      "phone": "+55 11 2526-0600",
+      "type": "Work",
+      "country_code": "BR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BRQ Digital Solutions"
+}

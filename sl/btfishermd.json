@@ -1,0 +1,21 @@
+{
+  "uuid": "54b83ca3-debe-4245-a17b-173b193ef2fb",
+  "first_name": "Bryan T",
+  "last_name": "Fisher Sr., MD",
+  "full_name": "Bryan T Fisher Sr., MD",
+  "linkedin_url": "https://linkedin.com/in/btfishermd",
+  "emails": [
+    {
+      "email": "bryan.fisher@vanderbilt.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bryan.fisher@cordis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "HCA Healthcare | TriStar Division"
+}

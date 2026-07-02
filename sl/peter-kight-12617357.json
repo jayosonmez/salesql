@@ -1,0 +1,43 @@
+{
+  "uuid": "3ec20e27-8d08-48f0-9125-3e3e0ac34d69",
+  "first_name": "Peter",
+  "last_name": "Kight",
+  "full_name": "Peter Kight",
+  "linkedin_url": "https://linkedin.com/in/peter-kight-12617357",
+  "emails": [
+    {
+      "email": "peter@billgo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter@torbreck.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pkight@kitmanlabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pkight@repay.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peter@bill.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-621-7700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BILL"
+}

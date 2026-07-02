@@ -1,0 +1,16 @@
+{
+  "uuid": "a27f580f-0cf8-4a38-8e6c-bddc83eedf6c",
+  "first_name": "Jason L.",
+  "last_name": "Baptiste",
+  "full_name": "Jason L. Baptiste",
+  "linkedin_url": "https://linkedin.com/in/jasonlbaptiste",
+  "emails": [
+    {
+      "email": "j@jasonlbaptiste.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "CarShots"
+}

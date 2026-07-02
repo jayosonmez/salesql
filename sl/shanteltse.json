@@ -1,0 +1,46 @@
+{
+  "uuid": "39889481-8da2-4fb2-8d5d-6af882bf4672",
+  "first_name": "Shantel",
+  "last_name": "Tse",
+  "full_name": "Shantel Tse",
+  "linkedin_url": "https://linkedin.com/in/shanteltse",
+  "emails": [
+    {
+      "email": "shantel@centerforexpansiveleadership.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shantel@instawork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shantel@vetster.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shantel.tse@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "shantel.tse@voiceflow.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "shanteltse@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "shantel@galvanizer.io",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Center for Expansive Leadership"
+}

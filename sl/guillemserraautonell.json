@@ -1,0 +1,53 @@
+{
+  "uuid": "03582793-8ad5-4f6b-863a-d0775f5d2d0f",
+  "first_name": "Guillem",
+  "last_name": "Serra",
+  "full_name": "Guillem Serra",
+  "linkedin_url": "https://linkedin.com/in/guillemserraautonell",
+  "emails": [
+    {
+      "email": "guillemserra@medipremium.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "guillem.serra@fastercapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "guillem.serra@meetingdoctors.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "guillem.serra@mediquo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yisel@hellomrlead.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "serra.guillem@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "guillem.serra@holaglow.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+34 619 28 78 14",
+      "type": "Personal",
+      "country_code": "ES",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MediQuo"
+}

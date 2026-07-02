@@ -1,0 +1,33 @@
+{
+  "uuid": "0d8ea613-8d8b-47b8-8cfe-5d0a7baf2482",
+  "first_name": "Ai",
+  "last_name": "Lam",
+  "full_name": "Ai Lam",
+  "linkedin_url": "https://linkedin.com/in/ailam",
+  "emails": [
+    {
+      "email": "alam@biolegend.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aithienlam@mail.usf.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alam@biolegend.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-455-9588",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BioLegend"
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "6648e188-3acf-4dbf-a982-cca3d26c6454",
+  "first_name": "Shaquille",
+  "last_name": "O'Neal",
+  "full_name": "Shaquille O'Neal",
+  "linkedin_url": "https://linkedin.com/in/shaquilleoneal",
+  "emails": [
+    {
+      "email": "shaquille@shaqfoundation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shaquille_oneal@papajohns.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shaquille.oneal@reebok.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shaq@shaqinc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 407-351-9335",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Reebok"
+}

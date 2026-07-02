@@ -1,0 +1,16 @@
+{
+  "uuid": "2d07e773-cab1-4221-aa13-7bdebe8a7b1c",
+  "first_name": "Edward G.",
+  "last_name": "Melton, M.D.",
+  "full_name": "Edward G. Melton, M.D.",
+  "linkedin_url": "https://linkedin.com/in/edward-g-melton-m-d-532a3325",
+  "emails": [
+    {
+      "email": "edward@meltonmedical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Melton Health System"
+}

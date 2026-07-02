@@ -1,0 +1,23 @@
+{
+  "uuid": "521ee1a3-0cf4-46b6-83e2-c15f26991083",
+  "first_name": "Xuena",
+  "last_name": "Zhu",
+  "full_name": "Xuena Zhu",
+  "linkedin_url": "https://linkedin.com/in/xuena-zhu-4184bb8a",
+  "emails": [
+    {
+      "email": "xuena.zhu@fiu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 305-348-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Florida International University"
+}

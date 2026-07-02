@@ -1,0 +1,28 @@
+{
+  "uuid": "012cd988-7b37-4543-826c-db4c99aa8554",
+  "first_name": "Michelle",
+  "last_name": "Prentice MD MSc DABFM",
+  "full_name": "Michelle Prentice MD MSc DABFM",
+  "linkedin_url": "https://linkedin.com/in/michelle-prentice-md-msc-dabfm-96521243",
+  "emails": [
+    {
+      "email": "mprentice@froedterthealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mprentice@cphcrn-rcrssp.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 414-805-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Froedtert Health Medical Group"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "49a5710b-36c4-4bcc-810e-5cd77885d429",
+  "first_name": "Rui",
+  "last_name": "Wang",
+  "full_name": "Rui Wang",
+  "linkedin_url": "https://linkedin.com/in/rui-wang-95333873",
+  "emails": [
+    {
+      "email": "rwang@neximmune.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "NexImmune, Inc."
+}

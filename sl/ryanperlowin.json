@@ -1,0 +1,43 @@
+{
+  "uuid": "53de07f8-6739-45af-8ada-617d50a6343f",
+  "first_name": "Ryan",
+  "last_name": "Perlowin",
+  "full_name": "Ryan Perlowin",
+  "linkedin_url": "https://linkedin.com/in/ryanperlowin",
+  "emails": [
+    {
+      "email": "ryan@platejoy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryanp@myhappyplates.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryan@techstars.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ryan@earlystagelabs.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rperlowin@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 516-330-9844",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Early Stage Labs"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "2e739121-a9a6-4bc4-8863-683397a336b5",
+  "first_name": "Selda",
+  "last_name": "Kartal",
+  "full_name": "Selda Kartal",
+  "linkedin_url": "https://linkedin.com/in/selda-kartal-59b609a4",
+  "emails": [
+    {
+      "email": "selda.kartal@testinium.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 538 084 35 23",
+      "type": "Personal",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Testinium"
+}

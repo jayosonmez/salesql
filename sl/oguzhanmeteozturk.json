@@ -1,0 +1,26 @@
+{
+  "uuid": "25913955-1c47-42bd-ab82-dc66a1667ec5",
+  "first_name": "Mete Oğuzhan",
+  "last_name": "Öztürk",
+  "full_name": "Mete Oğuzhan Öztürk",
+  "linkedin_url": "https://linkedin.com/in/oguzhanmeteozturk",
+  "emails": [
+    {
+      "email": "metozturk@ku.edu.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "oguzhan@enigma.bio",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mete@enigma.bio",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stroma"
+}

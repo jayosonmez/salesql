@@ -1,0 +1,23 @@
+{
+  "uuid": "afee4eb0-a9fc-4b1b-9ed8-feba8bb485ba",
+  "first_name": "Mark",
+  "last_name": "Holt",
+  "full_name": "Mark Holt",
+  "linkedin_url": "https://linkedin.com/in/mrgh67",
+  "emails": [
+    {
+      "email": "mark@spirehealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-356-3400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Spire by Wellinks"
+}

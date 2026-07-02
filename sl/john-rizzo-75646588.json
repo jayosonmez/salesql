@@ -1,0 +1,16 @@
+{
+  "uuid": "e0609fe1-7399-4f42-bbee-37af0ba9b161",
+  "first_name": "John",
+  "last_name": "Rizzo",
+  "full_name": "John Rizzo",
+  "linkedin_url": "https://linkedin.com/in/john-rizzo-75646588",
+  "emails": [
+    {
+      "email": "john@openai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "OpenAI"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "d67238c7-e20c-4376-b8a1-bfe1278f2c42",
+  "first_name": "Joe",
+  "last_name": "Spivack",
+  "full_name": "Joe Spivack",
+  "linkedin_url": "https://linkedin.com/in/joespivack",
+  "emails": [
+    {
+      "email": "spivack@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joe@365x.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joe@techlaunch.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jspivack@jumpstartnj.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joe@sigmalabs.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 856-813-1440",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "JumpStart NJ Angel Network"
+}

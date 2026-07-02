@@ -1,0 +1,28 @@
+{
+  "uuid": "5e275e3a-2cd8-4b7f-a7b7-bc22c5ebd3f9",
+  "first_name": "Theresa",
+  "last_name": "Broniak, MBA, PMP",
+  "full_name": "Theresa Broniak, MBA, PMP",
+  "linkedin_url": "https://linkedin.com/in/theresa-broniak",
+  "emails": [
+    {
+      "email": "tbroniak@asu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "theresa.broniak@henryford.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 313-874-6188",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Henry Ford Health"
+}

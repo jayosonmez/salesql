@@ -1,0 +1,47 @@
+{
+  "uuid": "9e416fc6-d676-409d-b646-ebcddb60e4b8",
+  "first_name": "Sonia",
+  "last_name": "Hallen",
+  "full_name": "Sonia Hallen",
+  "linkedin_url": "https://linkedin.com/in/soniahallen",
+  "emails": [
+    {
+      "email": "s.hallen@purespringtx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sonia.hallen@eqtgroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sonia.hallen@mail.mcgill.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hallenstein@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "hallen@gildehealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sonia.hallen@hellokaleido.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+31 30 219 2565",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Gilde Healthcare"
+}

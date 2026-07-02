@@ -1,0 +1,43 @@
+{
+  "uuid": "bb588d75-e183-4701-b7fe-912847816d5d",
+  "first_name": "Jonathon",
+  "last_name": "George",
+  "full_name": "Jonathon George",
+  "linkedin_url": "https://linkedin.com/in/jonathongeorge",
+  "emails": [
+    {
+      "email": "jgeorge@wittingtonventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jgeorge@ocaventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jgeorge@mayoclinic.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathon@flarecapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jgeorge@chartis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-607-5060",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Flare Capital Partners"
+}

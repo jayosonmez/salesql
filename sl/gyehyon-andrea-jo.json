@@ -1,0 +1,21 @@
+{
+  "uuid": "b133ad76-1d3b-4ac8-b2a0-dd1c66ecd783",
+  "first_name": "Gyehyon",
+  "last_name": "J.",
+  "full_name": "Gyehyon J.",
+  "linkedin_url": "https://linkedin.com/in/gyehyon-andrea-jo",
+  "emails": [
+    {
+      "email": "gj@ksea.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gyehyon@startupworldcup.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Startup World Cup"
+}

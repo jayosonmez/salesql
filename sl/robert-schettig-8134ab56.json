@@ -1,0 +1,23 @@
+{
+  "uuid": "e412e150-d42c-4186-bb05-6401c16eca40",
+  "first_name": "Robert",
+  "last_name": "Schettig",
+  "full_name": "Robert Schettig",
+  "linkedin_url": "https://linkedin.com/in/robert-schettig-8134ab56",
+  "emails": [
+    {
+      "email": "roberts@envita.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 602-569-4144",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Envita Medical Centers - Cancer and Lyme Disease Facility"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c560977e-879e-4731-b768-a4e57465a9a7",
+  "first_name": "Robin",
+  "last_name": "Renfroe",
+  "full_name": "Robin Renfroe",
+  "linkedin_url": "https://linkedin.com/in/robin-renfroe-8b677675",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 850-473-0100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pensacola Pediatrics"
+}

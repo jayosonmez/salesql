@@ -1,0 +1,43 @@
+{
+  "uuid": "be9119da-576a-40b6-92c3-def4299441ad",
+  "first_name": "Dhruvil",
+  "last_name": "Sanghvi",
+  "full_name": "Dhruvil Sanghvi",
+  "linkedin_url": "https://linkedin.com/in/dhruvilsanghvi",
+  "emails": [
+    {
+      "email": "dhruvil.sanghvi@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dhruvil.sanghvi@loginextsolutions.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dhruvil@mumbaitech.team",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dhruvil@investopad.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dhruvil@actgrants.in",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-894-6225",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "LogiNext"
+}

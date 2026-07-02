@@ -1,0 +1,16 @@
+{
+  "uuid": "9f1ca373-141d-4e12-8568-383893ba56ec",
+  "first_name": "Elise",
+  "last_name": "Villemin",
+  "full_name": "Elise Villemin",
+  "linkedin_url": "https://linkedin.com/in/elise-villemin-9a556a61",
+  "emails": [
+    {
+      "email": "elise.villemin@cea.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "CEA-Irig"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f2892383-6547-4d06-98d1-a63115269a17",
+  "first_name": "tim",
+  "last_name": "moxey",
+  "full_name": "tim moxey",
+  "linkedin_url": "https://linkedin.com/in/tim-moxey-14298",
+  "emails": [
+    {
+      "email": "linkedin@moxey.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tim@austinandkat.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-446-4819",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Austin and Kat"
+}

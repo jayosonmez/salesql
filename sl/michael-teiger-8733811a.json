@@ -1,0 +1,28 @@
+{
+  "uuid": "b6d84610-2f7d-4e00-9054-71c0a57e3fd7",
+  "first_name": "Michael",
+  "last_name": "Teiger",
+  "full_name": "Michael Teiger",
+  "linkedin_url": "https://linkedin.com/in/michael-teiger-8733811a",
+  "emails": [
+    {
+      "email": "mteiger@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "michael.teiger@trinityhealthofne.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 860-972-0990",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hartford HealthCare"
+}

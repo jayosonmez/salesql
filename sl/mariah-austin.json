@@ -1,0 +1,16 @@
+{
+  "uuid": "6ac1f379-1c3b-450d-9b38-f864b3913bcc",
+  "first_name": "Mariah",
+  "last_name": "Austin",
+  "full_name": "Mariah Austin",
+  "linkedin_url": "https://linkedin.com/in/mariah-austin",
+  "emails": [
+    {
+      "email": "mariah@erisyon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Erisyon"
+}

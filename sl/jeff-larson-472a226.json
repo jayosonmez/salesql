@@ -1,0 +1,21 @@
+{
+  "uuid": "b39f0fec-9e1b-4e7e-bd55-37b463cf1f1b",
+  "first_name": "Jeff",
+  "last_name": "Larson",
+  "full_name": "Jeff Larson",
+  "linkedin_url": "https://linkedin.com/in/jeff-larson-472a226",
+  "emails": [
+    {
+      "email": "jeff.larson@cytiva.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "larsonj1@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Cytiva"
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "d9f0522b-ebcf-48b7-9476-95008ba5e2a8",
+  "first_name": "Jana",
+  "last_name": "Messerschmidt",
+  "full_name": "Jana Messerschmidt",
+  "linkedin_url": "https://linkedin.com/in/janamesserschmidt",
+  "emails": [
+    {
+      "email": "jana.messerschmidt@solera.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jana@lsvp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jana@hashtagangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jana@twitter.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "#ANGELS (Hashtag ANGELS)"
+}

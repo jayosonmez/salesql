@@ -1,0 +1,28 @@
+{
+  "uuid": "99dd8e82-4699-4b95-8516-de2a5bedd557",
+  "first_name": "Jesslyn",
+  "last_name": "Janssen",
+  "full_name": "Jesslyn Janssen",
+  "linkedin_url": "https://linkedin.com/in/jesslyn-janssen-132163105",
+  "emails": [
+    {
+      "email": "jjanssen@ochsner.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jesslyn.janssen@ochsner.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 504-842-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ochsner Health"
+}

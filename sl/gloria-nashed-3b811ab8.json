@@ -1,0 +1,23 @@
+{
+  "uuid": "c84768cb-c677-47c9-874d-1dee0c9bafb1",
+  "first_name": "Gloria",
+  "last_name": "Nashed",
+  "full_name": "Gloria Nashed",
+  "linkedin_url": "https://linkedin.com/in/gloria-nashed-3b811ab8",
+  "emails": [
+    {
+      "email": "gloria.nashed@vanderbilt.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 615-322-2145",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vanderbilt University School of Medicine"
+}

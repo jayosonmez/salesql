@@ -1,0 +1,23 @@
+{
+  "uuid": "29e04c03-43c8-4f46-aadc-cd98686525cf",
+  "first_name": "Tom",
+  "last_name": "Mansell",
+  "full_name": "Tom Mansell",
+  "linkedin_url": "https://linkedin.com/in/tom-mansell-60abaa1",
+  "emails": [
+    {
+      "email": "tmansell@iastate.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 515-294-4111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Iowa State University"
+}

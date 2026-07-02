@@ -1,0 +1,51 @@
+{
+  "uuid": "c5c1f3b8-0e2e-4a7e-9b84-2e4d2013ff06",
+  "first_name": "Damien",
+  "last_name": "du Fretay",
+  "full_name": "Damien du Fretay",
+  "linkedin_url": "https://linkedin.com/in/damien-du-fretay-ba23b8143",
+  "emails": [
+    {
+      "email": "damien@ymo.africa",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "damien@almeparis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "damien.du@wimi-teamwork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "damien@caption.market",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "damien@kwit.app",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ddufretay@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "damien_fretay@discurv.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "damien@poiscaille.fr",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Maison Tonka, Koh Samui, Thailande"
+}

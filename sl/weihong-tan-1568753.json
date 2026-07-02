@@ -1,0 +1,23 @@
+{
+  "uuid": "fd002c55-0510-48a9-91c5-6c84d2d8d59a",
+  "first_name": "Weihong",
+  "last_name": "Tan",
+  "full_name": "Weihong Tan",
+  "linkedin_url": "https://linkedin.com/in/weihong-tan-1568753",
+  "emails": [
+    {
+      "email": "tan@chem.ufl.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 352-392-3261",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Florida"
+}

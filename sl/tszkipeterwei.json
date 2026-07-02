@@ -1,0 +1,23 @@
+{
+  "uuid": "ce96dbfc-1fb3-4311-ad0c-75d21c8c1390",
+  "first_name": "Tsz Ki Peter",
+  "last_name": "Wei",
+  "full_name": "Tsz Ki Peter Wei",
+  "linkedin_url": "https://linkedin.com/in/tszkipeterwei",
+  "emails": [
+    {
+      "email": "tsz@zymochem.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 530-220-0541",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ZymoChem"
+}

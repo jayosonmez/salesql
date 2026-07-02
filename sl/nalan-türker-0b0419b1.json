@@ -1,0 +1,22 @@
+{
+  "uuid": "4f9a6adc-86e4-418f-927a-9281cd67fff8",
+  "first_name": "Nalan",
+  "last_name": "Türker",
+  "full_name": "Nalan Türker",
+  "linkedin_url": "https://linkedin.com/in/nalan-türker-0b0419b1",
+  "emails": [
+    {
+      "email": "nalan.turker@tupras.com.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 262 316 30 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tüpraş"
+}

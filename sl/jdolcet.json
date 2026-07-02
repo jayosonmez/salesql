@@ -1,0 +1,53 @@
+{
+  "uuid": "aa9d57fb-6fc1-47d3-b12e-d6a769033fe3",
+  "first_name": "Javier",
+  "last_name": "Dolcet",
+  "full_name": "Javier Dolcet",
+  "linkedin_url": "https://linkedin.com/in/jdolcet",
+  "emails": [
+    {
+      "email": "javier@dawa.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "javidolcet@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "javier@kavehome.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "javier.dolcet@endeavor.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jdolcet@tubotella.mx",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "javierdolcet@fit20.nl",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "javier@thcap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+52 1 55 6785 6699",
+      "type": "Personal",
+      "country_code": "MX",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kave Home"
+}

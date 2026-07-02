@@ -1,0 +1,48 @@
+{
+  "uuid": "7c93661f-f225-4bca-b4ca-42dd91cbc4c2",
+  "first_name": "Alexander",
+  "last_name": "Tsai",
+  "full_name": "Alexander Tsai",
+  "linkedin_url": "https://linkedin.com/in/alexandertsai",
+  "emails": [
+    {
+      "email": "achtsai@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "alexandert@chinahr.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alexander@alibaba.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexander@runway.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexander@ecocart.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexander@drinkbarcode.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 954-986-1329",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Alibaba.com"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "c783ec9d-99a1-472f-94e2-d215e4f7236e",
+  "first_name": "Craig",
+  "last_name": "Nerenberg",
+  "full_name": "Craig Nerenberg",
+  "linkedin_url": "https://linkedin.com/in/craig-nerenberg-8b644950",
+  "emails": [
+    {
+      "email": "cnerenberg@brc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-803-5700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bowery Residents'​ Committee"
+}

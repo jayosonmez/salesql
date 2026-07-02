@@ -1,0 +1,28 @@
+{
+  "uuid": "971eb521-8082-43c4-9d7e-f2d935afe4f7",
+  "first_name": "Sahil",
+  "last_name": "Lavingia",
+  "full_name": "Sahil Lavingia",
+  "linkedin_url": "https://linkedin.com/in/sahillavingia",
+  "emails": [
+    {
+      "email": "sahil.lavingia@irs.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "slavingia@pinterest.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 202-927-3397",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Internal Revenue Service"
+}

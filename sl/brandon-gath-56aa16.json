@@ -1,0 +1,21 @@
+{
+  "uuid": "4ed999bb-b579-4a6b-8ce1-1fac57cc76d3",
+  "first_name": "Brandon",
+  "last_name": "Gath",
+  "full_name": "Brandon Gath",
+  "linkedin_url": "https://linkedin.com/in/brandon-gath-56aa16",
+  "emails": [
+    {
+      "email": "brandon@tritoncapital.xyz",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "brgath@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Triton Capital"
+}

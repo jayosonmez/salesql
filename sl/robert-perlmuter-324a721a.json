@@ -1,0 +1,28 @@
+{
+  "uuid": "3f0455a4-ca05-4159-b8a6-725af559e0d2",
+  "first_name": "Robert",
+  "last_name": "Perlmuter",
+  "full_name": "Robert Perlmuter",
+  "linkedin_url": "https://linkedin.com/in/robert-perlmuter-324a721a",
+  "emails": [
+    {
+      "email": "rperlmuter@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rperlmuter@arkchicago.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-596-8319",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "First Stop Health"
+}

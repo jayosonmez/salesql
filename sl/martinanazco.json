@@ -1,0 +1,16 @@
+{
+  "uuid": "3d3e7bde-23d7-4ec6-a80b-dfd458100e6c",
+  "first_name": "Martin",
+  "last_name": "Añazco",
+  "full_name": "Martin Añazco",
+  "linkedin_url": "https://linkedin.com/in/martinanazco",
+  "emails": [
+    {
+      "email": "martin@atommica.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

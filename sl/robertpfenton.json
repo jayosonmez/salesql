@@ -1,0 +1,28 @@
+{
+  "uuid": "7bf284ec-248d-45a0-8703-01644a2c0c76",
+  "first_name": "Robert",
+  "last_name": "Fenton",
+  "full_name": "Robert Fenton",
+  "linkedin_url": "https://linkedin.com/in/robertpfenton",
+  "emails": [
+    {
+      "email": "robert@everworks.ie",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "robert@qualio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-203-2010",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Qualio"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "5de7cc73-82dc-45c4-98e1-66ec0d3c13c8",
+  "first_name": "Vineet",
+  "last_name": "Agarwal",
+  "full_name": "Vineet Agarwal",
+  "linkedin_url": "https://linkedin.com/in/vineet-agarwal-va",
+  "emails": [
+    {
+      "email": "rajgaria.vineet@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "vineet@superhealth.co.in",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vineet.agarwal@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vineet@getdodge.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vineet@neosapien.xyz",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+91 1800 270 0323",
+      "type": "Work",
+      "country_code": "IN",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Razorpay"
+}

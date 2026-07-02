@@ -1,0 +1,31 @@
+{
+  "uuid": "0e1925ed-f568-40c5-920a-8881e210d815",
+  "first_name": "Clara",
+  "last_name": "Serra",
+  "full_name": "Clara Serra",
+  "linkedin_url": "https://linkedin.com/in/clara-serra-9482754b",
+  "emails": [
+    {
+      "email": "clara.serra@railvision.ca",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clara@oliveltd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clara@firehood.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clara@pempem.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

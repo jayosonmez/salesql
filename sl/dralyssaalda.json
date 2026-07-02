@@ -1,0 +1,23 @@
+{
+  "uuid": "a1009ba6-0ede-4f44-88a4-a228020bf09e",
+  "first_name": "Alyssa Alda",
+  "last_name": "Clements",
+  "full_name": "Alyssa Alda Clements",
+  "linkedin_url": "https://linkedin.com/in/dralyssaalda",
+  "emails": [
+    {
+      "email": "alyssac@pcom.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 215-871-6700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Advanced Chiropractic Assoc."
+}

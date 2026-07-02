@@ -1,0 +1,33 @@
+{
+  "uuid": "a1fb3e1d-aba9-4f8a-ae3d-e7b69fb27856",
+  "first_name": "Sheridan",
+  "last_name": "Hitchens",
+  "full_name": "Sheridan Hitchens",
+  "linkedin_url": "https://linkedin.com/in/sheridanhitchens",
+  "emails": [
+    {
+      "email": "shitchens@kabam.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sheridan@brightstorm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sheridan@hitchens.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 647-493-3241",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Facebook"
+}

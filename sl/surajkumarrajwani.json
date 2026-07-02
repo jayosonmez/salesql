@@ -1,0 +1,33 @@
+{
+  "uuid": "dbf27630-829e-4784-9de5-dd6b3078d5bc",
+  "first_name": "Suraj",
+  "last_name": "Kumar",
+  "full_name": "Suraj Kumar",
+  "linkedin_url": "https://linkedin.com/in/surajkumarrajwani",
+  "emails": [
+    {
+      "email": "surajluke@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "suraj.luke@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "suraj@doublerock.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-463-0632",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DoubleRock"
+}

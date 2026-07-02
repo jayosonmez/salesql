@@ -1,0 +1,28 @@
+{
+  "uuid": "4daf1bac-63cd-4c81-8360-e71f47423bfb",
+  "first_name": "Zhou",
+  "last_name": "Cheng",
+  "full_name": "Zhou Cheng",
+  "linkedin_url": "https://linkedin.com/in/zhou-cheng-john",
+  "emails": [
+    {
+      "email": "johnzhoucheng@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "zhou.cheng@bio-techne.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 612-379-8854",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bio-Techne"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "289a1b99-66ae-4200-9e9b-68652fa216b7",
+  "first_name": "Jake",
+  "last_name": "Jacobson",
+  "full_name": "Jake Jacobson",
+  "linkedin_url": "https://linkedin.com/in/jacobsonjake",
+  "emails": [
+    {
+      "email": "jake@frontlinegaming.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "7027222622",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Precision Chiropractic Care"
+}

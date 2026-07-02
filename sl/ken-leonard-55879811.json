@@ -1,0 +1,38 @@
+{
+  "uuid": "c63a870e-2512-44a7-89a6-49d76a2cb9c0",
+  "first_name": "Ken",
+  "last_name": "Leonard",
+  "full_name": "Ken Leonard",
+  "linkedin_url": "https://linkedin.com/in/ken-leonard-55879811",
+  "emails": [
+    {
+      "email": "ken@kenleonard.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ken@aeaaudio.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ken@nerbio.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ken@joyflips.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-809-3296",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Nerbio"
+}

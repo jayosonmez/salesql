@@ -1,0 +1,16 @@
+{
+  "uuid": "396b582c-ea67-4c0d-89b3-27791d9d2474",
+  "first_name": "Christopher",
+  "last_name": "Yin",
+  "full_name": "Christopher Yin",
+  "linkedin_url": "https://linkedin.com/in/christopherhhyin",
+  "emails": [
+    {
+      "email": "yin@ucsd.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Neurophotometrics (NPM)"
+}

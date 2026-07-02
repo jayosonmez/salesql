@@ -1,0 +1,31 @@
+{
+  "uuid": "f735835f-ebd5-4800-ba37-05cfe021ac30",
+  "first_name": "George",
+  "last_name": "Church",
+  "full_name": "George Church",
+  "linkedin_url": "https://linkedin.com/in/george-church-2b86301",
+  "emails": [
+    {
+      "email": "george.church@egenesisbio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "george.church@dynotx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "george@onegenomics.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gmc@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "One Genomics"
+}

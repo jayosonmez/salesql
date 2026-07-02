@@ -1,0 +1,31 @@
+{
+  "uuid": "1efcacab-74c1-4e3f-b8eb-012225775d4a",
+  "first_name": "Rahul",
+  "last_name": "Sood",
+  "full_name": "Rahul Sood",
+  "linkedin_url": "https://linkedin.com/in/rahulxsood",
+  "emails": [
+    {
+      "email": "e@rahulsood.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "s-r@maingear.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rahul@jaffnastallions.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rsood@vhslab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Irreverent Labs"
+}

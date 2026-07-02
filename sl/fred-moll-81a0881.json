@@ -1,0 +1,28 @@
+{
+  "uuid": "724e1bf5-0909-4cb5-bf25-750a36a9c9ec",
+  "first_name": "Fred",
+  "last_name": "Moll",
+  "full_name": "Fred Moll",
+  "linkedin_url": "https://linkedin.com/in/fred-moll-81a0881",
+  "emails": [
+    {
+      "email": "fmoll@aurishealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "fmoll@hansenmedical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-610-0750",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hansen Medical"
+}

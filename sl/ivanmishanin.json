@@ -1,0 +1,38 @@
+{
+  "uuid": "de1dd74b-812f-4995-8d0d-6072b178a20b",
+  "first_name": "Ivan",
+  "last_name": "Mishanin",
+  "full_name": "Ivan Mishanin",
+  "linkedin_url": "https://linkedin.com/in/ivanmishanin",
+  "emails": [
+    {
+      "email": "im@bright-box.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "imishanin@brightconsult.ru",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "im@brainify.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mishanini@jnjinnovation.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-712-1818",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Brainify.AI"
+}

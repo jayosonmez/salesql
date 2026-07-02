@@ -1,0 +1,17 @@
+{
+  "uuid": "292d51a2-a7ac-460b-ab6f-ba93fef60675",
+  "first_name": "Andy",
+  "last_name": "Halberg",
+  "full_name": "Andy Halberg",
+  "linkedin_url": "https://linkedin.com/in/andy-halberg-11340313a",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 828-705-3049",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mayrx, LLC"
+}

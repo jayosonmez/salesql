@@ -1,0 +1,23 @@
+{
+  "uuid": "feaeb95d-7de6-4757-b8bd-87a2d9dfca4e",
+  "first_name": "Jerome",
+  "last_name": "Barron, D.O.",
+  "full_name": "Jerome Barron, D.O.",
+  "linkedin_url": "https://linkedin.com/in/jerome-barron-d-o-a686401a",
+  "emails": [
+    {
+      "email": "jjbarron@ptd.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 717-544-5511",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Penn Medicine Lancaster General Health"
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "6c177fe4-bef4-4483-b0c0-51a305b95072",
+  "first_name": "Taoufik",
+  "last_name": "L.",
+  "full_name": "Taoufik L.",
+  "linkedin_url": "https://linkedin.com/in/taoufik-l-75640646",
+  "emails": [
+    {
+      "email": "taoufik@lazrak.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "taoufik@olyzon.tv",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "taoufik@adikteev.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "taoufik@k-words.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "2122034837",
+      "type": "Work",
+      "country_code": "FR",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Adikteev"
+}

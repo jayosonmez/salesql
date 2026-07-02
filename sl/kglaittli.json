@@ -1,0 +1,17 @@
+{
+  "uuid": "f302bdf0-a7f8-4b26-aaa7-f37f03ebb5d8",
+  "first_name": "Katherine",
+  "last_name": "Glaittli",
+  "full_name": "Katherine Glaittli",
+  "linkedin_url": "https://linkedin.com/in/kglaittli",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 385-269-0203",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Recursion"
+}

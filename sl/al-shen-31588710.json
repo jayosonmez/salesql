@@ -1,0 +1,21 @@
+{
+  "uuid": "bfee909c-71c2-444e-96af-541718972d5c",
+  "first_name": "Al",
+  "last_name": "Shen",
+  "full_name": "Al Shen",
+  "linkedin_url": "https://linkedin.com/in/al-shen-31588710",
+  "emails": [
+    {
+      "email": "shenal@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ashenmd@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "O’connor Pediatric Urgent Care"
+}

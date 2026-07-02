@@ -1,0 +1,21 @@
+{
+  "uuid": "bdc4268d-36bb-45a8-82ab-21575f0de1c8",
+  "first_name": "Dara",
+  "last_name": "Khosrowshahi",
+  "full_name": "Dara Khosrowshahi",
+  "linkedin_url": "https://linkedin.com/in/dara-khosrowshahi-70949862",
+  "emails": [
+    {
+      "email": "dara.khosrowshahi@iac.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dara_khosrowshahi@uber.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Uber"
+}

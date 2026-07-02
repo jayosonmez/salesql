@@ -1,0 +1,23 @@
+{
+  "uuid": "14a0a6c9-d46a-4add-b24d-c08fb29e370d",
+  "first_name": "Sayeh",
+  "last_name": "Dowlatshahi",
+  "full_name": "Sayeh Dowlatshahi",
+  "linkedin_url": "https://linkedin.com/in/sayeh-dowlatshahi-b7b925114",
+  "emails": [
+    {
+      "email": "sdowlatshahi@purdue.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 765-494-4600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Purdue University"
+}

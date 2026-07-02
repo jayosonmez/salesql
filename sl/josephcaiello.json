@@ -1,0 +1,26 @@
+{
+  "uuid": "e08b606b-822d-4524-874a-780f507cb235",
+  "first_name": "Joe",
+  "last_name": "Caiello",
+  "full_name": "Joe Caiello",
+  "linkedin_url": "https://linkedin.com/in/josephcaiello",
+  "emails": [
+    {
+      "email": "jcaiello@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joe@accoladepartners.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joe.caiello@fingerprintjs.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Fingerprint"
+}

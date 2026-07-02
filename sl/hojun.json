@@ -1,0 +1,43 @@
+{
+  "uuid": "2068f2fa-0388-4607-b4fe-1c3ce913524f",
+  "first_name": "Ho Jun",
+  "last_name": "Yang",
+  "full_name": "Ho Jun Yang",
+  "linkedin_url": "https://linkedin.com/in/hojun",
+  "emails": [
+    {
+      "email": "hyang@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ho@thembafund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ho.yang@feaangels.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ho@inspiredcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hojun5233@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 11 95059-4995",
+      "type": "Personal",
+      "country_code": "BR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cardinal Ventures"
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "d8415048-11b3-427f-99ea-7eed67344601",
+  "first_name": "Daniel",
+  "last_name": "Skavén Ruben",
+  "full_name": "Daniel Skavén Ruben",
+  "linkedin_url": "https://linkedin.com/in/danielskavenruben",
+  "emails": [
+    {
+      "email": "d_skaven@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "daniel_ruben@blumeequity.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel@veat.se",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel@foodfounders.studio",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Solvable Syndicate"
+}

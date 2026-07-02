@@ -1,0 +1,33 @@
+{
+  "uuid": "2a87fe76-11ea-497e-a6a4-88b823cbee04",
+  "first_name": "Lucian",
+  "last_name": "Newman , III",
+  "full_name": "Lucian Newman , III",
+  "linkedin_url": "https://linkedin.com/in/lucian-newman-iii-85687b34",
+  "emails": [
+    {
+      "email": "lucian.newman@nuance.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ln3@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "raptormd388@bellsouth.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-565-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Nuance Communications"
+}

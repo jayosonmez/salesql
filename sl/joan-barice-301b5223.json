@@ -1,0 +1,16 @@
+{
+  "uuid": "100b696a-fa84-420c-8f80-b2ff7583c142",
+  "first_name": "Joan",
+  "last_name": "Barice",
+  "full_name": "Joan Barice",
+  "linkedin_url": "https://linkedin.com/in/joan-barice-301b5223",
+  "emails": [
+    {
+      "email": "jbaricemd@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Limited Private Practice"
+}

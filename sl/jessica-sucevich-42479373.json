@@ -1,0 +1,23 @@
+{
+  "uuid": "cb055b0c-f46f-49f6-9b97-89f78715d45d",
+  "first_name": "Jessica",
+  "last_name": "Sucevich",
+  "full_name": "Jessica Sucevich",
+  "linkedin_url": "https://linkedin.com/in/jessica-sucevich-42479373",
+  "emails": [
+    {
+      "email": "jessica.sucevich@energy.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 806-477-5748",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Naval Nuclear Laboratory (FMP)"
+}

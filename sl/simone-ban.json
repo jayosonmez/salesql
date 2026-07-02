@@ -1,0 +1,21 @@
+{
+  "uuid": "6f9a7494-f387-4a28-8cea-c74f551e03d0",
+  "first_name": "Simone",
+  "last_name": "B.",
+  "full_name": "Simone B.",
+  "linkedin_url": "https://linkedin.com/in/simone-ban",
+  "emails": [
+    {
+      "email": "sbanna92@uga.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sbanna92@uga.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

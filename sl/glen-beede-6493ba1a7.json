@@ -1,0 +1,17 @@
+{
+  "uuid": "5aee5402-bccc-4098-8313-0ee590ee155c",
+  "first_name": "Glen",
+  "last_name": "Beede",
+  "full_name": "Glen Beede",
+  "linkedin_url": "https://linkedin.com/in/glen-beede-6493ba1a7",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 817-377-3668",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Galaxy Venture Properties"
+}

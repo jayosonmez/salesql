@@ -1,0 +1,54 @@
+{
+  "uuid": "1a337fa9-f4a4-49b1-89f8-f6721bab4742",
+  "first_name": "Livio",
+  "last_name": "Valenti",
+  "full_name": "Livio Valenti",
+  "linkedin_url": "https://linkedin.com/in/liviovalenti",
+  "emails": [
+    {
+      "email": "liviofaco@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "lv@atlanticcouncil.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "livio@cambridge-crops.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "valenti-livio@aspeninstitute.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "livio@vaxess.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "livio_valenti@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 857-928-0327",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 614-507-9586",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Terrestrial"
+}

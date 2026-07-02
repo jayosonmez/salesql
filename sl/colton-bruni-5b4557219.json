@@ -1,0 +1,23 @@
+{
+  "uuid": "277aae2d-e2ba-41d7-a308-b043e47a33e9",
+  "first_name": "Colton",
+  "last_name": "Bruni",
+  "full_name": "Colton Bruni",
+  "linkedin_url": "https://linkedin.com/in/colton-bruni-5b4557219",
+  "emails": [
+    {
+      "email": "cbruni@berkeley.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-642-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Berkeley"
+}

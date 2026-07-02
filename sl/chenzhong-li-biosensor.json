@@ -1,0 +1,38 @@
+{
+  "uuid": "7b73afeb-6fa9-40b6-bf2e-8449ece3dd9d",
+  "first_name": "Chenzhong",
+  "last_name": "Li",
+  "full_name": "Chenzhong Li",
+  "linkedin_url": "https://linkedin.com/in/chenzhong-li-biosensor",
+  "emails": [
+    {
+      "email": "chenzhong.li@tulane.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cli@aaas.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "c.li@elsevier.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chenzhong.li@fiu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 504-865-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tulane University"
+}

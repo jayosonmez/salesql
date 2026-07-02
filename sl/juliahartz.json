@@ -1,0 +1,28 @@
+{
+  "uuid": "051b7654-7e76-46a7-ade1-e9bd813b363a",
+  "first_name": "Julia",
+  "last_name": "Hartz",
+  "full_name": "Julia Hartz",
+  "linkedin_url": "https://linkedin.com/in/juliahartz",
+  "emails": [
+    {
+      "email": "h-j@fourseasons.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "h.julia@aspeninstitute.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-275-5200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Four Seasons"
+}

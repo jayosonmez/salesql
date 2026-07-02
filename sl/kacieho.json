@@ -1,0 +1,23 @@
+{
+  "uuid": "158493d7-606e-4c5a-8479-b01d7d40f7a1",
+  "first_name": "Kacie K.H.Y.",
+  "last_name": "Ho",
+  "full_name": "Kacie K.H.Y. Ho",
+  "linkedin_url": "https://linkedin.com/in/kacieho",
+  "emails": [
+    {
+      "email": "kho@hawaii.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 808-956-8111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Hawaii at Manoa"
+}

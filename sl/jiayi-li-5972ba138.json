@@ -1,0 +1,17 @@
+{
+  "uuid": "2f586dd1-ef7a-45cd-8b1f-a459615731a6",
+  "first_name": "Jiayi",
+  "last_name": "Li",
+  "full_name": "Jiayi Li",
+  "linkedin_url": "https://linkedin.com/in/jiayi-li-5972ba138",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 617-353-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Boston University"
+}

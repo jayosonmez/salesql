@@ -1,0 +1,39 @@
+{
+  "uuid": "5a46da69-7014-4958-a23f-038043a3744a",
+  "first_name": "Michael",
+  "last_name": "Daugherty",
+  "full_name": "Michael Daugherty",
+  "linkedin_url": "https://linkedin.com/in/michaeldaugherty1",
+  "emails": [
+    {
+      "email": "michael.daugherty@fisglobal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mdaugherty@moneygram.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michaeldaugherty562@ymail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 210-241-8729",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+91 1800 215 6280",
+      "type": "Work",
+      "country_code": "IN",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FIS"
+}

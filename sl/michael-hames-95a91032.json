@@ -1,0 +1,16 @@
+{
+  "uuid": "826919e1-d09a-4ef9-922e-7b1df32fd741",
+  "first_name": "Michael",
+  "last_name": "Hames",
+  "full_name": "Michael Hames",
+  "linkedin_url": "https://linkedin.com/in/michael-hames-95a91032",
+  "emails": [
+    {
+      "email": "hamesfootclinic@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Redmont Distillery "
+}

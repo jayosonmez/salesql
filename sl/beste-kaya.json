@@ -1,0 +1,23 @@
+{
+  "uuid": "ceb77a4d-6d39-4793-b2bb-a007bad135e9",
+  "first_name": "Beste",
+  "last_name": "Kaya",
+  "full_name": "Beste Kaya",
+  "linkedin_url": "https://linkedin.com/in/beste-kaya",
+  "emails": [
+    {
+      "email": "beste@bilgeadam.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 4443330",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "BilgeAdam Teknoloji"
+}

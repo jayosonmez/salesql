@@ -1,0 +1,21 @@
+{
+  "uuid": "7ac2c212-dacd-4aac-a89e-ccdeba8c7553",
+  "first_name": "Naor",
+  "last_name": "Penso",
+  "full_name": "Naor Penso",
+  "linkedin_url": "https://linkedin.com/in/naorpenso",
+  "emails": [
+    {
+      "email": "naor@grsee.co.il",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "naor@cerebras.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Cerebras"
+}

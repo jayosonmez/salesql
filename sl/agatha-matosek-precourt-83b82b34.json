@@ -1,0 +1,38 @@
+{
+  "uuid": "d2687d50-d169-4f30-ae97-b46b03e80134",
+  "first_name": "Agatha",
+  "last_name": "Matosek Precourt",
+  "full_name": "Agatha Matosek Precourt",
+  "linkedin_url": "https://linkedin.com/in/agatha-matosek-precourt-83b82b34",
+  "emails": [
+    {
+      "email": "agatha@gethashed.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "agatha@ampventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ag_precourt@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "amatosek@stelladot.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-377-4268",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AMP Ventures"
+}

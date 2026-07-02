@@ -1,0 +1,28 @@
+{
+  "uuid": "0c961d3f-8a0c-47d7-8b15-6ccb8821de0e",
+  "first_name": "Steven",
+  "last_name": "C.",
+  "full_name": "Steven C.",
+  "linkedin_url": "https://linkedin.com/in/steven-c-53233212",
+  "emails": [
+    {
+      "email": "sc@nakedmd.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "schao@socaldiagnostics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 949-438-7188",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NakedMD"
+}

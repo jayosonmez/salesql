@@ -1,0 +1,17 @@
+{
+  "uuid": "06f5c6fe-39fc-467c-8dd6-64bcc06306d9",
+  "first_name": "Nicolette",
+  "last_name": "Romo-Zelada",
+  "full_name": "Nicolette Romo-Zelada",
+  "linkedin_url": "https://linkedin.com/in/nicolette-romo-zelada-1126a9209",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 780-496-6955",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "USC iGEM"
+}

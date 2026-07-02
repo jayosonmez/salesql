@@ -1,0 +1,23 @@
+{
+  "uuid": "820d20a0-41dd-4dc0-9f81-c315197acd3f",
+  "first_name": "Jaclyn L.",
+  "last_name": "Chen, M.D.",
+  "full_name": "Jaclyn L. Chen, M.D.",
+  "linkedin_url": "https://linkedin.com/in/jaclynmd",
+  "emails": [
+    {
+      "email": "jlc426@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 607-279-8025",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cornell Alumni"
+}

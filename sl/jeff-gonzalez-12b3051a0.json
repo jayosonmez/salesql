@@ -1,0 +1,16 @@
+{
+  "uuid": "cba83e54-5b3b-4015-9caf-f4d4cdc9016d",
+  "first_name": "Jeff",
+  "last_name": "Gonzalez",
+  "full_name": "Jeff Gonzalez",
+  "linkedin_url": "https://linkedin.com/in/jeff-gonzalez-12b3051a0",
+  "emails": [
+    {
+      "email": "jeff.gonzalez@standardbank.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Standard Bank Group"
+}

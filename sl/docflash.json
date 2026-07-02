@@ -1,0 +1,16 @@
+{
+  "uuid": "77d99431-e232-4cb5-9c06-092b678f9d4b",
+  "first_name": "flash",
+  "last_name": "gordon, md",
+  "full_name": "flash gordon, md",
+  "linkedin_url": "https://linkedin.com/in/docflash",
+  "emails": [
+    {
+      "email": "flash@docflash.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Ross Valley Medical Corporation"
+}

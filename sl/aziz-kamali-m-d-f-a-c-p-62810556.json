@@ -1,0 +1,23 @@
+{
+  "uuid": "fcc25021-ec60-4ae6-b6bb-d973b1df9c5d",
+  "first_name": "Aziz",
+  "last_name": "Kamali, M.D., F.A.C.P.",
+  "full_name": "Aziz Kamali, M.D., F.A.C.P.",
+  "linkedin_url": "https://linkedin.com/in/aziz-kamali-m-d-f-a-c-p-62810556",
+  "emails": [
+    {
+      "email": "akamali@ucdavis.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 530-752-1011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Afghanistan's Health Education and Relief Organization"
+}

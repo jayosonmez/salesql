@@ -1,0 +1,26 @@
+{
+  "uuid": "10b49b18-756c-4fde-8a71-1261094cef67",
+  "first_name": "Harry",
+  "last_name": "McLaverty",
+  "full_name": "Harry McLaverty",
+  "linkedin_url": "https://linkedin.com/in/harrymclaverty",
+  "emails": [
+    {
+      "email": "harry@warwick.tech",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "harry@wearesimplify.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "harry@ourtranscendence.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Inversion Holdings"
+}

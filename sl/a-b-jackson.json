@@ -1,0 +1,23 @@
+{
+  "uuid": "c9633346-654b-4b10-bd96-8330681adc20",
+  "first_name": "Aaron",
+  "last_name": "Jackson",
+  "full_name": "Aaron Jackson",
+  "linkedin_url": "https://linkedin.com/in/a-b-jackson",
+  "emails": [
+    {
+      "email": "aaronjackson@columbia.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-854-1754",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Columbia University"
+}

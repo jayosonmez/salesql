@@ -1,0 +1,23 @@
+{
+  "uuid": "faabc914-e01b-4bee-a3f0-df28e2a54a80",
+  "first_name": "Matthew",
+  "last_name": "Ongaro",
+  "full_name": "Matthew Ongaro",
+  "linkedin_url": "https://linkedin.com/in/matthewfxongaro",
+  "emails": [
+    {
+      "email": "matthew@onehopewine.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-678-2344",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vital Audio Inc"
+}

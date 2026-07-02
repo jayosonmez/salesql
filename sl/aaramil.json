@@ -1,0 +1,23 @@
+{
+  "uuid": "a4bf1088-7bfb-4dbc-9759-d9b84f210a35",
+  "first_name": "Armando",
+  "last_name": "Ramil",
+  "full_name": "Armando Ramil",
+  "linkedin_url": "https://linkedin.com/in/aaramil",
+  "emails": [
+    {
+      "email": "aramil@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-534-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC San Diego Jacobs School of Engineering"
+}

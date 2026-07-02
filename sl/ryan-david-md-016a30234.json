@@ -1,0 +1,23 @@
+{
+  "uuid": "dbe989d3-12ee-4fdb-96e5-d5026c3d625a",
+  "first_name": "Ryan",
+  "last_name": "David, MD",
+  "full_name": "Ryan David, MD",
+  "linkedin_url": "https://linkedin.com/in/ryan-david-md-016a30234",
+  "emails": [
+    {
+      "email": "ryan_md@northsoundem.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 425-259-0212",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "North Sound Emergency Medicine"
+}

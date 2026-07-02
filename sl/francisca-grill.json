@@ -1,0 +1,23 @@
+{
+  "uuid": "609d1943-0fb6-4582-90b4-27752df1442b",
+  "first_name": "Francisca",
+  "last_name": "Grill, PhD",
+  "full_name": "Francisca Grill, PhD",
+  "linkedin_url": "https://linkedin.com/in/francisca-grill",
+  "emails": [
+    {
+      "email": "fgrill@asu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-278-5080",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Arizona State University"
+}

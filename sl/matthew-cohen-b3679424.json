@@ -1,0 +1,43 @@
+{
+  "uuid": "5f65e43f-4125-4913-bc23-5b99e8265712",
+  "first_name": "Matthew",
+  "last_name": "Cohen",
+  "full_name": "Matthew Cohen",
+  "linkedin_url": "https://linkedin.com/in/matthew-cohen-b3679424",
+  "emails": [
+    {
+      "email": "mcohen@immventionthera.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "matthew.e.cohen@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mcohen@osagepartners.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mcohen@oup.vc",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "matthewcohen@cohotx.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 484-434-2255",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Osage University Partners (OUP)"
+}

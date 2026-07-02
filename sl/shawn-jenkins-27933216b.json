@@ -1,0 +1,16 @@
+{
+  "uuid": "d9f89a0a-b3c5-4a3d-81dd-3ed53f1d4ff5",
+  "first_name": "Shawn",
+  "last_name": "Jenkins",
+  "full_name": "Shawn Jenkins",
+  "linkedin_url": "https://linkedin.com/in/shawn-jenkins-27933216b",
+  "emails": [
+    {
+      "email": "shawn.jenkins@3together.us",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "SwellSpace"
+}

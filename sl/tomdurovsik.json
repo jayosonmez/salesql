@@ -1,0 +1,23 @@
+{
+  "uuid": "a4462e14-ea45-4894-86a2-e2ed4cf076cb",
+  "first_name": "Tom",
+  "last_name": "Durovsik",
+  "full_name": "Tom Durovsik",
+  "linkedin_url": "https://linkedin.com/in/tomdurovsik",
+  "emails": [
+    {
+      "email": "tom.durovsik@freedompay.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 610-902-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FreedomPay"
+}

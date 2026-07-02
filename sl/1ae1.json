@@ -1,0 +1,27 @@
+{
+  "uuid": "33373043-0674-4707-bea6-95ea01bf1581",
+  "first_name": "Ali Arda",
+  "last_name": "Ertem",
+  "full_name": "Ali Arda Ertem",
+  "linkedin_url": "https://linkedin.com/in/1ae1",
+  "emails": [
+    {
+      "email": "a.ertem@eib.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+352437982953",
+      "type": "Personal",
+      "is_valid": false
+    },
+    {
+      "phone": "+352 43 791",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "European Investment Bank (EIB)"
+}

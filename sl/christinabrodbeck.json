@@ -1,0 +1,26 @@
+{
+  "uuid": "802aac50-559a-4462-93e3-10cfe45e9a0d",
+  "first_name": "Christina",
+  "last_name": "Brodbeck",
+  "full_name": "Christina Brodbeck",
+  "linkedin_url": "https://linkedin.com/in/christinabrodbeck",
+  "emails": [
+    {
+      "email": "cbrodbeck@cinequest.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cab@theicebreak.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cab@rivetventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Rivet Ventures "
+}

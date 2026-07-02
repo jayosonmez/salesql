@@ -1,0 +1,23 @@
+{
+  "uuid": "ed44a564-58b9-4db3-8b68-3bcf57172aed",
+  "first_name": "Chayapa",
+  "last_name": "Techathuvanan",
+  "full_name": "Chayapa Techathuvanan",
+  "linkedin_url": "https://linkedin.com/in/chayapa-techathuvanan-b8867353",
+  "emails": [
+    {
+      "email": "chayapa@coca-colacompany.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-676-2121",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Coca-Cola Company"
+}

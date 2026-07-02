@@ -1,0 +1,16 @@
+{
+  "uuid": "41f73148-9a3e-465b-ad47-fc1d4711de78",
+  "first_name": "Edie",
+  "last_name": "Messick",
+  "full_name": "Edie Messick",
+  "linkedin_url": "https://linkedin.com/in/edie-messick-833b4211",
+  "emails": [
+    {
+      "email": "ediemessick@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "BlazeStage"
+}

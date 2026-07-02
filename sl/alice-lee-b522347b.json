@@ -1,0 +1,28 @@
+{
+  "uuid": "8a48aea7-0ff9-427a-bfd4-89c80d14e56f",
+  "first_name": "Alice",
+  "last_name": "Lee",
+  "full_name": "Alice Lee",
+  "linkedin_url": "https://linkedin.com/in/alice-lee-b522347b",
+  "emails": [
+    {
+      "email": "lee@uwmedicine.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alice@uwmedicine.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-520-5000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Washington Medical Center"
+}

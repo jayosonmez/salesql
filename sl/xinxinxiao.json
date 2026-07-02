@@ -1,0 +1,16 @@
+{
+  "uuid": "028635d9-8c1a-4ca9-a29c-63e4671c37ee",
+  "first_name": "Xinxin",
+  "last_name": "Xiao",
+  "full_name": "Xinxin Xiao",
+  "linkedin_url": "https://linkedin.com/in/xinxinxiao",
+  "emails": [
+    {
+      "email": "xinxin@aau.dk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "International Society of Electrochemistry"
+}

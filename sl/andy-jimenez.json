@@ -1,0 +1,38 @@
+{
+  "uuid": "3f6fde1c-d8c3-4b92-9277-fc128f985d42",
+  "first_name": "Andy",
+  "last_name": "Jimenez",
+  "full_name": "Andy Jimenez",
+  "linkedin_url": "https://linkedin.com/in/andy-jimenez",
+  "emails": [
+    {
+      "email": "ajimenez@t3xglobal.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ajimenez@hikinexworkforce.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ajimenez@evolvediscovery.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andy@hikinex.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-262-8275",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "HIKINEX"
+}

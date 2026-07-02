@@ -1,0 +1,23 @@
+{
+  "uuid": "0d8beb1c-c337-4215-a0c3-f01be31f4a41",
+  "first_name": "Igor",
+  "last_name": "Marchesini",
+  "full_name": "Igor Marchesini",
+  "linkedin_url": "https://linkedin.com/in/igormarchesini",
+  "emails": [
+    {
+      "email": "igor@ieee.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 11 98186-2025",
+      "type": "Personal",
+      "country_code": "BR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ministério da Fazenda"
+}

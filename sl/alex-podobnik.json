@@ -1,0 +1,23 @@
+{
+  "uuid": "a2d8cf47-a8b8-4351-b335-c34acdeab318",
+  "first_name": "Alex",
+  "last_name": "Podobnik",
+  "full_name": "Alex Podobnik",
+  "linkedin_url": "https://linkedin.com/in/alex-podobnik",
+  "emails": [
+    {
+      "email": "alex@alexpodobnik.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 519-729-4159",
+      "type": "Personal",
+      "country_code": "CA",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "OpsFlow Labs"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "0c3d7abb-befd-4ce1-a22e-ec63c0177834",
+  "first_name": "Christina",
+  "last_name": "LaMontagne",
+  "full_name": "Christina LaMontagne",
+  "linkedin_url": "https://linkedin.com/in/christina-lamontagne-a289152",
+  "emails": [
+    {
+      "email": "christina.lamontagne@nerdwallet.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "christina@firstround.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clamontagne@physicventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Clarity Pediatrics"
+}

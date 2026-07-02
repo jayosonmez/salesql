@@ -1,0 +1,38 @@
+{
+  "uuid": "1a3843e5-f845-4b87-a884-8b2cea86aa99",
+  "first_name": "Justin",
+  "last_name": "Jue",
+  "full_name": "Justin Jue",
+  "linkedin_url": "https://linkedin.com/in/justin-jue-7050015",
+  "emails": [
+    {
+      "email": "justinjue@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "justin@coldwellbankerhomes.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "justin.jue@medtronic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "justin@nufund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-926-5070",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NuFund Venture Group"
+}

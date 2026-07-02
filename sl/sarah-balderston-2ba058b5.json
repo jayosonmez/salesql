@@ -1,0 +1,23 @@
+{
+  "uuid": "54f82e8e-9c38-434e-8fa3-daa449613760",
+  "first_name": "Sarah",
+  "last_name": "Balderston",
+  "full_name": "Sarah Balderston",
+  "linkedin_url": "https://linkedin.com/in/sarah-balderston-2ba058b5",
+  "emails": [
+    {
+      "email": "sbalderston@caltech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 626-395-3500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Caltech"
+}

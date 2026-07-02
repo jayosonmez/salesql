@@ -1,0 +1,23 @@
+{
+  "uuid": "7b6d1515-04c6-4532-befc-d567d0295de8",
+  "first_name": "Carissa",
+  "last_name": "Bond",
+  "full_name": "Carissa Bond",
+  "linkedin_url": "https://linkedin.com/in/carissa-bond-848745233",
+  "emails": [
+    {
+      "email": "cbond@arizona.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 520-621-2211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Arizona"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "91ce3c0d-070a-467c-ae94-4b55b6273315",
+  "first_name": "Kevin",
+  "last_name": "Systrom",
+  "full_name": "Kevin Systrom",
+  "linkedin_url": "https://linkedin.com/in/kevinsystrom",
+  "emails": [
+    {
+      "email": "kevin@instagram.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "k.systrom@instagram.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kevin.systrom@theverge.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Artifact"
+}

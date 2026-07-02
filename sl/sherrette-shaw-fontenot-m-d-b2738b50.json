@@ -1,0 +1,23 @@
+{
+  "uuid": "f090cb2d-1ee2-4676-ab4a-45e4a36e586e",
+  "first_name": "Sherrette",
+  "last_name": "Shaw-Fontenot M.D.",
+  "full_name": "Sherrette Shaw-Fontenot M.D.",
+  "linkedin_url": "https://linkedin.com/in/sherrette-shaw-fontenot-m-d-b2738b50",
+  "emails": [
+    {
+      "email": "sshaw-fontenot@unitedregional.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 940-764-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "S. Shaw Fontenot MD, PA"
+}

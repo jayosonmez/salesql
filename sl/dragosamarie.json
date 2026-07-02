@@ -1,0 +1,28 @@
+{
+  "uuid": "fecbf231-bb19-4b88-be84-2cf163ff4fb6",
+  "first_name": "Dragos",
+  "last_name": "Amarie, PhD",
+  "full_name": "Dragos Amarie, PhD",
+  "linkedin_url": "https://linkedin.com/in/dragosamarie",
+  "emails": [
+    {
+      "email": "damarie@indiana.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "damarie@georgiasouthern.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 912-478-5391",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Georgia Southern University"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "90c79111-dd5b-41ad-b20e-f2bd5d5bb47d",
+  "first_name": "Amie",
+  "last_name": "Meditz",
+  "full_name": "Amie Meditz",
+  "linkedin_url": "https://linkedin.com/in/amie-meditz-b9ab3b15a",
+  "emails": [
+    {
+      "email": "ameditz@bch.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-415-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Boulder Community Health"
+}

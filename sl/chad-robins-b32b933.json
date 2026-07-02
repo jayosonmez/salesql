@@ -1,0 +1,44 @@
+{
+  "uuid": "3d45ba85-a1ac-4d7d-be19-4c2bbd955512",
+  "first_name": "Chad",
+  "last_name": "Robins",
+  "full_name": "Chad Robins",
+  "linkedin_url": "https://linkedin.com/in/chad-robins-b32b933",
+  "emails": [
+    {
+      "email": "chad.robins@headlight.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chad@lifesciencewa.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "crobins@altpep.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "crobins@adaptivebiotech.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-805-0047",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 206-659-0067",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Adaptive Biotechnologies Corp."
+}

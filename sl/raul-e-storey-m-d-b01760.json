@@ -1,0 +1,21 @@
+{
+  "uuid": "12ad3f8b-a59b-46fc-87c0-bf6db18f3dba",
+  "first_name": "Raul E.",
+  "last_name": "Storey M.D.",
+  "full_name": "Raul E. Storey M.D.",
+  "linkedin_url": "https://linkedin.com/in/raul-e-storey-m-d-b01760",
+  "emails": [
+    {
+      "email": "rstorey10@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "raul.storey@ttuhsc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "@goddesssociety"
+}

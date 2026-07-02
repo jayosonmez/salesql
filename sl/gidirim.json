@@ -1,0 +1,64 @@
+{
+  "uuid": "755f2bda-153a-44ec-8bc5-c61ff48d85a6",
+  "first_name": "Vladimir",
+  "last_name": "Gidirim",
+  "full_name": "Vladimir Gidirim",
+  "linkedin_url": "https://linkedin.com/in/gidirim",
+  "emails": [
+    {
+      "email": "vladimir.gidirim@ourcrowd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "v.gidirim@clubchanger.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vladimir@iangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vladimir@startupwiseguys.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vladimir@fundersclub.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vladimir@estban.ee",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vladimir@angellist.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "internationaltax@mail.ru",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+966 59 374 2220",
+      "type": "Personal",
+      "country_code": "SA",
+      "is_valid": true
+    },
+    {
+      "phone": "+966 53 443 2552",
+      "type": "Personal",
+      "country_code": "SA",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Garage Syndicate Management LLC (www.t16e.com)"
+}

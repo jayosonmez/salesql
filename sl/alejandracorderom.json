@@ -1,0 +1,33 @@
+{
+  "uuid": "d8a6e937-cc34-4e32-96b9-fdd7b41c927f",
+  "first_name": "Alejandra",
+  "last_name": "Cordero Morales",
+  "full_name": "Alejandra Cordero Morales",
+  "linkedin_url": "https://linkedin.com/in/alejandracorderom",
+  "emails": [
+    {
+      "email": "acordero@iom.int",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alejandra.cordero@merakiperu.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alejandra@tranvia.tech",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+41 22 717 91 11",
+      "type": "Work",
+      "country_code": "CH",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IOM - UN Migration"
+}

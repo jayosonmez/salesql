@@ -1,0 +1,23 @@
+{
+  "uuid": "ccb99449-3ae2-48f3-bf85-46ca0ee75110",
+  "first_name": "Sheena",
+  "last_name": "Zadeh",
+  "full_name": "Sheena Zadeh",
+  "linkedin_url": "https://linkedin.com/in/sheena-zadeh-49ab79200",
+  "emails": [
+    {
+      "email": "sheena@kosas.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 323-782-9700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kosas"
+}

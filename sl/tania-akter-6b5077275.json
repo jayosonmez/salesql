@@ -1,0 +1,16 @@
+{
+  "uuid": "7c742d79-32a0-4fc8-bbb5-8ff0952c3c1f",
+  "first_name": "Tania",
+  "last_name": "Akter",
+  "full_name": "Tania Akter",
+  "linkedin_url": "https://linkedin.com/in/tania-akter-6b5077275",
+  "emails": [
+    {
+      "email": "takter@synchron.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Synchron"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "0bfae69f-0548-4231-a829-121b1ebce740",
+  "first_name": "Teagan",
+  "last_name": "Adamson",
+  "full_name": "Teagan Adamson",
+  "linkedin_url": "https://linkedin.com/in/tladamson",
+  "emails": [
+    {
+      "email": "teagan@gore.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 410-392-0521",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "W. L. Gore & Associates"
+}

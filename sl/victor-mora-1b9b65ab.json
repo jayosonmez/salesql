@@ -1,0 +1,16 @@
+{
+  "uuid": "7e13a0b4-e583-4f18-80f8-fb936388cfcb",
+  "first_name": "Victor",
+  "last_name": "Mora",
+  "full_name": "Victor Mora",
+  "linkedin_url": "https://linkedin.com/in/victor-mora-1b9b65ab",
+  "emails": [
+    {
+      "email": "vmora@50partners.fr",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

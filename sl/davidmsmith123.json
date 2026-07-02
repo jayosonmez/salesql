@@ -1,0 +1,43 @@
+{
+  "uuid": "e1dfaa49-d7f7-4b07-993e-1bb708ea7131",
+  "first_name": "Dave",
+  "last_name": "Smith",
+  "full_name": "Dave Smith",
+  "linkedin_url": "https://linkedin.com/in/davidmsmith123",
+  "emails": [
+    {
+      "email": "davidmsmith123@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dave.smith@digital.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dsmith@earlymarketpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dave@propellant.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dave@loyal.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-281-0350",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Beacon Angels"
+}

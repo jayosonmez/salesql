@@ -1,0 +1,23 @@
+{
+  "uuid": "001f9a08-3a1d-480f-9af5-e61c4413759b",
+  "first_name": "Peter",
+  "last_name": "Fuller",
+  "full_name": "Peter Fuller",
+  "linkedin_url": "https://linkedin.com/in/peterlfuller",
+  "emails": [
+    {
+      "email": "peter@plfconsulting.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-699-2201",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PLF Consulting, LLC"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "411da530-c5e2-464b-9e6d-43f931644138",
+  "first_name": "Donald",
+  "last_name": "M.",
+  "full_name": "Donald M.",
+  "linkedin_url": "https://linkedin.com/in/donald-m-1a83523a",
+  "emails": [
+    {
+      "email": "djmisqui@kent.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-732-6017",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 617-525-8497",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 617-278-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 978-741-1200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Partners HealthCare"
+}

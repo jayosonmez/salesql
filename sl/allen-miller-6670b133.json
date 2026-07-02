@@ -1,0 +1,43 @@
+{
+  "uuid": "f9357f5c-cd6a-4d58-8a78-d80b1319f7ed",
+  "first_name": "Allen",
+  "last_name": "Miller",
+  "full_name": "Allen Miller",
+  "linkedin_url": "https://linkedin.com/in/allen-miller-6670b133",
+  "emails": [
+    {
+      "email": "allen@spade.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "allen@trytoku.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "allen.miller@bluej.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "allen@oakhcft.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "akm64@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 203-717-1350",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Oak HC/FT"
+}

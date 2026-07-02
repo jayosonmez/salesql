@@ -1,0 +1,33 @@
+{
+  "uuid": "009494a2-f72f-4e4c-92d0-d620df0ba230",
+  "first_name": "Rebecca",
+  "last_name": "Minkoff",
+  "full_name": "Rebecca Minkoff",
+  "linkedin_url": "https://linkedin.com/in/rebeccaminkoff",
+  "emails": [
+    {
+      "email": "rebecca@femalefoundercollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rebecca@rebeccaminkoff.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rminkoff@rebeccaminkoff.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-677-7829",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rebecca Minkoff"
+}

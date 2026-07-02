@@ -1,0 +1,28 @@
+{
+  "uuid": "542c800d-6c0f-472a-9a01-3fcfcf60c4cb",
+  "first_name": "David",
+  "last_name": "Harrington",
+  "full_name": "David Harrington",
+  "linkedin_url": "https://linkedin.com/in/harringtondavid",
+  "emails": [
+    {
+      "email": "harringtondavid@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "davidh@maxbounty.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 613-834-3955",
+      "type": "Work",
+      "country_code": "CA",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MaxBounty"
+}

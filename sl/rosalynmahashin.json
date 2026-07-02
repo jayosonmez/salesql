@@ -1,0 +1,41 @@
+{
+  "uuid": "b9da799c-0032-495d-a99c-304c368773a1",
+  "first_name": "Rosalyn",
+  "last_name": "Mahashin",
+  "full_name": "Rosalyn Mahashin",
+  "linkedin_url": "https://linkedin.com/in/rosalynmahashin",
+  "emails": [
+    {
+      "email": "rosalyn@samasource.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rosalyn@activityhero.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rosalyn@tauventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rosalyn@excelerate.it",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rosalyn@developforgood.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rosalyn@bluestartups.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Resilient Moment"
+}

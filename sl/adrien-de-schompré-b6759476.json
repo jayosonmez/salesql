@@ -1,0 +1,21 @@
+{
+  "uuid": "3f71ec7b-5f65-4625-974a-8409b784550b",
+  "first_name": "Adrien",
+  "last_name": "de Schompré",
+  "full_name": "Adrien de Schompré",
+  "linkedin_url": "https://linkedin.com/in/adrien-de-schompré-b6759476",
+  "emails": [
+    {
+      "email": "aqs@bvalue.be",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "adrien.de@matsuri.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "matsuri"
+}

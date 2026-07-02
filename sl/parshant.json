@@ -1,0 +1,58 @@
+{
+  "uuid": "d86cafb7-478d-491e-90e2-9ed9f3a52514",
+  "first_name": "Parshant",
+  "last_name": "Jain MD MBA",
+  "full_name": "Parshant Jain MD MBA",
+  "linkedin_url": "https://linkedin.com/in/parshant",
+  "emails": [
+    {
+      "email": "pjain@stventureslab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jp@pef.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "parshant@peoplecare.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "parshant@draperuniversity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "parshantjain@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "parshant.jain@medarcus.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "parshant@simplifyreality.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "parshant.jain@couturierow.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-468-6427",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Draper University"
+}

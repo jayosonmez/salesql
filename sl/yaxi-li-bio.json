@@ -1,0 +1,23 @@
+{
+  "uuid": "8c2c3473-057f-4bd9-be81-40e416131591",
+  "first_name": "Yaxi",
+  "last_name": "Li",
+  "full_name": "Yaxi Li",
+  "linkedin_url": "https://linkedin.com/in/yaxi-li-bio",
+  "emails": [
+    {
+      "email": "yli@uh.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 713-743-9550",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Houston"
+}

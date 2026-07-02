@@ -1,0 +1,16 @@
+{
+  "uuid": "c395438d-253c-4081-bf71-1e7fa8fbe969",
+  "first_name": "Peter",
+  "last_name": "Keen",
+  "full_name": "Peter Keen",
+  "linkedin_url": "https://linkedin.com/in/peterkeen1",
+  "emails": [
+    {
+      "email": "peter.keen@dsl.pipex.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "British Patient Capital (Direct Investments)"
+}

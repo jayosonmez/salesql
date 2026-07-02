@@ -1,0 +1,38 @@
+{
+  "uuid": "ccf58ec8-5e1b-4626-ab04-669abc555e18",
+  "first_name": "Michael",
+  "last_name": "Rich",
+  "full_name": "Michael Rich",
+  "linkedin_url": "https://linkedin.com/in/michael-rich-48a323",
+  "emails": [
+    {
+      "email": "michael.rich@childrenshospital.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael_rich@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael_rich@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michael.rich@childrens.harvard.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-524-1718",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard Medical School"
+}

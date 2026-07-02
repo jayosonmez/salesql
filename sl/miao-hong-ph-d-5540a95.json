@@ -1,0 +1,46 @@
+{
+  "uuid": "4fb106b8-bb5b-4b18-8aa7-303bcae2811f",
+  "first_name": "Miao",
+  "last_name": "Hong, Ph.D.",
+  "full_name": "Miao Hong, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/miao-hong-ph-d-5540a95",
+  "emails": [
+    {
+      "email": "miao@insightfinder.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "miao.hong@datavisor.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "miao@openai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "miao_phd@mammothcyber.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mhong@svfcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "miaohong99@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "hongm@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Silicon Valley Future Capital "
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "73f8bf24-d906-4385-87cd-f9f7ec1fafb0",
+  "first_name": "Trevor",
+  "last_name": "McFedries",
+  "full_name": "Trevor McFedries",
+  "linkedin_url": "https://linkedin.com/in/trevor-mcfedries-0a5285a8",
+  "emails": [
+    {
+      "email": "trevor.mcfedries@rhizome.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "trevor_mcfedries@sciarc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "skeet@eatskeet.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Copiapoa Technologies Inc."
+}

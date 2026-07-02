@@ -1,0 +1,26 @@
+{
+  "uuid": "1d63273a-609a-4916-b341-b9c4ac78738a",
+  "first_name": "Luigi",
+  "last_name": "Di Piazza",
+  "full_name": "Luigi Di Piazza",
+  "linkedin_url": "https://linkedin.com/in/lgdipiazza",
+  "emails": [
+    {
+      "email": "luigi@thecritical.tech",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "luigi.di@assaia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "luigi@norahealth.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Critical Tech"
+}

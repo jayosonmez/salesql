@@ -1,0 +1,16 @@
+{
+  "uuid": "ba523ceb-c300-4d25-aab9-a807bcfead9c",
+  "first_name": "Anthony ",
+  "last_name": "Long",
+  "full_name": "Anthony  Long",
+  "linkedin_url": "https://linkedin.com/in/anthony-long-b8102122a",
+  "emails": [
+    {
+      "email": "long_anthony1@protonmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Freelance"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "95475fe5-a23e-4b64-ba80-031983842219",
+  "first_name": "Ken",
+  "last_name": "Sekley",
+  "full_name": "Ken Sekley",
+  "linkedin_url": "https://linkedin.com/in/kensekley",
+  "emails": [
+    {
+      "email": "ksekley@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ken.sekley@patioenclosures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ksekley@southlandloghomes.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 803-407-4650",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Southland Log Homes"
+}

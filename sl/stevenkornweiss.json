@@ -1,0 +1,16 @@
+{
+  "uuid": "640e0ff1-407a-43cb-8965-09ede968fae2",
+  "first_name": "Steven",
+  "last_name": "K.",
+  "full_name": "Steven K.",
+  "linkedin_url": "https://linkedin.com/in/stevenkornweiss",
+  "emails": [
+    {
+      "email": "steven@peterattiamd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Early Medical"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "810e2c92-7848-498c-acd3-fea970d9908f",
+  "first_name": "Karen",
+  "last_name": "Beckman",
+  "full_name": "Karen Beckman",
+  "linkedin_url": "https://linkedin.com/in/karen-beckman-92155331",
+  "emails": [
+    {
+      "email": "kbeckman@riversidectpediatrics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Riverside Pediatrics"
+}

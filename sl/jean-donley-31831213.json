@@ -1,0 +1,26 @@
+{
+  "uuid": "dd0981fd-c792-497d-8c94-8940ff2a5188",
+  "first_name": "Jean",
+  "last_name": "Donley",
+  "full_name": "Jean Donley",
+  "linkedin_url": "https://linkedin.com/in/jean-donley-31831213",
+  "emails": [
+    {
+      "email": "jean.donley@pfizer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jean.donley@biogenidec.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "inmanj@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Phizer Pharmaceuticals Inc"
+}

@@ -1,0 +1,48 @@
+{
+  "uuid": "152cad88-b2f9-4e3c-b383-731a239ed10b",
+  "first_name": "Matthew",
+  "last_name": "McGraw",
+  "full_name": "Matthew McGraw",
+  "linkedin_url": "https://linkedin.com/in/mjm11",
+  "emails": [
+    {
+      "email": "matthew@gener8tor.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "matthew.mcgraw@cornell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "matthew@anthro.ventures",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "matthew.mcgraw@creativedestructionlab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "matt@rocketconsulting.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mjm11@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-518-8003",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Anthropocene Ventures"
+}

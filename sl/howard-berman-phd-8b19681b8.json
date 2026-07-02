@@ -1,0 +1,28 @@
+{
+  "uuid": "7294caaf-b8f6-4a5e-8e78-a68dbed68d8e",
+  "first_name": "Howard",
+  "last_name": "Berman, PhD",
+  "full_name": "Howard Berman, PhD",
+  "linkedin_url": "https://linkedin.com/in/howard-berman-phd-8b19681b8",
+  "emails": [
+    {
+      "email": "howard.berman@realtalifesciences.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "howard@mammogen.bio",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 757-901-0460",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ReAlta Life Sciences"
+}

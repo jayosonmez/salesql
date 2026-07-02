@@ -1,0 +1,28 @@
+{
+  "uuid": "2a5cc624-d96b-41fd-a53c-bbefd323c148",
+  "first_name": "Alessia",
+  "last_name": "Bennet",
+  "full_name": "Alessia Bennet",
+  "linkedin_url": "https://linkedin.com/in/alessia-bennet-55210b200",
+  "emails": [
+    {
+      "email": "alessia@seedinvest.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alessia.bennet@tiscali.it",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 646-291-2161",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SeedInvest"
+}

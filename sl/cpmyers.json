@@ -1,0 +1,36 @@
+{
+  "uuid": "c131235d-2b49-4c61-b1a0-0c652bb6165f",
+  "first_name": "Clint",
+  "last_name": "Myers",
+  "full_name": "Clint Myers",
+  "linkedin_url": "https://linkedin.com/in/cpmyers",
+  "emails": [
+    {
+      "email": "clint.myers@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clint.myers@pwc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cpmyers@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "clint@killbusyseason.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "clint@bluehour.ventures",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Blue Hour Ventures"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "21852916-011e-4e16-a4bf-96786424023f",
+  "first_name": "Asa",
+  "last_name": "Miller",
+  "full_name": "Asa Miller",
+  "linkedin_url": "https://linkedin.com/in/asamiller",
+  "emails": [
+    {
+      "email": "contact@asamiller.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

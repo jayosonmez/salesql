@@ -1,0 +1,16 @@
+{
+  "uuid": "59f84af4-f006-4e7c-a990-1d07b660a3ac",
+  "first_name": "Tom",
+  "last_name": "Bersani",
+  "full_name": "Tom Bersani",
+  "linkedin_url": "https://linkedin.com/in/tom-bersani-bab20140",
+  "emails": [
+    {
+      "email": "tombersani@roadrunner.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Pages Plus"
+}

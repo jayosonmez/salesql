@@ -1,0 +1,42 @@
+{
+  "uuid": "b7ca4da3-5bad-45af-85c6-dad1f5834ddb",
+  "first_name": "Jonathan",
+  "last_name": "Forster",
+  "full_name": "Jonathan Forster",
+  "linkedin_url": "https://linkedin.com/in/jforster",
+  "emails": [
+    {
+      "email": "jonathan.forster@eedi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jforster1978@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jonathan@spotify.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathan@furhatrobotics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonathanf@zoundindustries.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 8638 8489",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "|= Eedi"
+}

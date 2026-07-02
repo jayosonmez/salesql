@@ -1,0 +1,21 @@
+{
+  "uuid": "af222ad6-3c89-49e9-85eb-32b52f70dbc8",
+  "first_name": "Julian",
+  "last_name": "Shapiro",
+  "full_name": "Julian Shapiro",
+  "linkedin_url": "https://linkedin.com/in/julian-shapiro",
+  "emails": [
+    {
+      "email": "julian@demandcurve.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "julian@techcrunch.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Julian Capital"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "263f47dd-767a-4ccb-a19e-8f093775332a",
+  "first_name": "Arie",
+  "last_name": "Shaw, MD, FACOG, MSCP",
+  "full_name": "Arie Shaw, MD, FACOG, MSCP",
+  "linkedin_url": "https://linkedin.com/in/arie-shaw-md-facog-mscp-27732a1a4",
+  "emails": [
+    {
+      "email": "arie@pomelocare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "arie.shaw@teamhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Pomelo Care"
+}

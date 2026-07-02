@@ -1,0 +1,63 @@
+{
+  "uuid": "09a56b50-37d3-4a01-8c34-095dab6295e3",
+  "first_name": "Damien",
+  "last_name": "Benjamin, MD, FACS",
+  "full_name": "Damien Benjamin, MD, FACS",
+  "linkedin_url": "https://linkedin.com/in/dmbenge",
+  "emails": [
+    {
+      "email": "da_benj@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dammaxben@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "da_benj@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dbenjamin@lawchamps.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "damienbenjamin@upike.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "damien@onmogul.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dbenjamin@lecom.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dbenjamin@adena.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "damien@localeur.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 740-779-7500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Adena Health System"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "df614d3e-bee3-4248-8609-b2057b785750",
+  "first_name": "Douglas",
+  "last_name": "Weintraub",
+  "full_name": "Douglas Weintraub",
+  "linkedin_url": "https://linkedin.com/in/douglas-weintraub-4799a75",
+  "emails": [
+    {
+      "email": "dlweintraub@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dweintraub@bouncehub.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "weintraub.d@getfiducius.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "douglas@greenegg.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dweintraub@akronenergyllc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 234-900-5961",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bounce Innovation Hub"
+}

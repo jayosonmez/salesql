@@ -1,0 +1,28 @@
+{
+  "uuid": "c50f30a2-3d1d-4bac-a0bf-5aad6e81771c",
+  "first_name": "Sandy",
+  "last_name": "Wollman",
+  "full_name": "Sandy Wollman",
+  "linkedin_url": "https://linkedin.com/in/sandy-wollman-58163124",
+  "emails": [
+    {
+      "email": "sandy@westchesterangels.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sandy@channelfp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-481-1665",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FillTheRound"
+}

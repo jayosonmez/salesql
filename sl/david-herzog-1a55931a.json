@@ -1,0 +1,16 @@
+{
+  "uuid": "83b2d4b0-5a03-47ca-9b7c-5f36cbb6153b",
+  "first_name": "David",
+  "last_name": "Herzog",
+  "full_name": "David Herzog",
+  "linkedin_url": "https://linkedin.com/in/david-herzog-1a55931a",
+  "emails": [
+    {
+      "email": "dk.herzog@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "DP Herzog Consulting, LLC"
+}

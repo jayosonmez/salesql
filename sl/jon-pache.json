@@ -1,0 +1,17 @@
+{
+  "uuid": "52a33e4a-73f2-48cc-9088-e8df12f36180",
+  "first_name": "Jonathan",
+  "last_name": "Pache",
+  "full_name": "Jonathan Pache",
+  "linkedin_url": "https://linkedin.com/in/jon-pache",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 608-664-9292",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Paradigm"
+}

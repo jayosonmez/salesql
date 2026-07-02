@@ -1,0 +1,23 @@
+{
+  "uuid": "914ed93a-a2d8-45c9-aaf8-cef6a1174deb",
+  "first_name": "Kathryn",
+  "last_name": "Gussman",
+  "full_name": "Kathryn Gussman",
+  "linkedin_url": "https://linkedin.com/in/kathryn-gussman-2647ab125",
+  "emails": [
+    {
+      "email": "kgussman@geisinger.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 570-271-6211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Misericordia University Student Health Center"
+}

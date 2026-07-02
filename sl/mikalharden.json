@@ -1,0 +1,64 @@
+{
+  "uuid": "0ebc75b5-e8fc-4250-95c6-6539a87805ae",
+  "first_name": "Mikal C.",
+  "last_name": "Harden",
+  "full_name": "Mikal C. Harden",
+  "linkedin_url": "https://linkedin.com/in/mikalharden",
+  "emails": [
+    {
+      "email": "mharden@junosearchpartners.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "c_harden@campusphilly.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "c_harden@hrpersonaward.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mikal@juno.capital",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "c_harden@immunogenesis.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mikal@crewsnap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mharden@udel.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mharden@philadelphiapact.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 610-207-4091",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 215-790-3800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Philadelphia Alliance for Capital and Technologies (PACT)"
+}

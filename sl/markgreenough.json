@@ -1,0 +1,34 @@
+{
+  "uuid": "1308fdf7-c41b-4846-9c7a-46107073336d",
+  "first_name": "Mark",
+  "last_name": "Greenough",
+  "full_name": "Mark Greenough",
+  "linkedin_url": "https://linkedin.com/in/markgreenough",
+  "emails": [
+    {
+      "email": "mgreenough@greenoughgroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mark.greenough@sjsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-518-7468",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 408-924-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "San José State University"
+}

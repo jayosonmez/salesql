@@ -1,0 +1,16 @@
+{
+  "uuid": "e61806cf-6120-4d07-8b34-b15acf647e38",
+  "first_name": "Aaron",
+  "last_name": "Coleman",
+  "full_name": "Aaron Coleman",
+  "linkedin_url": "https://linkedin.com/in/aaron-coleman-30690a19b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+91 80010 24565",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cholamandalam Investment and Finance Company Limited"
+}

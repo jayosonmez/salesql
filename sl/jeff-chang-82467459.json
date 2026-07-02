@@ -1,0 +1,21 @@
+{
+  "uuid": "0658542f-726c-431c-8924-3e1b631ef844",
+  "first_name": "Jeff",
+  "last_name": "Chang",
+  "full_name": "Jeff Chang",
+  "linkedin_url": "https://linkedin.com/in/jeff-chang-82467459",
+  "emails": [
+    {
+      "email": "chang@somethingnew.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jeff@whatnot.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Whatnot"
+}

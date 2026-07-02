@@ -1,0 +1,28 @@
+{
+  "uuid": "ba362db6-210d-440d-b2eb-74d3cf12e57e",
+  "first_name": "Rui",
+  "last_name": "Tang",
+  "full_name": "Rui Tang",
+  "linkedin_url": "https://linkedin.com/in/tonytangrui",
+  "emails": [
+    {
+      "email": "rut011@eng.ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rui.tang@nanocellect.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-745-7678",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NanoCellect Biomedical, Inc."
+}

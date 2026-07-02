@@ -1,0 +1,28 @@
+{
+  "uuid": "f705ff95-8bf9-4004-b4eb-5f5cf9e6eb0c",
+  "first_name": "Joshua",
+  "last_name": "King",
+  "full_name": "Joshua King",
+  "linkedin_url": "https://linkedin.com/in/joshua-king-7ba271131",
+  "emails": [
+    {
+      "email": "joshua.king@emcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joshua.king@EmCare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 214-712-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EmCare"
+}

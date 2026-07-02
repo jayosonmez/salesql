@@ -1,0 +1,43 @@
+{
+  "uuid": "ae8d37e4-53e8-40e3-b339-d4a00dfc316b",
+  "first_name": "Anita C",
+  "last_name": "Roberts",
+  "full_name": "Anita C Roberts",
+  "linkedin_url": "https://linkedin.com/in/anitacroberts",
+  "emails": [
+    {
+      "email": "anita@mvmt.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anita.roberts@austintexas.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anitaroberts@kw.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "c_roberts@mademediagroup.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anita@amcpublishing.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-974-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "City of Austin"
+}

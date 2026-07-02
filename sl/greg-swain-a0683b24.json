@@ -1,0 +1,28 @@
+{
+  "uuid": "23843dc6-b2d1-4864-859d-da016af8c9f3",
+  "first_name": "Greg",
+  "last_name": "Swain",
+  "full_name": "Greg Swain",
+  "linkedin_url": "https://linkedin.com/in/greg-swain-a0683b24",
+  "emails": [
+    {
+      "email": "swain@chemistry.msu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "swain@msu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 517-355-1855",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Michigan State University"
+}

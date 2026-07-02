@@ -1,0 +1,23 @@
+{
+  "uuid": "6369e4fa-871f-4cf2-9510-690f7e3fe52b",
+  "first_name": "Juliana",
+  "last_name": "Giarola",
+  "full_name": "Juliana Giarola",
+  "linkedin_url": "https://linkedin.com/in/juliana-giarola",
+  "emails": [
+    {
+      "email": "juliana-g@ciberisciii.es",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+34 911 71 81 19",
+      "type": "Work",
+      "country_code": "ES",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Centro de Investigación Biomédica en Red CIBER"
+}

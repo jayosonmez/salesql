@@ -1,0 +1,17 @@
+{
+  "uuid": "a6e8d94e-f069-41e4-86ae-cf4ca18e21e9",
+  "first_name": "Leslie",
+  "last_name": "Farkas",
+  "full_name": "Leslie Farkas",
+  "linkedin_url": "https://linkedin.com/in/leslie-farkas-70957296",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 661-702-6700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "huMannity Medtec"
+}

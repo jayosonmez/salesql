@@ -1,0 +1,17 @@
+{
+  "uuid": "4439dd05-eb3f-45e8-9eca-b13068362fcc",
+  "first_name": "Raymarcos",
+  "last_name": "Rodriguez",
+  "full_name": "Raymarcos Rodriguez",
+  "linkedin_url": "https://linkedin.com/in/raymarcos-rodriguez-1852a61ab",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 305-243-3234",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Miami Miller School of Medicine"
+}

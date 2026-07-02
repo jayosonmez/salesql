@@ -1,0 +1,16 @@
+{
+  "uuid": "421c7587-e3fb-4ae9-89cf-253112bc986d",
+  "first_name": "Steven",
+  "last_name": "Fastert",
+  "full_name": "Steven Fastert",
+  "linkedin_url": "https://linkedin.com/in/steven-fastert-33674511",
+  "emails": [
+    {
+      "email": "sfastert@salbec.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "mc10, Inc"
+}

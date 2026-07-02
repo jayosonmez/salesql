@@ -1,0 +1,41 @@
+{
+  "uuid": "235ac802-0595-4cbe-aa8e-56eebf74cb09",
+  "first_name": "Alex",
+  "last_name": "Bouaziz",
+  "full_name": "Alex Bouaziz",
+  "linkedin_url": "https://linkedin.com/in/alexbouaziz",
+  "emails": [
+    {
+      "email": "alexnbouaziz@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "alex.bouaziz@letsdeel.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alex@bouazizpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alexandre@prodware.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alex@sarona.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "abouaziz@imperial.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Deel"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "c746f0a0-df43-4d5d-9b49-6fd35574122b",
+  "first_name": "Jeremy",
+  "last_name": "Stoppelman",
+  "full_name": "Jeremy Stoppelman",
+  "linkedin_url": "https://linkedin.com/in/jeremystoppelman",
+  "emails": [
+    {
+      "email": "jeremy@yelp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 719-633-7769",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Yelp"
+}

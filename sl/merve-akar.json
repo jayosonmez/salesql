@@ -1,0 +1,28 @@
+{
+  "uuid": "b57a230f-c9b3-4f6e-ae5f-f3683a3e944c",
+  "first_name": "Merve",
+  "last_name": "Akar Amanmyradova",
+  "full_name": "Merve Akar Amanmyradova",
+  "linkedin_url": "https://linkedin.com/in/merve-akar",
+  "emails": [
+    {
+      "email": "merve.akar@benson-partners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "merve.akar@redbull.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-393-4647",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Red Bull"
+}

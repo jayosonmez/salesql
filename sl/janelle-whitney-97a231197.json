@@ -1,0 +1,28 @@
+{
+  "uuid": "ca107948-a271-45d3-bdc9-ffe9776ddcdf",
+  "first_name": "Janelle",
+  "last_name": "Whitney",
+  "full_name": "Janelle Whitney",
+  "linkedin_url": "https://linkedin.com/in/janelle-whitney-97a231197",
+  "emails": [
+    {
+      "email": "jwhitney@tuftsmedicalcenter.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jwhitney@lchcnet.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-581-3900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lynn Community Health Center"
+}

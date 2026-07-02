@@ -1,0 +1,36 @@
+{
+  "uuid": "25d8ec29-21da-4bcc-8b8c-748a5c216743",
+  "first_name": "Mariliis",
+  "last_name": "Holm",
+  "full_name": "Mariliis Holm",
+  "linkedin_url": "https://linkedin.com/in/mariliisholm",
+  "emails": [
+    {
+      "email": "mariliis_holm@ncbiotech.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mholm@cednc.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mariliis@sustainablefoodventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mariliis.holm@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mariliis@biomeconsortia.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sustainable Food Ventures"
+}

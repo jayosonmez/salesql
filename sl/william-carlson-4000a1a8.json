@@ -1,0 +1,23 @@
+{
+  "uuid": "2c84b4f0-b799-42d0-b966-8b771e5c2d59",
+  "first_name": "William",
+  "last_name": "Carlson",
+  "full_name": "William Carlson",
+  "linkedin_url": "https://linkedin.com/in/william-carlson-4000a1a8",
+  "emails": [
+    {
+      "email": "william.carlson@massgeneral.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-242-1100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Massachusetts General Hospital"
+}

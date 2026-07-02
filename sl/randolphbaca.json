@@ -1,0 +1,23 @@
+{
+  "uuid": "909d216d-1b92-4151-b3fe-e1ab195b44b0",
+  "first_name": "Randolph",
+  "last_name": "Baca (Albuquerque)",
+  "full_name": "Randolph Baca (Albuquerque)",
+  "linkedin_url": "https://linkedin.com/in/randolphbaca",
+  "emails": [
+    {
+      "email": "randolph.baca@lovelace.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-248-0027",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Corizon"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "33a712ae-9e3a-4a9d-998a-0aed3e6ae433",
+  "first_name": "Harry D.",
+  "last_name": "Schneider, MD",
+  "full_name": "Harry D. Schneider, MD",
+  "linkedin_url": "https://linkedin.com/in/harrydschneidermd",
+  "emails": [
+    {
+      "email": "hds7@columbia.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "harry.schneider@yale.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "harry.schneider@yale.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Harry D. Schneider, MD, PC, \t\t\t"
+}

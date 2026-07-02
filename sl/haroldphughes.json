@@ -1,0 +1,46 @@
+{
+  "uuid": "abdba918-d420-403e-88d3-3d03e0e8d66a",
+  "first_name": "Harold",
+  "last_name": "Hughes",
+  "full_name": "Harold Hughes",
+  "linkedin_url": "https://linkedin.com/in/haroldphughes",
+  "emails": [
+    {
+      "email": "harold@divi.fund",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "harold.hughes@scansource.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hh@bandwagonfanclub.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "harold@blackatlabs.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "h-h@brce.shop",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "harold@partakefoods.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "harold@hubble.social",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Divi"
+}

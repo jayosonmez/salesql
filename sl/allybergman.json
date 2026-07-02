@@ -1,0 +1,16 @@
+{
+  "uuid": "c3626629-2b82-4a7f-b517-03f82cfe2bc3",
+  "first_name": "Ally",
+  "last_name": "Bergman",
+  "full_name": "Ally Bergman",
+  "linkedin_url": "https://linkedin.com/in/allybergman",
+  "emails": [
+    {
+      "email": "allybergman@levelupaerospace.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Level Up Aerospace"
+}

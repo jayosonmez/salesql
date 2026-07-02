@@ -1,0 +1,21 @@
+{
+  "uuid": "2745dc11-dbc3-4caa-b2ae-01bb324afb36",
+  "first_name": "Harold",
+  "last_name": "Mechelynck",
+  "full_name": "Harold Mechelynck",
+  "linkedin_url": "https://linkedin.com/in/haroldmechelynck",
+  "emails": [
+    {
+      "email": "hym@belcube.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hym@ogone.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "K2M"
+}

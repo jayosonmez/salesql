@@ -1,0 +1,21 @@
+{
+  "uuid": "452a47ef-7d51-4c78-890d-9c479d7c2ce3",
+  "first_name": "Brian",
+  "last_name": "Shultz",
+  "full_name": "Brian Shultz",
+  "linkedin_url": "https://linkedin.com/in/brianlshultz",
+  "emails": [
+    {
+      "email": "bshultz@hbs.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "brian@susaventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Tango"
+}

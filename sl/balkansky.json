@@ -1,0 +1,53 @@
+{
+  "uuid": "7bedeea9-cac2-48ca-9695-aaedb3d3ec88",
+  "first_name": "Bogomil",
+  "last_name": "Balkansky",
+  "full_name": "Bogomil Balkansky",
+  "linkedin_url": "https://linkedin.com/in/balkansky",
+  "emails": [
+    {
+      "email": "bogomil@pydantic.dev",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bogomil.balkansky@oasis.security",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bogomil@traversal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bogomil@zafran.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bogomil@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "balkansky@sequoiacap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bbalkansky@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-854-3927",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sequoia Capital"
+}

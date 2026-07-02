@@ -1,0 +1,64 @@
+{
+  "uuid": "bb497ff1-ede7-445e-b202-1234103ccf78",
+  "first_name": "Todd",
+  "last_name": "Schwarzinger",
+  "full_name": "Todd Schwarzinger",
+  "linkedin_url": "https://linkedin.com/in/toddschwarzinger",
+  "emails": [
+    {
+      "email": "todd@refinery.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "todd.schwarzinger@googlemail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "todd.schwarzinger@centerlinebiomedical.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tschwarzinger@clevelandclinic.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "todd@dyaniahealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "todd@ayblehealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "todd@sportsdatalabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "todd.schwarzinger@1mplatform.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 330-701-7433",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 216-444-2200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cleveland Clinic"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "953ebce5-bdaa-4f53-8f83-58bfd03b068c",
+  "first_name": "Steve",
+  "last_name": "Aoki",
+  "full_name": "Steve Aoki",
+  "linkedin_url": "https://linkedin.com/in/steveaoki",
+  "emails": [
+    {
+      "email": "steve@dimmak.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 323-660-3096",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Dim Mak"
+}

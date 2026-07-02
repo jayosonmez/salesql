@@ -1,0 +1,28 @@
+{
+  "uuid": "3ddf6df4-cf0a-40c8-a86a-22d19df11f6b",
+  "first_name": "Petzold,",
+  "last_name": "Odessa",
+  "full_name": "Petzold, Odessa",
+  "linkedin_url": "https://linkedin.com/in/petzold-odessa-16172718",
+  "emails": [
+    {
+      "email": "petzoldon@corning.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "odessap@corning.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 607-974-1255",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Corning Incorporated"
+}

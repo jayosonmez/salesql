@@ -1,0 +1,23 @@
+{
+  "uuid": "71ac56f2-eded-4399-a415-3fae3cd5a887",
+  "first_name": "Mark",
+  "last_name": "Ziffer",
+  "full_name": "Mark Ziffer",
+  "linkedin_url": "https://linkedin.com/in/mark-ziffer-a828841b",
+  "emails": [
+    {
+      "email": "markziffer@columbia.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-854-1754",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Columbia University"
+}

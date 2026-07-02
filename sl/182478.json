@@ -1,0 +1,33 @@
+{
+  "uuid": "cf24c689-3819-42b4-b13e-cad677990435",
+  "first_name": "Dakota",
+  "last_name": "Sullivan",
+  "full_name": "Dakota Sullivan",
+  "linkedin_url": "https://linkedin.com/in/182478",
+  "emails": [
+    {
+      "email": "dakotasullivan2@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dakota@docpatels.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dsullivan@phinestcannabis.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-207-6201",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Phinest Cannabis"
+}

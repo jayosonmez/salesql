@@ -1,0 +1,23 @@
+{
+  "uuid": "9c3fbe43-ea0b-4350-87e8-999af22af0ce",
+  "first_name": "Dr. Christiane",
+  "last_name": "Siebert, DACM",
+  "full_name": "Dr. Christiane Siebert, DACM",
+  "linkedin_url": "https://linkedin.com/in/christianesiebertdacm",
+  "emails": [
+    {
+      "email": "acupuncture@serenityhealtharts.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 718-666-8613",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Serenity Health Arts"
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "a42a4f68-dc89-40de-9d7a-25c7cc730d54",
+  "first_name": "Nicole",
+  "last_name": "Herzog",
+  "full_name": "Nicole Herzog",
+  "linkedin_url": "https://linkedin.com/in/nic-herzog",
+  "emails": [
+    {
+      "email": "nicole.herzog@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "nicole.herzog@maestrani.ch",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nicole.herzog@shopviu.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "herzog@admin.ch",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

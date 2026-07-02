@@ -1,0 +1,22 @@
+{
+  "uuid": "d763da37-2846-4e35-ba41-4ff5d7e5e447",
+  "first_name": "Giulia",
+  "last_name": "Murtas",
+  "full_name": "Giulia Murtas",
+  "linkedin_url": "https://linkedin.com/in/giulia-murtas-b2890377",
+  "emails": [
+    {
+      "email": "giulia.murtas@uninsubria.it",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+39 800 011 398",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Università degli Studi dell'Insubria"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "e22e9bfc-c4dd-44de-9b2b-3ca5362e3456",
+  "first_name": "Kilton",
+  "last_name": "Hopkins",
+  "full_name": "Kilton Hopkins",
+  "linkedin_url": "https://linkedin.com/in/kilton",
+  "emails": [
+    {
+      "email": "kilton@kiltonhopkins.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

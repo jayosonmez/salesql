@@ -1,0 +1,53 @@
+{
+  "uuid": "8ac73755-3ad4-4e32-a7fe-d5a5ee42183f",
+  "first_name": "Afif",
+  "last_name": "Khoury",
+  "full_name": "Afif Khoury",
+  "linkedin_url": "https://linkedin.com/in/afifkhoury",
+  "emails": [
+    {
+      "email": "afif@soci.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "afif@meetsoci.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "afif@scatterventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "afif@axonvc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "akhoury@evonexus.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "afif.khoury@forbestechcouncil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "afif@lawmatics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-225-4110",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "SOCi.ai"
+}

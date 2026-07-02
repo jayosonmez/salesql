@@ -1,0 +1,28 @@
+{
+  "uuid": "1cc550d4-e943-4024-82c7-3a9263c0899b",
+  "first_name": "Brandon",
+  "last_name": "Wilbanks",
+  "full_name": "Brandon Wilbanks",
+  "linkedin_url": "https://linkedin.com/in/brandon-wilbanks-8278a0132",
+  "emails": [
+    {
+      "email": "wilbanks.brandon@mayo.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brandon.wilbanks@mayo.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 507-284-4076",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mayo Clinic Graduate School of Biomedical Sciences"
+}

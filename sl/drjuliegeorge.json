@@ -1,0 +1,21 @@
+{
+  "uuid": "6185dff4-cf4c-44e3-8818-c22cf0281bba",
+  "first_name": "Dr. Julie",
+  "last_name": "George",
+  "full_name": "Dr. Julie George",
+  "linkedin_url": "https://linkedin.com/in/drjuliegeorge",
+  "emails": [
+    {
+      "email": "drjuliegeorge@rivercreekwellness.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "info@sunstonenaturalhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Rivercreek Wellness"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "b502718a-e6b5-4e57-8f40-1c1df9ef6006",
+  "first_name": "Ashley",
+  "last_name": "Brienza",
+  "full_name": "Ashley Brienza",
+  "linkedin_url": "https://linkedin.com/in/ashley-brienza-817b5924",
+  "emails": [
+    {
+      "email": "brienza@pitt.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "abrienza@andrew.cmu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brienzaam@upmc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 412-648-9891",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Pittsburgh School of Medicine"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "358105a1-3c14-46db-b7cf-a1195ef95b4a",
+  "first_name": "Amad",
+  "last_name": "Elia",
+  "full_name": "Amad Elia",
+  "linkedin_url": "https://linkedin.com/in/amad-elia",
+  "emails": [
+    {
+      "email": "aelia@upsidefoods.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amadelia@reocapitalllc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amad@interstatetraveler.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amad@ganas.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amadtala@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 248-703-8120",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ganas Ventures"
+}

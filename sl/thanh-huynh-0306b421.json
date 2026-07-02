@@ -1,0 +1,28 @@
+{
+  "uuid": "7a054d5a-b609-4385-8ea0-bb961dc3c724",
+  "first_name": "Thanh",
+  "last_name": "Huynh",
+  "full_name": "Thanh Huynh",
+  "linkedin_url": "https://linkedin.com/in/thanh-huynh-0306b421",
+  "emails": [
+    {
+      "email": "thuynh@hawaii.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "thanhhawaii@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 808-956-8111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MindfulnessFreeCourse.net"
+}

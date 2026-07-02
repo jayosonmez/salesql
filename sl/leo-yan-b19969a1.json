@@ -1,0 +1,23 @@
+{
+  "uuid": "ba2ff49f-f894-43bc-ade1-95ec6a73777f",
+  "first_name": "Leo",
+  "last_name": "Yan",
+  "full_name": "Leo Yan",
+  "linkedin_url": "https://linkedin.com/in/leo-yan-b19969a1",
+  "emails": [
+    {
+      "email": "y-l@6dimensionscapital.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-374-1610",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "6 Dimensions Capital"
+}

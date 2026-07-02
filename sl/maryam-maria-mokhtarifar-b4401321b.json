@@ -1,0 +1,28 @@
+{
+  "uuid": "4582a594-36f6-4bb4-8d49-157cf83f8e80",
+  "first_name": "Maryam (Maria)",
+  "last_name": "Mokhtarifar",
+  "full_name": "Maryam (Maria) Mokhtarifar",
+  "linkedin_url": "https://linkedin.com/in/maryam-maria-mokhtarifar-b4401321b",
+  "emails": [
+    {
+      "email": "maria_mokhtarifar@inrs.ca",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "mmokhtarifar@mit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 418-654-4677",
+      "type": "Work",
+      "country_code": "CA",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "INRS - Institut national de la recherche scientifique"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ce9e386d-41d4-4d93-9e75-6ff82664748e",
+  "first_name": "Michelle",
+  "last_name": "Wu",
+  "full_name": "Michelle Wu",
+  "linkedin_url": "https://linkedin.com/in/michelle-wu-68b4a532",
+  "emails": [
+    {
+      "email": "wum@princeton.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michellewu@verily.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-894-5438",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Verily Health"
+}

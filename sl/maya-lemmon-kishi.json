@@ -1,0 +1,28 @@
+{
+  "uuid": "abb69d95-53ad-49ad-8a32-42af9aee04dd",
+  "first_name": "Maya",
+  "last_name": "Lemmon-Kishi",
+  "full_name": "Maya Lemmon-Kishi",
+  "linkedin_url": "https://linkedin.com/in/maya-lemmon-kishi",
+  "emails": [
+    {
+      "email": "mlemmon-kishi@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mayalemmon-kishi@berkeley.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-642-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Berkeley"
+}

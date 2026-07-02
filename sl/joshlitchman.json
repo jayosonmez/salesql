@@ -1,0 +1,48 @@
+{
+  "uuid": "847d421d-0bc2-440d-b110-ddc08c478173",
+  "first_name": "Josh",
+  "last_name": "Litchman",
+  "full_name": "Josh Litchman",
+  "linkedin_url": "https://linkedin.com/in/joshlitchman",
+  "emails": [
+    {
+      "email": "josh.litchman8@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "josh@alt.xyz",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "josh@thecontenthome.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "josh@momnt.social",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "josh@POAP.xyz",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "josh@superworldapp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-812-8547",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Conscience VC"
+}

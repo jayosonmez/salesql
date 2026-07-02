@@ -1,0 +1,16 @@
+{
+  "uuid": "8e18cb55-1f96-4fb6-8a3b-5f697747e97b",
+  "first_name": "Nikolay",
+  "last_name": "Guzakov",
+  "full_name": "Nikolay Guzakov",
+  "linkedin_url": "https://linkedin.com/in/nikolay-guzakov-1334484",
+  "emails": [
+    {
+      "email": "nick@rapira.ws",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ECOTELECOM"
+}

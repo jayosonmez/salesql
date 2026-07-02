@@ -1,0 +1,16 @@
+{
+  "uuid": "6d209e70-3c70-4366-bfe9-9bb969cd5b4c",
+  "first_name": "John",
+  "last_name": "Huff, MD, MBA",
+  "full_name": "John Huff, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/johnhuffmd",
+  "emails": [
+    {
+      "email": "jhuff@hmh.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lion Oakes"
+}

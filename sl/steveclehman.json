@@ -1,0 +1,26 @@
+{
+  "uuid": "14bd644d-539d-4b6b-afbf-e1d206af4178",
+  "first_name": "Steve",
+  "last_name": "Lehman",
+  "full_name": "Steve Lehman",
+  "linkedin_url": "https://linkedin.com/in/steveclehman",
+  "emails": [
+    {
+      "email": "steve@globalmentornetwork.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "slehman@pricliadv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "steveclehman@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Krach Institute for Tech Diplomacy"
+}

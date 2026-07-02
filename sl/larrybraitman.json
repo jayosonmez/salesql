@@ -1,0 +1,21 @@
+{
+  "uuid": "133de4be-ed6f-4d83-ab1d-1a187a67358f",
+  "first_name": "Larry",
+  "last_name": "Braitman",
+  "full_name": "Larry Braitman",
+  "linkedin_url": "https://linkedin.com/in/larrybraitman",
+  "emails": [
+    {
+      "email": "lbraitman@braitman.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "larry@lgb1.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Braitman & Co."
+}

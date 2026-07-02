@@ -1,0 +1,16 @@
+{
+  "uuid": "c07f2367-45d6-4689-b1fd-dadb169e5c70",
+  "first_name": "Simran",
+  "last_name": "Shikh",
+  "full_name": "Simran Shikh",
+  "linkedin_url": "https://linkedin.com/in/simranshikh",
+  "emails": [
+    {
+      "email": "sshikh@miami.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "University of Miami"
+}

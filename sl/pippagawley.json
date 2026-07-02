@@ -1,0 +1,36 @@
+{
+  "uuid": "65d070ab-df06-42ba-94d1-577edfe83506",
+  "first_name": "Pippa",
+  "last_name": "Gawley",
+  "full_name": "Pippa Gawley",
+  "linkedin_url": "https://linkedin.com/in/pippagawley",
+  "emails": [
+    {
+      "email": "pippa@actuationlab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pippa@phycobloom.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pippa.gawley@nitro-fix.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pippa@cambridgeelectriccement.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "pippa@gawley.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Zero Carbon"
+}

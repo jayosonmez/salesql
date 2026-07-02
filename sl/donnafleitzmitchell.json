@@ -1,0 +1,21 @@
+{
+  "uuid": "ef1087ce-531e-45b6-bb36-a248a0ba8f27",
+  "first_name": "Donna F",
+  "last_name": "Mitchell, MD, MBA",
+  "full_name": "Donna F Mitchell, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/donnafleitzmitchell",
+  "emails": [
+    {
+      "email": "donna@bodypointmedicine.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "potterdoc@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "BodyPoint Medicine"
+}

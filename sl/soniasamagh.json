@@ -1,0 +1,38 @@
+{
+  "uuid": "b45e6490-d977-4fb8-aa7c-5bf67ca076fa",
+  "first_name": "Dr. Sonia",
+  "last_name": "Samagh, MD, MBA",
+  "full_name": "Dr. Sonia Samagh, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/soniasamagh",
+  "emails": [
+    {
+      "email": "samagh_sonia@gsb.stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sonia.samagh@optum.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sonia.samagh@kp.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dr.samagh@davita.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-244-0680",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DaVita Kidney Care"
+}

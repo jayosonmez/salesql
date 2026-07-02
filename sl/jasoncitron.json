@@ -1,0 +1,43 @@
+{
+  "uuid": "4a30e28f-f508-4e3e-b317-2ae0b604b9b1",
+  "first_name": "Jason",
+  "last_name": "Citron",
+  "full_name": "Jason Citron",
+  "linkedin_url": "https://linkedin.com/in/jasoncitron",
+  "emails": [
+    {
+      "email": "jason@aurorafeint.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jason@openfeint.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jasonc@discordapp.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jason.citron@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jason.citron@campus.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-594-0085",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Discord"
+}

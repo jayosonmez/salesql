@@ -1,0 +1,28 @@
+{
+  "uuid": "9e1f3420-4d53-4424-8729-5d500b01ea12",
+  "first_name": "David",
+  "last_name": "Paslin, M.D.",
+  "full_name": "David Paslin, M.D.",
+  "linkedin_url": "https://linkedin.com/in/david-p-89b20422",
+  "emails": [
+    {
+      "email": "david.paslin@ucsf.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "davidp@farmpd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 603-402-5500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Farm, A Flex Company"
+}

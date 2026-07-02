@@ -1,0 +1,16 @@
+{
+  "uuid": "ee0a4c3c-354f-4ee3-b5fb-674392b52552",
+  "first_name": "Dan",
+  "last_name": "Rosensweig",
+  "full_name": "Dan Rosensweig",
+  "linkedin_url": "https://linkedin.com/in/danielrosensweig",
+  "emails": [
+    {
+      "email": "danr@chegg.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Chegg Inc."
+}

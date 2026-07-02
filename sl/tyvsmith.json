@@ -1,0 +1,43 @@
+{
+  "uuid": "8c7b1366-30ad-4d28-a41b-dff24f861fe8",
+  "first_name": "Ty",
+  "last_name": "Smith",
+  "full_name": "Ty Smith",
+  "linkedin_url": "https://linkedin.com/in/tyvsmith",
+  "emails": [
+    {
+      "email": "tys@uber.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ty@tysmith.me",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tylersmithnet@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ty@intro.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ty@kotlinfoundation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-494-7217",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Uber"
+}

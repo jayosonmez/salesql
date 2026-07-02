@@ -1,0 +1,23 @@
+{
+  "uuid": "c40173f7-68da-405d-8e70-c493c2533afa",
+  "first_name": "Matteo F.",
+  "last_name": "C.",
+  "full_name": "Matteo F. C.",
+  "linkedin_url": "https://linkedin.com/in/matteo-f-condello",
+  "emails": [
+    {
+      "email": "matteo.condello@antler.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 720-955-9211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Antler"
+}

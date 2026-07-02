@@ -1,0 +1,33 @@
+{
+  "uuid": "80fd1596-7ae7-436c-b299-8b565294a4b9",
+  "first_name": "Kristen",
+  "last_name": "Halland, DC, DABCA, CCN",
+  "full_name": "Kristen Halland, DC, DABCA, CCN",
+  "linkedin_url": "https://linkedin.com/in/kristenhalland",
+  "emails": [
+    {
+      "email": "kabobik@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dr.kristen@thebalancedoc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "khalland@nuhs.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 773-296-6700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "WholeHealth Chicago"
+}

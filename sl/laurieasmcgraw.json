@@ -1,0 +1,58 @@
+{
+  "uuid": "1fb9bf1c-bd2b-46a8-928e-9ba5cca463ed",
+  "first_name": "Laurie",
+  "last_name": "McGraw",
+  "full_name": "Laurie McGraw",
+  "linkedin_url": "https://linkedin.com/in/laurieasmcgraw",
+  "emails": [
+    {
+      "email": "laurie.mcgraw@forbestechcouncil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lmcgraw@aip.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "laurie.mcgraw@newfireglobal.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "laurie@ohmd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "laurie.mcgraw@medavail.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lmcgraw@rhodeislandfc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lasmcgraw2@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "laurie.mcgraw@allscripts.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 802-238-2993",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Transcarent"
+}

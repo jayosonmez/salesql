@@ -1,0 +1,23 @@
+{
+  "uuid": "3601986b-c744-4074-880d-29418f76d86c",
+  "first_name": "J",
+  "last_name": "Y.",
+  "full_name": "J Y.",
+  "linkedin_url": "https://linkedin.com/in/jieyang-phd",
+  "emails": [
+    {
+      "email": "j.y@berkeley.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-642-6000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of California, Berkeley"
+}

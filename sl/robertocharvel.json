@@ -1,0 +1,36 @@
+{
+  "uuid": "7baba992-0610-41ed-bfab-a1852ec58e34",
+  "first_name": "Roberto",
+  "last_name": "Charvel",
+  "full_name": "Roberto Charvel",
+  "linkedin_url": "https://linkedin.com/in/robertocharvel",
+  "emails": [
+    {
+      "email": "rcharvel@upgrade.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "roberto.charvel@clau.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "roberto.charvel@kredi.mx",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "roberto.charvel@vandercp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "roberto@matterscale.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "MatterScale Ventures"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "3da6cf67-4dcd-434f-ac51-6b2f674e8fe0",
+  "first_name": "David",
+  "last_name": "Brooks",
+  "full_name": "David Brooks",
+  "linkedin_url": "https://linkedin.com/in/david-brooks-7908b410",
+  "emails": [
+    {
+      "email": "dbrooks@fortress.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-798-6100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fortress Investment Group"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "ea7d3cad-0fba-4118-923b-01a4edba2cae",
+  "first_name": "Mike",
+  "last_name": "Jazayeri",
+  "full_name": "Mike Jazayeri",
+  "linkedin_url": "https://linkedin.com/in/mikejazayeri",
+  "emails": [
+    {
+      "email": "mike@jazayeri.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Speakeasy Investments"
+}

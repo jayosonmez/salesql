@@ -1,0 +1,48 @@
+{
+  "uuid": "fd19c9d6-76aa-47bc-8515-09d66c7fda9c",
+  "first_name": "Dmitry",
+  "last_name": "Alimov",
+  "full_name": "Dmitry Alimov",
+  "linkedin_url": "https://linkedin.com/in/dalimov",
+  "emails": [
+    {
+      "email": "dmitry@ema.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dmitry@onramp.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dmitry@frontier.ru",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "da@frontier.ventures",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dalimov@expert360.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dmitry@turing.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 628-241-5789",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Frontier Ventures"
+}

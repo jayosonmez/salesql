@@ -1,0 +1,43 @@
+{
+  "uuid": "e258dd05-5a07-458a-8716-8833cb405148",
+  "first_name": "Shaun",
+  "last_name": "Marion",
+  "full_name": "Shaun Marion",
+  "linkedin_url": "https://linkedin.com/in/shaundmarion",
+  "emails": [
+    {
+      "email": "shaun.marion@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "shaun@ylventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shaun@svci.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "smarion@energyimpactpartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shaun.marion@xcelenergy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 612-330-5500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Xcel Energy"
+}

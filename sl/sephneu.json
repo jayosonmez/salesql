@@ -1,0 +1,23 @@
+{
+  "uuid": "680c9b8f-86e4-4778-ac60-a8d7d6f79b3f",
+  "first_name": "S. Ephraim",
+  "last_name": "Neumann",
+  "full_name": "S. Ephraim Neumann",
+  "linkedin_url": "https://linkedin.com/in/sephneu",
+  "emails": [
+    {
+      "email": "sneumann@eag.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-322-2011",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Eurofins | EAG Laboratories"
+}

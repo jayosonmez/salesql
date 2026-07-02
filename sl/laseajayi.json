@@ -1,0 +1,48 @@
+{
+  "uuid": "b1b3af52-c9a7-43f9-ab9d-cb61008c5c60",
+  "first_name": "Toluwalaṣé (Laṣé) A.",
+  "last_name": "Ajayi, MD FAAP",
+  "full_name": "Toluwalaṣé (Laṣé) A. Ajayi, MD FAAP",
+  "linkedin_url": "https://linkedin.com/in/laseajayi",
+  "emails": [
+    {
+      "email": "toluwalase.ajayi@ama-assn.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tajayi@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tajayi@cmadocs.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tajayi@scripps.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tajayi@ucsd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "laseajayi@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-534-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UC San Diego Health"
+}

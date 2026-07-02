@@ -1,0 +1,21 @@
+{
+  "uuid": "e40d747a-dc15-45bb-8a76-8e145d0bc3d9",
+  "first_name": "Vitalik",
+  "last_name": "Buterin",
+  "full_name": "Vitalik Buterin",
+  "linkedin_url": "https://linkedin.com/in/vitalik-buterin-267a7450",
+  "emails": [
+    {
+      "email": "vitalik.buterin@ethereum.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vitalik@bitcoinmagazine.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Ethereum"
+}

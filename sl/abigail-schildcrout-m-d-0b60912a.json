@@ -1,0 +1,28 @@
+{
+  "uuid": "f68242c1-d188-4110-b9f8-fda4c440a7c4",
+  "first_name": "Abigail",
+  "last_name": "Schildcrout, M.D.",
+  "full_name": "Abigail Schildcrout, M.D.",
+  "linkedin_url": "https://linkedin.com/in/abigail-schildcrout-m-d-0b60912a",
+  "emails": [
+    {
+      "email": "aschildcrout@ferncare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "decoy@wideopenwest.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 248-677-2273",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FERNCARE FREE CLINIC, INC."
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "39c123f0-b258-4511-8b9c-9922a5473aeb",
+  "first_name": "Eghosa",
+  "last_name": "Omoigui",
+  "full_name": "Eghosa Omoigui",
+  "linkedin_url": "https://linkedin.com/in/eghosaomoigui",
+  "emails": [
+    {
+      "email": "eghosa@risingtideafrica.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eghosa.omoigui@cellulant.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eomoigui@ParallelWireless.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eomoigui@systemone.id",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eghosao@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "eghosao@echovc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "EchoVC Eco"
+}

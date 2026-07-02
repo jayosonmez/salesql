@@ -1,0 +1,28 @@
+{
+  "uuid": "6222de7e-8a1c-43b8-ba5f-545b7676ffb9",
+  "first_name": "Clinical",
+  "last_name": "Biometrics, Inc.",
+  "full_name": "Clinical Biometrics, Inc.",
+  "linkedin_url": "https://linkedin.com/in/clinbio",
+  "emails": [
+    {
+      "email": "ceo@clinbio.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "timcrammer@clinbio.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 765-610-3138",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Clinical Biometrics, Inc."
+}

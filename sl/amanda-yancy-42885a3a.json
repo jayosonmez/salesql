@@ -1,0 +1,16 @@
+{
+  "uuid": "bbe13688-e06d-4cd0-93d0-ac1c469b1500",
+  "first_name": "Amanda",
+  "last_name": "Yancy",
+  "full_name": "Amanda Yancy",
+  "linkedin_url": "https://linkedin.com/in/amanda-yancy-42885a3a",
+  "emails": [
+    {
+      "email": "yancy_a@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Detroit Medical Center"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "5509197d-8774-4e1f-9179-73b32df06e03",
+  "first_name": "Vikram",
+  "last_name": "B.",
+  "full_name": "Vikram B.",
+  "linkedin_url": "https://linkedin.com/in/vikram-b-a6243b9",
+  "emails": [
+    {
+      "email": "vikram.beri@fieldking.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vb@betterlyf.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "FIELDKING USA"
+}

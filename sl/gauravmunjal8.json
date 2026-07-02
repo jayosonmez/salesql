@@ -1,0 +1,28 @@
+{
+  "uuid": "4796ef89-023b-4002-846c-241b7a4ae61a",
+  "first_name": "Gaurav",
+  "last_name": "Munjal",
+  "full_name": "Gaurav Munjal",
+  "linkedin_url": "https://linkedin.com/in/gauravmunjal8",
+  "emails": [
+    {
+      "email": "mail2gauravmunjal@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gaurav@unacademy.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+91 97694 80884",
+      "type": "Personal",
+      "country_code": "IN",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Unacademy"
+}

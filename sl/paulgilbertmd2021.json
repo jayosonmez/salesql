@@ -1,0 +1,38 @@
+{
+  "uuid": "b70fb5ac-c994-413d-b7eb-527d29707a49",
+  "first_name": "Paul",
+  "last_name": "Gilbert MD FACEP",
+  "full_name": "Paul Gilbert MD FACEP",
+  "linkedin_url": "https://linkedin.com/in/paulgilbertmd2021",
+  "emails": [
+    {
+      "email": "paul.gilbert@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "paulmd@tribalhealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "paul@hospicehomeaz.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "pgilbert@teamselectmd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 562-657-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Exceptional Community Hospital - Maricopa"
+}

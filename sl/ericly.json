@@ -1,0 +1,28 @@
+{
+  "uuid": "7958c24d-6949-4953-b67d-3db861c73039",
+  "first_name": "Eric",
+  "last_name": "Ly",
+  "full_name": "Eric Ly",
+  "linkedin_url": "https://linkedin.com/in/ericly",
+  "emails": [
+    {
+      "email": "eric@hubtoken.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eric@karmacheck.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-731-2686",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "KarmaCheck"
+}

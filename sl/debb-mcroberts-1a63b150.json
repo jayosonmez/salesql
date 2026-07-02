@@ -1,0 +1,23 @@
+{
+  "uuid": "143ac711-8c8d-4944-b4d2-718e6049e2e0",
+  "first_name": "Debb",
+  "last_name": "McRoberts",
+  "full_name": "Debb McRoberts",
+  "linkedin_url": "https://linkedin.com/in/debb-mcroberts-1a63b150",
+  "emails": [
+    {
+      "email": "dmcroberts@randolphhospital.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 336-625-5151",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Randolph Health"
+}

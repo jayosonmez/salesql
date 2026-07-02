@@ -1,0 +1,28 @@
+{
+  "uuid": "5e5cc867-f6a2-46ce-981f-44858915335e",
+  "first_name": "Jin",
+  "last_name": "Park",
+  "full_name": "Jin Park",
+  "linkedin_url": "https://linkedin.com/in/jin-park-68b6094",
+  "emails": [
+    {
+      "email": "nitinol_man@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jpark@mdimagineering.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 908-442-1740",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Medical Device Imagineering"
+}

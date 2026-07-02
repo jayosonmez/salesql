@@ -1,0 +1,28 @@
+{
+  "uuid": "e51c96ca-46c4-4987-9591-7e3c46db6c13",
+  "first_name": "Taylor",
+  "last_name": "Collins",
+  "full_name": "Taylor Collins",
+  "linkedin_url": "https://linkedin.com/in/taylor-collins-81b938aa",
+  "emails": [
+    {
+      "email": "taylor@epicbar.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "taylor@epicbar.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-944-8502",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EPIC Provisions"
+}

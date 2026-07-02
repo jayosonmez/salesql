@@ -1,0 +1,21 @@
+{
+  "uuid": "798a3a56-263a-4b4c-8065-a7521a680090",
+  "first_name": "Sameer",
+  "last_name": "Goel MD",
+  "full_name": "Sameer Goel MD",
+  "linkedin_url": "https://linkedin.com/in/sameer-goel-md-3a95b1225",
+  "emails": [
+    {
+      "email": "sgoel@sunshine-pain.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sameer.goel@uhhospitals.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sunshine Interventional Pain and Wellness Center"
+}

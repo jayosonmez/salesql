@@ -1,0 +1,23 @@
+{
+  "uuid": "84d060f1-1f72-4a28-a23a-f661a7954715",
+  "first_name": "Whitney",
+  "last_name": "Wolfe Herd",
+  "full_name": "Whitney Wolfe Herd",
+  "linkedin_url": "https://linkedin.com/in/whitney-wolfe-herd-1791a299",
+  "emails": [
+    {
+      "email": "whitney@bumble.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 515-739-1423",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bumble Inc."
+}

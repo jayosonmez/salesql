@@ -1,0 +1,17 @@
+{
+  "uuid": "3229b64a-60f0-4dd4-84a7-7b9679e48497",
+  "first_name": "Lewis ",
+  "last_name": "A. Fraser",
+  "full_name": "Lewis  A. Fraser",
+  "linkedin_url": "https://linkedin.com/in/lewis-a-fraser-0b5489ab",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 714-247-8200",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Abbott"
+}

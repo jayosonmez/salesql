@@ -1,0 +1,23 @@
+{
+  "uuid": "88b43d6c-293a-4bf7-9b82-13abcecf8b19",
+  "first_name": "Mary",
+  "last_name": "Cranston",
+  "full_name": "Mary Cranston",
+  "linkedin_url": "https://linkedin.com/in/marycranston",
+  "emails": [
+    {
+      "email": "mcranston@tpg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-743-1500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "TPG"
+}

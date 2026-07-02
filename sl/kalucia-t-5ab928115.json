@@ -1,0 +1,22 @@
+{
+  "uuid": "5423d716-0466-4bff-bd83-59f65076b6aa",
+  "first_name": "Kalucia",
+  "last_name": "T.",
+  "full_name": "Kalucia T.",
+  "linkedin_url": "https://linkedin.com/in/kalucia-t-5ab928115",
+  "emails": [
+    {
+      "email": "kalucia@tmu.edu.tw",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+886 2 2737 2181",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Taipei Medical University"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "c253d8fc-e3a3-4153-9f3a-0f20ec9779b3",
+  "first_name": "Yanfei",
+  "last_name": "Wang",
+  "full_name": "Yanfei Wang",
+  "linkedin_url": "https://linkedin.com/in/yanfeiwang2016",
+  "emails": [
+    {
+      "email": "yanfei.wang@vrtx.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-404-6600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Vertex Pharmaceuticals"
+}

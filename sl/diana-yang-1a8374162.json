@@ -1,0 +1,22 @@
+{
+  "uuid": "dddbd4e9-ae7e-40af-8cfb-dc758010dcf2",
+  "first_name": "Diana",
+  "last_name": "Yang",
+  "full_name": "Diana Yang",
+  "linkedin_url": "https://linkedin.com/in/diana-yang-1a8374162",
+  "emails": [
+    {
+      "email": "yangdiana@ibeehub.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+30 21 1120 6000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Microsoft"
+}

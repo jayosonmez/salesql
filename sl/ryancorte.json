@@ -1,0 +1,46 @@
+{
+  "uuid": "c1252455-d9da-4fe8-8461-25f9ebe2d8e6",
+  "first_name": "Ryan",
+  "last_name": "Corte, OD",
+  "full_name": "Ryan Corte, OD",
+  "linkedin_url": "https://linkedin.com/in/ryancorte",
+  "emails": [
+    {
+      "email": "ryan.corte@apellis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryan.corte@FitPros.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryan.corte@bausch.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rcorte@introwellness.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryan.corte1@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ryan@allergan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ryan@covalentcareers.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Reflect Vision Care"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "8ad8f348-5e64-446f-9b08-716026f60759",
+  "first_name": "Reuben",
+  "last_name": "Buckareff",
+  "full_name": "Reuben Buckareff",
+  "linkedin_url": "https://linkedin.com/in/reuben-buckareff-0429397",
+  "emails": [
+    {
+      "email": "reuben.buckareff@advisorycloud.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rbuckareff@clutch.health",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rbuckareff@chp.us.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 844-429-4279",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Clutch Health"
+}

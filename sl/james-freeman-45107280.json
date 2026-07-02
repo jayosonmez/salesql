@@ -1,0 +1,28 @@
+{
+  "uuid": "ad664252-71a1-47d9-a8ab-e2b2bf3117c8",
+  "first_name": "james",
+  "last_name": "freeman",
+  "full_name": "james freeman",
+  "linkedin_url": "https://linkedin.com/in/james-freeman-45107280",
+  "emails": [
+    {
+      "email": "james@baragricole.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jfreeman@bluebottlecoffee.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-653-3394",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Blue Bottle Coffee"
+}

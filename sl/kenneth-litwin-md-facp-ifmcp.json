@@ -1,0 +1,21 @@
+{
+  "uuid": "95e82a74-b1e4-4b78-b96a-3291eb2827b5",
+  "first_name": "Kenneth Litwin",
+  "last_name": "MD, FACP, IFMCP",
+  "full_name": "Kenneth Litwin MD, FACP, IFMCP",
+  "linkedin_url": "https://linkedin.com/in/kenneth-litwin-md-facp-ifmcp",
+  "emails": [
+    {
+      "email": "kenneth@fcma.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amontillado@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kara Fitzgerald ND, LLC | Sandy Hook Clinic | Functional Med. of Fairfield County "
+}

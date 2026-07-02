@@ -1,0 +1,53 @@
+{
+  "uuid": "f4544550-f5b8-4984-9dd3-adf456ad0b8a",
+  "first_name": "Ricardo",
+  "last_name": "Regalado",
+  "full_name": "Ricardo Regalado",
+  "linkedin_url": "https://linkedin.com/in/rickyregalado",
+  "emails": [
+    {
+      "email": "ricardoregalado1@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "rickyregalado007@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ricardo.regalado@getroute.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ricardo@rozaladocleaning.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ricardo@stokkup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rregalado@thejanitorialstore.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ricardo@issa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-982-0800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ISSA-The Association for Cleaning & Facility Solutions"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "2cf3d519-a12e-4d2a-a9b2-5efe3971fd32",
+  "first_name": "Donald",
+  "last_name": "Cheng",
+  "full_name": "Donald Cheng",
+  "linkedin_url": "https://linkedin.com/in/donaldcheng",
+  "emails": [
+    {
+      "email": "donaldc@mosaictech.us",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "chengdonald@ymail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ACSIOM Capital"
+}

@@ -1,0 +1,48 @@
+{
+  "uuid": "6cc7378e-8dc5-4711-8ab4-2dc0bcd6a130",
+  "first_name": "Yvonne",
+  "last_name": "Wassenaar",
+  "full_name": "Yvonne Wassenaar",
+  "linkedin_url": "https://linkedin.com/in/yvonnewassenaar",
+  "emails": [
+    {
+      "email": "yvonnew@jfrog.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ywassenaar@arista.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yvonne.wassenaar@alation.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yvonne.wassenaar@braze.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ywassenaar@newrelic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ywassenaar@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 504-327-7269",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Braze"
+}

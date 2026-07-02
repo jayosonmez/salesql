@@ -1,0 +1,33 @@
+{
+  "uuid": "fd8f861e-f132-4320-9a39-797c0c708970",
+  "first_name": "Robert",
+  "last_name": "Abbott",
+  "full_name": "Robert Abbott",
+  "linkedin_url": "https://linkedin.com/in/roabbott",
+  "emails": [
+    {
+      "email": "babbott@sv-dna.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "babbott@nvp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "abbott-robert@cleardata.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-321-8000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Norwest"
+}

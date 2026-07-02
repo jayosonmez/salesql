@@ -1,0 +1,23 @@
+{
+  "uuid": "82833aa3-018c-47c7-aae8-6327c4d9acda",
+  "first_name": "Evelyn",
+  "last_name": "Duvivier",
+  "full_name": "Evelyn Duvivier",
+  "linkedin_url": "https://linkedin.com/in/evelynduviviermdmph",
+  "emails": [
+    {
+      "email": "eduvivier@geo-blue.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 855-481-6647",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GeoBlue"
+}

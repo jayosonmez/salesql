@@ -1,0 +1,54 @@
+{
+  "uuid": "8e5c9cf6-4528-47f0-842e-43eaf80fdb60",
+  "first_name": "KJ",
+  "last_name": "Singh",
+  "full_name": "KJ Singh",
+  "linkedin_url": "https://linkedin.com/in/kjsnyc",
+  "emails": [
+    {
+      "email": "kjsingh82@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "karamjit@umich.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kj.singh@jpmorgan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kj.singh@techstars.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ksingh@redcapgroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kj.singh@pwc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-562-6230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 734-904-4277",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Techstars"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "42aabee3-3c4b-485c-8b46-baaa2cfff23b",
+  "first_name": "Edwin James",
+  "last_name": "Dean, MD",
+  "full_name": "Edwin James Dean, MD",
+  "linkedin_url": "https://linkedin.com/in/edwin-james-dean-md-39870939",
+  "emails": [
+    {
+      "email": "edean@directrelief.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "edean@fgcu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ejdean1663@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 239-263-0014",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Edwin James Dean MD LLC Medical Wellness Center"
+}

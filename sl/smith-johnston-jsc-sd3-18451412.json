@@ -1,0 +1,23 @@
+{
+  "uuid": "771cf29c-923e-49b2-aaa7-241a4bfef3a9",
+  "first_name": "Smith Johnston",
+  "last_name": "(JSC-SD3)",
+  "full_name": "Smith Johnston (JSC-SD3)",
+  "linkedin_url": "https://linkedin.com/in/smith-johnston-jsc-sd3-18451412",
+  "emails": [
+    {
+      "email": "smith.l.johnston@nasa.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 216-433-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NASA - National Aeronautics and Space Administration"
+}

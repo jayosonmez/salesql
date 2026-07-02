@@ -1,0 +1,43 @@
+{
+  "uuid": "b8316211-c175-48fa-8c90-1ebc5e1994f1",
+  "first_name": "Peder",
+  "last_name": "Aaby",
+  "full_name": "Peder Aaby",
+  "linkedin_url": "https://linkedin.com/in/peder-aaby-5ba6b171",
+  "emails": [
+    {
+      "email": "peder.aaby@sprint.no",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "peder.aaby@aabysolutions.no",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peder.aaby@antler.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "peder.aaby@bouvet.no",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+47 45 48 20 45",
+      "type": "Personal",
+      "country_code": "NO",
+      "is_valid": true
+    },
+    {
+      "phone": "+47 73 53 70 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bouvet ASA"
+}

@@ -1,0 +1,49 @@
+{
+  "uuid": "75d968d2-0193-48f9-962b-3912b122978b",
+  "first_name": "Cannon",
+  "last_name": "Clifton",
+  "full_name": "Cannon Clifton",
+  "linkedin_url": "https://linkedin.com/in/cannon-clifton-7943ba127",
+  "emails": [
+    {
+      "email": "cclifton@kochind.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "cannon.clifton@kochind.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cannon@kalypsowellness.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cannon.clifton@staranesthesia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cannon@KalypsoWellness.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 210-862-7246",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 800-737-3820",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Kalypso Wellness Centers"
+}

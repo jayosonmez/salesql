@@ -1,0 +1,23 @@
+{
+  "uuid": "f456aaf1-975f-4a49-ae43-acbe720263f7",
+  "first_name": "Mark",
+  "last_name": "Goltz",
+  "full_name": "Mark Goltz",
+  "linkedin_url": "https://linkedin.com/in/mark-goltz-0279947",
+  "emails": [
+    {
+      "email": "mark.goltz@afit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 937-255-6565",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "U.S. Air Force Institute of Technology"
+}

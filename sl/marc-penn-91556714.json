@@ -1,0 +1,48 @@
+{
+  "uuid": "5b6ab139-2dd6-43c2-ba44-d13139f8514f",
+  "first_name": "Marc",
+  "last_name": "Penn",
+  "full_name": "Marc Penn",
+  "linkedin_url": "https://linkedin.com/in/marc-penn-91556714",
+  "emails": [
+    {
+      "email": "pennm@summahealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "marc.penn@questdiagnostics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mpenn@neomed.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mpenn@clevelandheartlab.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pm@poseida.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "marc.s.penn@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 973-520-2700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Quest Diagnostics"
+}

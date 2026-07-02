@@ -1,0 +1,23 @@
+{
+  "uuid": "b1420af5-e6b8-4595-8362-58a83db2c83a",
+  "first_name": "Lisbeth",
+  "last_name": "Jordan",
+  "full_name": "Lisbeth Jordan",
+  "linkedin_url": "https://linkedin.com/in/lisbeth-jordan-173a0522",
+  "emails": [
+    {
+      "email": "ljordan@nwhsea.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-967-2289",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ob Hospitalist Group"
+}

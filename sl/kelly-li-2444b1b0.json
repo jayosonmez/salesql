@@ -1,0 +1,33 @@
+{
+  "uuid": "75b8de6d-648d-48e4-b6d9-e177d6ead98d",
+  "first_name": "Kelly",
+  "last_name": "Li",
+  "full_name": "Kelly Li",
+  "linkedin_url": "https://linkedin.com/in/kelly-li-2444b1b0",
+  "emails": [
+    {
+      "email": "kelly@authentikstudios.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kelly.li@ibm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "likelly@ibeehub.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 267-687-9220",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Authentik Studios"
+}

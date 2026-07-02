@@ -1,0 +1,23 @@
+{
+  "uuid": "f1ce6649-d316-4bca-be6f-5ca7039fd4b3",
+  "first_name": "Debra",
+  "last_name": "Wattenberg",
+  "full_name": "Debra Wattenberg",
+  "linkedin_url": "https://linkedin.com/in/debra-wattenberg-b6094b139",
+  "emails": [
+    {
+      "email": "debra.wattenberg@mssm.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-731-7419",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Icahn School of Medicine at Mount Sinai"
+}

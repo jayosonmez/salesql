@@ -1,0 +1,33 @@
+{
+  "uuid": "8a953f2e-85e3-41fb-aa7c-b8766883b063",
+  "first_name": "Erik",
+  "last_name": "Nordlander",
+  "full_name": "Erik Nordlander",
+  "linkedin_url": "https://linkedin.com/in/eriknordlander",
+  "emails": [
+    {
+      "email": "erik@gv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "erik@nordlander.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "erikn@google.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-253-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GV (Google Ventures)"
+}

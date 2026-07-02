@@ -1,0 +1,23 @@
+{
+  "uuid": "6dd7c689-9bd3-40fa-9cda-a1aabc35facb",
+  "first_name": "Niklas",
+  "last_name": "Meinert",
+  "full_name": "Niklas Meinert",
+  "linkedin_url": "https://linkedin.com/in/niklasmeinert",
+  "emails": [
+    {
+      "email": "niklas.meinert@koerber-technologies.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 40 725001",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Körber Technologies"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "7b537093-3457-4165-9888-049f3ac0e1cc",
+  "first_name": "Gregory G.",
+  "last_name": "McDonald",
+  "full_name": "Gregory G. McDonald",
+  "linkedin_url": "https://linkedin.com/in/cloudstar",
+  "emails": [
+    {
+      "email": "gmcdonald@cloudstarconsulting.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-340-5780",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Decision Point Software"
+}

@@ -1,0 +1,46 @@
+{
+  "uuid": "836cac66-7441-46aa-9661-c6249293b84f",
+  "first_name": "Andrew",
+  "last_name": "Miller",
+  "full_name": "Andrew Miller",
+  "linkedin_url": "https://linkedin.com/in/andrewcraigmiller",
+  "emails": [
+    {
+      "email": "andrew@gv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew@vidaventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andrew@longwoodfund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amiller@generalatlantic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "amiller@karunatx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "andrewcraigmiller@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "acmillr1@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Progentos Therapeutics"
+}

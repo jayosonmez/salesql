@@ -1,0 +1,22 @@
+{
+  "uuid": "daf75f55-a476-4657-a2d4-3b89f113a210",
+  "first_name": "Vanessa",
+  "last_name": "Storan",
+  "full_name": "Vanessa Storan",
+  "linkedin_url": "https://linkedin.com/in/vanessa-storan-a65b709b",
+  "emails": [
+    {
+      "email": "vanessa.storan@aggreko.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 141 225 5900",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Aggreko"
+}

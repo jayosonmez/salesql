@@ -1,0 +1,28 @@
+{
+  "uuid": "bde4bcb2-7b25-4e5f-8d1a-da82592ecb45",
+  "first_name": "Alejandra",
+  "last_name": "Martinez",
+  "full_name": "Alejandra Martinez",
+  "linkedin_url": "https://linkedin.com/in/alejandramartinezc",
+  "emails": [
+    {
+      "email": "am2259@cornell.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "amartinez@foundationcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-614-0500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Foundation Capital"
+}

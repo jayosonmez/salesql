@@ -1,0 +1,23 @@
+{
+  "uuid": "239bf0fe-088a-4545-b6c6-262ae5bf2d19",
+  "first_name": "Jiayu",
+  "last_name": "Wan",
+  "full_name": "Jiayu Wan",
+  "linkedin_url": "https://linkedin.com/in/jiayuwan",
+  "emails": [
+    {
+      "email": "jwan@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-723-2300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stanford University"
+}

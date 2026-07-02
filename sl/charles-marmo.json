@@ -1,0 +1,23 @@
+{
+  "uuid": "a3073a46-fa5d-4f71-835f-629b9d8a3465",
+  "first_name": "Charles",
+  "last_name": "Marmo",
+  "full_name": "Charles Marmo",
+  "linkedin_url": "https://linkedin.com/in/charles-marmo",
+  "emails": [
+    {
+      "email": "cmarmo@clemson.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 864-283-7100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Clemson University Department of Bioengineering"
+}

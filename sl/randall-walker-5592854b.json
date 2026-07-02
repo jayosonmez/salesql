@@ -1,0 +1,17 @@
+{
+  "uuid": "a83ff79d-4760-4086-b7af-054419567cb1",
+  "first_name": "Randall",
+  "last_name": "Walker",
+  "full_name": "Randall Walker",
+  "linkedin_url": "https://linkedin.com/in/randall-walker-5592854b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 507-266-4688",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mayo Clinic"
+}

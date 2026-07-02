@@ -1,0 +1,38 @@
+{
+  "uuid": "2e6f0c33-1892-41ae-91e4-bdb8a91f496a",
+  "first_name": "Scott",
+  "last_name": "Clitheroe",
+  "full_name": "Scott Clitheroe",
+  "linkedin_url": "https://linkedin.com/in/scott-clitheroe-a43948a",
+  "emails": [
+    {
+      "email": "scott.clitheroe@traditionshealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sclitheroe@austin.rr.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "scott.clitheroe@1thcm.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sclitheroe@tcms.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 512-206-1249",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Travis County Medical Society"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "9c0e6d9d-c995-40d4-9de1-b3ffc513c5f3",
+  "first_name": "Chris",
+  "last_name": "Yang",
+  "full_name": "Chris Yang",
+  "linkedin_url": "https://linkedin.com/in/chrisyang2",
+  "emails": [
+    {
+      "email": "cyang@arsenalcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cyang@edgemont.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tae9264@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "tyang5@nd.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "chris@weebly.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-867-8935",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Edgemont Partners"
+}

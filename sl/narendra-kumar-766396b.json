@@ -1,0 +1,28 @@
+{
+  "uuid": "40f3abec-4e7c-4356-82ca-fd1ad98df6b5",
+  "first_name": "Narendra",
+  "last_name": "Kumar",
+  "full_name": "Narendra Kumar",
+  "linkedin_url": "https://linkedin.com/in/narendra-kumar-766396b",
+  "emails": [
+    {
+      "email": "narendra08@tamu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "nkumar@tamhsc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 979-845-3211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Texas A&M University"
+}

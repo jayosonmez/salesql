@@ -1,0 +1,17 @@
+{
+  "uuid": "56746565-6653-4c60-ab89-2deba9f0f59f",
+  "first_name": "Christopher M.",
+  "last_name": "Wolfington",
+  "full_name": "Christopher M. Wolfington",
+  "linkedin_url": "https://linkedin.com/in/christopher-m-wolfington-0812ba7",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 855-434-6729",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "7e4f2bb4-e579-4e60-9226-db69016f20b3",
+  "first_name": "Jingjing",
+  "last_name": "Yao, Ph.D.",
+  "full_name": "Jingjing Yao, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/jingjing-yao-ph-d-47296458",
+  "emails": [
+    {
+      "email": "jyao003@ucr.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jingjing@cue.me",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 951-743-2736",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 858-412-8151",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cue Health"
+}

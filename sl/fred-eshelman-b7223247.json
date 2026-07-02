@@ -1,0 +1,16 @@
+{
+  "uuid": "2ad460a6-7771-41ce-8ecb-ea0022143645",
+  "first_name": "fred",
+  "last_name": "eshelman",
+  "full_name": "fred eshelman",
+  "linkedin_url": "https://linkedin.com/in/fred-eshelman-b7223247",
+  "emails": [
+    {
+      "email": "fred.eshelman@furiex.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Furiex Pharmaceuticals"
+}

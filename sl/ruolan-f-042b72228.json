@@ -1,0 +1,17 @@
+{
+  "uuid": "4c0f3c7a-d3b8-4527-9399-5e1adb6f0d0d",
+  "first_name": "Ruolan",
+  "last_name": "F.",
+  "full_name": "Ruolan F.",
+  "linkedin_url": "https://linkedin.com/in/ruolan-f-042b72228",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 863-425-1430",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Saint-Gobain"
+}

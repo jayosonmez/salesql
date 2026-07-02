@@ -1,0 +1,23 @@
+{
+  "uuid": "5090ad0d-69e9-42de-8d95-5d2680591ace",
+  "first_name": "Hannah",
+  "last_name": "Munson",
+  "full_name": "Hannah Munson",
+  "linkedin_url": "https://linkedin.com/in/hannah-munson",
+  "emails": [
+    {
+      "email": "hannah.munson@columbia.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-305-2862",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Columbia University Vagelos College of Physicians and Surgeons"
+}

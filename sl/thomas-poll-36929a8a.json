@@ -1,0 +1,23 @@
+{
+  "uuid": "dc7944ee-1730-4d35-b46c-d80a4440aee8",
+  "first_name": "Thomas",
+  "last_name": "Poll",
+  "full_name": "Thomas Poll",
+  "linkedin_url": "https://linkedin.com/in/thomas-poll-36929a8a",
+  "emails": [
+    {
+      "email": "tpoll@medline.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-949-5500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Medline"
+}

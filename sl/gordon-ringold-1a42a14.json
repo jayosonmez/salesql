@@ -1,0 +1,33 @@
+{
+  "uuid": "1a556e8b-1701-4b2b-b960-c9f31bbf0ede",
+  "first_name": "Gordon",
+  "last_name": "Ringold",
+  "full_name": "Gordon Ringold",
+  "linkedin_url": "https://linkedin.com/in/gordon-ringold-1a42a14",
+  "emails": [
+    {
+      "email": "gringold@alavita.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gordon.ringold@quadrigabiosciences.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "gordon.ringold@okavapharma.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-917-9098",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Quadriga BioSciences, Inc."
+}

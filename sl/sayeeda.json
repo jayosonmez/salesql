@@ -1,0 +1,36 @@
+{
+  "uuid": "147e1b85-9879-4a7a-b4eb-7613314db2c1",
+  "first_name": "Sayeed",
+  "last_name": "Ahmed",
+  "full_name": "Sayeed Ahmed",
+  "linkedin_url": "https://linkedin.com/in/sayeeda",
+  "emails": [
+    {
+      "email": "sayeed@advantary.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sayeed@ironkeycapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sayeed@thenftbrewery.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sayeed.ahmed@concreteengine.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sayeed.ahmed@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Advantary Capital Partners"
+}

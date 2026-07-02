@@ -1,0 +1,28 @@
+{
+  "uuid": "e8b48292-dd9c-4576-9cd1-27949f63cb1a",
+  "first_name": "David",
+  "last_name": "Pane",
+  "full_name": "David Pane",
+  "linkedin_url": "https://linkedin.com/in/davidpane",
+  "emails": [
+    {
+      "email": "dpane@andrew.cmu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dpane@cmu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 412-268-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Carnegie Mellon University"
+}

@@ -1,0 +1,58 @@
+{
+  "uuid": "5e3e974f-4c28-428f-9b80-9b9bb82f7434",
+  "first_name": "Anne",
+  "last_name": "Raimondi",
+  "full_name": "Anne Raimondi",
+  "linkedin_url": "https://linkedin.com/in/anneraimondi",
+  "emails": [
+    {
+      "email": "the.raimondis@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ar@asana.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "anneraimondi@onejackson.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "araimondi@getguru.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ar@zendesk.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "raimondi@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anne@patreon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "anne.raimondi@gusto.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-525-3888",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Asana"
+}

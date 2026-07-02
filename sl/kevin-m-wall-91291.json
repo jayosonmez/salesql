@@ -1,0 +1,41 @@
+{
+  "uuid": "66bd4c16-19dc-419e-a4e8-bed140d13da7",
+  "first_name": "Kevin M",
+  "last_name": "Wall",
+  "full_name": "Kevin M Wall",
+  "linkedin_url": "https://linkedin.com/in/kevin-m-wall-91291",
+  "emails": [
+    {
+      "email": "kevin@flippers.world",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kwall@cratonep.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kwall@controlroom.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kwall@ptkcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "m_wall@liveearth.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "m_wall@dreamscapeimmersive.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Flipper's Roller Boogie Palace"
+}

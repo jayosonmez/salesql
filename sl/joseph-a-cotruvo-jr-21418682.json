@@ -1,0 +1,23 @@
+{
+  "uuid": "692fab11-358a-4aab-8e2a-e52270dcc576",
+  "first_name": "Joseph A.",
+  "last_name": "Cotruvo, Jr.",
+  "full_name": "Joseph A. Cotruvo, Jr.",
+  "linkedin_url": "https://linkedin.com/in/joseph-a-cotruvo-jr-21418682",
+  "emails": [
+    {
+      "email": "jcotruvo@psu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 814-865-4700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Penn State University"
+}

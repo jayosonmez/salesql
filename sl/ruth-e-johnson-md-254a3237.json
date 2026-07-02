@@ -1,0 +1,28 @@
+{
+  "uuid": "fa7385d4-7eb4-454c-98c5-b21837ccb017",
+  "first_name": "Ruth E.",
+  "last_name": "Johnson, MD",
+  "full_name": "Ruth E. Johnson, MD",
+  "linkedin_url": "https://linkedin.com/in/ruth-e-johnson-md-254a3237",
+  "emails": [
+    {
+      "email": "johnsonmd.ruth@mayo.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rjohnson@mayoclinic.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 507-266-4688",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mayo Clinic"
+}

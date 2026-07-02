@@ -1,0 +1,23 @@
+{
+  "uuid": "65535d83-fc73-4c13-8bf1-42677e0da6d2",
+  "first_name": "James",
+  "last_name": "Tegeler",
+  "full_name": "James Tegeler",
+  "linkedin_url": "https://linkedin.com/in/james-tegeler-370007225",
+  "emails": [
+    {
+      "email": "jtegeler@wellspan.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 717-851-2345",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "WellSpan Health"
+}

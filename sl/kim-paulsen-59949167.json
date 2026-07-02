@@ -1,0 +1,23 @@
+{
+  "uuid": "f538337d-bb1b-4d89-8bfa-e5fdc0474c12",
+  "first_name": "Kim",
+  "last_name": "Paulsen",
+  "full_name": "Kim Paulsen",
+  "linkedin_url": "https://linkedin.com/in/kim-paulsen-59949167",
+  "emails": [
+    {
+      "email": "kpaulsen@beckmancoulter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-877-6242",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Beckman Coulter Diagnostics"
+}

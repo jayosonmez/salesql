@@ -1,0 +1,23 @@
+{
+  "uuid": "f710826e-da45-46f2-a35d-fcfc4e29cd3b",
+  "first_name": "Yanqin",
+  "last_name": "He",
+  "full_name": "Yanqin He",
+  "linkedin_url": "https://linkedin.com/in/yanqin-he-53b4b6255",
+  "emails": [
+    {
+      "email": "yanqin.he@northwestern.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 847-491-3741",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Northwestern University"
+}

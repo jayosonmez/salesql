@@ -1,0 +1,23 @@
+{
+  "uuid": "f79c27e9-a99e-49fa-acaf-5b1bbdfd872d",
+  "first_name": "Sangram",
+  "last_name": "Pradhan",
+  "full_name": "Sangram Pradhan",
+  "linkedin_url": "https://linkedin.com/in/sangram-pradhan-71683789",
+  "emails": [
+    {
+      "email": "spradhan@nsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 757-823-8600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Norfolk State University"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "5be46089-2b58-4c9a-b2d5-27dbe02a9979",
+  "first_name": "Sophia",
+  "last_name": "Alexandros",
+  "full_name": "Sophia Alexandros",
+  "linkedin_url": "https://linkedin.com/in/sophia-alexandros-381a6247",
+  "emails": [
+    {
+      "email": "dr.derico@verizon.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Desert Rejuvenation & Integrative Medical Clinic"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "85b338b6-ff70-44cc-afc6-015373120f0f",
+  "first_name": "Priscilla",
+  "last_name": "Choo",
+  "full_name": "Priscilla Choo",
+  "linkedin_url": "https://linkedin.com/in/priscilla-choo-775535110",
+  "emails": [
+    {
+      "email": "priscilla.choo@intel.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-765-8080",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Intel"
+}

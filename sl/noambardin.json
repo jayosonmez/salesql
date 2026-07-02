@@ -1,0 +1,32 @@
+{
+  "uuid": "04520966-ab53-45ab-99ec-fcea5269ead1",
+  "first_name": "Noam",
+  "last_name": "Bardin",
+  "full_name": "Noam Bardin",
+  "linkedin_url": "https://linkedin.com/in/noambardin",
+  "emails": [
+    {
+      "email": "noam@flytrex.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "noam@waze.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "noam@paygo.media",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+972 3-654-2753",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Flytrex"
+}

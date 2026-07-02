@@ -1,0 +1,23 @@
+{
+  "uuid": "bcd7f4d1-c0ba-4ccc-9421-ca40b33a6d55",
+  "first_name": "Jordan S.",
+  "last_name": "Ryan",
+  "full_name": "Jordan S. Ryan",
+  "linkedin_url": "https://linkedin.com/in/jryannyc",
+  "emails": [
+    {
+      "email": "jordan@rhythmvc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-933-1260",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rhythm VC"
+}

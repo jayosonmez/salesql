@@ -1,0 +1,34 @@
+{
+  "uuid": "3815f33f-5a0d-4579-b582-116f6701ae55",
+  "first_name": "Rong",
+  "last_name": "Xu",
+  "full_name": "Rong Xu",
+  "linkedin_url": "https://linkedin.com/in/rong-xu-aa032b150",
+  "emails": [
+    {
+      "email": "rxu@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "xur@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 765-418-4380",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-723-2300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stanford University"
+}

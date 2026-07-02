@@ -1,0 +1,49 @@
+{
+  "uuid": "2f8184f0-ec7e-4400-a9a4-e4c3e17fe27e",
+  "first_name": "Jules",
+  "last_name": "Walker",
+  "full_name": "Jules Walker",
+  "linkedin_url": "https://linkedin.com/in/juleslwalker",
+  "emails": [
+    {
+      "email": "juleswalker@kpmg.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "walker.jules@cfolc.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "juleswalker@terawork.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jules.walker@ncire.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jwalker@cbiz.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-245-9361",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 216-447-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "CBIZ Advisory Services"
+}

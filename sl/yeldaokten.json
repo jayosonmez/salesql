@@ -1,0 +1,23 @@
+{
+  "uuid": "03e57bd7-1e2a-4958-a7eb-0264de292e06",
+  "first_name": "Yelda",
+  "last_name": "Ökten",
+  "full_name": "Yelda Ökten",
+  "linkedin_url": "https://linkedin.com/in/yeldaokten",
+  "emails": [
+    {
+      "email": "yeldaokten@yahoo.com.tr",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 538 313 06 60",
+      "type": "Personal",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UNCHR"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "684228e8-11bb-4b1f-ac86-c59003c38211",
+  "first_name": "David",
+  "last_name": "Massias",
+  "full_name": "David Massias",
+  "linkedin_url": "https://linkedin.com/in/david-massias-56730b45",
+  "emails": [
+    {
+      "email": "david@shadowlearning.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.massias@menosystems.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "AskMeno"
+}

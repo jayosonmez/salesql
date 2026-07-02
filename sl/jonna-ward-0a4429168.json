@@ -1,0 +1,31 @@
+{
+  "uuid": "e4e0e5d4-23d3-4355-a1e5-c9ee43f0a8db",
+  "first_name": "Jonna",
+  "last_name": "Ward",
+  "full_name": "Jonna Ward",
+  "linkedin_url": "https://linkedin.com/in/jonna-ward-0a4429168",
+  "emails": [
+    {
+      "email": "jonna.ward@sacangels.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jward@meridianks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jonna@growthfactory.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jward@trustvip.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Growth Factory Ventures"
+}

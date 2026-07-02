@@ -1,0 +1,56 @@
+{
+  "uuid": "2c37257d-bd2b-4c81-8c2e-bc5ba7b86f40",
+  "first_name": "Jeff",
+  "last_name": "Erickson",
+  "full_name": "Jeff Erickson",
+  "linkedin_url": "https://linkedin.com/in/jeff-erickson",
+  "emails": [
+    {
+      "email": "jeff84087@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jefferickson25@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jeff.erickson@carta.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jeff@forecastr.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jeff@mystartupstack.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jeff@salesdojo.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "-jeff@convoiventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jeff@foundersnfunders.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "je@fnf.ventures",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Founders & Funders"
+}

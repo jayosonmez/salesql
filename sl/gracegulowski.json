@@ -1,0 +1,23 @@
+{
+  "uuid": "0c25dd21-f19c-4d7f-b9cf-4120275fec0a",
+  "first_name": "Grace",
+  "last_name": "Gulowski",
+  "full_name": "Grace Gulowski",
+  "linkedin_url": "https://linkedin.com/in/gracegulowski",
+  "emails": [
+    {
+      "email": "grace.gulowski@promocell.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 6221 6493446",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PromoCell"
+}

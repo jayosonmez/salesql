@@ -1,0 +1,17 @@
+{
+  "uuid": "bb47ce5c-617c-4cac-bd8f-6662d133cc03",
+  "first_name": "Madhura",
+  "last_name": "Manjunath",
+  "full_name": "Madhura Manjunath",
+  "linkedin_url": "https://linkedin.com/in/madhura-manjunath-90b86290",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 508-856-4225",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UMass Memorial Medical Center"
+}

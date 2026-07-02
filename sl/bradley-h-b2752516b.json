@@ -1,0 +1,17 @@
+{
+  "uuid": "a1d7617f-3123-4ef2-b149-dec6eb38a573",
+  "first_name": "Bradley",
+  "last_name": "H.",
+  "full_name": "Bradley H.",
+  "linkedin_url": "https://linkedin.com/in/bradley-h-b2752516b",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 603-669-5139",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DEKA Research & Development"
+}

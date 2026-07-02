@@ -1,0 +1,38 @@
+{
+  "uuid": "6ce7a48c-4c7d-4262-8eb4-37310d106cd7",
+  "first_name": "Miguel",
+  "last_name": "Navarro Cía",
+  "full_name": "Miguel Navarro Cía",
+  "linkedin_url": "https://linkedin.com/in/miguel-navarro-cía-31453872",
+  "emails": [
+    {
+      "email": "m.navarro@birmingham.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "m.navarro@ucl.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mnavarro@imperial.ac.uk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "miguel.navarro@ucl.ac.uk",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 121 414 3344",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IET Microwaves, Antennas & Propagation (The IET)"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "51d0a760-0bb9-4ca6-9a7e-8166ac1e5eec",
+  "first_name": "Sameer",
+  "last_name": "Jafri",
+  "full_name": "Sameer Jafri",
+  "linkedin_url": "https://linkedin.com/in/sameer-jafri-b44780b6",
+  "emails": [
+    {
+      "email": "sameer@savingheartsfoundation.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sameer.jafri@ucla.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Avive Solutions Inc."
+}

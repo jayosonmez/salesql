@@ -1,0 +1,16 @@
+{
+  "uuid": "fc26a7cd-2aa4-43a7-b8ed-7c444dea3681",
+  "first_name": "Jason",
+  "last_name": "Story",
+  "full_name": "Jason Story",
+  "linkedin_url": "https://linkedin.com/in/jasonstory1",
+  "emails": [
+    {
+      "email": "jstory@mutualmobile.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Pallet Supply"
+}

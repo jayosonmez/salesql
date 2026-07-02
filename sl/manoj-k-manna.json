@@ -1,0 +1,29 @@
+{
+  "uuid": "3c8f7df9-d67d-4ae6-baeb-81a127760e15",
+  "first_name": "Manoj K.",
+  "last_name": "Manna",
+  "full_name": "Manoj K. Manna",
+  "linkedin_url": "https://linkedin.com/in/manoj-k-manna",
+  "emails": [
+    {
+      "email": "mmanna@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-838-8952",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-723-2300",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stanford University"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "c196b028-5790-43b1-99f1-9647e1184169",
+  "first_name": "Jason",
+  "last_name": "Brucker",
+  "full_name": "Jason Brucker",
+  "linkedin_url": "https://linkedin.com/in/bruckerjason",
+  "emails": [
+    {
+      "email": "jason.brucker@ro.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-798-8686",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ro"
+}

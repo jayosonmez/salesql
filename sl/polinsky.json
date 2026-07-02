@@ -1,0 +1,26 @@
+{
+  "uuid": "3ed0654e-984f-4653-8840-abf9ce5de119",
+  "first_name": "Cathy",
+  "last_name": "Polinsky",
+  "full_name": "Cathy Polinsky",
+  "linkedin_url": "https://linkedin.com/in/polinsky",
+  "emails": [
+    {
+      "email": "talent@datagrail.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cpolinsky@nuevaschool.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cathy@operatorcollective.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Semgrep"
+}

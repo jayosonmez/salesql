@@ -1,0 +1,33 @@
+{
+  "uuid": "86cb1c31-30f8-4468-bda6-e0d3aaa22a5d",
+  "first_name": "Tamara",
+  "last_name": "Berdyyeva",
+  "full_name": "Tamara Berdyyeva",
+  "linkedin_url": "https://linkedin.com/in/tamara-berdyyeva-86625343",
+  "emails": [
+    {
+      "email": "tamara.berdyyeva@jnj.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tberdyy6@its.jnj.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "toma_berd@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-524-0400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Johnson & Johnson"
+}

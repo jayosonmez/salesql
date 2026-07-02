@@ -1,0 +1,16 @@
+{
+  "uuid": "fab2cc9f-514b-4c98-a1f5-fe899b3f65e3",
+  "first_name": "Angelina",
+  "last_name": "Atieh",
+  "full_name": "Angelina Atieh",
+  "linkedin_url": "https://linkedin.com/in/angelina-atieh-76b791175",
+  "emails": [
+    {
+      "email": "atieh@osu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Pelorus Health"
+}

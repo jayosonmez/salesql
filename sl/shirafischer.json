@@ -1,0 +1,28 @@
+{
+  "uuid": "b0b743e9-c373-405e-8170-3c26e80ea0dc",
+  "first_name": "Shira",
+  "last_name": "Fischer",
+  "full_name": "Shira Fischer",
+  "linkedin_url": "https://linkedin.com/in/shirafischer",
+  "emails": [
+    {
+      "email": "linkedin@shirafischer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sfischer@rand.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 310-393-0411",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "RAND"
+}

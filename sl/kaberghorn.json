@@ -1,0 +1,28 @@
+{
+  "uuid": "5a12bf90-f6b3-472d-969d-8c3dc50a8a50",
+  "first_name": "Kathie",
+  "last_name": "Berghorn",
+  "full_name": "Kathie Berghorn",
+  "linkedin_url": "https://linkedin.com/in/kaberghorn",
+  "emails": [
+    {
+      "email": "kberghorn@carrerabio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kberghorn@agavebio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 607-272-0089",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Carrera Bioscience Inc."
+}

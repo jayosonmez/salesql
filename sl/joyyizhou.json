@@ -1,0 +1,28 @@
+{
+  "uuid": "867f05fe-fc9b-4858-9dfc-ca88dbaae1f2",
+  "first_name": "Joy (Yi)",
+  "last_name": "Zhou, PhD",
+  "full_name": "Joy (Yi) Zhou, PhD",
+  "linkedin_url": "https://linkedin.com/in/joyyizhou",
+  "emails": [
+    {
+      "email": "joy_yzhou@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joy.zhou@hologic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 508-263-2900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hologic, Inc."
+}

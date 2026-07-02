@@ -1,0 +1,23 @@
+{
+  "uuid": "6339fd3b-b23c-423f-8e60-550e6305d8bd",
+  "first_name": "Alexandre",
+  "last_name": "Beautrait, Ph.D.",
+  "full_name": "Alexandre Beautrait, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/alexandrebeautrait",
+  "emails": [
+    {
+      "email": "alexandre.beautrait@schrodinger.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-295-5800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Schrödinger"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "b0ecaacb-a8cb-4d19-b669-2ec5b50afa37",
+  "first_name": "Meifang",
+  "last_name": "Li",
+  "full_name": "Meifang Li",
+  "linkedin_url": "https://linkedin.com/in/meifang-li-2b91633b",
+  "emails": [
+    {
+      "email": "meifang_li@brown.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "meifang_li@brown.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 401-863-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Brown University"
+}

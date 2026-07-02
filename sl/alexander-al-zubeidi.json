@@ -1,0 +1,23 @@
+{
+  "uuid": "d8a5c375-0c87-486a-bc0d-813cfb120b19",
+  "first_name": "Alexander",
+  "last_name": "Al-Zubeidi",
+  "full_name": "Alexander Al-Zubeidi",
+  "linkedin_url": "https://linkedin.com/in/alexander-al-zubeidi",
+  "emails": [
+    {
+      "email": "alexander.al-zubeidi@exxonmobil.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 815-521-7411",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ExxonMobil"
+}

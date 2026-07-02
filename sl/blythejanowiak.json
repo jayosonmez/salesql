@@ -1,0 +1,23 @@
+{
+  "uuid": "a9efa086-fb58-4fbb-96da-8db16390fed7",
+  "first_name": "Blythe",
+  "last_name": "Janowiak",
+  "full_name": "Blythe Janowiak",
+  "linkedin_url": "https://linkedin.com/in/blythejanowiak",
+  "emails": [
+    {
+      "email": "bjanowia@slu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 314-977-2222",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Saint Louis University"
+}

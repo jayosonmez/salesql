@@ -1,0 +1,23 @@
+{
+  "uuid": "ce44022c-5743-4ddf-9ce6-f58a28712e15",
+  "first_name": "Yuhao",
+  "last_name": "Xu",
+  "full_name": "Yuhao Xu",
+  "linkedin_url": "https://linkedin.com/in/yuhao-xu-99111354",
+  "emails": [
+    {
+      "email": "yuhaoxu@pvamu.edu",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 936-261-3311",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Prairie View A&M University"
+}

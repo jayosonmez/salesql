@@ -1,0 +1,28 @@
+{
+  "uuid": "f392b237-95c3-44f6-a190-71ed65002ad1",
+  "first_name": "Christian",
+  "last_name": "Dean",
+  "full_name": "Christian Dean",
+  "linkedin_url": "https://linkedin.com/in/christian-dean-77371a106",
+  "emails": [
+    {
+      "email": "christian@medtreksinternational.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cdean@smtexas.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 970-925-1120",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Aspen Valley Health"
+}

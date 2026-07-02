@@ -1,0 +1,41 @@
+{
+  "uuid": "7fdec8b6-9c9e-45f6-88f6-ed0da5a21904",
+  "first_name": "Augusto",
+  "last_name": "Tonza",
+  "full_name": "Augusto Tonza",
+  "linkedin_url": "https://linkedin.com/in/augusto-tonza",
+  "emails": [
+    {
+      "email": "gutonz@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gutonza@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "augusto@inovativa.online",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "augusto@hublocal.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "augusto@leadster.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "augusto@gvangels.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "GVAngels"
+}

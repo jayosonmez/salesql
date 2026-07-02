@@ -1,0 +1,34 @@
+{
+  "uuid": "6e915510-bc04-4aaa-bb08-e4daae41e316",
+  "first_name": "Gilvan Antonio",
+  "last_name": "Menegotto",
+  "full_name": "Gilvan Antonio Menegotto",
+  "linkedin_url": "https://linkedin.com/in/gilvan-antonio-menegotto-82543825",
+  "emails": [
+    {
+      "email": "gilvan.menegotto@automatus.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gilvan@ventiur.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 35 3473-4050",
+      "type": "Work",
+      "country_code": "BR",
+      "is_valid": true
+    },
+    {
+      "phone": "+55 54 3218-7700",
+      "type": "Personal",
+      "country_code": "BR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Exxer"
+}

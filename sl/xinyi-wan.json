@@ -1,0 +1,17 @@
+{
+  "uuid": "5feaffe6-5540-46b4-a2c5-5807487584bf",
+  "first_name": "Xinyi",
+  "last_name": "Wan",
+  "full_name": "Xinyi Wan",
+  "linkedin_url": "https://linkedin.com/in/xinyi-wan",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+44 131 650 1000",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The University of Edinburgh"
+}

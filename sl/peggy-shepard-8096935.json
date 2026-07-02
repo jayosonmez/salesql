@@ -1,0 +1,16 @@
+{
+  "uuid": "a96ac266-28e9-4938-a319-08b5bd3abd2a",
+  "first_name": "Peggy",
+  "last_name": "Shepard",
+  "full_name": "Peggy Shepard",
+  "linkedin_url": "https://linkedin.com/in/peggy-shepard-8096935",
+  "emails": [
+    {
+      "email": "peggy@weact.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "WE ACT for Environmental Justice"
+}

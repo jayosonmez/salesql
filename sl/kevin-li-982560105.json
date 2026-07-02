@@ -1,0 +1,28 @@
+{
+  "uuid": "0a3af650-ec3b-4284-bb55-8e169f4ea87a",
+  "first_name": "Kevin",
+  "last_name": "Li",
+  "full_name": "Kevin Li",
+  "linkedin_url": "https://linkedin.com/in/kevin-li-982560105",
+  "emails": [
+    {
+      "email": "kevin.li@sf.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kevin@asianhealthservices.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-735-3100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Asian Health Services"
+}

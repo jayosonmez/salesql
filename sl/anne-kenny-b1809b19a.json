@@ -1,0 +1,27 @@
+{
+  "uuid": "66244f36-031e-4f90-8d75-bacd73ad65a7",
+  "first_name": "Anne",
+  "last_name": "Kenny",
+  "full_name": "Anne Kenny",
+  "linkedin_url": "https://linkedin.com/in/anne-kenny-b1809b19a",
+  "emails": [
+    {
+      "email": "dranne@togetherindementia.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "kenny@uchc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "8668663726635",
+      "type": "Personal",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Together in Dementia"
+}

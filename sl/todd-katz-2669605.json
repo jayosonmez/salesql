@@ -1,0 +1,16 @@
+{
+  "uuid": "3d41a713-3b1a-4412-9938-b127503cf1e7",
+  "first_name": "Todd",
+  "last_name": "Katz",
+  "full_name": "Todd Katz",
+  "linkedin_url": "https://linkedin.com/in/todd-katz-2669605",
+  "emails": [
+    {
+      "email": "todd@bell-horn.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Round One Capital"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "c8505f99-4c27-4c63-83d3-13a57c019142",
+  "first_name": "Scott",
+  "last_name": "Bralow DO",
+  "full_name": "Scott Bralow DO",
+  "linkedin_url": "https://linkedin.com/in/scott-bralow-do-b2028a5a",
+  "emails": [
+    {
+      "email": "sabralow@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 610-304-7481",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bralow Medical Group"
+}

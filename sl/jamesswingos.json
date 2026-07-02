@@ -1,0 +1,21 @@
+{
+  "uuid": "e931ba8d-7603-42ec-bc7e-259e886fc6f5",
+  "first_name": "James",
+  "last_name": "Swingos",
+  "full_name": "James Swingos",
+  "linkedin_url": "https://linkedin.com/in/jamesswingos",
+  "emails": [
+    {
+      "email": "james@generalintuition.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "james@medal.tv",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "General Intuition"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "2ff0ec90-b5fb-4191-910b-7676abddde3a",
+  "first_name": "David",
+  "last_name": "Peterson",
+  "full_name": "David Peterson",
+  "linkedin_url": "https://linkedin.com/in/david-peterson-65094a9",
+  "emails": [
+    {
+      "email": "jdpatmoose@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dpeterson@multicare.org",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 253-459-6633",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MultiCare Health System"
+}

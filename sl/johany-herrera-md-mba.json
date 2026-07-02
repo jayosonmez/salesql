@@ -1,0 +1,16 @@
+{
+  "uuid": "ed334234-9c62-44f6-8261-c6f55c9f1c5a",
+  "first_name": "Johany",
+  "last_name": "Herrera",
+  "full_name": "Johany Herrera",
+  "linkedin_url": "https://linkedin.com/in/johany-herrera-md-mba",
+  "emails": [
+    {
+      "email": "johanylince@yahoo.com.mx",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lynx Homes"
+}

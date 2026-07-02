@@ -1,0 +1,17 @@
+{
+  "uuid": "2433111a-35e5-4304-aba0-164356a5dbcd",
+  "first_name": "David",
+  "last_name": "Manela, MD",
+  "full_name": "David Manela, MD",
+  "linkedin_url": "https://linkedin.com/in/dr-david-manela",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 305-384-1113",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Manela Health"
+}

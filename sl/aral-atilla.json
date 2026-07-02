@@ -1,0 +1,28 @@
+{
+  "uuid": "08c188ff-23b3-4cf2-84dd-3482b030cfee",
+  "first_name": "Aral",
+  "last_name": "Atilla",
+  "full_name": "Aral Atilla",
+  "linkedin_url": "https://linkedin.com/in/aral-atilla",
+  "emails": [
+    {
+      "email": "aral.atilla@rcrecruit.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aral.atilla@rcrecruit.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 850 441 0843",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Recruit IT - IT Recruitment & HR Consultancy"
+}

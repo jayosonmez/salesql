@@ -1,0 +1,44 @@
+{
+  "uuid": "4b4e8964-a68b-4618-91b8-8d8a0523cc80",
+  "first_name": "Aydin",
+  "last_name": "Senkut",
+  "full_name": "Aydin Senkut",
+  "linkedin_url": "https://linkedin.com/in/aydins",
+  "emails": [
+    {
+      "email": "aydin@felicis.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "aydin@n8n.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aydin@entire.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "aydin@supabase.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-714-7292",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 888-391-6035",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Felicis"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "ed3e4fe3-7abb-46cd-80bd-57f6aae622b7",
+  "first_name": "Omer",
+  "last_name": "Bese",
+  "full_name": "Omer Bese",
+  "linkedin_url": "https://linkedin.com/in/omerbese",
+  "emails": [
+    {
+      "email": "omer@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "omer@tuliphaus.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "omer@bonjuur.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ODF"
+}

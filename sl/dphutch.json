@@ -1,0 +1,16 @@
+{
+  "uuid": "3de9d5ab-21f4-47d3-8735-7084ed7c45bc",
+  "first_name": "Don",
+  "last_name": "Hutchison",
+  "full_name": "Don Hutchison",
+  "linkedin_url": "https://linkedin.com/in/dphutch",
+  "emails": [
+    {
+      "email": "donhutchison@earthlink.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Independent investor"
+}

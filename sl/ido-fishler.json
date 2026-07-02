@@ -1,0 +1,43 @@
+{
+  "uuid": "f6a16332-df36-448d-900e-580199b48fe1",
+  "first_name": "Ido",
+  "last_name": "Fishler",
+  "full_name": "Ido Fishler",
+  "linkedin_url": "https://linkedin.com/in/ido-fishler",
+  "emails": [
+    {
+      "email": "ido@rhino-eco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ido.fishler@healthee.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "idofishler@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ido@beehero.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ido@goodcompanyhq.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+972 54-534-8060",
+      "type": "Work",
+      "country_code": "IL",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Good Company VC"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "39cac9af-b483-4ccb-ae2a-b4b13166c132",
+  "first_name": "Christopher",
+  "last_name": "Quinn",
+  "full_name": "Christopher Quinn",
+  "linkedin_url": "https://linkedin.com/in/drquinnweightloss",
+  "emails": [
+    {
+      "email": "christopher@cratusmedical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "drquinn@drquinnweightloss.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cmq@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 248-922-4900",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cratus Medical"
+}

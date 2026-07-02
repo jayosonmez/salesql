@@ -1,0 +1,28 @@
+{
+  "uuid": "6b35b55b-52f9-458c-ab2d-256aaf62c2f5",
+  "first_name": "Kasia",
+  "last_name": "Kready",
+  "full_name": "Kasia Kready",
+  "linkedin_url": "https://linkedin.com/in/kasia-kready-0b67a0158",
+  "emails": [
+    {
+      "email": "kasia_kready@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kasia.kready@dartmouth.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-495-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard University"
+}

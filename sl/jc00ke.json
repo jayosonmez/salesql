@@ -1,0 +1,21 @@
+{
+  "uuid": "739de7b9-a281-4d18-9de8-cdf53b3c8d90",
+  "first_name": "Jesse",
+  "last_name": "Cooke",
+  "full_name": "Jesse Cooke",
+  "linkedin_url": "https://linkedin.com/in/jc00ke",
+  "emails": [
+    {
+      "email": "jesse@lfph.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jesse@relativepath.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Ratio PBC"
+}

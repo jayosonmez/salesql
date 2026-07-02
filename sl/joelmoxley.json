@@ -1,0 +1,46 @@
+{
+  "uuid": "ce736935-d4a5-41ee-af71-b4ca53a01d72",
+  "first_name": "Joel",
+  "last_name": "Moxley",
+  "full_name": "Joel Moxley",
+  "linkedin_url": "https://linkedin.com/in/joelmoxley",
+  "emails": [
+    {
+      "email": "joel@breakthroughenergy.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jfmoxley@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joel@zeromasswater.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "moxley@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joel@aionics.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joel@marain.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jmoxley@statebankwy.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Echelon"
+}

@@ -1,0 +1,26 @@
+{
+  "uuid": "683fed71-8c08-4438-bc58-9a11c1ef3174",
+  "first_name": "Reza",
+  "last_name": "Malek, MD",
+  "full_name": "Reza Malek, MD",
+  "linkedin_url": "https://linkedin.com/in/rezamalekmd",
+  "emails": [
+    {
+      "email": "rezam@embomedics.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "malek@endovascularsurgery.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "malek@vitagene.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Minimally Invasive Surgical Solutions"
+}

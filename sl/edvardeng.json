@@ -1,0 +1,26 @@
+{
+  "uuid": "11a779d5-43c4-4fe9-95cc-d1ba1e858cde",
+  "first_name": "Edvard",
+  "last_name": "Engesæth, MD",
+  "full_name": "Edvard Engesæth, MD",
+  "linkedin_url": "https://linkedin.com/in/edvardeng",
+  "emails": [
+    {
+      "email": "edvard@sondo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "edvard.engesaeth@thirtymadison.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "edvard@nurx.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Sondo"
+}

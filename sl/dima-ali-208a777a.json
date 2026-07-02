@@ -1,0 +1,23 @@
+{
+  "uuid": "d65fb1ff-57ba-4b2c-a3f5-f2649fe34ac6",
+  "first_name": "Dima",
+  "last_name": "Ali",
+  "full_name": "Dima Ali",
+  "linkedin_url": "https://linkedin.com/in/dima-ali-208a777a",
+  "emails": [
+    {
+      "email": "dr.dima@wellmedica.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 703-787-9866",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "WellMedica Aesthetic & Anti-Aging Medicine"
+}

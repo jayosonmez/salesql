@@ -1,0 +1,26 @@
+{
+  "uuid": "6b748b96-9fb4-4051-8f03-141c10864795",
+  "first_name": "Kristin",
+  "last_name": "Wulff",
+  "full_name": "Kristin Wulff",
+  "linkedin_url": "https://linkedin.com/in/kristin-wulff-13a44120",
+  "emails": [
+    {
+      "email": "kcox2002@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "klcoxmd@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "wulffk@vital-rejuvenation.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Excellence Health Med Spa"
+}

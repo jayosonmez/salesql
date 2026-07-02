@@ -1,0 +1,23 @@
+{
+  "uuid": "c649aae4-27d1-469f-a52c-0fef47ac6681",
+  "first_name": "Lola",
+  "last_name": "Olabode",
+  "full_name": "Lola Olabode",
+  "linkedin_url": "https://linkedin.com/in/lola-olabode-a8605a173",
+  "emails": [
+    {
+      "email": "lola.olabode@ibm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 914-499-1900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IBM"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "675bd7d7-25e0-487e-8232-5311c41b453e",
+  "first_name": "Mary",
+  "last_name": "Machado",
+  "full_name": "Mary Machado",
+  "linkedin_url": "https://linkedin.com/in/marymachado1126",
+  "emails": [
+    {
+      "email": "machadom@wit.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-989-4590",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wentworth Institute of Technology"
+}

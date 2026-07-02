@@ -1,0 +1,28 @@
+{
+  "uuid": "f254397e-5ec5-4be8-86ce-033549b7828a",
+  "first_name": "Sumesh",
+  "last_name": "Khanal",
+  "full_name": "Sumesh Khanal",
+  "linkedin_url": "https://linkedin.com/in/sumeshkhanal",
+  "emails": [
+    {
+      "email": "skhanal@lecom.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sumesh.khanal@towerhealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 610-983-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Phoenixville Hospital - Tower Health"
+}

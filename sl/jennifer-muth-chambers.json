@@ -1,0 +1,23 @@
+{
+  "uuid": "624645cf-35f3-42aa-b717-82e3413fc916",
+  "first_name": "Jenny",
+  "last_name": "Chambers",
+  "full_name": "Jenny Chambers",
+  "linkedin_url": "https://linkedin.com/in/jennifer-muth-chambers",
+  "emails": [
+    {
+      "email": "jennifer.chambers@schrodinger.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 212-295-5800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Schrödinger"
+}

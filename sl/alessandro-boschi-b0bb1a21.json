@@ -1,0 +1,27 @@
+{
+  "uuid": "9e527d9a-a17f-4a29-a8ae-45f95e5d0702",
+  "first_name": "Alessandro",
+  "last_name": "Boschi",
+  "full_name": "Alessandro Boschi",
+  "linkedin_url": "https://linkedin.com/in/alessandro-boschi-b0bb1a21",
+  "emails": [
+    {
+      "email": "alessandro.boschi@tetrapak.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alleboschi@alice.it",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+41 21 729 23 03",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Tetra Pak"
+}

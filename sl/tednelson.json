@@ -1,0 +1,33 @@
+{
+  "uuid": "22978ee2-db9a-4d86-954a-389e3b92d7be",
+  "first_name": "Ted",
+  "last_name": "Nelson",
+  "full_name": "Ted Nelson",
+  "linkedin_url": "https://linkedin.com/in/tednelson",
+  "emails": [
+    {
+      "email": "ted@gofido.se",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ted@getdreams.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ted@skywire.se",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+46 70 814 07 31",
+      "type": "Personal",
+      "country_code": "SE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Skywire AB"
+}

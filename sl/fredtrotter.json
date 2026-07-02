@@ -1,0 +1,49 @@
+{
+  "uuid": "c73f0a1c-ffed-4fc7-a4c2-182e315a2e60",
+  "first_name": "Fred",
+  "last_name": "Trotter",
+  "full_name": "Fred Trotter",
+  "linkedin_url": "https://linkedin.com/in/fredtrotter",
+  "emails": [
+    {
+      "email": "fred.trotter@cms.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ftrotter@docgraph.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ftrotter@careset.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "fred.trotter@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ftrotter@docgraph.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 713-965-4327",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 877-267-2323",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Digital Service at Centers for Medicare & Medicaid Services (CMS)"
+}

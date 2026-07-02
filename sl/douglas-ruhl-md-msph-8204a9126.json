@@ -1,0 +1,28 @@
+{
+  "uuid": "a1bfd468-2d78-4557-9556-9e5c8b99ff92",
+  "first_name": "Douglas",
+  "last_name": "Ruhl, MD, MSPH",
+  "full_name": "Douglas Ruhl, MD, MSPH",
+  "linkedin_url": "https://linkedin.com/in/douglas-ruhl-md-msph-8204a9126",
+  "emails": [
+    {
+      "email": "douglas.ruhl@usuhs.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "d.ruhl@army.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 253-968-1110",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Madigan Army Medical Center"
+}

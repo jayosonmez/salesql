@@ -1,0 +1,16 @@
+{
+  "uuid": "e3f9dd90-3a59-44e4-af6a-7e6176944457",
+  "first_name": "Glenn",
+  "last_name": "Johnson",
+  "full_name": "Glenn Johnson",
+  "linkedin_url": "https://linkedin.com/in/glenn-johnson-b85b844",
+  "emails": [
+    {
+      "email": "glenn.johnson@tyndall.af.mil",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hexpoint Technologies"
+}

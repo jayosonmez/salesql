@@ -1,0 +1,28 @@
+{
+  "uuid": "1cb05b55-deb9-46dc-a67e-f21e9ab69352",
+  "first_name": "Randy",
+  "last_name": "King",
+  "full_name": "Randy King",
+  "linkedin_url": "https://linkedin.com/in/randy-king-7617953",
+  "emails": [
+    {
+      "email": "randy_king@hms.harvard.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "randy_king@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-524-1718",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard Medical School"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "29a944d2-50c9-47d6-817c-b08afd0e9624",
+  "first_name": "Isaac",
+  "last_name": "Hsia",
+  "full_name": "Isaac Hsia",
+  "linkedin_url": "https://linkedin.com/in/isaac-hsia-8b1241211",
+  "emails": [
+    {
+      "email": "hsia.isaac@gene.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-225-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Genentech"
+}

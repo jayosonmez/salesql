@@ -1,0 +1,21 @@
+{
+  "uuid": "7630a36a-cb11-4b23-8298-f6cbeaa1a916",
+  "first_name": "Giuseppe (Joe)",
+  "last_name": "Papalia, Ph.D.",
+  "full_name": "Giuseppe (Joe) Papalia, Ph.D.",
+  "linkedin_url": "https://linkedin.com/in/giuseppe-joe-papalia-ph-d-b038403a",
+  "emails": [
+    {
+      "email": "joe.papalia@gilead.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "joe.papalia@takedasf.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Gilead Sciences"
+}

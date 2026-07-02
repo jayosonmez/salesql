@@ -1,0 +1,17 @@
+{
+  "uuid": "e2ab9a47-8dcb-4418-8262-029d911919b8",
+  "first_name": "Constance",
+  "last_name": "Chace, MD, MPH",
+  "full_name": "Constance Chace, MD, MPH",
+  "linkedin_url": "https://linkedin.com/in/constance-chace-md-mph-34240a1a5",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 858-534-2230",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FrontlinePPE NOW"
+}

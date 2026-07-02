@@ -1,0 +1,23 @@
+{
+  "uuid": "9d4bf4c5-7e64-4f29-af29-35a0d8ed948b",
+  "first_name": "Eric",
+  "last_name": "Lemister, DO",
+  "full_name": "Eric Lemister, DO",
+  "linkedin_url": "https://linkedin.com/in/eric-lemister-do-9530808b",
+  "emails": [
+    {
+      "email": "eric_lemister@airforce.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 480-948-0600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "United States Air Force"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ea5ec1f4-0ce1-49f0-a36d-480704664738",
+  "first_name": "Max",
+  "last_name": "Mullen",
+  "full_name": "Max Mullen",
+  "linkedin_url": "https://linkedin.com/in/maxmullen",
+  "emails": [
+    {
+      "email": "max.mullen@instacart.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "max@maxmullen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-246-7822",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Instacart"
+}

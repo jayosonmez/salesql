@@ -1,0 +1,28 @@
+{
+  "uuid": "9415f09e-114a-4af9-9092-6419038fc603",
+  "first_name": "Vadim",
+  "last_name": "Axelrod",
+  "full_name": "Vadim Axelrod",
+  "linkedin_url": "https://linkedin.com/in/vadim1",
+  "emails": [
+    {
+      "email": "vadim@vadim.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "va@joineve.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-804-5617",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "EVE"
+}

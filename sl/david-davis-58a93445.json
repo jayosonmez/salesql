@@ -1,0 +1,16 @@
+{
+  "uuid": "5affda71-e96d-4a2f-85bd-fbedb5cc69db",
+  "first_name": "David",
+  "last_name": "Davis",
+  "full_name": "David Davis",
+  "linkedin_url": "https://linkedin.com/in/david-davis-58a93445",
+  "emails": [
+    {
+      "email": "ddavis1@twcny.rr.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The School of the New Light"
+}

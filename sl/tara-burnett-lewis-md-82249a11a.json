@@ -1,0 +1,28 @@
+{
+  "uuid": "3bde3f21-3edd-49b1-b7db-a0a80885d93a",
+  "first_name": "Tara",
+  "last_name": "Burnett-Lewis, MD",
+  "full_name": "Tara Burnett-Lewis, MD",
+  "linkedin_url": "https://linkedin.com/in/tara-burnett-lewis-md-82249a11a",
+  "emails": [
+    {
+      "email": "burnett-lewis@campbell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tburnett-lewis@campbell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-966-7890",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Johnston County Public Health Department"
+}

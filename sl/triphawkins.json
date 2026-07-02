@@ -1,0 +1,26 @@
+{
+  "uuid": "65a28bb4-29fa-4b75-9be4-2bd0f6e7932d",
+  "first_name": "Trip",
+  "last_name": "Hawkins",
+  "full_name": "Trip Hawkins",
+  "linkedin_url": "https://linkedin.com/in/triphawkins",
+  "emails": [
+    {
+      "email": "trip@breakawaydata.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "trip.hawkins@apeel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "trip@gamesforaliving.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Games for a Living (GFAL)"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "34d7d7c0-8231-4254-8cb5-adc29c51c4b8",
+  "first_name": "Itay",
+  "last_name": "Gardi",
+  "full_name": "Itay Gardi",
+  "linkedin_url": "https://linkedin.com/in/itay-gardi-96735485",
+  "emails": [
+    {
+      "email": "itay@doorloop.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-607-3667",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DoorLoop"
+}

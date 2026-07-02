@@ -1,0 +1,23 @@
+{
+  "uuid": "8fe1a0d1-912c-48fe-b3a3-6a59eb922ac8",
+  "first_name": "Kevin",
+  "last_name": "Keller",
+  "full_name": "Kevin Keller",
+  "linkedin_url": "https://linkedin.com/in/kevin-keller-a7823476",
+  "emails": [
+    {
+      "email": "kkeller@partnermd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 404-419-4700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PartnerMD"
+}

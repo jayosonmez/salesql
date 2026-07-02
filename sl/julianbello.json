@@ -1,0 +1,23 @@
+{
+  "uuid": "da918626-0aa2-4432-bf01-1f8f1c20cb0d",
+  "first_name": "Julian",
+  "last_name": "Bello",
+  "full_name": "Julian Bello",
+  "linkedin_url": "https://linkedin.com/in/julianbello",
+  "emails": [
+    {
+      "email": "bello.j@janssen.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 732-524-0400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Janssen Pharmaceutical Companies of Johnson & Johnson"
+}

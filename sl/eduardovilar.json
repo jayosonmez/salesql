@@ -1,0 +1,38 @@
+{
+  "uuid": "5df00424-e3df-472d-abed-7310c52f365c",
+  "first_name": "Eduardo",
+  "last_name": "Vilar",
+  "full_name": "Eduardo Vilar",
+  "linkedin_url": "https://linkedin.com/in/eduardovilar",
+  "emails": [
+    {
+      "email": "eduardo@actucast.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eduardo@returnly.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "evilar@bankinter.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-730-5790",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+34 913 39 75 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bankinter"
+}

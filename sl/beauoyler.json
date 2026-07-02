@@ -1,0 +1,50 @@
+{
+  "uuid": "36382279-870f-4326-89bc-0ca14883e928",
+  "first_name": "Beau",
+  "last_name": "Oyler",
+  "full_name": "Beau Oyler",
+  "linkedin_url": "https://linkedin.com/in/beauoyler",
+  "emails": [
+    {
+      "email": "beau@pattern.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "beau@enlisteddesign.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bo@fastcompany.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "beau@dripmfg.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 925-759-6264",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 510-899-5632",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 510-899-5632",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Enlisted Design"
+}

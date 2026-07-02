@@ -1,0 +1,21 @@
+{
+  "uuid": "b2a063e8-d80f-4683-8fbc-f63086dc51f5",
+  "first_name": "Richard",
+  "last_name": "Helfrich",
+  "full_name": "Richard Helfrich",
+  "linkedin_url": "https://linkedin.com/in/rhelfrich",
+  "emails": [
+    {
+      "email": "r.helfrich@alamedaai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "richard.helfrich@unlv.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Alameda Advisors Inc."
+}

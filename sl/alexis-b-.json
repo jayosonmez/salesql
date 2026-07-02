@@ -1,0 +1,33 @@
+{
+  "uuid": "73b52915-8a1e-4555-8600-676b2c51224d",
+  "first_name": "Alexis",
+  "last_name": "B.",
+  "full_name": "Alexis B.",
+  "linkedin_url": "https://linkedin.com/in/alexis-b-",
+  "emails": [
+    {
+      "email": "alexis@mothers.paris",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alexis@joinsteer.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "alexis@tokendata.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 6 76 12 45 94",
+      "type": "Personal",
+      "country_code": "FR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Joinsteer"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f77434d0-8a8f-4739-b4a2-37a87abb87e1",
+  "first_name": "Gil",
+  "last_name": "X. Hernandez",
+  "full_name": "Gil X. Hernandez",
+  "linkedin_url": "https://linkedin.com/in/gilxhernandez",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 415-250-2628",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Apple"
+}

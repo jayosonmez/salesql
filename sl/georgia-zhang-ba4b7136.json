@@ -1,0 +1,17 @@
+{
+  "uuid": "9ffc5dfd-9709-49f6-9882-2caa697698ee",
+  "first_name": "Georgia",
+  "last_name": "Zhang",
+  "full_name": "Georgia Zhang",
+  "linkedin_url": "https://linkedin.com/in/georgia-zhang-ba4b7136",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 800-318-3021",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harbor IP Services, Inc."
+}

@@ -1,0 +1,54 @@
+{
+  "uuid": "d08d3d6a-fc19-4af1-a91e-eeb19dec0f28",
+  "first_name": "Vivian",
+  "last_name": "Luu",
+  "full_name": "Vivian Luu",
+  "linkedin_url": "https://linkedin.com/in/vivianluu",
+  "emails": [
+    {
+      "email": "vivianjluu@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vluu@lenati.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vivian@timelyai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vluu@foundationcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vivian@thecouncil.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vivian.luu@convoy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-698-8834",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "9933905117",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Stealth"
+}

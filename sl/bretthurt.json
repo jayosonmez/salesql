@@ -1,0 +1,36 @@
+{
+  "uuid": "b81019be-44ce-41fb-ba07-679ecbb406a2",
+  "first_name": "Brett A.",
+  "last_name": "Hurt",
+  "full_name": "Brett A. Hurt",
+  "linkedin_url": "https://linkedin.com/in/bretthurt",
+  "emails": [
+    {
+      "email": "brett@bazaarvoice.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hurta@aspeninstitute.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "a@techstars.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "a_hurt@clearblade.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bretthurt@capitalfactory.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Love Conquers Fear"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "67d4101d-cfae-4d55-a056-63679d6f60ea",
+  "first_name": "Dr Kevin",
+  "last_name": "Mais",
+  "full_name": "Dr Kevin Mais",
+  "linkedin_url": "https://linkedin.com/in/dr-kevin-mais-33009b70",
+  "emails": [
+    {
+      "email": "dr.mais@genesishealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dmais@royalcaribbean.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ROCK ISLAND CNTY DEPT OF PUBLIC HEALTH"
+}

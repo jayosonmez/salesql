@@ -1,0 +1,33 @@
+{
+  "uuid": "36ac43ca-38ec-47f8-a82b-82e81772bc97",
+  "first_name": "Bill",
+  "last_name": "Watkins",
+  "full_name": "Bill Watkins",
+  "linkedin_url": "https://linkedin.com/in/bill-watkins-3b1935112",
+  "emails": [
+    {
+      "email": "bill.watkins@imergy.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bwatkins@nextracker.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bill.watkins@flex.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-270-2500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Nextracker Inc."
+}

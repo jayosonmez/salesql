@@ -1,0 +1,23 @@
+{
+  "uuid": "17cad886-eccf-4d8e-966c-26336c97946f",
+  "first_name": "Anahita",
+  "last_name": "Khojastegi, PhD",
+  "full_name": "Anahita Khojastegi, PhD",
+  "linkedin_url": "https://linkedin.com/in/ak738",
+  "emails": [
+    {
+      "email": "anahita.khojastegi@cornell.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 607-254-4636",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cornell University"
+}

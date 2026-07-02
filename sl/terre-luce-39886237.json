@@ -1,0 +1,33 @@
+{
+  "uuid": "858ac54f-c823-4c65-a415-b745b3d510ff",
+  "first_name": "Terre",
+  "last_name": "Luce",
+  "full_name": "Terre Luce",
+  "linkedin_url": "https://linkedin.com/in/terre-luce-39886237",
+  "emails": [
+    {
+      "email": "terre.luce@mima.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tluce@prismahealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "terre_luce@schumacherclinical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 803-434-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Greenville Health System"
+}

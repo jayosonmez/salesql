@@ -1,0 +1,43 @@
+{
+  "uuid": "f11a8bc0-dfb5-4469-8667-27b914a496c6",
+  "first_name": "Todd",
+  "last_name": "McSweeney",
+  "full_name": "Todd McSweeney",
+  "linkedin_url": "https://linkedin.com/in/todd-mcsweeney-78519494",
+  "emails": [
+    {
+      "email": "todd.mcsweeney@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "todd@wescover.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "todd@pliant.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "todd@sunwink.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "todd@thejackfruitcompany.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-433-4024",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Jackfruit Company"
+}

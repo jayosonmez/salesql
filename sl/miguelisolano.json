@@ -1,0 +1,33 @@
+{
+  "uuid": "bb15a988-5795-417a-b37c-abbf63ee3e0a",
+  "first_name": "Miguel I.",
+  "last_name": "Solano",
+  "full_name": "Miguel I. Solano",
+  "linkedin_url": "https://linkedin.com/in/miguelisolano",
+  "emails": [
+    {
+      "email": "miguel@latitud.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "miguel.solano@vmindai.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "i_solano@tgleaders.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-221-6111",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "VMind AI"
+}

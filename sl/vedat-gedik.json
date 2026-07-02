@@ -1,0 +1,21 @@
+{
+  "uuid": "c8fe706d-61ea-4c07-8e25-0926a42a8164",
+  "first_name": "Vedat",
+  "last_name": "Gedik",
+  "full_name": "Vedat Gedik",
+  "linkedin_url": "https://linkedin.com/in/vedat-gedik",
+  "emails": [
+    {
+      "email": "bradley@clarusway.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vedat.gedik@shieldriser.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "ShieldRiser - Empowering Cybersecurity Talent Through Hands-On Virtual SOC Training"
+}

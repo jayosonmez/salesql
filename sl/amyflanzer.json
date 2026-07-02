@@ -1,0 +1,23 @@
+{
+  "uuid": "809b91b3-2927-44de-b125-706c15f80565",
+  "first_name": "Amy",
+  "last_name": "Flanzer",
+  "full_name": "Amy Flanzer",
+  "linkedin_url": "https://linkedin.com/in/amyflanzer",
+  "emails": [
+    {
+      "email": "aflanzer@bsd.k12.ca.us",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-259-3800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Burlingame Elementary School"
+}

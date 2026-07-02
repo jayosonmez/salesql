@@ -1,0 +1,23 @@
+{
+  "uuid": "99137ab7-2b86-47e3-8299-843018b6df71",
+  "first_name": "Mark W.",
+  "last_name": "Balles",
+  "full_name": "Mark W. Balles",
+  "linkedin_url": "https://linkedin.com/in/mark-w-balles-a5590259",
+  "emails": [
+    {
+      "email": "mballes@mainehealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-283-7000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MaineHealth Maine Medical Center"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "e93e047e-2048-4825-b095-81dd7121a438",
+  "first_name": "Daniel E.",
+  "last_name": "Straus",
+  "full_name": "Daniel E. Straus",
+  "linkedin_url": "https://linkedin.com/in/daniel-e-straus-1217ab56",
+  "emails": [
+    {
+      "email": "dstraus@care-one.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "daniel.straus@aveta.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Aveta"
+}

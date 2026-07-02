@@ -1,0 +1,28 @@
+{
+  "uuid": "5c500d87-86e5-48cc-9a06-40c8477440ab",
+  "first_name": "Christin",
+  "last_name": "C.",
+  "full_name": "Christin C.",
+  "linkedin_url": "https://linkedin.com/in/christin-cudahy1995",
+  "emails": [
+    {
+      "email": "ccudahy@ucsc.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "ccudahy@adarx.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 858-617-7600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Neurocrine Biosciences"
+}

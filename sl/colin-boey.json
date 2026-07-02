@@ -1,0 +1,41 @@
+{
+  "uuid": "66864180-5657-4be1-949d-2bf90ab5410f",
+  "first_name": "Colin",
+  "last_name": "Boey",
+  "full_name": "Colin Boey",
+  "linkedin_url": "https://linkedin.com/in/colin-boey",
+  "emails": [
+    {
+      "email": "colin.boey@chrystalcapital.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "colinboey@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "c.boey@fileinvite.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "colin@stashpad.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "colin@harperconcierge.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "colin@meetotis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Deep Pow Syndicates"
+}

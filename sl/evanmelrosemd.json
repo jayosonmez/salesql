@@ -1,0 +1,36 @@
+{
+  "uuid": "d3202c3b-486c-4084-b2d0-bc8c215648f0",
+  "first_name": "Evan",
+  "last_name": "Melrose, MD, MBA",
+  "full_name": "Evan Melrose, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/evanmelrosemd",
+  "emails": [
+    {
+      "email": "em@texaslyceum.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "evan@spindletopcapital.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "melrose@bioventus.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "e_melrose@aspeninstitute.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "emelrosecontacts@gmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Elevage Medical Technologies"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "b2c10556-f985-40ad-923f-a2303f709900",
+  "first_name": "Dean",
+  "last_name": "Graziosi",
+  "full_name": "Dean Graziosi",
+  "linkedin_url": "https://linkedin.com/in/deangraziosiinc",
+  "emails": [
+    {
+      "email": "tanner@deangraziosi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dean.graziosi@deangraziosi.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "luis@deangraziosi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "deangraziosi@awesomewebmarketing.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dean@mastermind.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dean@myaiadvantage.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The AI Advantage"
+}

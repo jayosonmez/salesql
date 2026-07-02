@@ -1,0 +1,17 @@
+{
+  "uuid": "1512ab91-49d6-404d-9c8a-93c7a5fe808d",
+  "first_name": "Lindsey",
+  "last_name": "Duguet",
+  "full_name": "Lindsey Duguet",
+  "linkedin_url": "https://linkedin.com/in/lindsey-duguet-ba10a9184",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 570-271-6211",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Duguet Estates"
+}

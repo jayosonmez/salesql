@@ -1,0 +1,49 @@
+{
+  "uuid": "989e9482-f12a-41cf-b9fa-f19895d0ebdc",
+  "first_name": "Natalie",
+  "last_name": "Lambajian-Drummond",
+  "full_name": "Natalie Lambajian-Drummond",
+  "linkedin_url": "https://linkedin.com/in/natalie-lambajian-drummond-13212b7",
+  "emails": [
+    {
+      "email": "natalie_drummond@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "nlambajian-drummond@silvercross.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "natalie.lambajian-drummond@mjn.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "natalie.lambajian-drummond@comphealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "natalie@creeksidenaturals.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 331-223-3839",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 815-300-1100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Silver Cross Hospital"
+}

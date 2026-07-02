@@ -1,0 +1,41 @@
+{
+  "uuid": "c11dea5b-f365-4893-adfc-f5a991b19277",
+  "first_name": "Andreas",
+  "last_name": "Ehn",
+  "full_name": "Andreas Ehn",
+  "linkedin_url": "https://linkedin.com/in/andreasehn",
+  "emails": [
+    {
+      "email": "andreas.ehn@antler.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andreas.ehn@automile.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andreas.ehn@mevp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "andreas.ehn@eqtgroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ehn@a8n.se",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "andreas@approach.world",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Approach"
+}

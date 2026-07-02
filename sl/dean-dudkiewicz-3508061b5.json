@@ -1,0 +1,21 @@
+{
+  "uuid": "cb44b865-65f5-460f-aaba-24b94ce91e81",
+  "first_name": "Dean",
+  "last_name": "Dudkiewicz",
+  "full_name": "Dean Dudkiewicz",
+  "linkedin_url": "https://linkedin.com/in/dean-dudkiewicz-3508061b5",
+  "emails": [
+    {
+      "email": "dean@almedaventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dean@almedaventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Almeda Ventures"
+}

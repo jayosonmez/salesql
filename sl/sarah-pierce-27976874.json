@@ -1,0 +1,16 @@
+{
+  "uuid": "3bdb6b8e-b4d1-4181-9688-7f84f50743c7",
+  "first_name": "Sarah",
+  "last_name": "Pierce",
+  "full_name": "Sarah Pierce",
+  "linkedin_url": "https://linkedin.com/in/sarah-pierce-27976874",
+  "emails": [
+    {
+      "email": "sarah@joystik.life",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Joystik Life"
+}

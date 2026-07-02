@@ -1,0 +1,29 @@
+{
+  "uuid": "357ebb0a-27e8-4ebb-aea5-be858a8654eb",
+  "first_name": "Adekunle",
+  "last_name": "Bamigbola",
+  "full_name": "Adekunle Bamigbola",
+  "linkedin_url": "https://linkedin.com/in/aaregangan",
+  "emails": [
+    {
+      "email": "sdeuxier@sdxrlabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 323-905-4174",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 574-252-5662",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth Startup"
+}

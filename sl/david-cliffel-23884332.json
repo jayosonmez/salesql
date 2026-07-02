@@ -1,0 +1,28 @@
+{
+  "uuid": "b338db99-0acc-4cc7-8633-bd96f596ff7f",
+  "first_name": "David",
+  "last_name": "Cliffel",
+  "full_name": "David Cliffel",
+  "linkedin_url": "https://linkedin.com/in/david-cliffel-23884332",
+  "emails": [
+    {
+      "email": "d.cliffel@vanderbilt.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david.cliffel@electrochem.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 609-737-1902",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ECS - The Electrochemical Society"
+}

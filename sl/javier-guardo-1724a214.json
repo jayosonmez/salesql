@@ -1,0 +1,56 @@
+{
+  "uuid": "b7fe8c7a-5c87-4631-a880-2900f2149dbe",
+  "first_name": "Javier",
+  "last_name": "Guardo",
+  "full_name": "Javier Guardo",
+  "linkedin_url": "https://linkedin.com/in/javier-guardo-1724a214",
+  "emails": [
+    {
+      "email": "javier.guardo@planetcivic.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "javguardo@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "javier.guardo@citi.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "javier@homyhub.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "javier@wonder.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "javier.guardo@rian.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "javier.guardo@innovaccer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jguardo@drivewealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "javierguardo@hyphenscs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kembol Ventures"
+}

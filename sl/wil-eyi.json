@@ -1,0 +1,36 @@
+{
+  "uuid": "be2a8a79-7a5e-43ca-b224-e7f5c7f73097",
+  "first_name": "Wilfried (Wil)",
+  "last_name": "Eyi",
+  "full_name": "Wilfried (Wil) Eyi",
+  "linkedin_url": "https://linkedin.com/in/wil-eyi",
+  "emails": [
+    {
+      "email": "wil@trytoolbox.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "wilfriedelie@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "wil.eyi@payflow.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "wilfried@uimpactfund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "wilfried.eyi@warburgpincus.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Payflow"
+}

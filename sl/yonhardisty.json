@@ -1,0 +1,59 @@
+{
+  "uuid": "1ec55c0e-2a90-4d43-a900-77938fa334fa",
+  "first_name": "Yon",
+  "last_name": "Hardisty",
+  "full_name": "Yon Hardisty",
+  "linkedin_url": "https://linkedin.com/in/yonhardisty",
+  "emails": [
+    {
+      "email": "yon@mbyte.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "yon@monkeybyte.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yhardisty@healthtekcreative.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yon@binx.tv",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yon@castrovalley.news",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yon.hardisty@forestr.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "yhardisty@monkeybyte.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 510-517-6666",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 510-398-3753",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Healthtek, Inc."
+}

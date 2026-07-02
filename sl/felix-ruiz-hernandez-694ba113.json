@@ -1,0 +1,38 @@
+{
+  "uuid": "152ca31b-0950-45ed-ba7c-508c57fc63a5",
+  "first_name": "Felix",
+  "last_name": "Ruiz Hernandez",
+  "full_name": "Felix Ruiz Hernandez",
+  "linkedin_url": "https://linkedin.com/in/felix-ruiz-hernandez-694ba113",
+  "emails": [
+    {
+      "email": "felix@jobandtalent.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "felix@tuenti.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "felix@playtomic.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "fruiz@tuenti.es",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+34 663 01 62 78",
+      "type": "Personal",
+      "country_code": "ES",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PLAYTOMIC"
+}

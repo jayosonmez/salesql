@@ -1,0 +1,28 @@
+{
+  "uuid": "614ee602-9977-45c5-98a6-5ba91fdbebae",
+  "first_name": "Christopher",
+  "last_name": "MacNevin",
+  "full_name": "Christopher MacNevin",
+  "linkedin_url": "https://linkedin.com/in/christopher-macnevin-8b219117",
+  "emails": [
+    {
+      "email": "christopher@nirvanasciences.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "cmacnev@email.unc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-354-1053",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NIRvana Sciences"
+}

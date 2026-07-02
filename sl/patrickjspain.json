@@ -1,0 +1,54 @@
+{
+  "uuid": "53c7e3e5-42f4-4ad6-9578-6f4f2d2f6ee6",
+  "first_name": "Patrick",
+  "last_name": "Spain",
+  "full_name": "Patrick Spain",
+  "linkedin_url": "https://linkedin.com/in/patrickjspain",
+  "emails": [
+    {
+      "email": "pspain@fshealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "pjspain@newser.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pjspain@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "patrick@getOccasion.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "patrick.spain@zeel.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "patrick@privco.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-608-4470",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 305-967-6319",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Newser"
+}

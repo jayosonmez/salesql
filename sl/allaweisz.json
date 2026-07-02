@@ -1,0 +1,26 @@
+{
+  "uuid": "800900db-c67e-49de-8390-ad88b17a6b3c",
+  "first_name": "Alla",
+  "last_name": "Weisz, MD, MBA",
+  "full_name": "Alla Weisz, MD, MBA",
+  "linkedin_url": "https://linkedin.com/in/allaweisz",
+  "emails": [
+    {
+      "email": "aweisz@riverview.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "allaweisz@earthlink.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "drw@weiszconciergemedical.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Weisz Concierge Medical"
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "f17271d5-52a7-4c75-b86f-7cc4f66adb2f",
+  "first_name": "Juan Pablo",
+  "last_name": "Ortega",
+  "full_name": "Juan Pablo Ortega",
+  "linkedin_url": "https://linkedin.com/in/juanpabloom",
+  "emails": [
+    {
+      "email": "jortega@rappi.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jortega@sequoiacap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Yuno"
+}

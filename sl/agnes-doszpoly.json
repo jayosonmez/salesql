@@ -1,0 +1,23 @@
+{
+  "uuid": "4e1f9143-9969-4e86-bc18-e8d3db7e668f",
+  "first_name": "Agnes",
+  "last_name": "Doszpoly",
+  "full_name": "Agnes Doszpoly",
+  "linkedin_url": "https://linkedin.com/in/agnes-doszpoly",
+  "emails": [
+    {
+      "email": "adoszpoly@purdue.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 765-494-4600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Purdue University"
+}

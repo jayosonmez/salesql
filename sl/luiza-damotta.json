@@ -1,0 +1,17 @@
+{
+  "uuid": "ef31d993-7425-4583-8f38-fa92ecda898d",
+  "first_name": "Luiza",
+  "last_name": "D.",
+  "full_name": "Luiza D.",
+  "linkedin_url": "https://linkedin.com/in/luiza-damotta",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 404-894-2600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University"
+}

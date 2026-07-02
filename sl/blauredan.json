@@ -1,0 +1,36 @@
+{
+  "uuid": "eb07595d-e447-4a4f-93c3-7aae182ac563",
+  "first_name": "Bernier",
+  "last_name": "Lauredan Jr.",
+  "full_name": "Bernier Lauredan Jr.",
+  "linkedin_url": "https://linkedin.com/in/blauredan",
+  "emails": [
+    {
+      "email": "blauredan@nyu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "berniealerts@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bernier@operators-guild.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bernier@hustlefund.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "bernier@theplusmeproject.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Block"
+}

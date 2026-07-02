@@ -1,0 +1,26 @@
+{
+  "uuid": "c4dfe0df-2341-4e51-b8d6-28a7277b6eb9",
+  "first_name": "Rand",
+  "last_name": "Henke",
+  "full_name": "Rand Henke",
+  "linkedin_url": "https://linkedin.com/in/rand-henke-735a972",
+  "emails": [
+    {
+      "email": "rand.henke@htr.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rand_henke@adarzabio.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rand.henke@nextcorps.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Adarza BioSystems, Inc."
+}

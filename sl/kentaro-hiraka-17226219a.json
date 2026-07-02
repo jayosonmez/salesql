@@ -1,0 +1,28 @@
+{
+  "uuid": "458a51ee-7f02-43e3-831d-0f28cb3b1d05",
+  "first_name": "Kentaro",
+  "last_name": "Hiraka",
+  "full_name": "Kentaro Hiraka",
+  "linkedin_url": "https://linkedin.com/in/kentaro-hiraka-17226219a",
+  "emails": [
+    {
+      "email": "kentaro.hiraka@my.gcu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kentaro.hiraka@gcu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-800-9776",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Grand Canyon University"
+}

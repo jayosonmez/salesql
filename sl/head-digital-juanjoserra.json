@@ -1,0 +1,43 @@
+{
+  "uuid": "6dc908bd-7755-4eba-8a2b-f65b16be87b7",
+  "first_name": "Juanjo",
+  "last_name": "Serra",
+  "full_name": "Juanjo Serra",
+  "linkedin_url": "https://linkedin.com/in/head-digital-juanjoserra",
+  "emails": [
+    {
+      "email": "s-j@internetsociety.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juanjo@angelinvestmentnetwork.co.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juanjo.serra@oyorooms.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juanjo@serraconsulting.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "js@escoex.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+34 622 62 62 77",
+      "type": "Personal",
+      "country_code": "ES",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "OYO"
+}

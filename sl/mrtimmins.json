@@ -1,0 +1,21 @@
+{
+  "uuid": "d7664bc8-4f26-4ffd-89b7-dcb3c416341b",
+  "first_name": "Mark R.",
+  "last_name": "Timmins",
+  "full_name": "Mark R. Timmins",
+  "linkedin_url": "https://linkedin.com/in/mrtimmins",
+  "emails": [
+    {
+      "email": "mrtimmins@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "mark.timmins@cytiva.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Cytiva"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "8576dd4f-86b4-4bde-bd9e-a1b5dc9003c7",
+  "first_name": "Debra",
+  "last_name": "Miller-Baker, MBA",
+  "full_name": "Debra Miller-Baker, MBA",
+  "linkedin_url": "https://linkedin.com/in/debra-miller-baker-mba-26170374",
+  "emails": [
+    {
+      "email": "debra.miller-baker@uchealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 720-848-0000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "UCHealth"
+}

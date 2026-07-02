@@ -1,0 +1,16 @@
+{
+  "uuid": "21326d89-e63e-4d9f-a19f-78e6dee62534",
+  "first_name": "Rahul",
+  "last_name": "Daftari",
+  "full_name": "Rahul Daftari",
+  "linkedin_url": "https://linkedin.com/in/rahuldaftari",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+353 1 646 2000",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Accenture"
+}

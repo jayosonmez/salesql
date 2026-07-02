@@ -1,0 +1,17 @@
+{
+  "uuid": "f8d9c62f-4424-473f-bf80-e86a7a136555",
+  "first_name": "Ruby",
+  "last_name": "T.",
+  "full_name": "Ruby T.",
+  "linkedin_url": "https://linkedin.com/in/ruby-t-014b52208",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 612-440-9699",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MECFS Clinic MN"
+}

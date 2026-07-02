@@ -1,0 +1,32 @@
+{
+  "uuid": "188de7a1-8579-44e3-93a4-c38d17e6947e",
+  "first_name": "David",
+  "last_name": "Scrim",
+  "full_name": "David Scrim",
+  "linkedin_url": "https://linkedin.com/in/davidscrim",
+  "emails": [
+    {
+      "email": "david@newstack.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "scrimd@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "david@squarestack.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "2245581170",
+      "type": "Work",
+      "is_valid": false
+    }
+  ],
+  "organization_name": "Clear Marketing Partners"
+}

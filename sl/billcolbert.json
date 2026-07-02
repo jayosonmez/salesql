@@ -1,0 +1,48 @@
+{
+  "uuid": "72142e7d-4458-4a0e-b6be-781c06a53764",
+  "first_name": "Bill",
+  "last_name": "Colbert",
+  "full_name": "Bill Colbert",
+  "linkedin_url": "https://linkedin.com/in/billcolbert",
+  "emails": [
+    {
+      "email": "wrcolbert@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "william.colbert@treetopgrowthstrategy.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bill@centercut.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bill@fitcopilot.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bill@elquetzal.coffee",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "bill@lvlup.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 630-849-7878",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Treetop Growth Strategy"
+}

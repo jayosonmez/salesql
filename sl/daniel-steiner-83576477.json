@@ -1,0 +1,16 @@
+{
+  "uuid": "8f5ed86a-5883-4d5d-941e-cd863d887e84",
+  "first_name": "Daniel",
+  "last_name": "Steiner",
+  "full_name": "Daniel Steiner",
+  "linkedin_url": "https://linkedin.com/in/daniel-steiner-83576477",
+  "emails": [
+    {
+      "email": "steiner@naz.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Phlotonics Inc."
+}

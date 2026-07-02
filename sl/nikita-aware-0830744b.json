@@ -1,0 +1,23 @@
+{
+  "uuid": "1da3c55d-5f92-4b56-be1b-6b13ba33980d",
+  "first_name": "Nikita",
+  "last_name": "Aware",
+  "full_name": "Nikita Aware",
+  "linkedin_url": "https://linkedin.com/in/nikita-aware-0830744b",
+  "emails": [
+    {
+      "email": "nikita.aware@bcm.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 713-798-4842",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Baylor College of Medicine"
+}

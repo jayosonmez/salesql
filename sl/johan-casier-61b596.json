@@ -1,0 +1,21 @@
+{
+  "uuid": "fb4c7df9-e6ea-48c1-bda8-106512ffc3b3",
+  "first_name": "Johan",
+  "last_name": "Casier",
+  "full_name": "Johan Casier",
+  "linkedin_url": "https://linkedin.com/in/johan-casier-61b596",
+  "emails": [
+    {
+      "email": "johan@cybrata.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "johan@classie.ai",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Classie AI"
+}

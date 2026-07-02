@@ -1,0 +1,33 @@
+{
+  "uuid": "e90f3584-711f-4623-acbe-ee3927622481",
+  "first_name": "Rex",
+  "last_name": "Burgdorfer",
+  "full_name": "Rex Burgdorfer",
+  "linkedin_url": "https://linkedin.com/in/rex-burgdorfer",
+  "emails": [
+    {
+      "email": "rburgdorfer@governanceinstitute.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rex.burgdorfer@ownup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rburgdorfer@juniperadvisory.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-506-3000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Juniper Advisory"
+}

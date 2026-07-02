@@ -1,0 +1,23 @@
+{
+  "uuid": "5bdbee6f-ee25-43ba-bea0-0059162cce8e",
+  "first_name": "Cherie",
+  "last_name": "Gilleon",
+  "full_name": "Cherie Gilleon",
+  "linkedin_url": "https://linkedin.com/in/cherie-gilleon-6a5772aa",
+  "emails": [
+    {
+      "email": "cherie.g@MPAChealthcare.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 888-660-4425",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "MPAC Healthcare"
+}

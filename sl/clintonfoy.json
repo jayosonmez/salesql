@@ -1,0 +1,36 @@
+{
+  "uuid": "30a645fb-6208-4f1f-aa54-1d51f7ee4d9f",
+  "first_name": "Clinton",
+  "last_name": "Foy",
+  "full_name": "Clinton Foy",
+  "linkedin_url": "https://linkedin.com/in/clintonfoy",
+  "emails": [
+    {
+      "email": "clinton@crosscutventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "clintonfoy@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "clinton.foy@gemini.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clinton.foy@masterclass.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "clinton.foy@spacex.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Family Office"
+}

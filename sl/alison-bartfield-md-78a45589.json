@@ -1,0 +1,23 @@
+{
+  "uuid": "e5f337f9-578b-4857-bb69-a5103be4a835",
+  "first_name": "Alison",
+  "last_name": "Bartfield, MD",
+  "full_name": "Alison Bartfield, MD",
+  "linkedin_url": "https://linkedin.com/in/alison-bartfield-md-78a45589",
+  "emails": [
+    {
+      "email": "alison.bartfield@baptistjax.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 904-202-2000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Baptist Health"
+}

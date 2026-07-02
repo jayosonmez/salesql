@@ -1,0 +1,27 @@
+{
+  "uuid": "d837c5a2-dc03-459c-9172-3a2f573bc09e",
+  "first_name": "TianYu",
+  "last_name": "Song",
+  "full_name": "TianYu Song",
+  "linkedin_url": "https://linkedin.com/in/tianyu-song-40310b108",
+  "emails": [
+    {
+      "email": "songtianyu@ibeehub.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tianyu.song@bankofamerica.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+86 21 2509 2001",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "iBeeHub Incubator"
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "f248ddce-7f3d-4c35-b309-be2c4af5dea6",
+  "first_name": "Jian",
+  "last_name": "Zhou",
+  "full_name": "Jian Zhou",
+  "linkedin_url": "https://linkedin.com/in/jian-zhou-6681965a",
+  "emails": [
+    {
+      "email": "jzhou@uic.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 312-996-4617",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "University of Illinois Chicago College of Dentistry"
+}

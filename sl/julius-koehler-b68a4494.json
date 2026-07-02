@@ -1,0 +1,42 @@
+{
+  "uuid": "67a5056f-a892-400e-80a0-ebb82a13c8e0",
+  "first_name": "Julius",
+  "last_name": "Koehler",
+  "full_name": "Julius Koehler",
+  "linkedin_url": "https://linkedin.com/in/julius-koehler-b68a4494",
+  "emails": [
+    {
+      "email": "julius.koehler@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "juliuskoehler@sennder.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "julius@booom.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "julius.koehler@rolandberger.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "julius_koehler@mckinsey.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 30 30809357",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "sennder"
+}

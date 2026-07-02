@@ -1,0 +1,31 @@
+{
+  "uuid": "204ff179-e879-459e-8a41-7596c3c8782e",
+  "first_name": "Alan",
+  "last_name": "Braverman",
+  "full_name": "Alan Braverman",
+  "linkedin_url": "https://linkedin.com/in/alanb",
+  "emails": [
+    {
+      "email": "alan@nightingalesecurity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "abraverman@illinoisventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alan@inunity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "alanb@alanb.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Braverware"
+}

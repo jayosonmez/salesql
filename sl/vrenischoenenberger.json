@@ -1,0 +1,48 @@
+{
+  "uuid": "db0e4fe1-ee01-42a6-8b30-69f07d84e1d9",
+  "first_name": "Vreni",
+  "last_name": "Schoenenberger, Ph.D",
+  "full_name": "Vreni Schoenenberger, Ph.D",
+  "linkedin_url": "https://linkedin.com/in/vrenischoenenberger",
+  "emails": [
+    {
+      "email": "schoenvc@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "phd@imperial.ac.uk",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vschoenenberger@racap.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vreni@okkohealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vreni@arrayinsights.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vreni.schoenenberger@valinktx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-778-2500",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "RA Capital Management"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "0e8c7cc8-766c-47ae-bcf3-8ca687faea7d",
+  "first_name": "Gene",
+  "last_name": "Galanter",
+  "full_name": "Gene Galanter",
+  "linkedin_url": "https://linkedin.com/in/gene-galanter-63a53a3b",
+  "emails": [
+    {
+      "email": "eg53@columbia.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Psychophysics Laboratory"
+}

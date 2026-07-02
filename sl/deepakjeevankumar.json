@@ -1,0 +1,41 @@
+{
+  "uuid": "aabaf2d1-e86a-4a1b-a6be-a472f442835a",
+  "first_name": "Deepak",
+  "last_name": "Jeevankumar",
+  "full_name": "Deepak Jeevankumar",
+  "linkedin_url": "https://linkedin.com/in/deepakjeevankumar",
+  "emails": [
+    {
+      "email": "deepak.jeevankumar@cequence.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "deepak@twinesecurity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "deepak.jeevankumar@entro.security",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "deepak@distyl.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "deepak.jeevankumar@dell.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "deepak.jeevankumar@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Dell Technologies Capital"
+}

@@ -1,0 +1,81 @@
+{
+  "uuid": "9d52f56a-fb36-42da-a9a8-b23100f31eb8",
+  "first_name": "Victor",
+  "last_name": "Pascucci III",
+  "full_name": "Victor Pascucci III",
+  "linkedin_url": "https://linkedin.com/in/victorpascucci",
+  "emails": [
+    {
+      "email": "pvictor@axio.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vpascucci@clearcover.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vic@lightbank.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "victor_iii@cemvita.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "victor_iii@mhubchicago.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "victor@extend.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "victor_iii@czero.energy",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "victor_iii@highwoodemissions.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "victor_iii@sapphiretechnologies.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "victorpascucci3@me.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "victorpascucci_iii@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "victor_iii@vertusenergy.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "vpascucci@insightacqcorp.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "victorp@alpha.network",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Energy Capital Ventures®"
+}

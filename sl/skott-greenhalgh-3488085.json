@@ -1,0 +1,28 @@
+{
+  "uuid": "a9bbd161-7ed7-4a97-bbea-1a9be020b6b6",
+  "first_name": "Skott",
+  "last_name": "Greenhalgh",
+  "full_name": "Skott Greenhalgh",
+  "linkedin_url": "https://linkedin.com/in/skott-greenhalgh-3488085",
+  "emails": [
+    {
+      "email": "sgreenhalgh@telabio.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sgreenhalgh@stoutmg.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 267-450-8860",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "TelaBio"
+}

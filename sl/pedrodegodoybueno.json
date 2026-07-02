@@ -1,0 +1,22 @@
+{
+  "uuid": "3fcbaed4-c784-4ed6-bf33-7317938a5dfc",
+  "first_name": "Pedro",
+  "last_name": "Bueno",
+  "full_name": "Pedro Bueno",
+  "linkedin_url": "https://linkedin.com/in/pedrodegodoybueno",
+  "emails": [
+    {
+      "email": "pedro.bueno@dasa.com.br",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+55 11 4197-5500",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Dasa"
+}

@@ -1,0 +1,51 @@
+{
+  "uuid": "3a0dcc0a-6847-4f70-92e4-a35d6452bb2f",
+  "first_name": "Jamie",
+  "last_name": "Sutton",
+  "full_name": "Jamie Sutton",
+  "linkedin_url": "https://linkedin.com/in/jamie-sutton",
+  "emails": [
+    {
+      "email": "jamie@heymantle.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jamie@diffagency.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jamie@ecocart.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jamie.sutton@okendo.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jamie.sutton@skydropx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jamie@charlestoncreative.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jamie@sutton.one",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jamie@omnisend.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Diff, a VML Company"
+}

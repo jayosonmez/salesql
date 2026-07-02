@@ -1,0 +1,23 @@
+{
+  "uuid": "176767d8-bfb0-4dfc-a6d7-0611cb93ed92",
+  "first_name": "Renee",
+  "last_name": "Dua MD",
+  "full_name": "Renee Dua MD",
+  "linkedin_url": "https://linkedin.com/in/reneedua",
+  "emails": [
+    {
+      "email": "renee.dua@heyrenee.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 574-252-5662",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth Startup"
+}

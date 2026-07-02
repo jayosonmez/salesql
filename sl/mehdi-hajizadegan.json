@@ -1,0 +1,28 @@
+{
+  "uuid": "942c29a8-5bf1-4536-a333-812d259653e5",
+  "first_name": "Mehdi",
+  "last_name": "Hajizadegan",
+  "full_name": "Mehdi Hajizadegan",
+  "linkedin_url": "https://linkedin.com/in/mehdi-hajizadegan",
+  "emails": [
+    {
+      "email": "mehdih@seedip.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mehdi_hajizadegan@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 206-622-4900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Seed IP Law Group"
+}

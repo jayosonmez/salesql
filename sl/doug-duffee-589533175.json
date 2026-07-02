@@ -1,0 +1,33 @@
+{
+  "uuid": "3ded1997-5818-484b-9934-b56cf5076f14",
+  "first_name": "Doug",
+  "last_name": "Duffee",
+  "full_name": "Doug Duffee",
+  "linkedin_url": "https://linkedin.com/in/doug-duffee-589533175",
+  "emails": [
+    {
+      "email": "dduffeemd@sdcim.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "doug.duffee@uchealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dduffee@rvu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-373-2008",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rocky Vista University"
+}

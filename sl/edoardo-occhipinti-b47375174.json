@@ -1,0 +1,23 @@
+{
+  "uuid": "364b458a-cceb-457f-b615-2ea713044a1a",
+  "first_name": "Edoardo",
+  "last_name": "Occhipinti",
+  "full_name": "Edoardo Occhipinti",
+  "linkedin_url": "https://linkedin.com/in/edoardo-occhipinti-b47375174",
+  "emails": [
+    {
+      "email": "eocchipinti@imperial.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 7589 5111",
+      "type": "Work",
+      "country_code": "GB",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Imperial College London"
+}

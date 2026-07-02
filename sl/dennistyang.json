@@ -1,0 +1,41 @@
+{
+  "uuid": "cd077bed-5f8c-4c20-ba5a-c30e4ef325ab",
+  "first_name": "Dennis",
+  "last_name": "Yang",
+  "full_name": "Dennis Yang",
+  "linkedin_url": "https://linkedin.com/in/dennistyang",
+  "emails": [
+    {
+      "email": "dennis@solvely.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dennis.yang@eqtgroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dennis@ongoody.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dennistyang2002@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "dennis-yang@lingoace.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dennistyang2002@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Modal"
+}

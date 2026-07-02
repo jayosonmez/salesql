@@ -1,0 +1,48 @@
+{
+  "uuid": "953158fa-b56f-4968-8cc3-56c62c2a8012",
+  "first_name": "Stefan",
+  "last_name": "Hedelius",
+  "full_name": "Stefan Hedelius",
+  "linkedin_url": "https://linkedin.com/in/hedelius",
+  "emails": [
+    {
+      "email": "h-s@praktikertjanst.se",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stefan.hedelius@aikhockey.se",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stefan.hedelius@alligo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stefan@add.life",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "stefan.hedelius@humancaregroup.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hedelius@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+46 76 100 07 31",
+      "type": "Personal",
+      "country_code": "SE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AIK Hockey"
+}

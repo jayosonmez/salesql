@@ -1,0 +1,16 @@
+{
+  "uuid": "49ec8f24-dd65-47db-a7c4-7eb224538f3b",
+  "first_name": "Raymond",
+  "last_name": "Lesser, MD",
+  "full_name": "Raymond Lesser, MD",
+  "linkedin_url": "https://linkedin.com/in/raymond-lesser-md-73aa5b58",
+  "emails": [
+    {
+      "email": "rlesser@mclinicaltechnology.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "easytalkmd"
+}

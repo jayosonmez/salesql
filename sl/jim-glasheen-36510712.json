@@ -1,0 +1,42 @@
+{
+  "uuid": "f2f64f5e-358f-46c9-9476-e7c69a20bf72",
+  "first_name": "Jim",
+  "last_name": "Glasheen",
+  "full_name": "Jim Glasheen",
+  "linkedin_url": "https://linkedin.com/in/jim-glasheen-36510712",
+  "emails": [
+    {
+      "email": "jim@cam.ac.uk",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jim.glasheen@umassmed.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jglasheen@atalantatx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jgmkskg@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jim@technologypartners.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 1223 760339",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Cambridge Enterprise"
+}

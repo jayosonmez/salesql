@@ -1,0 +1,28 @@
+{
+  "uuid": "da3345ae-1728-47a0-afb3-e5cdfd281d72",
+  "first_name": "Preeti",
+  "last_name": "Jois MD FACEP MBA",
+  "full_name": "Preeti Jois MD FACEP MBA",
+  "linkedin_url": "https://linkedin.com/in/preeti-jois-md-facep-mba-7bb06179",
+  "emails": [
+    {
+      "email": "preeti.jois@va.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "pjois@rvu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 303-373-2008",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Rocky Vista University"
+}

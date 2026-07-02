@@ -1,0 +1,21 @@
+{
+  "uuid": "44a07f7a-e085-4e9d-868f-0c603059ccf3",
+  "first_name": "JP",
+  "last_name": "Duque",
+  "full_name": "JP Duque",
+  "linkedin_url": "https://linkedin.com/in/jpduque",
+  "emails": [
+    {
+      "email": "duque@equitydelta.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jp@cantera.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "AIS Financial Group"
+}

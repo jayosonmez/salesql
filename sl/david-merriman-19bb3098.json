@@ -1,0 +1,38 @@
+{
+  "uuid": "86ebc320-ede0-423a-9ba5-74510f353f69",
+  "first_name": "David",
+  "last_name": "Merriman",
+  "full_name": "David Merriman",
+  "linkedin_url": "https://linkedin.com/in/david-merriman-19bb3098",
+  "emails": [
+    {
+      "email": "david@pluslabs.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.merriman@getmagic.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@getmagicnow.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david.merriman@wikipedia.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 718-246-2665",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Magic"
+}

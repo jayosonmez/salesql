@@ -1,0 +1,26 @@
+{
+  "uuid": "247eca3e-2867-45cf-8b7a-f21e9a828cbc",
+  "first_name": "Lylan",
+  "last_name": "Masterman",
+  "full_name": "Lylan Masterman",
+  "linkedin_url": "https://linkedin.com/in/lylan",
+  "emails": [
+    {
+      "email": "linkedin@lylan.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lylan.masterman@strikead.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lylan@whitestarvc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Self-employed"
+}

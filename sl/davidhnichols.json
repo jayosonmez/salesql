@@ -1,0 +1,48 @@
+{
+  "uuid": "a356a201-825c-4c98-86be-f031d25dc905",
+  "first_name": "David Hamilton",
+  "last_name": "Nichols",
+  "full_name": "David Hamilton Nichols",
+  "linkedin_url": "https://linkedin.com/in/davidhnichols",
+  "emails": [
+    {
+      "email": "nicholsdavid@africahealthholdings.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "dhn@whispersofdivinity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@calthermo.xyz",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@sunified.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@unlimitedawesome.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "david@soknengineering.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 805-701-4744",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Sokn Engineering"
+}

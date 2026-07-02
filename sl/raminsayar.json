@@ -1,0 +1,54 @@
+{
+  "uuid": "2c5c0035-1003-4aa4-b769-155207dff666",
+  "first_name": "Ramin",
+  "last_name": "Sayar",
+  "full_name": "Ramin Sayar",
+  "linkedin_url": "https://linkedin.com/in/raminsayar",
+  "emails": [
+    {
+      "email": "email4ramin@yahoo.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "email4raminsayar@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "ramin@dfjgrowth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rsayar@phreesia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ramin@acceldata.io",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ramin@endorlabs.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-862-8572",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 650-233-9000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "DFJ Growth"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "39b77efb-bc80-46f6-9f8d-f2a68c0ce369",
+  "first_name": "Barry",
+  "last_name": "Bialek, MD",
+  "full_name": "Barry Bialek, MD",
+  "linkedin_url": "https://linkedin.com/in/barry-bialek-md-9129a71a",
+  "emails": [
+    {
+      "email": "barrybialek@comcast.net",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "MC21"
+}

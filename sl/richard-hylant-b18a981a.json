@@ -1,0 +1,23 @@
+{
+  "uuid": "359ed20f-5a02-498b-a5b9-4de72ae12c99",
+  "first_name": "Richard",
+  "last_name": "Hylant",
+  "full_name": "Richard Hylant",
+  "linkedin_url": "https://linkedin.com/in/richard-hylant-b18a981a",
+  "emails": [
+    {
+      "email": "richard.hylant@hylant.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 419-255-1020",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Hylant"
+}

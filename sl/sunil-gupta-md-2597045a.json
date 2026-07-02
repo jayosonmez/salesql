@@ -1,0 +1,33 @@
+{
+  "uuid": "fbc296c4-03f5-4595-9fc1-461c61bb8290",
+  "first_name": "Sunil",
+  "last_name": "Gupta, MD",
+  "full_name": "Sunil Gupta, MD",
+  "linkedin_url": "https://linkedin.com/in/sunil-gupta-md-2597045a",
+  "emails": [
+    {
+      "email": "sgupta@retinaspecialty.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sgupta@usretina.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sgupta@retinalscreenings.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 850-476-6759",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Retina Specialty Institute"
+}

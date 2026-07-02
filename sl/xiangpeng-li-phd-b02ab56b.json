@@ -1,0 +1,39 @@
+{
+  "uuid": "154ee36f-126f-496c-8a4a-27e39478ed79",
+  "first_name": "XIANGPENG",
+  "last_name": "LI, PhD",
+  "full_name": "XIANGPENG LI, PhD",
+  "linkedin_url": "https://linkedin.com/in/xiangpeng-li-phd-b02ab56b",
+  "emails": [
+    {
+      "email": "xzl0034@auburn.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "xiangpeng.li@ucsf.edu",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "xli@fsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 334-275-5779",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 850-644-2570",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Florida State University"
+}

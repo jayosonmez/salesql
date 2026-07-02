@@ -1,0 +1,21 @@
+{
+  "uuid": "018ec24e-6bd7-4558-b0d8-049376b63eaf",
+  "first_name": "Mark",
+  "last_name": "Fisher",
+  "full_name": "Mark Fisher",
+  "linkedin_url": "https://linkedin.com/in/mark-fisher-42b44913",
+  "emails": [
+    {
+      "email": "mfisher1@kumc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mfisher@edgebio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "CHAPRx"
+}

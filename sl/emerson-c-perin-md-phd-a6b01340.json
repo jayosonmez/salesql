@@ -1,0 +1,33 @@
+{
+  "uuid": "b20b18d2-f167-47a9-ae8d-659e8ca44a81",
+  "first_name": "Emerson C.",
+  "last_name": "Perin, MD, PhD",
+  "full_name": "Emerson C. Perin, MD, PhD",
+  "linkedin_url": "https://linkedin.com/in/emerson-c-perin-md-phd-a6b01340",
+  "emails": [
+    {
+      "email": "eperin@heart.thi.tmc.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eperin@texasheart.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "emerson.perin@bcm.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 713-790-9401",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "The Texas Heart Institute Center for Cardiovascular Care"
+}

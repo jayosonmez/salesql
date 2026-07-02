@@ -1,0 +1,23 @@
+{
+  "uuid": "13bdcfdb-c89c-4802-99e8-f7df445bdc44",
+  "first_name": "Eda",
+  "last_name": "Turfanda Ekin",
+  "full_name": "Eda Turfanda Ekin",
+  "linkedin_url": "https://linkedin.com/in/eda-turfanda-ekin-079a6578",
+  "emails": [
+    {
+      "email": "eda@alp-danismanlik.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 532 775 88 04",
+      "type": "Work",
+      "country_code": "TR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ALP İnsan Kaynakları Danışmanlık, Koçluk ve Eğitim Hizmetleri"
+}

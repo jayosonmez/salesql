@@ -1,0 +1,23 @@
+{
+  "uuid": "3ae5e444-b135-4d1e-bdc3-2bbee85f4937",
+  "first_name": "Stephanie",
+  "last_name": "Burrs",
+  "full_name": "Stephanie Burrs",
+  "linkedin_url": "https://linkedin.com/in/stephanie-burrs-819a3959",
+  "emails": [
+    {
+      "email": "sburrs@fsu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 850-644-2570",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "FAMU-FSU College of Engineering"
+}

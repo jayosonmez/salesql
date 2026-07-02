@@ -1,0 +1,34 @@
+{
+  "uuid": "099365ff-f2e9-49f1-968a-6735b3a32ebe",
+  "first_name": "Dominic",
+  "last_name": "(Kallas) Chron",
+  "full_name": "Dominic (Kallas) Chron",
+  "linkedin_url": "https://linkedin.com/in/dominickallas",
+  "emails": [
+    {
+      "email": "dkallas@infoblox.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dominicingermany@hotmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 307-699-3286",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 408-986-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Infoblox"
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "f4ba2eff-bfbc-4b1d-917b-34fffc4876e7",
+  "first_name": "Robert",
+  "last_name": "Peterson",
+  "full_name": "Robert Peterson",
+  "linkedin_url": "https://linkedin.com/in/robert-peterson-9492171",
+  "emails": [
+    {
+      "email": "peterson@mac.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Venture Hut Ltd."
+}

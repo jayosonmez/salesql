@@ -1,0 +1,21 @@
+{
+  "uuid": "ab7d043e-97d9-4f01-928d-df420dc02dd7",
+  "first_name": "Ilene",
+  "last_name": "Sokoloff",
+  "full_name": "Ilene Sokoloff",
+  "linkedin_url": "https://linkedin.com/in/ilene-sokoloff-047a602",
+  "emails": [
+    {
+      "email": "ilene.sokoloff@silicom-usa.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "ilenesok@nextonthetee.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Vinc"
+}

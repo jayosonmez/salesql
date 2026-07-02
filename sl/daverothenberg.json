@@ -1,0 +1,49 @@
+{
+  "uuid": "3876da43-742c-4bd8-847a-cdff5de69fea",
+  "first_name": "David",
+  "last_name": "Rothenberg",
+  "full_name": "David Rothenberg",
+  "linkedin_url": "https://linkedin.com/in/daverothenberg",
+  "emails": [
+    {
+      "email": "rothenberg@post.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "drothenberg@priviahealth.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "david@mdlinx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "drothenberg@horizoninfusions.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "rothenberg@state.gov",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 202-441-1188",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 877-787-8720",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Horizon Infusions"
+}

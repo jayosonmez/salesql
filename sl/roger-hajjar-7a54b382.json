@@ -1,0 +1,23 @@
+{
+  "uuid": "6762bb4d-ac7c-40a7-a260-7ec0339fb513",
+  "first_name": "Roger",
+  "last_name": "Hajjar",
+  "full_name": "Roger Hajjar",
+  "linkedin_url": "https://linkedin.com/in/roger-hajjar-7a54b382",
+  "emails": [
+    {
+      "email": "rhajjar@prysm.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 408-781-1297",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Motherson Prysm Inc."
+}

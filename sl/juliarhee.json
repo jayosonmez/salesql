@@ -1,0 +1,41 @@
+{
+  "uuid": "11528f6e-8fae-4dcc-865f-7097f49c9489",
+  "first_name": "Julia",
+  "last_name": "Rhee",
+  "full_name": "Julia Rhee",
+  "linkedin_url": "https://linkedin.com/in/juliarhee",
+  "emails": [
+    {
+      "email": "juliarhee0@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jr@typhoncap.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "julia@musictraveler.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "julia@getaim.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "julia@musictraveler.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jrhee@energyx.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Music Traveler"
+}

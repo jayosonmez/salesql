@@ -1,0 +1,21 @@
+{
+  "uuid": "d602ec02-12e0-40ee-94a5-14402839c05b",
+  "first_name": "Juli",
+  "last_name": "La Rocca M.D.",
+  "full_name": "Juli La Rocca M.D.",
+  "linkedin_url": "https://linkedin.com/in/unbreakablejuli",
+  "emails": [
+    {
+      "email": "jla@mdlive.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "juli.la@crossoverhealth.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Unbreakable Wellness, PLLC"
+}

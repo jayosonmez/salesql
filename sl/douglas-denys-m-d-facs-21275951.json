@@ -1,0 +1,23 @@
+{
+  "uuid": "7178a243-007c-44ca-b75c-d624ad99411b",
+  "first_name": "Douglas",
+  "last_name": "Denys, M.D., FACS",
+  "full_name": "Douglas Denys, M.D., FACS",
+  "linkedin_url": "https://linkedin.com/in/douglas-denys-m-d-facs-21275951",
+  "emails": [
+    {
+      "email": "douglas.denys@intermountainhealthcare.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 801-314-4000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Intermountain Health"
+}

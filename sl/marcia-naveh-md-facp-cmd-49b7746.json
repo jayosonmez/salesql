@@ -1,0 +1,28 @@
+{
+  "uuid": "e9f8de58-52f3-473d-97da-bd5b9704061f",
+  "first_name": "Marcia",
+  "last_name": "Naveh, MD, FACP, CMD",
+  "full_name": "Marcia Naveh, MD, FACP, CMD",
+  "linkedin_url": "https://linkedin.com/in/marcia-naveh-md-facp-cmd-49b7746",
+  "emails": [
+    {
+      "email": "mnaveh@matrixhealth.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "marcia@matrixmedicalnetwork.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-564-3627",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Matrix Medical Network"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3c993264-66f8-4320-ad22-e8b5b0d32b0c",
+  "first_name": "Omar E.",
+  "last_name": "F.",
+  "full_name": "Omar E. F.",
+  "linkedin_url": "https://linkedin.com/in/omarfernandezbiotechsales",
+  "emails": [
+    {
+      "email": "ofjr@bellsouth.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "omar.fernandez@accredo.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 901-385-3600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Accredo Specialty Pharmacy"
+}

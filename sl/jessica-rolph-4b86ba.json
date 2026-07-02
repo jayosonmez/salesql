@@ -1,0 +1,56 @@
+{
+  "uuid": "127a02bf-6bf7-4b66-a22a-b8c8a4491415",
+  "first_name": "Jessica",
+  "last_name": "Rolph",
+  "full_name": "Jessica Rolph",
+  "linkedin_url": "https://linkedin.com/in/jessica-rolph-4b86ba",
+  "emails": [
+    {
+      "email": "jessica@happybabyfood.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rjessica@ypo.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jessica@happyfamilybrands.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jessica@loveverybaby.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jessica.r@aspeninstitute.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jrolph@ypo.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jessica.rolph@aspeninstitute.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jessica.rolph@rsfsocialfinance.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jessica.rolph@lovevery.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Lovevery"
+}

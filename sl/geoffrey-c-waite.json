@@ -1,0 +1,28 @@
+{
+  "uuid": "7ab6e0cd-158b-4926-ba8e-cf3de095be69",
+  "first_name": "Geoffrey",
+  "last_name": "Waite",
+  "full_name": "Geoffrey Waite",
+  "linkedin_url": "https://linkedin.com/in/geoffrey-c-waite",
+  "emails": [
+    {
+      "email": "geoffrey.waite@draeger.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "geoffrey.waite@draeger.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+49 451 8820",
+      "type": "Work",
+      "country_code": "DE",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Dräger"
+}

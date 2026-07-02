@@ -1,0 +1,23 @@
+{
+  "uuid": "811bb167-b25e-4423-b715-c01bb433b869",
+  "first_name": "David",
+  "last_name": "Shea",
+  "full_name": "David Shea",
+  "linkedin_url": "https://linkedin.com/in/david-shea-0824b517",
+  "emails": [
+    {
+      "email": "dshea@arctools.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 877-272-8665",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ARCTOOLS"
+}

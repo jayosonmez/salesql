@@ -1,0 +1,21 @@
+{
+  "uuid": "044a7b85-68b5-4712-af2a-529d2c9000c4",
+  "first_name": "Brando",
+  "last_name": "Huang",
+  "full_name": "Brando Huang",
+  "linkedin_url": "https://linkedin.com/in/brando-huang-94683986",
+  "emails": [
+    {
+      "email": "brando@everland.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brando@workwelloc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "StayWell"
+}

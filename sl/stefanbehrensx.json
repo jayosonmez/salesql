@@ -1,0 +1,28 @@
+{
+  "uuid": "392d6a41-88ab-4860-ac94-d5e3f1b17c0a",
+  "first_name": "Stefan",
+  "last_name": "Behrens",
+  "full_name": "Stefan Behrens",
+  "linkedin_url": "https://linkedin.com/in/stefanbehrensx",
+  "emails": [
+    {
+      "email": "stef@nbehrens.de",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "stefan@leslunes.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 415-819-1976",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Fabric"
+}

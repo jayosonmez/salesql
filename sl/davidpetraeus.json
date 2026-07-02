@@ -1,0 +1,54 @@
+{
+  "uuid": "bc0bc283-b7f6-4fc5-862a-f3dedb403177",
+  "first_name": "General David H.",
+  "last_name": "Petraeus, US Army (Ret.)",
+  "full_name": "General David H. Petraeus, US Army (Ret.)",
+  "linkedin_url": "https://linkedin.com/in/davidpetraeus",
+  "emails": [
+    {
+      "email": "david.petraeus@kkr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "petrd@kkr.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "generalp@semperis.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gpetraeus@onestream.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "general.petraeus@advancednavigation.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "general.petraeus@optiv.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-710-4843",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 800-937-5449",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "KKR"
+}

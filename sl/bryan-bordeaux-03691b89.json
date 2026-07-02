@@ -1,0 +1,23 @@
+{
+  "uuid": "6f8abd4c-c880-4af1-b618-4ab2546405fc",
+  "first_name": "Bryan",
+  "last_name": "Bordeaux",
+  "full_name": "Bryan Bordeaux",
+  "linkedin_url": "https://linkedin.com/in/bryan-bordeaux-03691b89",
+  "emails": [
+    {
+      "email": "bryan_bordeaux@atriushealth.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 781-329-1400",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "preventivehealthtools.com"
+}

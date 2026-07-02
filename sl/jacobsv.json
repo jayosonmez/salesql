@@ -1,0 +1,54 @@
+{
+  "uuid": "a61e90a2-6269-4f7a-afd8-5e47b8b393bd",
+  "first_name": "Vincent",
+  "last_name": "Jacobs",
+  "full_name": "Vincent Jacobs",
+  "linkedin_url": "https://linkedin.com/in/jacobsv",
+  "emails": [
+    {
+      "email": "vincent.jacobs@tiktok.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vincent.jacobs@bytedance.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vincent@kimaventures.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vincent@seedcamp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "vjacobs@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "vjacobs@kimaventures.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 7724 710602",
+      "type": "Personal",
+      "country_code": "GB",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 203-570-0478",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Various Companies"
+}

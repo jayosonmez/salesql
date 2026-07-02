@@ -1,0 +1,38 @@
+{
+  "uuid": "ff99190d-99de-4b9d-a8fe-502fc7583f6e",
+  "first_name": "Russell",
+  "last_name": "Kohl, MD, FAAFP",
+  "full_name": "Russell Kohl, MD, FAAFP",
+  "linkedin_url": "https://linkedin.com/in/russell-kohl-md-faafp-61208699",
+  "emails": [
+    {
+      "email": "russell.kohl@bluekc.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "rkohl@aafp.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "russellkohlmd@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "russell.kohl@tmf.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 703-607-2584",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "National Guard Bureau"
+}

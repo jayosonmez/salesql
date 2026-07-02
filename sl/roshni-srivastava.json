@@ -1,0 +1,16 @@
+{
+  "uuid": "f10a62e7-d30f-4bb2-ba38-42e13b904ef2",
+  "first_name": "Roshni",
+  "last_name": "S.",
+  "full_name": "Roshni S.",
+  "linkedin_url": "https://linkedin.com/in/roshni-srivastava",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+45 45 93 05 06",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Bristol Myers Squibb"
+}

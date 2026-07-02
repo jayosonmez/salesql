@@ -1,0 +1,17 @@
+{
+  "uuid": "c96e08b3-0026-4403-9e0f-f5c0c0a143c9",
+  "first_name": "William \"Rick\"",
+  "last_name": "Hynes",
+  "full_name": "William \"Rick\" Hynes",
+  "linkedin_url": "https://linkedin.com/in/william-rick-hynes-7281b3110",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 925-422-1100",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Lawrence Livermore National Laboratory"
+}

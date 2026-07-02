@@ -1,0 +1,48 @@
+{
+  "uuid": "215997fa-407e-49a0-80ad-5a0f6672e841",
+  "first_name": "Sidney",
+  "last_name": "Scott",
+  "full_name": "Sidney Scott",
+  "linkedin_url": "https://linkedin.com/in/sidney-scott",
+  "emails": [
+    {
+      "email": "scott@limitless.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "scott@rain.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "scott@x.ai",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "sidney@stable.auto",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sidney.scott@figure.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sidney@andromedasurgical.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 917-453-6470",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "xAI"
+}

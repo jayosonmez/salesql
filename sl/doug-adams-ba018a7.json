@@ -1,0 +1,28 @@
+{
+  "uuid": "33c4c52f-b415-482d-9e0e-cac55475b29c",
+  "first_name": "Doug",
+  "last_name": "Adams",
+  "full_name": "Doug Adams",
+  "linkedin_url": "https://linkedin.com/in/doug-adams-ba018a7",
+  "emails": [
+    {
+      "email": "doug@solx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "doug@qura.biz",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 978-808-6926",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "QURA, Inc."
+}

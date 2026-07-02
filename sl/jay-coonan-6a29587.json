@@ -1,0 +1,28 @@
+{
+  "uuid": "da2c0a1c-84bb-4c9f-809b-a5c98fa6e37a",
+  "first_name": "Jay",
+  "last_name": "Coonan",
+  "full_name": "Jay Coonan",
+  "linkedin_url": "https://linkedin.com/in/jay-coonan-6a29587",
+  "emails": [
+    {
+      "email": "jcoonan@cox.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jcoonan@ovagene.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 201-783-9355",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "GRIP Molecular Technologies, Inc"
+}

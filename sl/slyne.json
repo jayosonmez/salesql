@@ -1,0 +1,26 @@
+{
+  "uuid": "dc02561f-0811-44f7-80b5-5926853477d2",
+  "first_name": "Susan",
+  "last_name": "Lyne",
+  "full_name": "Susan Lyne",
+  "linkedin_url": "https://linkedin.com/in/slyne",
+  "emails": [
+    {
+      "email": "susan.lyne@bbgventures.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "susan@gilt.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "slyne@gopro.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "BBG Ventures"
+}

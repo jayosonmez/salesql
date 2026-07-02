@@ -1,0 +1,23 @@
+{
+  "uuid": "892b7024-d497-4349-8ef6-bccdb955d607",
+  "first_name": "Lisa",
+  "last_name": "Kotas",
+  "full_name": "Lisa Kotas",
+  "linkedin_url": "https://linkedin.com/in/lisa-kotas-9b886a161",
+  "emails": [
+    {
+      "email": "lisa.kotas@dfwyouthsecret.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 682-236-7900",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Texas Health Resources"
+}

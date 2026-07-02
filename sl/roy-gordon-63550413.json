@@ -1,0 +1,28 @@
+{
+  "uuid": "656647a7-7c20-4819-a836-9a27d9248645",
+  "first_name": "Roy",
+  "last_name": "Gordon",
+  "full_name": "Roy Gordon",
+  "linkedin_url": "https://linkedin.com/in/roy-gordon-63550413",
+  "emails": [
+    {
+      "email": "roy_gordon@harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "gordon@chemistry.harvard.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-495-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Harvard University"
+}

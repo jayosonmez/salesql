@@ -1,0 +1,43 @@
+{
+  "uuid": "adb68676-5cc3-4870-a48b-716654ef04b8",
+  "first_name": "Shawnalea",
+  "last_name": "Frazier, PhD",
+  "full_name": "Shawnalea Frazier, PhD",
+  "linkedin_url": "https://linkedin.com/in/shawnalea-frazier-phd-69840213",
+  "emails": [
+    {
+      "email": "shawnalea.frazier@abbvie.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "shawnalea@nitrasetx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sfrazier@ribometrix.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sfrazier@trishulatx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sfrazier@caltech.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-454-1000",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "AbbVie"
+}

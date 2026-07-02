@@ -1,0 +1,36 @@
+{
+  "uuid": "0569a479-1850-4669-bd50-c6d7015e29be",
+  "first_name": "Brian",
+  "last_name": "Spaly",
+  "full_name": "Brian Spaly",
+  "linkedin_url": "https://linkedin.com/in/brianspaly",
+  "emails": [
+    {
+      "email": "brian@madeincookware.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "brian.spaly@brite.co",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "baspaly@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "s-brian@tribe9foods.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "brian@brandfoundryvc.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Ledgebrook"
+}

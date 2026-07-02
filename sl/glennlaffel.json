@@ -1,0 +1,16 @@
+{
+  "uuid": "ce6d4767-63a6-43a2-a0d5-805b09bc5dd7",
+  "first_name": "Glenn",
+  "last_name": "Laffel, MD, PhD",
+  "full_name": "Glenn Laffel, MD, PhD",
+  "linkedin_url": "https://linkedin.com/in/glennlaffel",
+  "emails": [
+    {
+      "email": "glaffel@comcast.net",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": null
+}

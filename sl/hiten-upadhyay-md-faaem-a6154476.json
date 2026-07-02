@@ -1,0 +1,28 @@
+{
+  "uuid": "4cc5a572-9061-460b-a175-7c97497f90bb",
+  "first_name": "Hiten",
+  "last_name": "Upadhyay MD FAAEM",
+  "full_name": "Hiten Upadhyay MD FAAEM",
+  "linkedin_url": "https://linkedin.com/in/hiten-upadhyay-md-faaem-a6154476",
+  "emails": [
+    {
+      "email": "hupadhyay@tgh.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "u-h@accelresearchsites.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 727-528-7827",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PROFESSIONAL URGENT CARE SERVICES"
+}

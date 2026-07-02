@@ -1,0 +1,23 @@
+{
+  "uuid": "d36d55d9-3a69-499d-a0b9-e4b0bc2c8a9b",
+  "first_name": "Tomi",
+  "last_name": "Murovec",
+  "full_name": "Tomi Murovec",
+  "linkedin_url": "https://linkedin.com/in/tomimurovec",
+  "emails": [
+    {
+      "email": "tomi.murovec@univ-brest.fr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 2 98 01 60 00",
+      "type": "Work",
+      "country_code": "FR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Université de Bretagne Occidentale"
+}

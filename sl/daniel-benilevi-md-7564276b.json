@@ -1,0 +1,23 @@
+{
+  "uuid": "79d5fb8b-0e95-468c-a325-ce3d73aa4873",
+  "first_name": "Daniel",
+  "last_name": "Benilevi MD",
+  "full_name": "Daniel Benilevi MD",
+  "linkedin_url": "https://linkedin.com/in/daniel-benilevi-md-7564276b",
+  "emails": [
+    {
+      "email": "dbenilevi@aol.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 516-466-3311",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Helix & Gene, LLC"
+}

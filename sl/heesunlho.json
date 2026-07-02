@@ -1,0 +1,36 @@
+{
+  "uuid": "5a67baa0-2fa4-4c5a-93f9-68ae708ca624",
+  "first_name": "Heesun",
+  "last_name": "Lho",
+  "full_name": "Heesun Lho",
+  "linkedin_url": "https://linkedin.com/in/heesunlho",
+  "emails": [
+    {
+      "email": "heesun.lho@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "heesun@500.co",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lhoh@ccl.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "heesun.lho@bit.ly",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "heesun.lho@toryburchfoundation.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Tory Burch Foundation"
+}

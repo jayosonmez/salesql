@@ -1,0 +1,23 @@
+{
+  "uuid": "7d75975f-c814-46bf-a0d0-fc631a972c69",
+  "first_name": "Dessie",
+  "last_name": "Sadrzadeh",
+  "full_name": "Dessie Sadrzadeh",
+  "linkedin_url": "https://linkedin.com/in/dessiesadrzadeh",
+  "emails": [
+    {
+      "email": "dessie@firsthand.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 207-829-4815",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Google"
+}

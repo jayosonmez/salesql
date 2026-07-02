@@ -1,0 +1,33 @@
+{
+  "uuid": "bb10b86c-756e-4b59-8f48-dadb6781ec5b",
+  "first_name": "Karla",
+  "last_name": "Dick, D.O.",
+  "full_name": "Karla Dick, D.O.",
+  "linkedin_url": "https://linkedin.com/in/kendrastwin",
+  "emails": [
+    {
+      "email": "karladick@sbcglobal.net",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "kdick@catalysthealthgroup.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "karla.dick@dallaspetsalive.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 703-408-5028",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ursamin"
+}

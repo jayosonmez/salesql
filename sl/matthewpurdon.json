@@ -1,0 +1,21 @@
+{
+  "uuid": "1ed55161-ac21-4f52-99c6-8d52ae9d69f6",
+  "first_name": "Matthew",
+  "last_name": "Purdon",
+  "full_name": "Matthew Purdon",
+  "linkedin_url": "https://linkedin.com/in/matthewpurdon",
+  "emails": [
+    {
+      "email": "msp@matthewpurdon.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "matthewp@marintheatre.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Woander World"
+}

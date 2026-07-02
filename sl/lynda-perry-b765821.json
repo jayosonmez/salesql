@@ -1,0 +1,23 @@
+{
+  "uuid": "fa6b31b6-26ef-4c03-8d4c-b08c09adde81",
+  "first_name": "Lynda",
+  "last_name": "Perry",
+  "full_name": "Lynda Perry",
+  "linkedin_url": "https://linkedin.com/in/lynda-perry-b765821",
+  "emails": [
+    {
+      "email": "llperry@purdue.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 765-494-4600",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Purdue University"
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "cc6b9b28-b218-457f-bd52-c8d4048b1fd3",
+  "first_name": "Lea-Sophie",
+  "last_name": "Cramer",
+  "full_name": "Lea-Sophie Cramer",
+  "linkedin_url": "https://linkedin.com/in/lea-sophie-cramer",
+  "emails": [
+    {
+      "email": "l-cramer@web.de",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "lea-sophie.cramer@kkr.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lea-sophie@tenmorein.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "lea-sophie@epix-sports.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "EPIX Sports"
+}

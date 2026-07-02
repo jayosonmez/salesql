@@ -1,0 +1,21 @@
+{
+  "uuid": "a3031808-86c0-4846-b8db-7ce258712e58",
+  "first_name": "Lance",
+  "last_name": "Maerov",
+  "full_name": "Lance Maerov",
+  "linkedin_url": "https://linkedin.com/in/lance-maerov-9abbb9",
+  "emails": [
+    {
+      "email": "lance@cgf.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "lance.maerov@wpp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Canaccord Genuity Group Inc."
+}

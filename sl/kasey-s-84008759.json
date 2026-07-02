@@ -1,0 +1,17 @@
+{
+  "uuid": "c58ea7ae-2645-4bf3-8350-861780c0b509",
+  "first_name": "Kasey",
+  "last_name": "S.",
+  "full_name": "Kasey S.",
+  "linkedin_url": "https://linkedin.com/in/kasey-s-84008759",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 443-689-2700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Trend Health Partners"
+}

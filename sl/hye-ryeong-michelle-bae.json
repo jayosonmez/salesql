@@ -1,0 +1,53 @@
+{
+  "uuid": "6024561b-8169-48ec-8345-713a4109c31a",
+  "first_name": "Michelle",
+  "last_name": "Bae",
+  "full_name": "Michelle Bae",
+  "linkedin_url": "https://linkedin.com/in/hye-ryeong-michelle-bae",
+  "emails": [
+    {
+      "email": "hbae@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "hbae@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mbae@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "mbae@stanford.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michelle@rbl1.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "michelle.bae@adivoassociates.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "baem@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-723-4177",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "KBa International Trade"
+}

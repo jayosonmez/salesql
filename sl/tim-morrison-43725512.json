@@ -1,0 +1,39 @@
+{
+  "uuid": "9479919f-665a-4f92-a498-4ac598a9b3e4",
+  "first_name": "Tim",
+  "last_name": "Morrison",
+  "full_name": "Tim Morrison",
+  "linkedin_url": "https://linkedin.com/in/tim-morrison-43725512",
+  "emails": [
+    {
+      "email": "tim@venturesouth.vc",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tim-morrison@cancer.org",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tmorrison@infinitymkt.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 864-616-1471",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 864-235-1700",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Infinity Marketing"
+}

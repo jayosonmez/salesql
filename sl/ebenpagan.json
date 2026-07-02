@@ -1,0 +1,21 @@
+{
+  "uuid": "6eefcc0c-de4a-4c0b-a9d4-5d1235ac4e83",
+  "first_name": "Eben",
+  "last_name": "Pagan",
+  "full_name": "Eben Pagan",
+  "linkedin_url": "https://linkedin.com/in/ebenpagan",
+  "emails": [
+    {
+      "email": "eben@daviddeangelo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "eben.pagan@hottopicmedia.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Hot Topic Media"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "d3e1bc9e-03fc-4e46-998d-56c9b07bbf6f",
+  "first_name": "Ezgi",
+  "last_name": "A.",
+  "full_name": "Ezgi A.",
+  "linkedin_url": "https://linkedin.com/in/ezgi-a-43230455",
+  "emails": [
+    {
+      "email": "esengele@ford.com.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 262 315 52 46",
+      "type": "Personal",
+      "country_code": "TR",
+      "is_valid": true
+    },
+    {
+      "phone": "+90 262 315 50 00",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Ford Otosan"
+}

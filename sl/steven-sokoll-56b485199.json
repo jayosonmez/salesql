@@ -1,0 +1,23 @@
+{
+  "uuid": "8bd00451-c9b5-4cbe-9a0b-a5c0c110c10e",
+  "first_name": "Steven",
+  "last_name": "Sokoll",
+  "full_name": "Steven Sokoll",
+  "linkedin_url": "https://linkedin.com/in/steven-sokoll-56b485199",
+  "emails": [
+    {
+      "email": "ssokoll@upenn.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 610-444-5800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Steven Marc Sokoll MD"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "13db3b16-0a4b-44e2-b09c-e8736347b598",
+  "first_name": "Sebastian",
+  "last_name": "Osterfeld",
+  "full_name": "Sebastian Osterfeld",
+  "linkedin_url": "https://linkedin.com/in/sebastian-osterfeld",
+  "emails": [
+    {
+      "email": "sjosterfeld@stanford.edu",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "sosterfeld@imra.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "sebastian.osterfeld@magarray.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 734-930-2560",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "IMRA America, Inc."
+}

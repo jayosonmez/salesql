@@ -1,0 +1,28 @@
+{
+  "uuid": "9dee8999-7be9-43ce-ab23-0ab0dd1a7be9",
+  "first_name": "Bruce",
+  "last_name": "P.",
+  "full_name": "Bruce P.",
+  "linkedin_url": "https://linkedin.com/in/bruce-p-75a7b23",
+  "emails": [
+    {
+      "email": "bpitner@mindspring.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "bruce@nirvanasciences.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 919-354-1053",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "NIRvana Sciences"
+}

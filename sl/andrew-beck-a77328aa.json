@@ -1,0 +1,23 @@
+{
+  "uuid": "2e829482-b518-4e5a-ab03-00e58181cfb8",
+  "first_name": "Andrew",
+  "last_name": "Beck",
+  "full_name": "Andrew Beck",
+  "linkedin_url": "https://linkedin.com/in/andrew-beck-a77328aa",
+  "emails": [
+    {
+      "email": "andy.beck@pathai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 617-500-8457",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "PathAI"
+}

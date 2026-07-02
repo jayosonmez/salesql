@@ -1,0 +1,21 @@
+{
+  "uuid": "ed0ce97d-884e-4c02-bbea-98e06fa320e7",
+  "first_name": "Kurt",
+  "last_name": "Seidensticker",
+  "full_name": "Kurt Seidensticker",
+  "linkedin_url": "https://linkedin.com/in/kurtseidensticker",
+  "emails": [
+    {
+      "email": "kurt@vitalproteins.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "kurt.seidensticker@vitalproteins.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Be LOVE™"
+}

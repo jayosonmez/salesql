@@ -1,0 +1,32 @@
+{
+  "uuid": "69db0fee-3a82-4c1a-b112-14cb0b413eeb",
+  "first_name": "Necdet",
+  "last_name": "Bulut",
+  "full_name": "Necdet Bulut",
+  "linkedin_url": "https://linkedin.com/in/necdetbulut",
+  "emails": [
+    {
+      "email": "necdet.bulut@pointr.tech",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "necdet.bulut@pointr.tech",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "necdet@atolye15.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+44 20 8720 7087",
+      "type": "Work",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Pointr"
+}

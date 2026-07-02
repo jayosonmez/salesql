@@ -1,0 +1,16 @@
+{
+  "uuid": "aa2b9e23-289e-47e3-8bac-ffd96d095ff2",
+  "first_name": "Tim",
+  "last_name": "Lonesky",
+  "full_name": "Tim Lonesky",
+  "linkedin_url": "https://linkedin.com/in/tim-lonesky-16521b4a",
+  "emails": [
+    {
+      "email": "tlonesky@entrepreneur.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Speaker"
+}

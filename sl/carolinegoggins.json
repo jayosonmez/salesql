@@ -1,0 +1,23 @@
+{
+  "uuid": "9278224b-1990-49d0-aff3-640ddce38093",
+  "first_name": "Caroline",
+  "last_name": "Goggins",
+  "full_name": "Caroline Goggins",
+  "linkedin_url": "https://linkedin.com/in/carolinegoggins",
+  "emails": [
+    {
+      "email": "cgoggins@a16z.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-798-5800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Andreessen Horowitz"
+}

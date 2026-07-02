@@ -1,0 +1,36 @@
+{
+  "uuid": "ad386408-26a0-4a0b-bcf8-21ae8b9a64f9",
+  "first_name": "Tal",
+  "last_name": "Zlotnitsky",
+  "full_name": "Tal Zlotnitsky",
+  "linkedin_url": "https://linkedin.com/in/taljzlotnitsky",
+  "emails": [
+    {
+      "email": "tal@mybreezai.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tal.zlot@icontroldsd.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tal91@betterlove360.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "z.tal@magifoods.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "tal.zlotnitsky@bravingbusiness.com",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Breez AI"
+}

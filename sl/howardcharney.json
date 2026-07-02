@@ -1,0 +1,21 @@
+{
+  "uuid": "ac098472-63ff-4a0b-b62f-e7d72f44ec09",
+  "first_name": "Howard",
+  "last_name": "Charney",
+  "full_name": "Howard Charney",
+  "linkedin_url": "https://linkedin.com/in/howardcharney",
+  "emails": [
+    {
+      "email": "howard@invisible.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "howard.charney@privateer.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Nurdle AI"
+}

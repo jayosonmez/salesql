@@ -1,0 +1,26 @@
+{
+  "uuid": "9246ec29-298c-4519-b6fa-0625930e43bf",
+  "first_name": "Corey",
+  "last_name": "A.",
+  "full_name": "Corey A.",
+  "linkedin_url": "https://linkedin.com/in/coreyanand",
+  "emails": [
+    {
+      "email": "cga0322@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "corey@coreyanand.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "corey@kayacare.co",
+      "type": "Work",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Kaya"
+}

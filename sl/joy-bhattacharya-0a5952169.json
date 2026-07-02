@@ -1,0 +1,36 @@
+{
+  "uuid": "21a2df8d-379b-4502-9b2f-fbf03119d2a6",
+  "first_name": "Joy",
+  "last_name": "Bhattacharya",
+  "full_name": "Joy Bhattacharya",
+  "linkedin_url": "https://linkedin.com/in/joy-bhattacharya-0a5952169",
+  "emails": [
+    {
+      "email": "joy007.bhattacharya@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "joy.bhattacharya@beacons.ai",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joy@bebeburp.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joy@klubworks.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "joy@agilityventures.in",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Klub"
+}

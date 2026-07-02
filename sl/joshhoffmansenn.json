@@ -1,0 +1,48 @@
+{
+  "uuid": "74569db2-aaf4-43c8-8731-19859c6fd327",
+  "first_name": "Josh",
+  "last_name": "Hoffman-Senn",
+  "full_name": "Josh Hoffman-Senn",
+  "linkedin_url": "https://linkedin.com/in/joshhoffmansenn",
+  "emails": [
+    {
+      "email": "jhoffmansenn@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "josh@lsplatform.io",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jmhs@brandeis.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "josh@causemo.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "josh@thembafund.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "josh@mozilla.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 650-903-0800",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Mozilla"
+}

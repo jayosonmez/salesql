@@ -1,0 +1,17 @@
+{
+  "uuid": "fef3bea6-5f22-495e-95b8-915e420c5b4b",
+  "first_name": "Amir",
+  "last_name": "Mashal",
+  "full_name": "Amir Mashal",
+  "linkedin_url": "https://linkedin.com/in/amir-mashal",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 574-252-5662",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Stealth Startup"
+}

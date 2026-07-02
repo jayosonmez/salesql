@@ -1,0 +1,44 @@
+{
+  "uuid": "bba67d2a-6741-41ad-b421-c2bb00b85dc6",
+  "first_name": "Dr. Okan",
+  "last_name": "Erol",
+  "full_name": "Dr. Okan Erol",
+  "linkedin_url": "https://linkedin.com/in/okanerol",
+  "emails": [
+    {
+      "email": "okan@okanerol.net",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "okan@wordego.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr.erol@eurekanetwork.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dr.erol@tubitak.gov.tr",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+90 532 646 98 47",
+      "type": "Personal",
+      "country_code": "TR",
+      "is_valid": true
+    },
+    {
+      "phone": "+1 888-358-4408",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Wordego"
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "e8d392bb-8faf-4a83-8692-1724d49a9cf7",
+  "first_name": "Saar",
+  "last_name": "Gill",
+  "full_name": "Saar Gill",
+  "linkedin_url": "https://linkedin.com/in/saar-gill-09060b9",
+  "emails": [
+    {
+      "email": "saar.gill@carismatx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "saargill@ozemail.com.au",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-789-7366",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Penn Medicine, University of Pennsylvania Health System"
+}

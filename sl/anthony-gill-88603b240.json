@@ -1,0 +1,21 @@
+{
+  "uuid": "ef526cb5-fe4b-4db4-ab1c-4ac071d4db09",
+  "first_name": "Anthony",
+  "last_name": "Gill",
+  "full_name": "Anthony Gill",
+  "linkedin_url": "https://linkedin.com/in/anthony-gill-88603b240",
+  "emails": [
+    {
+      "email": "anthonygill3@proton.me",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "anthony@recruitemporium.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Recruitment Emporium Inc."
+}

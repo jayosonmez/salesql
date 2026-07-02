@@ -1,0 +1,43 @@
+{
+  "uuid": "9ee4282a-46f2-407c-a9b8-dffa50b176e7",
+  "first_name": "Jean-Stéphane",
+  "last_name": "Arcis",
+  "full_name": "Jean-Stéphane Arcis",
+  "linkedin_url": "https://linkedin.com/in/jean-stéphane-arcis-172681",
+  "emails": [
+    {
+      "email": "jarcis@escp.eu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jarcis@talentsoft.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "jsarcis@wanadoo.fr",
+      "type": "Direct",
+      "status": "Valid"
+    },
+    {
+      "email": "jsarcis@talentsoft.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "jsarcis@talent-soft.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+33 1 49 23 20 00",
+      "type": "Work",
+      "country_code": "FR",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "ESCP Business School"
+}

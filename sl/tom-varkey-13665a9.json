@@ -1,0 +1,21 @@
+{
+  "uuid": "d90b9f48-221e-4e1b-8a8b-6a7fc0ad4bd9",
+  "first_name": "Tom",
+  "last_name": "Varkey",
+  "full_name": "Tom Varkey",
+  "linkedin_url": "https://linkedin.com/in/tom-varkey-13665a9",
+  "emails": [
+    {
+      "email": "tom.varkey@fidelity.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "tomvarkey555@hotmail.com",
+      "type": "Direct",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [],
+  "organization_name": "Stonehill Capital Management LLC"
+}

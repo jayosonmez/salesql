@@ -1,0 +1,28 @@
+{
+  "uuid": "c29afcfc-1716-4649-ae6f-f5184e55714a",
+  "first_name": "Serop",
+  "last_name": "Sayadian",
+  "full_name": "Serop Sayadian",
+  "linkedin_url": "https://linkedin.com/in/serop-sayadian-0b9873141",
+  "emails": [
+    {
+      "email": "serop.sayadian@gcu.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "serop.sayadian@phoenixcollege.edu",
+      "type": "Work",
+      "status": "Unverifiable"
+    }
+  ],
+  "phones": [
+    {
+      "phone": "+1 800-800-9776",
+      "type": "Work",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Grand Canyon University"
+}

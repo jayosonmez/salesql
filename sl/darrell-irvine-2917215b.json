@@ -1,0 +1,41 @@
+{
+  "uuid": "01dfc2d0-25e3-4ad8-b9b9-5c4218b304ab",
+  "first_name": "Darrell",
+  "last_name": "Irvine",
+  "full_name": "Darrell Irvine",
+  "linkedin_url": "https://linkedin.com/in/darrell-irvine-2917215b",
+  "emails": [
+    {
+      "email": "irvined@hhmi.org",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darrell.irvine@strandtx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "dirvine@ankyratx.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "darrell.irvine@elicio.com",
+      "type": "Work",
+      "status": "Unverifiable"
+    },
+    {
+      "email": "irvine_d@torquetx.com",
+      "type": "Work",
+      "status": "Valid"
+    },
+    {
+      "email": "llerrad101@gmail.com",
+      "type": "Direct",
+      "status": "Valid"
+    }
+  ],
+  "phones": [],
+  "organization_name": "The Scripps Research Institute"
+}

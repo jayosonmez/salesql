@@ -1,0 +1,17 @@
+{
+  "uuid": "2ab1a1b9-0a79-4498-aa90-b04725075735",
+  "first_name": "Michael",
+  "last_name": "A.",
+  "full_name": "Michael A.",
+  "linkedin_url": "https://linkedin.com/in/michael-a-67442366",
+  "emails": [],
+  "phones": [
+    {
+      "phone": "+1 334-826-5577",
+      "type": "Personal",
+      "country_code": "US",
+      "is_valid": true
+    }
+  ],
+  "organization_name": "Opelika Cardiovascular and Associates, P.C. "
+}
