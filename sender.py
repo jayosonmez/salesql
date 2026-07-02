@@ -264,6 +264,7 @@ def send_via_ses(ses_client, to_email, subject, body_html, from_addr,
         Source=from_addr,
         Destinations=[to_email],
         RawMessage={"Data": msg.as_string()},
+        ConfigurationSetName="metsulin-sending",
     )
     return resp["MessageId"], msg.as_string(), mime_id
 
