@@ -16,6 +16,15 @@
               Total emails across ALL campaigns per day. Individual campaigns also have their own daily_limit.
             </div>
           </div>
+          <div class="mb-4">
+            <label class="form-label">Test Email Addresses</label>
+            <input type="text" name="test_emails" class="form-control"
+                   value="{{ test_emails }}"
+                   placeholder="jay+1@metsulin.com, jay+2@metsulin.com">
+            <div class="form-text">
+              Comma-separated. Used when a campaign is set to <strong>test</strong> status — sends go here instead of real contacts.
+            </div>
+          </div>
           <button type="submit" class="btn btn-primary">Save</button>
           <a href="/" class="btn btn-outline-secondary ms-2">Cancel</a>
         </form>

@@ -406,18 +406,26 @@ def settings():
     conn = get_conn()
     cur  = conn.cursor()
     if request.method == "POST":
-        cur.execute("""
-            INSERT INTO global_config (key, value) VALUES ('max_daily_total', %s)
-            ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value
-        """, (request.form["max_daily_total"],))
+        for key, val in [
+            ("max_daily_total", request.form["max_daily_total"]),
+            ("test_emails",     request.form.get("test_emails", "")),
+        ]:
+            cur.execute("""
+                INSERT INTO global_config (key, value) VALUES (%s, %s)
+                ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value
+            """, (key, val))
         conn.commit()
-        flash("Global daily limit updated.", "success")
+        flash("Settings updated.", "success")
         conn.close()
         return redirect(url_for("dashboard"))
-    cur.execute("SELECT value FROM global_config WHERE key='max_daily_total'")
-    row = cur.fetchone()
+
+    cur.execute("SELECT key, value FROM global_config WHERE key IN ('max_daily_total', 'test_emails')")
+    config = {r["key"]: r["value"] for r in cur.fetchall()}
     conn.close()
-    return render_template("settings.html", max_daily_total=row["value"] if row else 500)
+    return render_template("settings.html",
+        max_daily_total=config.get("max_daily_total", 500),
+        test_emails=config.get("test_emails", ""),
+    )
 
 
 if __name__ == "__main__":

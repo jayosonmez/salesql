@@ -3,11 +3,12 @@ Global email sender — one run per day, called by EventBridge cron at 7am PDT.
 Priority per campaign: follow-ups (step > 1) before new initial sends.
 Respects: global max_daily_total and per-campaign daily_limit.
 
-Usage:
-  python sender.py                    # dry run (no emails sent)
-  python sender.py --send             # live send via SES
+Modes:
+  python sender.py                    # dry run  — no emails sent, DB updated
   python sender.py --send --limit 50  # live send, cap at 50 total this run
-  python sender.py --limit 10         # dry run, cap at 10
+  python sender.py --send             # live send, active campaigns only (cron mode)
+  python sender.py --test             # test mode — sends to test_emails from global_config
+                                      #   (no --limit needed; capped by test email count)
 """
 
 import sys
@@ -23,18 +24,19 @@ from email.mime.text import MIMEText
 
 DATABASE_URL = os.environ.get("DATABASE_URL") or open(".env").read().split("DATABASE_URL=")[1].strip()
 AWS_REGION   = os.environ.get("AWS_REGION", "us-east-2")
-DRY_RUN      = "--send" not in sys.argv
+TEST_MODE    = "--test" in sys.argv
+DRY_RUN      = "--send" not in sys.argv and not TEST_MODE
 
 # Optional per-run cap: --limit N overrides global/campaign limits for this run only.
+# Not needed in test mode — capped automatically by number of test emails.
 _limit_arg = next((sys.argv[i+1] for i, a in enumerate(sys.argv) if a == "--limit" and i+1 < len(sys.argv)), None)
 RUN_LIMIT   = int(_limit_arg) if _limit_arg else None
 
 # Throttle: 0.5s between sends = ~2 emails/sec = 1,000 emails in ~8 min.
-# Well within SES default production rate of 14 emails/sec.
 # Set to 0 in dry-run so tests run fast.
 SEND_DELAY_SECS = 0.0 if DRY_RUN else 0.5
 
-SEND_MARKER = "[DRY RUN]" if DRY_RUN else "[LIVE]"
+SEND_MARKER = "[DRY RUN]" if DRY_RUN else ("[TEST]" if TEST_MODE else "[LIVE]")
 
 # --------------------------------------------------------------------------- #
 #  DB helpers                                                                  #
@@ -73,11 +75,31 @@ def count_campaign_sent_today(conn, campaign_id):
     return cur.fetchone()["n"]
 
 
+def get_test_emails(conn):
+    """Returns list of test email addresses from global_config."""
+    cur = conn.cursor()
+    cur.execute("SELECT value FROM global_config WHERE key = 'test_emails'")
+    row = cur.fetchone()
+    if not row or not row["value"].strip():
+        return []
+    return [e.strip() for e in row["value"].split(",") if e.strip()]
+
+
 def get_active_campaigns(conn):
     cur = conn.cursor()
     cur.execute("""
         SELECT id, name, daily_limit, from_name, from_email, reply_to, gmail_label
         FROM campaigns WHERE status = 'active'
+        ORDER BY id
+    """)
+    return cur.fetchall()
+
+
+def get_test_campaigns(conn):
+    cur = conn.cursor()
+    cur.execute("""
+        SELECT id, name, daily_limit, from_name, from_email, reply_to, gmail_label
+        FROM campaigns WHERE status = 'test'
         ORDER BY id
     """)
     return cur.fetchall()
@@ -314,6 +336,43 @@ def record_send(conn, campaign_id, enrollment, step,
 
 
 # --------------------------------------------------------------------------- #
+#  Test send loop — sends step 1 of each test campaign to test_emails          #
+# --------------------------------------------------------------------------- #
+
+def run_test(conn, ses, campaigns, test_emails):
+    for campaign in campaigns:
+        cid       = campaign["id"]
+        cname     = campaign["name"]
+        from_name  = campaign.get("from_name") or "Jay Sonmez"
+        from_email = campaign.get("from_email") or "jay@metsulin.com"
+        from_addr  = f"{from_name} <{from_email}>" if from_name else from_email
+        reply_to   = campaign.get("reply_to")
+
+        step = get_step(conn, cid, 1)
+        if not step:
+            print(f"[TEST] Campaign '{cname}' has no step 1 — skipping.")
+            continue
+
+        print(f"\n[TEST] Campaign: {cname}")
+        for email in test_emails:
+            fake_contact = {
+                "first_name": email.split("@")[0],
+                "last_name":  "",
+                "company":    "Test Co",
+            }
+            subject = render(step["subject"],       fake_contact)
+            body    = render(step["body_template"], fake_contact)
+
+            print(f"  [TEST] -> {email}: {subject}")
+
+            ses_id, raw, mime_id = send_via_ses(
+                ses, email, subject, body, from_addr, reply_to
+            )
+            print(f"    ✓ sent (SES id: {ses_id})")
+            time.sleep(SEND_DELAY_SECS)
+
+
+# --------------------------------------------------------------------------- #
 #  Main send loop                                                               #
 # --------------------------------------------------------------------------- #
 
@@ -321,6 +380,28 @@ def run():
     conn = psycopg2.connect(DATABASE_URL, cursor_factory=RealDictCursor)
     ses  = None if DRY_RUN else boto3.client("ses", region_name=AWS_REGION)
 
+    # ------------------------------------------------------------------- #
+    #  Test mode: send campaign steps to test_emails from global_config    #
+    # ------------------------------------------------------------------- #
+    if TEST_MODE:
+        test_emails = get_test_emails(conn)
+        if not test_emails:
+            print("TEST MODE: No test_emails configured in Settings. Add them and try again.")
+            conn.close()
+            return
+        campaigns = get_test_campaigns(conn)
+        if not campaigns:
+            print("TEST MODE: No campaigns with status='test' found.")
+            conn.close()
+            return
+        print(f"[TEST] Running test mode for {len(campaigns)} campaign(s) → {test_emails}")
+        run_test(conn, ses, campaigns, test_emails)
+        conn.close()
+        return
+
+    # ------------------------------------------------------------------- #
+    #  Live / dry-run mode                                                 #
+    # ------------------------------------------------------------------- #
     if not DRY_RUN and RUN_LIMIT is None:
         print("WARNING: --limit N is required for live sends. Example: python sender.py --send --limit 50")
         conn.close()
