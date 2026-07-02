@@ -191,7 +191,11 @@ def process_history(service, conn, label_id, history_id):
     for record in history_records:
         for item in record.get("messagesAdded", []):
             msg_id = item["message"]["id"]
-            gmail_msg, headers = get_message_headers(service, msg_id)
+            try:
+                gmail_msg, headers = get_message_headers(service, msg_id)
+            except Exception as e:
+                print(f"  Skipping message {msg_id}: {e}")
+                continue
             sender = extract_sender_email(headers.get("From", ""))
 
             if sender in our_addresses:
