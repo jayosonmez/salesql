@@ -221,6 +221,9 @@ def render(template, contact):
         ("{{company}}",    co),
     ]:
         out = out.replace(placeholder, value)
+    # Convert plain-text newlines to HTML line breaks if template is not already HTML
+    if "<" not in out:
+        out = out.replace("\n", "<br>")
     return out
 
 
