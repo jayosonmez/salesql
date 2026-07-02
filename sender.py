@@ -4,11 +4,13 @@ Priority per campaign: follow-ups (step > 1) before new initial sends.
 Respects: global max_daily_total and per-campaign daily_limit.
 
 Modes:
-  python sender.py                    # dry run  — no emails sent, DB updated
-  python sender.py --send --limit 50  # live send, cap at 50 total this run
-  python sender.py --send             # live send, active campaigns only (cron mode)
-  python sender.py --test             # test mode — sends to test_emails from global_config
-                                      #   (no --limit needed; capped by test email count)
+  python sender.py                          # dry run  — no emails sent, DB updated
+  python sender.py --send --limit 50        # live send, cap at 50 total this run
+  python sender.py --send                   # live send, active campaigns only (cron mode)
+  python sender.py --test                   # test mode — sends to test_emails from global_config
+  python sender.py --test --to jay+1@...    # test mode, single address only
+  python sender.py --test --advance         # skip wait_days, set next_send_at=NOW() for test enrollments
+                                            # then send due follow-ups immediately
 """
 
 import sys
@@ -31,6 +33,13 @@ DRY_RUN      = "--send" not in sys.argv and not TEST_MODE
 # Not needed in test mode — capped automatically by number of test emails.
 _limit_arg = next((sys.argv[i+1] for i, a in enumerate(sys.argv) if a == "--limit" and i+1 < len(sys.argv)), None)
 RUN_LIMIT   = int(_limit_arg) if _limit_arg else None
+
+# --to email@example.com  restricts test mode to a single address
+_to_arg  = next((sys.argv[i+1] for i, a in enumerate(sys.argv) if a == "--to" and i+1 < len(sys.argv)), None)
+TEST_TO  = _to_arg
+
+# --advance  skips wait_days for test enrollments so follow-ups send immediately
+ADVANCE  = "--advance" in sys.argv
 
 # Throttle: 0.5s between sends = ~2 emails/sec = 1,000 emails in ~8 min.
 # Set to 0 in dry-run so tests run fast.
@@ -340,34 +349,110 @@ def record_send(conn, campaign_id, enrollment, step,
 # --------------------------------------------------------------------------- #
 
 def run_test(conn, ses, campaigns, test_emails):
+    cur = conn.cursor()
+
     for campaign in campaigns:
-        cid       = campaign["id"]
-        cname     = campaign["name"]
+        cid        = campaign["id"]
+        cname      = campaign["name"]
         from_name  = campaign.get("from_name") or "Jay Sonmez"
         from_email = campaign.get("from_email") or "jay@metsulin.com"
         from_addr  = f"{from_name} <{from_email}>" if from_name else from_email
         reply_to   = campaign.get("reply_to")
 
+        print(f"\n[TEST] Campaign: {cname}")
+
+        # --advance: set next_send_at=NOW() for any pending follow-ups for test emails
+        if ADVANCE:
+            cur.execute("""
+                UPDATE campaign_enrollments
+                SET next_send_at = NOW()
+                WHERE campaign_id = %s
+                  AND email = ANY(%s)
+                  AND status = 'active'
+                  AND current_step > 1
+            """, (cid, test_emails))
+            conn.commit()
+            print(f"  [ADVANCE] next_send_at set to NOW() for pending follow-ups")
+
+        # Check for due follow-ups first (step > 1)
+        cur.execute("""
+            SELECT id AS enrollment_id, email, current_step
+            FROM campaign_enrollments
+            WHERE campaign_id = %s
+              AND email = ANY(%s)
+              AND status = 'active'
+              AND current_step > 1
+              AND next_send_at <= NOW()
+            ORDER BY current_step
+        """, (cid, test_emails))
+        followups = cur.fetchall()
+
+        for enrollment in followups:
+            email = enrollment["email"]
+            step  = get_step(conn, cid, enrollment["current_step"])
+            if not step:
+                continue
+
+            prev = get_previous_send(conn, enrollment["enrollment_id"],
+                                     enrollment["current_step"] - 1)
+            in_reply_to = prev["mime_message_id"] if prev else None
+            quoted_block = ""
+            prev_subject = ""
+            if prev and prev["raw_email"]:
+                parsed = email_lib.message_from_string(prev["raw_email"])
+                prev_subject = parsed.get("Subject", "")
+                quoted_block = build_quoted_block(prev["raw_email"], from_addr, prev["sent_at"])
+
+            subject = render(step["subject"], {"first_name": email.split("@")[0], "last_name": "", "company": "Test Co"})
+            if not subject.lower().startswith("re:"):
+                subject = f"Re: {prev_subject}" if prev_subject else subject
+            body = render(step["body_template"], {"first_name": email.split("@")[0], "last_name": "", "company": "Test Co"}) + quoted_block
+
+            print(f"  [TEST] FU step{step['step_num']} -> {email}: {subject}")
+            ses_id, raw, mime_id = send_via_ses(ses, email, subject, body, from_addr, reply_to,
+                                                 in_reply_to=in_reply_to, references=in_reply_to)
+            record_send(conn, cid, enrollment, step, ses_id, raw, mime_id)
+            print(f"    ✓ sent (SES id: {ses_id})")
+            time.sleep(SEND_DELAY_SECS)
+
+        if followups:
+            return  # sent follow-ups — don't send step 1 again
+
+        # No follow-ups — send step 1 to test emails not yet enrolled
         step = get_step(conn, cid, 1)
         if not step:
-            print(f"[TEST] Campaign '{cname}' has no step 1 — skipping.")
+            print(f"  [TEST] No step 1 defined — skipping.")
             continue
 
-        print(f"\n[TEST] Campaign: {cname}")
         for email in test_emails:
-            fake_contact = {
-                "first_name": email.split("@")[0],
-                "last_name":  "",
-                "company":    "Test Co",
-            }
+            # Check if already enrolled
+            cur.execute("""
+                SELECT id FROM campaign_enrollments
+                WHERE campaign_id = %s AND email = %s
+            """, (cid, email))
+            existing = cur.fetchone()
+
+            if existing:
+                print(f"  [TEST] {email} already enrolled — use --advance to trigger follow-up")
+                continue
+
+            # Enroll and send step 1
+            cur.execute("""
+                INSERT INTO campaign_enrollments (campaign_id, email, enrolled_at, current_step, status)
+                VALUES (%s, %s, NOW(), 1, 'active')
+                RETURNING id
+            """, (cid, email))
+            enrollment_id = cur.fetchone()["id"]
+            conn.commit()
+
+            fake_contact = {"first_name": email.split("@")[0], "last_name": "", "company": "Test Co"}
             subject = render(step["subject"],       fake_contact)
             body    = render(step["body_template"], fake_contact)
 
-            print(f"  [TEST] -> {email}: {subject}")
-
-            ses_id, raw, mime_id = send_via_ses(
-                ses, email, subject, body, from_addr, reply_to
-            )
+            enrollment = {"enrollment_id": enrollment_id, "email": email, "current_step": 1}
+            print(f"  [TEST] NEW step1 -> {email}: {subject}")
+            ses_id, raw, mime_id = send_via_ses(ses, email, subject, body, from_addr, reply_to)
+            record_send(conn, cid, enrollment, step, ses_id, raw, mime_id)
             print(f"    ✓ sent (SES id: {ses_id})")
             time.sleep(SEND_DELAY_SECS)
 
@@ -394,6 +479,12 @@ def run():
             print("TEST MODE: No campaigns with status='test' found.")
             conn.close()
             return
+        if TEST_TO:
+            if TEST_TO not in test_emails:
+                print(f"TEST MODE: {TEST_TO} is not in configured test_emails.")
+                conn.close()
+                return
+            test_emails = [TEST_TO]
         print(f"[TEST] Running test mode for {len(campaigns)} campaign(s) → {test_emails}")
         run_test(conn, ses, campaigns, test_emails)
         conn.close()
