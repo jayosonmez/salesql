@@ -4,9 +4,11 @@ Run: python app.py
 """
 
 from flask import Flask, render_template, request, redirect, url_for, flash
+import os
 import psycopg2
 from psycopg2.extras import RealDictCursor
 from datetime import datetime, timedelta, timezone
+import boto3
 
 DATABASE_URL = open(".env").read().split("DATABASE_URL=")[1].strip()
 
@@ -24,6 +26,47 @@ def get_conn():
 def today_filter():
     """SQL fragment: filter sent_at to today in PDT."""
     return "(sent_at AT TIME ZONE 'America/Los_Angeles')::DATE = (NOW() AT TIME ZONE 'America/Los_Angeles')::DATE"
+
+
+def get_ses_reputation():
+    """Fetch bounce and complaint rates from CloudWatch SES metrics."""
+    try:
+        cw = boto3.client("cloudwatch", region_name="us-east-2")
+        end   = datetime.now(timezone.utc)
+        start = end - timedelta(days=14)
+
+        def get_rate(metric_name):
+            resp = cw.get_metric_statistics(
+                Namespace="AWS/SES",
+                MetricName=metric_name,
+                StartTime=start,
+                EndTime=end,
+                Period=86400 * 14,
+                Statistics=["Average"],
+            )
+            points = resp.get("Datapoints", [])
+            return round(points[0]["Average"] * 100, 3) if points else 0.0
+
+        def get_count(metric_name):
+            resp = cw.get_metric_statistics(
+                Namespace="AWS/SES",
+                MetricName=metric_name,
+                StartTime=start,
+                EndTime=end,
+                Period=86400 * 14,
+                Statistics=["Sum"],
+            )
+            points = resp.get("Datapoints", [])
+            return int(points[0]["Sum"]) if points else 0
+
+        return {
+            "bounce_rate":      get_rate("Reputation.BounceRate"),
+            "complaint_rate":   get_rate("Reputation.ComplaintRate"),
+            "bounce_count":     get_count("Bounce"),
+            "complaint_count":  get_count("Complaint"),
+        }
+    except Exception:
+        return {"bounce_rate": None, "complaint_rate": None}
 
 
 # --------------------------------------------------------------------------- #
@@ -98,6 +141,7 @@ def dashboard():
     upcoming_followups = cur.fetchall()
 
     conn.close()
+    reputation = get_ses_reputation()
     return render_template("dashboard.html",
         global_limit=global_limit,
         global_sent=global_sent,
@@ -106,6 +150,10 @@ def dashboard():
         active_campaigns=active_count,
         campaign_rows=campaign_rows,
         upcoming_followups=upcoming_followups,
+        bounce_rate=reputation["bounce_rate"],
+        complaint_rate=reputation["complaint_rate"],
+        bounce_count=reputation["bounce_count"],
+        complaint_count=reputation["complaint_count"],
     )
 
 
@@ -395,6 +443,38 @@ def enroll(campaign_id):
         q=q,
         source=source,
     )
+
+
+# --------------------------------------------------------------------------- #
+#  Unsubscribe                                                                  #
+# --------------------------------------------------------------------------- #
+
+UNSUBSCRIBE_SECRET = os.environ.get("UNSUBSCRIBE_SECRET", "metsulin-unsub-secret-2026")
+
+@app.route("/unsubscribe", methods=["GET", "POST"])
+def unsubscribe():
+    import hmac, hashlib
+    email = request.args.get("email", "").strip().lower()
+    token = request.args.get("token", "")
+    expected = hmac.new(UNSUBSCRIBE_SECRET.encode(), email.encode(), hashlib.sha256).hexdigest()
+    if not email or not hmac.compare_digest(token, expected):
+        return "Invalid unsubscribe link.", 400
+
+    conn = get_conn()
+    cur  = conn.cursor()
+    cur.execute("""
+        INSERT INTO ses_suppression (email, reason, suppressed_at, source)
+        VALUES (%s, 'UNSUBSCRIBE', NOW(), 'unsubscribe-link')
+        ON CONFLICT (email) DO UPDATE SET reason='UNSUBSCRIBE', suppressed_at=NOW(), source='unsubscribe-link'
+    """, (email,))
+    conn.commit()
+    conn.close()
+    return f"""
+    <html><body style="font-family:sans-serif;max-width:480px;margin:80px auto;text-align:center;">
+      <h2>You've been unsubscribed</h2>
+      <p>{email} has been removed from our mailing list.<br>You will not receive any further emails from us.</p>
+    </body></html>
+    """
 
 
 # --------------------------------------------------------------------------- #

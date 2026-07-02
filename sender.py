@@ -17,6 +17,8 @@ import sys
 import os
 import time
 import uuid
+import hmac
+import hashlib
 import email as email_lib
 import boto3
 import psycopg2
@@ -24,8 +26,10 @@ from psycopg2.extras import RealDictCursor
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-DATABASE_URL = os.environ.get("DATABASE_URL") or open(".env").read().split("DATABASE_URL=")[1].strip()
-AWS_REGION   = os.environ.get("AWS_REGION", "us-east-2")
+DATABASE_URL       = os.environ.get("DATABASE_URL") or open(".env").read().split("DATABASE_URL=")[1].strip()
+AWS_REGION         = os.environ.get("AWS_REGION", "us-east-2")
+UNSUBSCRIBE_BASE   = os.environ.get("UNSUBSCRIBE_BASE", "http://localhost:5000")
+UNSUBSCRIBE_SECRET = os.environ.get("UNSUBSCRIBE_SECRET", "metsulin-unsub-secret-2026")
 TEST_MODE    = "--test" in sys.argv
 DRY_RUN      = "--send" not in sys.argv and not TEST_MODE
 
@@ -211,6 +215,21 @@ def get_new_enrollments(conn, campaign_id, limit):
 #  Template rendering                                                           #
 # --------------------------------------------------------------------------- #
 
+def make_unsubscribe_url(email):
+    token = hmac.new(UNSUBSCRIBE_SECRET.encode(), email.lower().encode(), hashlib.sha256).hexdigest()
+    return f"{UNSUBSCRIBE_BASE}/unsubscribe?email={email}&token={token}"
+
+
+def unsubscribe_footer(email):
+    url = make_unsubscribe_url(email)
+    return (
+        f'<br><br><hr style="border:none;border-top:1px solid #eee;margin:24px 0;">'
+        f'<p style="font-size:11px;color:#999;text-align:center;">'
+        f'You received this email because you are a potential investor or partner. '
+        f'<a href="{url}" style="color:#999;">Unsubscribe</a></p>'
+    )
+
+
 def render(template, contact):
     first = (contact.get("first_name") or "").strip() or "there"
     last  = (contact.get("last_name")  or "").strip()
@@ -227,6 +246,10 @@ def render(template, contact):
     # Convert plain-text newlines to HTML line breaks if template is not already HTML
     if "<" not in out:
         out = out.replace("\n", "<br>")
+    # Append unsubscribe footer
+    email = contact.get("email", "")
+    if email:
+        out += unsubscribe_footer(email)
     return out
 
 
@@ -287,6 +310,10 @@ def build_mime(to_email, subject, body_html, from_addr,
     if in_reply_to:
         msg["In-Reply-To"] = in_reply_to
         msg["References"]  = references or in_reply_to
+    # One-click unsubscribe headers (required by Gmail for bulk senders)
+    unsub_url = make_unsubscribe_url(to_email)
+    msg["List-Unsubscribe"]      = f"<{unsub_url}>"
+    msg["List-Unsubscribe-Post"] = "List-Unsubscribe=One-Click"
     msg.attach(MIMEText(body_html, "html"))
     return msg
 
@@ -380,7 +407,7 @@ def run_test(conn, ses, campaigns, test_emails):
         if ADVANCE:
             cur.execute("""
                 UPDATE campaign_enrollments
-                SET next_send_at = NOW()
+                SET next_send_at = NOW() - INTERVAL '1 second'
                 WHERE campaign_id = %s
                   AND email = ANY(%s)
                   AND status = 'active'
